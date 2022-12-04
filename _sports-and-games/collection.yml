@@ -2,5 +2,6 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Table Tennis.md
       - Basketball.md
       - Soccer.md
