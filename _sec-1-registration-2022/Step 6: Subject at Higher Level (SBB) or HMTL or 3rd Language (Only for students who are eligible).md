@@ -33,7 +33,7 @@ Notifications will be send to Parents Gateway if your child is eligible for HMTL
 For the outcome of the 3rd language application, please refer to the notification in the Parents Gateway.
 <br><br><br>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sec-1-registration-2022/step5/">
 <img style="width:40%" align=left src="/images/photo1670138779.jpeg">
 </a></p>
 
