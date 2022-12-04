@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Unity Students Portal.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2022 Student Handbook & Target Setting.md
@@ -46,3 +45,4 @@ collections:
       - Clubs and Societies/Environmental Science.md
       - Clubs and Societies/Uniq Artists.md
       - Structure of Unity Council.md
+      - Unity Students Portal.md
