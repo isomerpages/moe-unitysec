@@ -98,3 +98,31 @@ Learning is focused on real-life scenarios, taking place in authentic situations
 
 *   Annual MEC Competition
 *   Teaching the animation software “Scratch” such that students learn to create interactive stories, games, music and art
+
+#### Elements of Business Skills (EBS)
+
+<u>**Elements of Business Skills (EBS)**</u><br>
+The syllabus aims to equip students with the basic knowledge, skills and values relevant for the new developments in the services sector. The focus is on the development of a range of knowledge and core skills in business and enterprise with particular emphasis on retail, tourism, and hospitality industries.
+
+In addition, the syllabus infuses economic and financial literacy in the general understanding of the business environment and for personal effectiveness. The syllabus also provides opportunities for students to develop social-emotional competencies in social awareness, relationship management and decision-making.
+
+**Pedagogies & Modes of Instruction**<br>
+The constructivist and direct instruction approaches are commonly used for the teaching and learning of EBS.
+
+_Constructivist Approach_<br>
+The constructivist approach to learning is an approach where teachers double up as facilitators and take students through experiential learning. Various strategies are used to provide a stimulating environment for creating awareness and learning. The pedagogies include:
+
+*   Role play
+*   Using video clips as scenarios
+*   Cooperative learning strategies
+*   Learning Journeys
+*   Amazing Race, games, quizzes
+*   ICT-infused games, online quizzes, self-directed learning
+
+_Direct Instruction_<br>
+This approach is about explicit teaching. Teachers introduce, explain and demonstrate new concepts and skills. Direct instruction is most effective when students are told what they will be learning and what they are expected to be able to do. This helps them to focus on the learning goals. Teachers draw connections, pose questions, emphasise key concepts, and role-model the thinking processes. Holding students’ attention is critical. Stimuli such as videos, images, real case scenarios, and even humour aid in sustaining students’ attention during lessons.
+
+**Key Programmes & Activities**
+
+*   Entrepreneurship Challenge
+*   Work Experience Programme(WEP) at Four Seasons Hotel during Singapore F1 Grand Prix
