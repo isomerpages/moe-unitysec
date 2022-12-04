@@ -90,43 +90,21 @@ third_nav_title: Organisation Chart
 | Mr Abdul Rahman B Ali | [abdul\_rahman\_b\_ali@schools.gov.sg](mailto:abdul_rahman_b_ali@schools.gov.sg) |
 | Mdm Chen Bi Qing | [chen\_bi\_qing@schools.gov.sg](mailto:chen_bi_qing@schools.gov.sg) |
 | Mdm Yue Qun | [yue\_qun@schools.gov.sg](mailto:yue_qun@schools.gov.sg) |
-| Mdm Jin Beihua | [jin\_beihua@schools.gov.sg](https://unitysec-moe-edu-sg-admin.cwp.sg/our-people/organisation-chart/jin_beihua@schools.gov.sg) |
-| Mdm Fadilah Bte Mohamed |  |
-| Ms Leow Shu Fen |  |
-| Mdm Zhou Yongping |  |
-| Mdm Li Xu |  |
-| Mr Arab Hussain Jagur Hussain |  |
-| Mdm Qu Ruokun |  |
-| Mrs Mangaiyarkarasi Ganesh Kumar |  |
-| Ms Fairuz Bte Mohd Padin |  |
-| Ms Fatin Farahlyana Binte Mohamad Hasidi |  |
+| Mdm Jin Beihua | [jin\_beihua@schools.gov.sg](mailto:jin_beihua@schools.gov.sg) |
+| Mdm Fadilah Bte Mohamed | [fadilah\_mohamed@schools.gov.sg](mailto:fadilah_mohamed@schools.gov.sg) |
+| Ms Leow Shu Fen | [leow\_shu\_fen@schools.gov.sg](mailto:leow_shu_fen@schools.gov.sg) |
+| Mdm Zhou Yongping | [zhou\_yongping@schools.gov.sg](mailto:zhou_yongping@schools.gov.sg) |
+| Mdm Li Xu | [li\_xu@schools.gov.sg](mailto:li_xu@schools.gov.sg) |
+| Mr Arab Hussain Jagur Hussain | [arab\_hussain\_jagur\_hussain@schools.gov.sg](mailto:arab_hussain_jagur_hussain@schools.gov.sg) |
+| Mdm Qu Ruokun | [qu\_ruokun@schools.gov.sg](mailto:qu_ruokun@schools.gov.sg) |
+| Mrs Mangaiyarkarasi Ganesh Kumar | [mangaiyarkarasi\_ganesh\_kumar@schools.gov.sg](mailto:mangaiyarkarasi_ganesh_kumar@schools.gov.sg) |
+| Ms Fairuz Bte Mohd Padin | [fairuz\_mohd\_padin@schools.gov.sg](mailto:fairuz_mohd_padin@schools.gov.sg) |
+| Ms Fatin Farahlyana Binte Mohamad Hasidi | [fatin\_farahlyana\_mohamad\_hasidi@schools.gov.sg](mailto:fatin_farahlyana_mohamad_hasidi@schools.gov.sg) |
 |  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| **PE Department** |  |
+| Mr Low Yee Fun | [low\_yee\_fun@schools.gov.sg](mailto:low_yee_fun@schools.gov.sg) |
+| Ms Hana Cheong Tsui Ying | [cheong\_tsui\_ying\_hana@schools.gov.sg](mailto:cheong_tsui_ying_hana@schools.gov.sg) |
+| Mr Teng Han Yong | [teng\_han\_yong@schools.gov.sg](mailto:teng_han_yong@schools.gov.sg) |
+| Mr Toh Yong Yuan | [toh\_yong\_yuan@schools.gov.sg](mailto:toh_yong_yuan@schools.gov.sg) |
+| Mr Hon Tin Hong | [hon\_tin\_hong@schools.gov.sg](mailto:hon_tin_hong@schools.gov.sg) |
 |  |  |
