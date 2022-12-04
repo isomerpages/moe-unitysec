@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Clubs and Societies/Environmental Science.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Library Club.md
       - Clubs and Societies/Uniq Productions.md
