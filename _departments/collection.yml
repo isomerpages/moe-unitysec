@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Demo/.keep
-      - Departments.md
