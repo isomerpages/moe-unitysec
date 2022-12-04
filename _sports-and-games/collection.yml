@@ -2,4 +2,5 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Soccer.md
       - Basketball.md
