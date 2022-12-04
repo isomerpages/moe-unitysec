@@ -2,10 +2,6 @@ collections:
   students:
     output: true
     order:
-      - CCA/.keep
-      - CCA/CCA.md
-      - CCA/CCA POLICY  LEAPS 2, 0.md
-      - CCA/CCA Training Days and Venues.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2022 Student Handbook & Target Setting.md
@@ -21,3 +17,7 @@ collections:
       - Students' Resources/Student Learning Space (SLS).md
       - Students' Resources/Referral for school counselling.md
       - Students' Resources/Useful Links for Students.md
+      - CCA/.keep
+      - CCA/CCA.md
+      - CCA/CCA POLICY  LEAPS 2, 0.md
+      - CCA/CCA Training Days and Venues.md
