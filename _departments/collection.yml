@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Departments.md
+      - Craft & Tech Department/Events.md
       - Craft & Tech Department/Information.md
       - Craft & Tech Department/.keep
