@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - English Language Department/.keep
-      - English Language Department/Information.md
-      - English Language Department/Events.md
       - Departments.md
       - Craft & Tech Department/.keep
       - Craft & Tech Department/Information.md
       - Craft & Tech Department/Events.md
+      - English Language Department/.keep
+      - English Language Department/Information.md
+      - English Language Department/Events.md
