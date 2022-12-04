@@ -56,5 +56,40 @@ third_nav_title: CCA
 
 #### Performing Arts
 
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%; margin-right:15px;" align=left src="/images/pa_indian_orch_tn.jpg">
+</a></p>
 
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%; margin-right:15px; " align=left src="/images/pa_band_tn.jpg">
+</a></p>
 
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%; margin-right:15px;" align=left src="/images/pa_dance_tn.jpg">
+</a></p><br clear=left>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%; margin-right:15px; " align=left src="/images/pa_choir_tn.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%; margin-right:15px;" align=left src="/images/pa_drama_tn.jpg">
+</a></p><br clear=left>
+
+#### Clubs and Societies
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%; margin-right:15px;" align=left src="/images/pa_indian_orch_tn.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%; margin-right:15px; " align=left src="/images/pa_band_tn.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%; margin-right:15px;" align=left src="/images/pa_dance_tn.jpg">
+</a></p><br clear=left>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%; margin-right:15px;" align=left src="/images/pa_indian_orch_tn.jpg">
+</a></p>
