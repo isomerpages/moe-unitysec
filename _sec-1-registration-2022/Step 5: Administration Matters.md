@@ -77,6 +77,6 @@ While Secondary One Students are waiting for their Secondary level SSCs to be re
 <img style="width:40%" align=left src="/images/photo1670137483.jpeg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sec-1-registration-2022/step6/">
 <img style="width:60%" align=right src="/images/photo1670137491.jpeg">
 </a></p>
