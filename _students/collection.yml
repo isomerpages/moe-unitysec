@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Students' Resources/Unity Sec IP Page.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2022 Student Handbook & Target Setting.md
@@ -10,3 +9,4 @@ collections:
       - Students' Resources/2022 Class Timetable.md
       - Students' Resources/2022 Calendar of Events.md
       - Students' Resources/2023 Book and Stationery Lists.md
+      - Students' Resources/Unity Sec IP Page.md
