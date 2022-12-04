@@ -2,4 +2,5 @@ collections:
   students:
     output: true
     order:
+      - Students' Resources/Students' Resources.md
       - Students' Resources/.keep
