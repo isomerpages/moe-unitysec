@@ -34,23 +34,23 @@ third_nav_title: CCA
 
 #### Uniformed Groups
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/students/Uniformed-Groups/bb/">
 <img style="width:25%; margin-right:15px;" align=left src="/images/ug_boys_brigade_tn.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/students/Uniformed-Groups/gb/">
 <img style="width:25%; margin-right:15px; " align=left src="/images/ug_girls_brigade_tn.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/students/Uniformed-Groups/ncc/">
 <img style="width:25%; margin-right:15px;" align=left src="/images/ug_ncc_air_tn.jpg">
 </a></p><br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/students/Uniformed-Groups/npcc/">
 <img style="width:25%; margin-right:15px; " align=left src="/images/ug_npcc_tn.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/students/Uniformed-Groups/scouts/">
 <img style="width:25%; margin-right:15px;" align=left src="/images/ug_scouts_tn.jpg">
 </a></p><br clear=left>
 
