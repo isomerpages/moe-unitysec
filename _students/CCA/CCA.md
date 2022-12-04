@@ -8,27 +8,27 @@ third_nav_title: CCA
 
 #### Sports and Games
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sports-and-games/bball/">
 <img style="width:25%; margin-right:15px;" align=left src="/images/sports_bball_boys_tn.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sports-and-games/bball/">
 <img style="width:25%; margin-right:15px; " align=left src="/images/sports_bball_girls_tn.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sports-and-games/soccer/">
 <img style="width:25%; margin-right:15px;" align=left src="/images/soccer_tn.jpg">
 </a></p><br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sports-and-games/tt/">
 <img style="width:25%; margin-right:15px;" align=left src="/images/table_tennis_tn.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/students/Sports-and-Games/tnf/">
 <img style="width:25%; margin-right:15px; " align=left src="/images/track_n_field_tn.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/students/Sports-and-Games/vg/">
 <img style="width:25%; margin-right:15px;" align=left src="/images/volleyball_tn.jpg">
 </a></p><br clear=left>
 
