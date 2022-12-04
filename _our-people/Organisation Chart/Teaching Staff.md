@@ -82,6 +82,26 @@ third_nav_title: Organisation Chart
 | Ms Liang Yen Shan | [liang\_yen\_shan@schools.gov.sg](mailto:liang_yen_shan@schools.gov.sg) |
 | Ms Sabrina Binte Jumadi | [sabrina\_bte\_jumadi@schools.gov.sg](mailto:sabrina_bte_jumadi@schools.gov.sg) |
 |  |  |
+| **Mother Tongue Department** |  |
+| Ms Chong Shur Chin | [chong\_shur\_chin@schools.gov.sg](mailto:chong_shur_chin@schools.gov.sg) |
+| Ms Ng Pin Leng | [ng\_pin\_leng@schools.gov.sg](mailto:ng_pin_leng@schools.gov.sg) |
+| Mdm Rashidah Binte Mohamad Yaakob | [rashidah\_mohamad\_yaakob@schools.gov.sg](mailto:rashidah_mohamad_yaakob@schools.gov.sg) |
+| Mr Jaya Kumar | [jaya\_kumar@schools.gov.sg](mailto:jaya_kumar@schools.gov.sg) |
+| Mr Abdul Rahman B Ali | [abdul\_rahman\_b\_ali@schools.gov.sg](mailto:abdul_rahman_b_ali@schools.gov.sg) |
+| Mdm Chen Bi Qing | [chen\_bi\_qing@schools.gov.sg](mailto:chen_bi_qing@schools.gov.sg) |
+| Mdm Yue Qun | [yue\_qun@schools.gov.sg](mailto:yue_qun@schools.gov.sg) |
+| Mdm Jin Beihua | [jin\_beihua@schools.gov.sg](https://unitysec-moe-edu-sg-admin.cwp.sg/our-people/organisation-chart/jin_beihua@schools.gov.sg) |
+| Mdm Fadilah Bte Mohamed |  |
+| Ms Leow Shu Fen |  |
+| Mdm Zhou Yongping |  |
+| Mdm Li Xu |  |
+| Mr Arab Hussain Jagur Hussain |  |
+| Mdm Qu Ruokun |  |
+| Mrs Mangaiyarkarasi Ganesh Kumar |  |
+| Ms Fairuz Bte Mohd Padin |  |
+| Ms Fatin Farahlyana Binte Mohamad Hasidi |  |
+|  |  |
+|  |  |
 |  |  |
 |  |  |
 |  |  |
