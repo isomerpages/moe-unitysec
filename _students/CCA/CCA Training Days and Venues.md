@@ -28,7 +28,7 @@ third_nav_title: CCA
 | 1 | Basketball Boys | Monday: 2.30-5.30pm<br>Wednesday: 2.30-5.30pm<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | C-401, C-402<br>Sheltered Court / Indoor Sports Hall |
 | 2 | Basketball Girls | Monday: 3-5.30pm<br>Wednesday: 3-5.30pm<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | C-403, C-404<br>Mon - Indoor Sports Hall, Wed - SBC, Fri - Alternate ISH & SBC |
 | 3 | Track & Field | Monday: 4.15pm-6.15pm<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | B-403, B-404<br>School field / Choa Chu Kang Stadium |
-| 4 |  |  |  |
-| 5 |  |  |  |
-| 6 |  |  |  |
+| 4 | Table Tennis | Monday: 2.30pm-4.30pm<br>(For school team to prepare for competition)<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | C-301, C302, C303, C304<br>School Hall |
+| 5 | Volleyball Girls | Wednesday" 2.30pm-5.30pm<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson)<br>Friday: 1pm-3.30pm | C-201, C202<br>School Hall / Outdoor Court |
+| 6 | Football | Wednesday: 2.30-5.30pm<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | C-203, C204<br>School Field |
 |  |  |  |  |
