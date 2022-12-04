@@ -62,7 +62,7 @@ LEAPS 2.0 is a framework to recognise secondary school students’ holistic deve
 Please click [**here**](https://unitysec.moe.edu.sg/our-people/students/cca/cca-policy-leaps-2-0)**link isomer** to learn more about LEAPS 2.0.
 <br><br><br>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sec-1-registration-2022/step2/">
 <img style="width:40%" align=left src="/images/photo1670136258.jpeg">
 </a></p>
 
