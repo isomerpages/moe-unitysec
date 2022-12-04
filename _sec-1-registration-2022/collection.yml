@@ -2,8 +2,8 @@ collections:
   sec-1-registration-2022:
     output: true
     order:
-      - "Step 4: Preparing for School.md"
       - Information for Sec 1 Registration.md
       - "Step 1: Our School.md"
       - "Step 2: Online Registration.md"
       - "Step 3: Sec 1 Orientation (4 – 7 January 2022).md"
+      - "Step 4: Preparing for School.md"
