@@ -37,6 +37,6 @@ For the outcome of the 3rd language application, please refer to the notificati
 <img style="width:40%" align=left src="/images/photo1670138779.jpeg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sec-1-registration-2022/step7/">
 <img style="width:40%" align=right src="/images/photo1670138785.jpeg">
 </a></p>
