@@ -2,3 +2,12 @@ logo: /images/isomer-logo.svg
 links:
   - title: Sec 1 Registration 2022
     collection: sec-1-registration-2022
+  - title: Our People
+    url: /permalink
+    sublinks:
+      - title: Organisation Chart
+        url: /permalink
+      - title: Departments
+        url: /permalink
+      - title: Students
+        url: /permalink
