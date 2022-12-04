@@ -34,7 +34,7 @@ Problem-Based Learning
 
 #### Geography
 
-<b><u>Geography</b></u>
+<u>**Geography**</u>
 
 Geography students can expect to acquire a wide range of knowledge and skills to understand and explain physical and human phenomena, contemporary environmental and social issues that occur in different places and cultures.
 
@@ -61,3 +61,39 @@ Case studies are an integral part of the Geography syllabuses. They provide our 
 *          Local & Overseas Fieldwork
 *          ICT Enhanced Lessons
 *          Collaborative & Self Directed Learning
+	
+#### Combined Humanities
+
+Combined Humanities is a compulsory subject to be taken by all Express and Normal Academic students in our school. It is made up of two components. All students will take Social Studies. In addition, students will choose to take an elective. In our school, Geography and History electives are offered.  
+
+**Social Studies** will allow students the opportunity to explore issues concerning societies in this interdependent world. The subject will help students develop a global perspective and be a responsible member in local and world community.
+
+**Geography Elective** students can expect to acquire a wide range of knowledge and skills to understand and explain physical and human phenomena, contemporary environmental and social issues that occur in different places and cultures.They can expect to acquire insights into future challenges through the study of contemporary geographical issues of national, regional and global importance.
+
+**History Elective** is a subject where students actively engage in historical inquiry to develop themselves into confident, self-directed, critical and reflective thinkers. Students will learn about concepts centred around events after World War I, World War II and the Cold War. Students will develop the ability to organise and communicate their historical knowledge and understanding through a variety of ways. They will develop the ability to ask relevant questions about the past and examine a range of sources critically in their historical context to reach substantiated judgments about the past.
+
+**Pedagogies & Modes of Teaching**
+
+There are mainly three modes of teaching used in Combined Humanities.
+
+Inquiry-based learning will be the main approach in all three components of the subject. This approach facilitates the examination of current issues and problems at the local, regional or global scale from different perspectives that is subject specific.
+
+_**Social Studies**_
+
+ICT is a feature of the Inquiry-based Learning approach used in Social Studies. Students will have the opportunity to discuss and explore new knowledge through the use of ICT-enhanced lessons.
+
+_**Geography**_
+
+Field-based learning is one of the distinctive attributes of Geography. It is a teaching approach that is valuable in providing our students with ‘hands-on’ experiences to enhance their learning.Case studies are an integral part of the Geography syllabuses. They provide our students with opportunities to understand, draw links and apply concepts, patterns and processes to situations in the real world.
+
+_**History**_
+
+Historical inquiry units are planned for students to discover knowledge on their own and linkages to the present situation by drawing parallels. These are important aspects of the Inquiry-based Learning approach used. These help to make students’ learning more meaningful and improve their retention of knowledge.
+
+**Key Programmes & Activities**
+
+·         Local & Overseas Fieldwork
+
+·         ICT Enhanced Lessons
+
+·         Collaborative & Self Directed Learning
