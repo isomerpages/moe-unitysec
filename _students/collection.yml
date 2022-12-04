@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Performing Arts/Dance.md
       - Performing Arts/Choir.md
       - Performing Arts/.keep
       - Students' Resources/.keep
