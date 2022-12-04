@@ -65,3 +65,13 @@ If you still need to come down physically to complete your purchases, do strictl
 | G | 1430 – 1530 |
 | H | 1530 – 1630 |
 |  |  |
+
+<br><br>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:40%" align=left src="/images/photo1670136755.jpeg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:40%" align=right src="/images/photo1670136763.jpeg">
+</a></p>
