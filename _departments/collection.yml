@@ -2,9 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Science Department/Events.md
-      - Science Department/Information.md
-      - Science Department/.keep
       - Departments.md
       - Craft & Tech Department/.keep
       - Craft & Tech Department/Information.md
@@ -24,3 +21,6 @@ collections:
       - Physical Education Department/.keep
       - Physical Education Department/Information.md
       - Physical Education Department/Events.md
+      - Science Department/.keep
+      - Science Department/Events.md
+      - Science Department/Information.md
