@@ -66,6 +66,33 @@ third_nav_title: Organisation Chart
 | Mdm Khairyn Adriana Putri Malek | [khairyn\_adriana\_putri\_malek@schools.gov.sg](mailto:khairyn_adriana_putri_malek@schools.gov.sg) |
 | Mdm Zhang Yi Fang | [zhang\_yi\_fang@schools.gov.sg](mailto:zhang_yi_fang@schools.gov.sg) |
 |  |  |
+| **Science Department** |  |
+| Mr M Arulchandran | [m\_arulchandran@schools.gov.sg](mailto:m_arulchandran@schools.gov.sg) |
+| Mr Shanmugam s/o Suppiah | [shanmugam\_suppiah@schools.gov.sg](mailto:shanmugam_suppiah@schools.gov.sg) |
+| Mr William Boh Chuan Xiang | [boh\_chuan\_xiang@schools.gov.sg](mailto:boh_chuan_xiang@schools.gov.sg) |
+| Ms Huang Ningxin | [huang\_ningxin@schools.gov.sg](mailto:huang_ningxin@schools.gov.sg) |
+| Mdm Tan Lin Yin Jacqueline | [tan\_lin\_yin\_jacqueline@schools.gov.sg](mailto:tan_lin_yin_jacqueline@schools.gov.sg) |
+| Ms Fiona Neo Ruey Ning | [neo\_ruey\_ning@schools.gov.sg](mailto:neo_ruey_ning@schools.gov.sg) |
+| Ms Sumitha d/o Poonia Murthy | [sumitha\_poonia\_murthy@schools.gov.sg](mailto:sumitha_poonia_murthy@schools.gov.sg) |
+| Mr Chan Chin Choon, Vincent | [chan\_chin\_choon@schools.gov.sg](mailto:chan_chin_choon@schools.gov.sg) |
+| Mr Tsia Gwo Hong | [tsia\_gwo\_hong@schools.gov.sg](mailto:tsia_gwo_hong@schools.gov.sg) |
+| Mr Siow Wee Koon | [siow\_wee\_koon@schools.gov.sg](mailto:siow_wee_koon@schools.gov.sg) |
+| Mdm Palanisamy Sulochana Devi | [palanisamy\_sulochana\_devi@schools.gov.sg](mailto:palanisamy_sulochana_devi@schools.gov.sg) |
+| Ms Kang Siew Li, Jessilyn | [kang\_siew\_li\_jessilyn@schools.gov.sg](mailto:kang_siew_li_jessilyn@schools.gov.sg) |
+| Ms Liang Yen Shan | [liang\_yen\_shan@schools.gov.sg](mailto:liang_yen_shan@schools.gov.sg) |
+| Ms Sabrina Binte Jumadi | [sabrina\_bte\_jumadi@schools.gov.sg](mailto:sabrina_bte_jumadi@schools.gov.sg) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 |  |  |
 |  |  |
 |  |  |
