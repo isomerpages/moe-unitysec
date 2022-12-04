@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - MTL Department/Events.md
       - MTL Department/Information.md
       - MTL Department/.keep
       - Departments.md
