@@ -14,7 +14,7 @@ Please ensure that you can access Parents Gateway to complete the Sec 1 online r
 _If you are not eligible to apply for Singpass, do not worry. Our school administrative staff will get in touch with you soon to facilitate your registration._
 <br><br><br>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sec-1-registration-2022/step1/">
 <img style="width:40%" align=left src="/images/photo1670135465.jpeg">
 </a></p>
 
