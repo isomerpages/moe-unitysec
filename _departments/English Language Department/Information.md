@@ -55,7 +55,39 @@ The Music Programme is offered to all students and it serves as a platform for s
 | 2 | Electronic Dance Music (EDM Creation) | Create dance music using Garageband loops  <br>Expand vocabulary of instrumental timbres and musical textures  <br>Build aural awareness and ability to listen critically |
 | 3 & 4 | NE Song Cover | Re-create a NE (Songs of Singapore) song cover based on elements of Lyrics, Melody, Harmony, Rhythm, and Instrumentation on Digital Audio Workstation (DAW) i.e. Bandlab.com |
 |  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+
+##### Aesthetics Education Modules (AEM)
+
+Unity Secondary School was awarded the National Arts Education Sparks Award in 2013. Since then, the School continues to implement arts programmes and students in lower secondary levels are given access to a range of activities across various art forms.  
+
+Our Aesthetics Education Modules (AEM) is a two-year enrichment programme which aims to nurture all Secondary 1 and 2 students to become confident persons with creative and inventive thinking by developing arts appreciation, showmanship and communication skills.   Students also develop qualities of resilience, confidence and creativity as they participate in these activities.  There are even experiential platforms for students to showcase the skills they have acquired, from performing on Stomp instruments, Cajon, world percussion instruments, dancing to Hip Hop or K-pop, to exhibiting their work of Art in Manga drawing or Brush Calligraphy.
+
+##### Objectives of Aesthetics Education Modules (AEM)
+
+i) Students acquire discipline and commitment by being enriched in an aesthetic art form.  
+ii) Students develop basic competence in at least one aesthetic form.  
+iii) Students develop the joy of learning in the Aesthetics through the exposure of experiential and appreciative platforms.
+
+<figure>
+<img src="/images/EL_calligraphy.jpg" style="width:90%">
+<figcaption>Students practising their calligraphy techniques in Brush Calligraphy class.
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/EL_hiphop.jpg" style="width:90%">
+<figcaption>Students practicing their Hip Hop dance routine
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/EL_drumming.jpg" style="width:90%">
+<figcaption>Students learning world percussion drumming with authentic world instruments
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/EL_manga.jpg" style="width:90%">
+<figcaption>Students practising their calligraphy techniques in Brush Calligraphy class.
+ </figcaption>
+</figure>
