@@ -40,3 +40,18 @@ There will be a CCA briefing on 4 January 2022.  All Sec 1 students will have a
 
 Please click [**here**](https://unitysec.moe.edu.sg/our-people/students/cca) **link isomer** to learn more about our CCAs in Unity Secondary School.
 
+<b><u>Sports</u></b>
+
+<iframe width="600" height="337" src="https://www.youtube.com/embed/iOdIoL1997A" title="Unity Secondary - Sports CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<b><u>Uniformed Group</u></b>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yNSz-CAcYso" title="Unity Secondary - Uniform Groups CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<b><u>Performing Arts</u></b>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OxNzjwxH2kU" title="Unity Secondary - Performing Arts CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<b><u>Clubs & Societies</u></b>
+
+<iframe width="605" height="340" src="https://www.youtube.com/embed/4nRLjMUiCL0" title="Unity Secondary - Clubs & Societies CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
