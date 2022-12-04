@@ -36,3 +36,17 @@ For more details, please refer to the following tables:
 | 3N(A) | Grade 5 or better in<br><bR>EL & 2 other subjects or<br><br>4 subjects | Promoted to 4N(A) | Retained in 3N(A) |
 | 4N(A) | An aggregate of 19 points or less in EL, Math and best 3 other subjects in GCE N-level Exam. All 5 subjects must have Grade 5 or better.<br><br>**Additional Pathways**<br><br>·  An aggregate of 19 points or less in EL, Math and best 3 other subjects. A Grade 4 or better in both EL and Math.<br><br>·   An aggregate of 12 points or less in EL, Math and best 3 other subjects. A Grade 3 or better in EL, Math and 3 other subjects. | Promoted to 5N(A)<br><br>Enrol directly into Direct-Entry-Scheme to Polytechnic Programme (DPP) taking Higher Nitec at ITE. Apply through ITE website during Joint Intake Exercise (JIT) in December.<br><br>Option of enrolling in the Polytechnic Foundation Programme (PFP). | Retained in 4N(A)<br><br>If aggregate score does not exceed 21 points for EL, Math and best 3 subjects; or if aggregate score does not exceed 14 points for Math and best 3 subjects and has sat for GCE N-Level Exam for the 1st time in the current year. |
 |  |  |  |  |
+
+**\* Applicable only to students below the maximum age**
+
+**Normal (Technical) Course**
+
+| **Level** | **Criteria for Promotion** | **Pass** | **Failed** |
+|:---:|---|---|---|
+| 1N(T) | Grade 5 or better in 2 subjects, one of which should be EL or Math | Promoted to 2N(T) | Retained in 1N(T) |
+| 2N(T) | Grade 5 or better in 2 subjects, one of which should be EL or Math | Promoted to 3N(T) | Retained in 2N(T) |
+| 3N(T) | Grade 5 or better in 2 subjects, one of which should be EL or Math | Promoted to 4N(T) | Retained in 3N(T) |
+| 4N(T) | Grade 1 in EL and Math and a grade 3 in a 3rd subject |  | No retention. Apply for Admission to ITE for post-secondary education. |
+|  |  |  |  |
+
+**\* Applicable only to students below the maximum age**
