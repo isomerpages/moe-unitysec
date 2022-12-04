@@ -73,11 +73,10 @@ The Health Promotion Board (HPB)’s School Health and Dental Services will be c
 While Secondary One Students are waiting for their Secondary level SSCs to be ready, they can continue to use their Primary level SSCs for concessionary travel till end Apr 2022. Students can still purchase the Bus Concession Pass (BCP) using their Primary level SSCs, but they would need to purchase the BCP for Secondary School students.
 <br><br><br>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sec-1-registration-2022/step4/">
 <img style="width:40%" align=left src="/images/photo1670137483.jpeg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
 <img style="width:60%" align=right src="/images/photo1670137491.jpeg">
 </a></p>
-
