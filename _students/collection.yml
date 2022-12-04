@@ -2,11 +2,11 @@ collections:
   students:
     output: true
     order:
-      - Clubs and Societies/Uniq Artists.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Library Club.md
       - Clubs and Societies/Uniq Productions.md
       - Clubs and Societies/Environmental Science.md
+      - Clubs and Societies/Uniq Artists.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2022 Student Handbook & Target Setting.md
