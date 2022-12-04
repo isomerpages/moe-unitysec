@@ -22,3 +22,13 @@ third_nav_title: CCA
 |  |  |  |  |
 
 #### Sports and Games
+
+|  |  | Day & Time | Venue |
+|:---:|---|---|---|
+| 1 | Basketball Boys | Monday: 2.30-5.30pm<br>Wednesday: 2.30-5.30pm<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | C-401, C-402<br>Sheltered Court / Indoor Sports Hall |
+| 2 | Basketball Girls | Monday: 3-5.30pm<br>Wednesday: 3-5.30pm<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | C-403, C-404<br>Mon - Indoor Sports Hall, Wed - SBC, Fri - Alternate ISH & SBC |
+| 3 | Track & Field | Monday: 4.15pm-6.15pm<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | B-403, B-404<br>School field / Choa Chu Kang Stadium |
+| 4 |  |  |  |
+| 5 |  |  |  |
+| 6 |  |  |  |
+|  |  |  |  |
