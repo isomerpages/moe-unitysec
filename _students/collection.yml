@@ -2,9 +2,9 @@ collections:
   students:
     output: true
     order:
-      - Performing Arts/Dance.md
-      - Performing Arts/Choir.md
       - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Dance.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2022 Student Handbook & Target Setting.md
