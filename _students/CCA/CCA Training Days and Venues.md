@@ -40,6 +40,6 @@ third_nav_title: CCA
 | 1 | Symphonic Band | Monday: 2.45-5.45pm (Main Band)<br>Wednesday: 2.45-5.45pm (Main Band)<br> 2.45-3.45pm (Sec 1 and 2)<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | B-201, B-202<br>CD Shelter |
 | 2 | UNIque Dance Fusion | Wednesday: 3.30-6.00pm<br>Thursday: 3.30-6.00pm (only if necessary)<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | B-401, B-402<br>AVA Room |
 | 3 | Choir | Monday: 2.30-5.30pm<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | B-303, B-304<br>Choir Room, Music Room |
-| 4 |  |  |  |
-| 5 |  |  |  |
+| 4 | Indian Orchestra | Monday: 2.45-5.15pm<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | A-105, C-101<br>Indian Orchestra room |
+| 5 | Speech & Drama | Monday: 2.30-5.15pm<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | B-203, B-204<br>Friday: Learning Space 1&2 Monday: AVA |
 |  |  |  |  |
