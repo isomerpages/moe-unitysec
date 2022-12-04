@@ -32,3 +32,14 @@ third_nav_title: CCA
 | 5 | Volleyball Girls | Wednesday" 2.30pm-5.30pm<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson)<br>Friday: 1pm-3.30pm | C-201, C202<br>School Hall / Outdoor Court |
 | 6 | Football | Wednesday: 2.30-5.30pm<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | C-203, C204<br>School Field |
 |  |  |  |  |
+
+#### Performing Arts
+
+|  |  | Day & Time | Venue |
+|:---:|---|---|---|
+| 1 | Symphonic Band | Monday: 2.45-5.45pm (Main Band)<br>Wednesday: 2.45-5.45pm (Main Band)<br> 2.45-3.45pm (Sec 1 and 2)<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | B-201, B-202<br>CD Shelter |
+| 2 | UNIque Dance Fusion | Wednesday: 3.30-6.00pm<br>Thursday: 3.30-6.00pm (only if necessary)<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | B-401, B-402<br>AVA Room |
+| 3 | Choir | Monday: 2.30-5.30pm<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | B-303, B-304<br>Choir Room, Music Room |
+| 4 |  |  |  |
+| 5 |  |  |  |
+|  |  |  |  |
