@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Students' Resources/Full Subject Based Banding.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2022 Student Handbook & Target Setting.md
@@ -14,3 +13,4 @@ collections:
       - Students' Resources/Assessment in Unity 2022.md
       - Students' Resources/Promotion Criteria.md
       - Students' Resources/Home Based Learning (HBL).md
+      - Students' Resources/Full Subject Based Banding.md
