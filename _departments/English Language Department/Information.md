@@ -39,11 +39,21 @@ The Music Programme is offered to all students and it serves as a platform for s
 
 **Secondary 1**
 
-|  |  |  |
+| **Term(s)** | **Module** | **Module Outcomes** |
 |:---:|---|---|
+| 1 | Drum Studies | Read drum notation<br><br>Learn different drum grooves  <br>Create a variety of rhythms to accompany pop songs<br><br>World Music  - Drumming |
+| 2 | Keyboard Studies | Read lead sheets  <br>Develop aural skills such as playing by ear  <br>Playing 4-chord progression<br><br>South East Asian music appreciation |
+| 3 | Ukulele Studies | Read ukulele chord charts  <br>Play a variety of strumming patterns and styles<br><br>(\*Students to purchase their own ukulele so that they can practise at home i.e. HBL-blended learning) |
+| 3 & 4 | Pop Band | Put all the instruments learnt in the year to form a pop band  <br>Create a music cover for a pop song of their choice |
 |  |  |  |
-|  |  |  |
-|  |  |  |
+
+**Secondary 2**
+
+| **Term(s)** | **Module** | **Module Outcomes** |
+|:---:|---|---|
+| 1 | Battle of iBands | Create a music cover for a pop song of their choice with GarageBand applications on ipads <bR><br>(Classes will take part in an interclass competition) |
+| 2 | Electronic Dance Music (EDM Creation) | Create dance music using Garageband loops  <br>Expand vocabulary of instrumental timbres and musical textures  <br>Build aural awareness and ability to listen critically |
+| 3 & 4 | NE Song Cover | Re-create a NE (Songs of Singapore) song cover based on elements of Lyrics, Melody, Harmony, Rhythm, and Instrumentation on Digital Audio Workstation (DAW) i.e. Bandlab.com |
 |  |  |  |
 |  |  |  |
 |  |  |  |
