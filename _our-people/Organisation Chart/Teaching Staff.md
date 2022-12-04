@@ -22,10 +22,10 @@ third_nav_title: Organisation Chart
 | Ms Siti Robi'ah Binte Jamal | [siti\_robiah\_jamal@schools.gov.sg](mailto:siti_robiah_jamal@schools.gov.sg)|
 | Ms Toh Jia Ying | [toh\_jia\_ying@schools.gov.sg](mailto:toh_jia_ying@schools.gov.sg) |
 | Ms Nur Hidayah Bte Bohari | [nur\_hidayah\_bohari@schools.gov.sg](mailto:nur_hidayah_bohari@schools.gov.sg) |
-| Ms Nur Syazwani Binte Nordin |  |
-| Ms Lilian Foo Chen Chen |  |
-| Ms Chng Kim Tee Evangeline |  |
-| Mr Ho Chong Mun Frederick |  |
+| Ms Nur Syazwani Binte Nordin | [nur\_syazwani\_nordin@schools.gov.sg](mailto:nur_syazwani_nordin@schools.gov.sg) |
+| Ms Lilian Foo Chen Chen | [Lilian\_Foo\_Chen\_Chen@schools.gov.sg](mailto:norhikmah_sohoi@schools.gov.sg) |
+| Ms Chng Kim Tee Evangeline | [Chng\_Kim\_Tee\_Evangeline@schools.gov.sg](mailto:norhikmah_sohoi@schools.gov.sg) |
+| Mr Ho Chong Mun Frederick | [ho\_chong\_mun\_frederick@schools.gov.sg](mailto:ho_chong_mun_frederick@schools.gov.sg) |
 |  |  |
 |  |  |
 |  |  |
