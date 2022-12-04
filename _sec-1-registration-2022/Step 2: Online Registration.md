@@ -18,6 +18,6 @@ _If you are not eligible to apply for Singpass, do not worry. Our school adminis
 <img style="width:40%" align=left src="/images/photo1670135465.jpeg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sec-1-registration-2022/step3/">
 <img style="width:40%" align=right src="/images/photo1670135468.jpeg">
 </a></p>
