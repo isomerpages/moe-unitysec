@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - Students' Resources/2022 Student Handbook & Target Setting.md
       - Students' Resources/Students' Resources.md
       - Students' Resources/.keep
