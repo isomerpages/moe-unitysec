@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Clubs and Societies/Library Club.md
       - Clubs and Societies/.keep
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
