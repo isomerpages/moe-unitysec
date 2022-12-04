@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Uniformed Groups/Boys Brigade.md
       - Uniformed Groups/.keep
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
