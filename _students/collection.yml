@@ -2,11 +2,11 @@ collections:
   students:
     output: true
     order:
-      - Sports and Games/Track and Field.md
       - Sports and Games/.keep
       - Sports and Games/Basketball.md
       - Sports and Games/Soccer.md
       - Sports and Games/Table Tennis.md
+      - Sports and Games/Track and Field.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2022 Student Handbook & Target Setting.md
