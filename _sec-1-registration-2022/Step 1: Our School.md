@@ -50,7 +50,7 @@ Students will attend lessons based on their subject classes. The subject classes
 <iframe width="630" height="354" src="https://www.youtube.com/embed/lEoHvBndV24" title="USS Teaching & Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br><br>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sec-1-registration-2022/information/">
 <img style="width:40%" align=left src="/images/photo1670135217.jpeg">
 </a></p>
 
