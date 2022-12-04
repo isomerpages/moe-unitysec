@@ -31,25 +31,25 @@ third_nav_title: Organisation Chart
 | Mr Chew Thiam Teck | [chew\_thiam\_teck@schools.gov.sg](mailto:chew_thiam_teck@schools.gov.sg) |
 | Ms Fathiah Binte Borhan | [fathiah\_borhan@schools.gov.sg](mailto:fathiah_borhan@schools.gov.sg) |
 | Mr Daniel Leong Mun Fatt | [daniel\_leong\_mun\_fatt@schools.gov.sg](mailto:daniel_leong_mun_fatt@schools.gov.sg) |
-| Mdm Tan Sin Liang Constance |  |
-| Mr Lim Yew Meng Derek |  |
-| Mr Low Jackson |  |
-| Mr Siva Balan s/o Ayavoo |  |
-| Ms Hamidatulamaliah Bte Md Jamil |  |
-| Ms Phoebe Chin Kit Yin |  |
-| Mdm Kuang Siew Lang |  |
+| Mdm Tan Sin Liang Constance | [tan\_sin\_liang\_constance@schools.gov.sg](mailto:tan_sin_liang_constance@schools.gov.sg) |
+| Mr Lim Yew Meng Derek | [lim\_yew\_meng\_derek@schools.gov.sg](mailto:lim_yew_meng_derek@schools.gov.sg) |
+| Mr Low Jackson | [low\_jackson@schools.gov.sg](mailto:low_jackson@schools.gov.sg) |
+| Mr Siva Balan s/o Ayavoo | [sivabalan\_ayavoo@schools.gov.sg](mailto:sivabalan_ayavoo@schools.gov.sg) |
+| Ms Hamidatulamaliah Bte Md Jamil | [hamidatulamaliah\_md\_jamil@schools.gov.sg](mailto:hamidatulamaliah_md_jamil@schools.gov.sg) |
+| Ms Phoebe Chin Kit Yin | [phoebe\_chin\_kit\_yin@moe.edu.sg](mailto:phoebe_chin_kit_yin@moe.edu.sg) |
+| Mdm Kuang Siew Lang | [kuang\_siew\_lang@schools.gov.sg](mailto:kuang_siew_lang@schools.gov.sg) |
 |  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  **Humanities Department** |  |
+| Mdm Khamilia Binte Hanapi | [khamilia\_hanapi@schools.gov.sg](mailto:khamilia_hanapi@schools.gov.sg) |
+| Ms Chia Kel-li | [chia\_kel-li@schools.gov.sg](mailto:chia_kel-li@schools.gov.sg) |
+| Mdm Nur Shaikhah Binte Rajab | [nur\_shaikhah\_rajab@schools.gov.sg](mailto:nur_shaikhah_rajab@schools.gov.sg) |
+| Mdm Jasmin Mariya d/o Madasamy |  |
+| Mrs Chan-Low Siew Peng |  |
+| Mrs Soh-Toh Meow Tin |  |
+| Mrs Kang-Lim Hui Fern Karen |  |
+| Ms Durgamu D/O N. Tinagaran |  |
+| Mrs Elfy Ara-Lee Yi Yu |  |
+| Ms Jaishree d/o Jaybalan |  |
 |  |  |
 |  |  |
 |  |  |
