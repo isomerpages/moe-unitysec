@@ -43,3 +43,13 @@ third_nav_title: CCA
 | 4 | Indian Orchestra | Monday: 2.45-5.15pm<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | A-105, C-101<br>Indian Orchestra room |
 | 5 | Speech & Drama | Monday: 2.30-5.15pm<br>Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | B-203, B-204<br>Friday: Learning Space 1&2 Monday: AVA |
 |  |  |  |  |
+
+#### Clubs and Societies
+
+|  |  | Day & Time | Venue |
+|:---:|---|---|---|
+| 1 | Environment Club | Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | B-301, B-302 |
+| 2 | Media Production Club | Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | A-403, A-404<br>Hall CR+Telecom Rm+ Any Classrm Blk A/ComCentre 4 or sci hub |
+| 3 | Library Club | Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson)<br>Friday: 2.00pm-4.00pm (when necessary) | A-401, A-402<br>Library |
+| 4 | Art Club | Friday: 7.30am-12.30am<br>(Inclusive of recess and CCE lesson) | Art Room 2 |
+|  |  |  |  |
