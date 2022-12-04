@@ -25,7 +25,7 @@ Please ensure that you go through the following steps for the Sec 1 online regi
 
 Click on the **NEXT** button to go **Step 1: Our School (****Principal’s Welcome Address, Full Subject-Based Banding, Virtual School Tour****)**
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sec-1-registration-2022/step1/">
 <img style="width:25%" align=right src="/images/NEXT BUTTON 2.png">
 </a></p><br clear=right>
 
