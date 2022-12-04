@@ -74,3 +74,17 @@ Please refer to examples in [Annex B](http://www.unitysec.moe.edu.sg/CCA.html#A
 |  |  | Participated in any CCA for 3 years with at least 75% attendance for each year and demonstrating exemplary conduct and active contribution | Participated in any CCA for 4 years with at least 75% attendance for each year and demonstrating exemplary conduct and active contribution | Participated in the same CCA for 4 years with at least 75% attendance for each year and demonstrating exemplary conduct and active contribution |
 |  |  |  | Participated in the same CCA for 4 years with at least 75% attendance for each year | Participated in the same CCA for 5 years with at least 75% attendance for each year |
 |  |  |  |  |  |
+
+<p align=center>SERVICE (Level of Attainment)</p>
+
+| Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+|:---:|---|---|---|---|
+| At least 24 to less than 30 hours of service | At least 30 to less than 36 hours of service | At least 36 hours of service |  |  |
+|  | Completed at least one VIA project that impacts the school or community | Completed at least two VIA projects that impact the school or community |  |  |
+|  |  | Completed at least 24 hours of service and at least one VIA project that impacts the school or community | Completed at least 24 hours of service and at least two VIA projects that impact the school or community | Completed at least 24 hours of serviceand at least one student-initiated VIA project that impacts the community beyond the school and at least one other VIA project |
+|  |  |  |  |  |
+
+<u>Note:</u> One example of an approach to VIA is Service-Learning. Time spent on VIA projects, including the planning, service and reflection components, will count towards the minimum hours of service stated in the above criterion.
+
+<p align=center>LEADERSHIP (Level of Attainment)</p>
+
