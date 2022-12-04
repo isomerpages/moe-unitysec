@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - Departments.md
       - Craft & Tech Department/.keep
