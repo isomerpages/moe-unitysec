@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science Department/Information.md
       - Science Department/.keep
       - Departments.md
       - Craft & Tech Department/.keep
