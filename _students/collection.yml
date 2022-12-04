@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Students' Resources/Referral for school counselling.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2022 Student Handbook & Target Setting.md
@@ -16,3 +15,4 @@ collections:
       - Students' Resources/Home Based Learning (HBL).md
       - Students' Resources/Full Subject Based Banding.md
       - Students' Resources/Student Learning Space (SLS).md
+      - Students' Resources/Referral for school counselling.md
