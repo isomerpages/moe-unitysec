@@ -27,6 +27,42 @@ third_nav_title: Organisation Chart
 | Ms Chng Kim Tee Evangeline | [Chng\_Kim\_Tee\_Evangeline@schools.gov.sg](mailto:norhikmah_sohoi@schools.gov.sg) |
 | Mr Ho Chong Mun Frederick | [ho\_chong\_mun\_frederick@schools.gov.sg](mailto:ho_chong_mun_frederick@schools.gov.sg) |
 |  |  |
+|  **Craft & Technology Department** |  |
+| Mr Chew Thiam Teck | [chew\_thiam\_teck@schools.gov.sg](mailto:chew_thiam_teck@schools.gov.sg) |
+| Ms Fathiah Binte Borhan | [fathiah\_borhan@schools.gov.sg](mailto:fathiah_borhan@schools.gov.sg) |
+| Mr Daniel Leong Mun Fatt | [daniel\_leong\_mun\_fatt@schools.gov.sg](mailto:daniel_leong_mun_fatt@schools.gov.sg) |
+| Mdm Tan Sin Liang Constance |  |
+| Mr Lim Yew Meng Derek |  |
+| Mr Low Jackson |  |
+| Mr Siva Balan s/o Ayavoo |  |
+| Ms Hamidatulamaliah Bte Md Jamil |  |
+| Ms Phoebe Chin Kit Yin |  |
+| Mdm Kuang Siew Lang |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 |  |  |
 |  |  |
 |  |  |
