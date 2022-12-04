@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Table Tennis.md
       - Basketball.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
