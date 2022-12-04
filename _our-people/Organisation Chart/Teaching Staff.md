@@ -51,20 +51,20 @@ third_nav_title: Organisation Chart
 | Mrs Elfy Ara-Lee Yi Yu | [lee\_yi\_yu\_elfy@schools.gov.sg](mailto:lee_yi_yu_elfy@schools.gov.sg) |
 | Ms Jaishree d/o Jaybalan | [jaishree\_jaybalan@schools.gov.sg](mailto:jaishree_jaybalan@schools.gov.sg) |
 |  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| **Mathematics Department** |  |
+| Mr Tan Yee Kee | [tan\_yee\_kee@schools.gov.sg](mailto:tan_yee_kee@schools.gov.sg) |
+| Ms Ong Pei Ee | [ong\_pei\_ee@schools.gov.sg](mailto:ong_pei_ee@schools.gov.sg) |
+| Ms Jean Ong Soo Chuin | [ong\_soo\_chuin@schools.gov.sg](mailto:ong_soo_chuin@schools.gov.sg) |
+| Mdm Jasmine Ng Swee Meng | [ng\_swee\_meng@schools.gov.sg](mailto:ng_swee_meng@schools.gov.sg) |
+| Mdm Rohaila Binte Sanusi | [rohaila\_sanusi@schools.gov.sg](mailto:rohaila_sanusi@schools.gov.sg) |
+|Mrs Chang-Foo Wee Leng  | [foo\_wee\_leng@schools.gov.sg](https://unitysec-moe-edu-sg-admin.cwp.sg/our-people/organisation-chart/foo_wee_leng@schools.gov.sg) |
+| Mr Tan Kee Seng | [tan\_kee\_seng@schools.gov.sg](https://unitysec-moe-edu-sg-admin.cwp.sg/our-people/organisation-chart/tan_kee_seng@schools.gov.sg) |
+| Mr Lim Boon Liang | [lim\_boon\_liang@schools.gov.sg](https://unitysec-moe-edu-sg-admin.cwp.sg/our-people/organisation-chart/lim_boon_liang@schools.gov.sg) |
+| Mdm Asmidah Bte Rahwam | [asmidah\_rahwam@schools.gov.sg](https://unitysec-moe-edu-sg-admin.cwp.sg/our-people/organisation-chart/asmidah_rahwam@schools.gov.sg) |
+| Mdm Jeslyn Cheong Kiet Yeng |  |
+| Ms Chen Yi |  |
+| Mdm Khairyn Adriana Putri Malek |  |
+| Mdm Zhang Yi Fang |  |
 |  |  |
 |  |  |
 |  |  |
