@@ -68,7 +68,7 @@ If you still need to come down physically to complete your purchases, do strictl
 
 <br><br>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sec-1-registration-2022/step3/">
 <img style="width:40%" align=left src="/images/photo1670136755.jpeg">
 </a></p>
 
