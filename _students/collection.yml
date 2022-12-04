@@ -2,9 +2,9 @@ collections:
   students:
     output: true
     order:
-      - Uniformed Groups/Girls Brigade.md
-      - Uniformed Groups/Boys Brigade.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/Boys Brigade.md
+      - Uniformed Groups/Girls Brigade.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2022 Student Handbook & Target Setting.md
