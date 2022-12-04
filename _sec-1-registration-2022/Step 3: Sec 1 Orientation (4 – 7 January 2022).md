@@ -66,6 +66,6 @@ Please click [**here**](https://unitysec.moe.edu.sg/our-people/students/cca/cca
 <img style="width:40%" align=left src="/images/photo1670136258.jpeg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sec-1-registration-2022/step4/">
 <img style="width:40%" align=right src="/images/photo1670136268.jpeg">
 </a></p>
