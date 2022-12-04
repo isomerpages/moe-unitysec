@@ -78,18 +78,18 @@ third_nav_title: CCA
 
 #### Clubs and Societies
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/students/Clubs-and-Societies/lc/">
 <img style="width:25%; margin-right:15px;" align=left src="/images/cs_library_tn.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/students/Clubs-and-Societies/up/">
 <img style="width:25%; margin-right:15px; " align=left src="/images/cs_uniq_prod_tn.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/students/Clubs-and-Societies/es/">
 <img style="width:25%; margin-right:15px;" align=left src="/images/cs_uniq_ecologists_tn.jpg">
 </a></p><br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/students/Clubs-and-Societies/ua/">
 <img style="width:25%; margin-right:15px;" align=left src="/images/cs_uniq_artists.jpg">
 </a></p>
