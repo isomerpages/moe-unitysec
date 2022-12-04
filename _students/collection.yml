@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Students' Resources/Promotion Criteria.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2022 Student Handbook & Target Setting.md
@@ -12,3 +11,4 @@ collections:
       - Students' Resources/2023 Book and Stationery Lists.md
       - Students' Resources/Unity Sec IP Page.md
       - Students' Resources/Assessment in Unity 2022.md
+      - Students' Resources/Promotion Criteria.md
