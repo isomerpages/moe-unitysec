@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Clubs and Societies/.keep
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2022 Student Handbook & Target Setting.md
