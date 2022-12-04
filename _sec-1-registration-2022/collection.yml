@@ -2,7 +2,6 @@ collections:
   sec-1-registration-2022:
     output: true
     order:
-      - "Step 7: Home School Partnership.md"
       - Information for Sec 1 Registration.md
       - "Step 1: Our School.md"
       - "Step 2: Online Registration.md"
@@ -11,3 +10,4 @@ collections:
       - "Step 5: Administration Matters.md"
       - "Step 6: Subject at Higher Level (SBB) or HMTL or 3rd Language (Only for
         students who are eligible).md"
+      - "Step 7: Home School Partnership.md"
