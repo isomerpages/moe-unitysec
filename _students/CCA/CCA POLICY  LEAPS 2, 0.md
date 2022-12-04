@@ -88,3 +88,24 @@ Please refer to examples in [Annex B](http://www.unitysec.moe.edu.sg/CCA.html#A
 
 <p align=center>LEADERSHIP (Level of Attainment)</p>
 
+**School-based Leadership Opportunities**
+
+| Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+|:---:|---|---|---|---|
+| Completed 2 leadership modules of at least 3 hours each | *   Class Committee  <br><br>*   Committee for student-initiated or student-led projects, approved by school (or equivalent) | *   Class Chairperson  <br><br>*   Prefect  <br><br>*   Peer Support Leader  <br><br>*   Committee for school-wide events  <br><br>*   Chairperson/Vice-Chairperson for student-initiated or student-led projects, approved by school (or equivalent) | *   Senior Prefect  <br><br>*   Chairperson/Vice-Chairperson for school-wide events (or equivalent) | Executive Committee of Student Council / Prefectorial Board (or equivalent) |
+|  | Lower Sec CCA Committee (or equivalent) | *   Lower Sec CCA Executive Committee  <br><br>*   Upper Sec CCA Committee (or equivalent) | Upper Sec CCA Executive Committee (or equivalent) | CCA Captain/ Chairperson (or equivalent) |
+|  |  |  |  |  |
+
+**National Youth Achievement Award**
+
+| Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+|:---:|---|---|---|---|
+|  | NYAA Bronze | NYAA Silver and above |  |  |
+|  |  |  |  |  |
+
+**Uniformed Groups (Rank)**
+
+| Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+|:---:|---|---|---|---|
+| Lance Corporal (or equivalent) | *   Corporal  <br><br>*   Patrol Second  <br><br>*   Assistant Patrol Leader (or equivalent) | *   Sergeant  <br><br>*   Patrol Leader (or equivalent) | *   Staff Sergeant  <br><br>*   Assistant Company Leader  <br><br>*   Senior Patrol Leader (or equivalent) | *   Warrant Officer  <br><br>*   Master Sergeant  <br><br>*   Station Inspector  <br><br>*   Troop/ Company Leader (or equivalent) |
+|  |  |  |  |  |
