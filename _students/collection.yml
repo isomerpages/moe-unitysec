@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Students' Resources/2022 Nov Holiday Lesson and CCA Schedule.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2022 Student Handbook & Target Setting.md
