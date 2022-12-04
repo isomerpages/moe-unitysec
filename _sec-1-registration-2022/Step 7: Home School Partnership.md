@@ -38,6 +38,6 @@ This [issue of Parent Kit](/files/Resource%20Kit%20-%20Parent%20Kit%20-%20Prima
 <img style="width:58%" align=left src="/images/photo1670139081.jpeg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sec-1-registration-2022/information/">
 <img style="width:40%" align=right src="/images/photo1670139082.jpeg">
 </a></p>
