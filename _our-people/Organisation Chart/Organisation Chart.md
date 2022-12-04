@@ -41,4 +41,9 @@ third_nav_title: Organisation Chart
 | HOD/Student Management and Guidance | Mr Chew Thiam Teck Scott |
 |  |  |
 
-
+HOD : Head of Department  <br>
+LH : Level Head  <br>
+SH: Subject Head  <br>
+LT : Lead Teacher <br>
+ST : Senior Teacher  <br>
+Ag: Internal Appointment
