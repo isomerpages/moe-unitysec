@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - CCA/CCA POLICY  LEAPS 2, 0.md
       - CCA/CCA.md
       - CCA/.keep
       - Students' Resources/.keep
