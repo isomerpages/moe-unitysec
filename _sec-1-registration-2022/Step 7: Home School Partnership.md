@@ -35,9 +35,9 @@ This [issue of Parent Kit](/files/Resource%20Kit%20-%20Parent%20Kit%20-%20Prima
 <br><br><br>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:40%" align=left src="/images/mothertongue.jpg">
+<img style="width:58%" align=left src="/images/photo1670139081.jpeg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:40%" align=right src="/images/mothertongue.jpg">
+<img style="width:40%" align=right src="/images/photo1670139082.jpeg">
 </a></p>
