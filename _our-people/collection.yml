@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Departments/.keep
       - Organisation Chart/.keep
       - Organisation Chart/Organisation Chart.md
       - Organisation Chart/Teaching Staff.md
