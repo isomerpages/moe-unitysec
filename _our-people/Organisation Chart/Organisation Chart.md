@@ -23,19 +23,22 @@ third_nav_title: Organisation Chart
 | Ag HOD/ Craft and Technology | Ms Fathiah Borhan |
 | HOD/ English | Mr Ng Lip Siang Adrian |
 | ST/ English | Mr Andrew Lim You Shun |
+| LH/Chinese Language | Ms Ng Pin Leng |
+| SH/ Malay Language | Mdm Rashidah bte Md Yaakob |
+| ST/Tamil Language | Mr Jaya Kumar |
+| HOD/ Humanities | Mdm  Khamilia bte Hanapi |
+| SH/Geography | Mrs Jasmin  Mariya d/o Madasamy |
+| ST/ Geography | Mrs Chan- Low Siew Peng |
+| HOD/ Mathematics | Mr Tan Yee Kee |
+| LH/Mathematics | Ms Ong Pei Ee |
+| ST/Mathematics | Mdm Ng Swee Meng Jasmine |
+| ST/Learning Needs | Mdm Rohaila bte Sanusi |
+| HOD/ Physical Education & CCA | Mr Low Yee Fun |
+| HOD/ Science | Mr Arulchandran |
+| LH/ Science | Ms Huang Ningxin |
+| LT/ Science | Ms Jacqueline Tan Lin Yin |
+| Ag HOD CCE/ Character & Leadership Development | Mdm Nur Shaikhah bte Rajab |
+| HOD/Student Management and Guidance | Mr Chew Thiam Teck Scott |
 |  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+
+
