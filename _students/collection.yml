@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Sports and Games/.keep
       - Soccer.md
       - Table Tennis.md
       - Basketball.md
