@@ -34,7 +34,7 @@ Your child might also feel anxious as they embark on their secondary school jour
 This [issue of Parent Kit](/files/Resource%20Kit%20-%20Parent%20Kit%20-%20Primary%20to%20Secondary%20Transition.pdf) provides tips on how you can help your child transit smoothly from Primary School to Secondary 1
 <br><br><br>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/sec-1-registration-2022/step6/">
 <img style="width:58%" align=left src="/images/photo1670139081.jpeg">
 </a></p>
 
