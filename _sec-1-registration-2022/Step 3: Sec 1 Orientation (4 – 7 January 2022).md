@@ -55,3 +55,8 @@ Please click [**here**](https://unitysec.moe.edu.sg/our-people/students/cca) **
 <b><u>Clubs & Societies</u></b>
 
 <iframe width="605" height="340" src="https://www.youtube.com/embed/4nRLjMUiCL0" title="Unity Secondary - Clubs & Societies CCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### CCA Policy – LEAPS 2.0
+
+LEAPS 2.0 is a framework to recognise secondary school students’ holistic development.  
+Please click [**here**](https://unitysec.moe.edu.sg/our-people/students/cca/cca-policy-leaps-2-0)**link isomer** to learn more about LEAPS 2.0.
