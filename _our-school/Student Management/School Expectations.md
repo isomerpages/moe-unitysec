@@ -142,7 +142,7 @@ The school’s School Rules and Code of Conduct are set up to inculcate good hab
 | 4.5 | Disposable cutlery and plastic bottles are not allowed outside the school canteen. |
 |  |  |
 
-##### <center>_Leading Self, Serving Others_</center>
+##### <center>Leading Self, Serving Others</center>
 	
 | 5. | **Punctuality and Attendance** |
 |:---:|---|
@@ -185,4 +185,19 @@ The school’s School Rules and Code of Conduct are set up to inculcate good hab
 | 8.7 | Students who infringe rules of the usage of mobile phones and other personal electronic devices may have their devices removed for safe-keeping. |
 |  |  |
 
+| 9. | **Unauthorised items** |
+|:---:|---|
+|  | All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others. Unauthorised items such as dangerous tools, weapons, any weapon-like item, illegal substances, cigarettes or lighters are strictly prohibited. |
+| 9.1 | All such items will be confiscated permanently. |
+| 9.2 | Students in possession of such items are deemed to have committed a major offence. |
+| 9.3 | Disciplinary action will be taken accordingly to ensure the safety of the school community. |
+|  |  |
+
+| 10. | **Major Offences** |
+|:---:|---|
+|  | The School reserves the right to take actions deemed appropriate for the best interest of the students, staff, school, and community at large. The School also reserves the right to review the School Rules and Code of Conduct and make amendments where necessary. |
+| 10.1 | Consequences for these offences include: detention, caning and/or suspension from school, a change in conduct rating, corrective work order, students’ work being awarded a zero mark (for test- and examination-related offences) and counselling. These will be meted out on a case-by-case basis. |
+| 10.2 | Parent/Guardian-Teacher conferences will also be conducted as part of our efforts to partner with parents and guardians in the discipline and support of students. |
+| 10.3 | Students who have committed major offences will not be allowed to represent Unity Secondary School for any events. They will not be eligible for any awards, incentives and/ or go on overseas trips. |
+|  |  |
 
