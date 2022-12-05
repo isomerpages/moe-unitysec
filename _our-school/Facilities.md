@@ -18,3 +18,7 @@ description: ""
 | G | Canteen<br>Gymnasium<br>Student Development Office<br>Discipline Room<br>Boys' Brigade Room<br>Scouts Room<br>Unity Council Room<br>Bookshop | Hall | AV Control Room |  |
 | H |  Indian Orchestra Room | IT Centre | Music Room | Water Tank |
 |  |  |  |  |  |
+
+#### Virtual Tour of the school
+
+<iframe width="800" height="472" src="https://www.youtube.com/embed/Ydn2fKqMeao" title="USS Virtual Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
