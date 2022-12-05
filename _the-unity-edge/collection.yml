@@ -2,6 +2,7 @@ collections:
   the-unity-edge:
     output: true
     order:
+      - Learning for Life Programme (LLP).md
       - Key Programmes.md
       - Direct School Admission (DSA)/.keep
       - Direct School Admission (DSA)/Basketball.md
