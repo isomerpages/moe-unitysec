@@ -2,11 +2,11 @@ collections:
   the-unity-edge:
     output: true
     order:
-      - Character & Leadership Program/National Education.md
       - Character & Leadership Program/.keep
       - Character & Leadership Program/Character and Leadership Learning.md
       - Character & Leadership Program/Cyber Wellness.md
       - Character & Leadership Program/Sexuality Education.md
+      - Character & Leadership Program/National Education.md
       - Key Programmes.md
       - Direct School Admission (DSA)/.keep
       - Direct School Admission (DSA)/Basketball.md
