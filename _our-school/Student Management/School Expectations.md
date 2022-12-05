@@ -94,5 +94,26 @@ The school’s School Rules and Code of Conduct are set up to inculcate good hab
 |  | Students must adhere to hair guidelines at all times. Students may be sent for a haircut by a barber appointed by the School if hair guidelines are not adhered to. |
 |  |  |
 
-
-
+|  |  |
+|:---:|---|
+|  | **Guidelines for boys** |
+| a. | Boys’ hair must be short, neat and tidy with natural colour. |
+| b. | There must be no tinting, dyeing, highlighting or perming of hair. |
+| c. | Fringe must not fall across cheeks or cover the eyebrow when combed down. |
+| d. | Hair at the back should not touch the collar. There should be a distinctive and gradual slope. The slope should not be stepped, undercut or overlap. |
+| e. | Hair at the crown must not be too thick or bushy. |
+| f. | Hair at the sides must not touch the ears. Side-burns are not allowed. |
+| g. | Hair should not incorporate undercuts or overlap or any other inappropriate styles. |
+| h. | Hair products are to be used only to keep the hair neat and in place. They are not meant to create fancy designs. |
+| i. | Male students must be clean-shaven and neat in appearance. |
+| j. | Beard and moustache are not allowed. |
+| k. | Fingernails must be short and unvarnished. |
+|  |  |
+|  | **Guidelines for girls.** |
+| k. | Girls’ hair must be neat and tidy with natural colour. |
+| l. | Girls should not have any inappropriate or outlandish hairstyle. |
+| m. | No tinting, dyeing, highlighting or perming of hair. |
+| n. | Hair must not fall across cheeks or cover the eyes. |
+| o. | Long hair must be tied up neatly with simple hair accessories that are black in colour. |
+| p. | Fingernails must be short and unvarnished. |
+|  |  |
