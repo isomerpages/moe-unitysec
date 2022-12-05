@@ -16,6 +16,6 @@ The Hosting programme was a wonderful experience that strengthened the friendshi
 
 <img src="/images/Group Photo.jpeg" style="width:85%"><br>
 
-<img src="/images/eng1.jpeg" style="width:85%"><br>
+<img src="/images/Twinning Programme.jpeg" style="width:85%"><br>
 
-<img src="/images/eng1.jpeg" style="width:85%">
+<img src="/images/Learning together with student from Ramadevi.jpeg" style="width:85%">
