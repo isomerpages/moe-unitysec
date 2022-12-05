@@ -2,9 +2,9 @@ collections:
   the-unity-edge:
     output: true
     order:
-      - Internationalisation Programme/Twinning Program.md
-      - Internationalisation Programme/International Immersion Programme.md
       - Internationalisation Programme/.keep
+      - Internationalisation Programme/International Immersion Programme.md
+      - Internationalisation Programme/Twinning Program.md
       - Key Programmes.md
       - Direct School Admission (DSA)/.keep
       - Direct School Admission (DSA)/Basketball.md
