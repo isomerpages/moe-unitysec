@@ -2,9 +2,9 @@ collections:
   our-school:
     output: true
     order:
-      - Student Management/School Safety.md
-      - Student Management/School Expectations.md
       - Student Management/.keep
+      - Student Management/School Expectations.md
+      - Student Management/School Safety.md
       - Principal's Message.md
       - School History.md
       - Motto, Mission and Vision.md
