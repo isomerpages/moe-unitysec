@@ -42,3 +42,17 @@ Unity Secondary School welcomed her third Principal, Mr Chan Ying Yin, on 15 Dec
  </figcaption>
 </figure>
 
+<img src="/images/history 8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/history 9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/history 10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
+
+In 2014, the school celebrated 15 Years of Unity (15th School Anniversary) by setting two records in the Singapore Book of Records: achieving the “**Most Number of People Bouncing Basketball at the Same Time**” in the event “The Unity Bounce” and creating the “**Largest Thumbprint Art**” in the project “Thumbs-up in Unity”. The talent of Unitians and parents were showcased in “The Unity Spirit Art Exhibition” and musical “Rhapsody in Unity III”.
+
+<img src="/images/photo1670241539.jpeg" style="width:85%">
+
+On 15 December 2015, Mdm Aini Maarof took over as the fourth principal of the school. Under the leadership of the new principal, Unity Secondary School continues to strive towards the School Mission of _"Empowering Our Students to Develop Themselves to Their Fullest Potential and Contribute to Society"_, guided by the Unity Thrust :
+
+<img src="/images/school thrust.jpg" style="width:85%">
+
+As a testament to the efforts and contributions of staff, students and our partners in the journey towards school excellence, Unity Secondary School made significant achievements in many areas. The school is accorded niche school status by MOE in Basketball since 2009 and in Uniformed Groups since 2012. For a holistic student-centric, values-driven education, the school has developed and implemented two distinctive programmes in 2015 aligned to the School Motto. These distinctive programmes aim to develop our students into Confident Persons, Self-Directed Learners, Concerned Citizens and Active Contributors as spelt out in the student outcomes of the MOE 21st Century Competencies Framework. The Unity Applied Learning Programme (ALP), _"Inspire through Agro-Bio Science and Technology"_, enables students to understand the relevance of STEM(Science, Technology, Engineering, and Mathematics) education in solving real life problems. The Unity Learning for Life Programme(LLP), _"Lead through Outdoors and Sporting Adventures"_, entails a three-year self-discovery leadership journey where students learn to lead themselves, others and teams.
