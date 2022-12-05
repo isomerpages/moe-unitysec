@@ -2,6 +2,7 @@ collections:
   the-unity-edge:
     output: true
     order:
+      - Internationalisation Programme/International Immersion Programme.md
       - Internationalisation Programme/.keep
       - Key Programmes.md
       - Direct School Admission (DSA)/.keep
