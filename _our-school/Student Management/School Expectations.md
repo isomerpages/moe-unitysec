@@ -41,3 +41,33 @@ The school’s School Rules and Code of Conduct are set up to inculcate good hab
 
 <img src="/images/fig2.png" style="width:85%">
 
+| 3.1 | **School Uniform** |
+|:---:|---|
+|  | The full school uniform should be worn on all days when students do not have PE lessons or official sport activities during curriculum time. It consists of: |
+| a. | School collared shirt and pants, |
+| b. | School blouse and skirt, |
+| c. | School collar badge, |
+| d. | Unity socks and black shoes. |
+|  |  |
+
+| 3.2 | **PE Attire** |
+|:---:|---|
+|  | The PE attire should be worn during PE lessons and when students are taking part in various official school events, as prescribed by a teacher. It consists of: |
+| a. | School PE shirt, |
+| b. | School PE shorts |
+| c. | Please note the following for wearing the PE attire:<br><br>_Students having PE lessons before recess are allowed to wear their PE attire to school. However, they must change into their full school uniform during recess. If PE lessons are held after recess, students are to wear their full school uniform to school. They are only allowed to change into their PE attire during recess._ |
+|  |  |
+
+| 3.3 | **Putting on the School Uniform and PE Attire** |
+|:---:|---|
+| a. | No modification of the school uniform and PE attire is allowed. |
+| b. | The school uniform and PE attire must be worn in a dignified manner. |
+| c. | All students must wear the school collar badge on the left side of the collar. |
+| d. | All students are to wear black shoes with black laces and Unity socks. |
+| e. | Socks must cover the ankles. |
+| f. | Slippers are not to be worn in the school premises at any time. |
+| g. | Students with medical conditions must seek special permission to wear special footwear. |
+| h. | During cold / rainy weather, only plain and simple sweaters are allowed. |
+|  |  |
+
+
