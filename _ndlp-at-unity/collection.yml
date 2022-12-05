@@ -2,10 +2,10 @@ collections:
   ndlp-at-unity:
     output: true
     order:
-      - Parents Tool Kit/Learning & Communication Platforms.md
       - Parents Tool Kit/.keep
       - Parents Tool Kit/Parents Tool Kit.md
       - Parents Tool Kit/Learning Device.md
       - Parents Tool Kit/Learning Structures.md
+      - Parents Tool Kit/Learning & Communication Platforms.md
       - NDLP@Unity.md
       - Updates.md
