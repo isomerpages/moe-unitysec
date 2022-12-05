@@ -66,15 +66,64 @@ _Applicants will go through an interview on the selection day._
 
 | **Important Dates** | **DSA Process** |
 |:---:|---|
+| 5 May 2022, Thursday | Start of application process at **11am** |
+| 1 June 2022, Wednesday | Application ends at **3pm** |
+| 2 July 2022, Saturday | DSA Selection 1 |
+| 16 July 2022, Saturday | DSA Selection 2 (for those who cannot make it for selection 1) |
+| By 12 September 2022 | Notification of DSA-Sec Admission via post. All applicants will receive a letter. Please inform the school if you do not receive a letter. |
+| 31 October 2022 to<br><br>4 November 2022, 3pm | School Preference Submission<br><br>DSA-Sec candidates who receive at least one DSA-Sec offer may indicate up to three school preferences. They can do so online via the DSA-Sec portal or at their primary schools. |
 |  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+
+1 \.    Parents can log in to the DSA-Sec portal with SingPass to apply. 
+
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
+
+2 \.    If you are unable to apply online, approach your child's primary school for assistance.
+
+Closing date for DSA application is **1 June 2022**.
+
+Given the prevailing national posture, DSA-Sec schools will be conducting **in-person selection for all DSA talent areas for 2022 DSA-Sec**, with the prevailing safe management measures (SMMs) in place to ensure the safety of students and staff.
+
+All applicants will be notified of the outcome of their application via post by **12 September 2022.**
+
+Note:
+
+Other applicants not studying in MOE mainstream primary schools. They need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Schools may refer them to MOE website at: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application).
+
+#### Contacts
+
+Mr Low Yee Fun<br>
+HOD PE/CCA<br>
+Tel: 67671070 ext 210<br>
+Email: [low\_yee\_fun@moe.edu.sg](mailto:low_yee_fun@moe.edu.sg)
+
+Mr Toh Yong Yuan<br>
+DSA Coordinator  
+Tel: 67671070 ext 288  
+Email: [toh\_yong\_yuan@moe.edu.sg](mailto:toh_yong_yuan@moe.edu.sg)
+
+General Office <br>
+67671070<br>
+Email: [unity\_ss@moe.edu.sg](mailto:unity_ss@moe.edu.sg)
+
+#### Frequently Asked Questions
+
+**<u>_Actualising Sportsmanship Through Volleyball Programme_</u>**
+
+ **1 \. How do I apply?**
+
+Students can apply through the DSA-Sec portal with their parent’s SingPass. Alternatively, students and parents may approach the primary school for assistance.  
+
+**2 \. When and how will I know the results of my application?**  
+
+All applicants will be informed of the results of their application by post.
+
+**3 \. What is the frequency and duration of the volleyball training?**  
+
+Volleyball training will be twice per week (Wed and Fri). 2-3 hours per session.
+
+**4 \. Must my child meet your schools’ minimum cut-off points even if he is selected through DSA for admission to your school?**
+
+Under the DSA-Sec Exercise, participating secondary schools will be able to select a percentage of their students for admission outside of the centralised posting system, via their own selection criteria. As long as your child equalities for either the Express, Normal Academic or Normal Technical stream, he/she is eligible for admission to our school via DSA.
+
+Updated: 5th May 2022
