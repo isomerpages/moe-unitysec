@@ -117,3 +117,45 @@ The school’s School Rules and Code of Conduct are set up to inculcate good hab
 | o. | Long hair must be tied up neatly with simple hair accessories that are black in colour. |
 | p. | Fingernails must be short and unvarnished. |
 |  |  |
+
+##### Table 1.
+
+**IMAGE NOT FOUND IN ORIGINAL SITE**
+
+**Sideburn should not exceed mid-ear level**<br>
+**Hair at the front must be above both eyebrows**<br>
+**Hair at the back must be sloped and should not touch the collar**
+
+**IMAGE NOT FOUND IN ORIGINAL SITE**
+
+**Fringe should be above the eyebrows.**<br>
+**Long hair must be tied up**<br>
+**Only black hair accessories with simple designs are allowed**
+
+| 4. | **School Properties and Cleanliness** |
+|:---:|---|
+|  | School property should be handled with pride and care. There must be no misuse or act of vandalism of school property. Students should report any damaged property to the Operations Manager immediately. |
+| 4.1 | Students must return all furniture, equipment, or instruments to their respective places/classrooms after use. |
+| 4.2 | No students is allowed to enter the Staff Room, Staff Lounge, Staff Toilets, and Special Rooms such as the science and computer laboratories, and technical workshops without the presence of a teacher or school staff. |
+| 4.3 | Students are not allowed to stay in the classrooms during recess or lunch breaks, or when there is no lesson being conducted unless permission has been granted by a teacher. |
+| 4.4 | All students are to refrain from taking food and/or drinks to premises beyond the school canteen. All food and drinks are to be consumed in the school canteen only. |
+| 4.5 | Disposable cutlery and plastic bottles are not allowed outside the school canteen. |
+|  |  |
+
+##### <center>_Leading Self, Serving Others_</center>
+	
+| 5. | **Punctuality and Attendance** |
+|:---:|---|
+|  | Punctuality is an important habit to be cultivated among students. |
+| 5.1 | All students are to attend the morning assembly, scheduled lessons, talks, CCA sessions and school events punctually. |
+| 5.2 | A student is considered to be late for school when he/she fails to be with his/her class at the point of assembly (parade square/hall/classrooms) at 7.25am. |
+| 5.3 | Students who are absent from school must inform their parents to call up the school to inform the General Office staff on the morning of their absence. |
+| 5.4 | Students who are absent will be marked as "Absent with Medical Certificate" if their absence is accompanied by a Medical Certificate(MC). |
+| 5.5 | Students who are absent maybe marked or "Absent with Valid Reason" on a case-by-case basis if their absence is accompanied by a letter of excuse from parents/guardians.<br><br>_a._ The School may seek clarification with parent/guardian and reserve the right not to accept letters.<br><br>_b._ Letters of Excuse from parents/guardians are not valid for absence from a class test or examinations. |
+| 5.6 | Students must submit their MC or parents' letter on the day they return to school. Students will be considered to be playing truant if no supporting documents are submitted within 3 days of a student's return from absence. |
+| 5.7 | Students who are late must take responsibility of his/her attendance by:<br><br>_a._ Proceeding to the General Office to obtain a late-coming slip for his/her attendance to be taken before returning to class.<br><br>_b._ Submitting the late-coming slip to the character coaches /subject teacher for permission to join the class. |
+| 5.8 | Students who arrive more than 30 minutes late for school without valid reason will be subjected to disciplinary actions. |
+| 5.9 | Late-comers will have to see Level Mentors or Student Managers for further remediation after school. |
+| 5.10 | Students who do not achieve 75% attendance within a school year may be deemed ineligible to take the school's promotional examinations. |
+|  |  |
+
