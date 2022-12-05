@@ -201,3 +201,11 @@ The school’s School Rules and Code of Conduct are set up to inculcate good hab
 | 10.3 | Students who have committed major offences will not be allowed to represent Unity Secondary School for any events. They will not be eligible for any awards, incentives and/ or go on overseas trips. |
 |  |  |
 
+##### Table 2.
+
+<img src="/images/photo1670243745.jpeg" style="width:85%">
+
+##### Discipline Referral Process
+
+<img src="/images/19_1 - Discipline Referral Process.png" style="width:85%">
+
