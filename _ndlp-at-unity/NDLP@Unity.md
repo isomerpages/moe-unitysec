@@ -35,3 +35,30 @@ _The above pictures illustrate how students can use their personal learning devi
 <img src="/images/ndlp6.jpg" style="width:51%" align=right>
 <br clear="left"><br>
 
+**3 \.** Students ‘**Apply**’ – students will be able to use learning in real life context and learn beyond the classroom. The world is our classroom.
+
+<img src="/images/ndlp7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/ndlp8.jpg" style="width:35%;margin-right:15px;" align = "left">
+<img src="/images/ndlp9.jpg" style="width:26%;margin-right:15px;" align = "left">
+<br clear="left">
+
+_The above pictures illustrate how students can use their personal learning device in their daily learning._
+
+**4 \.** Students ‘**Refine**’ – students are able to apply reflection and deepen their understanding of all subjects and continue to learn.
+
+**To achieve our vision:**  
+  
+All Unitians will have access to quality devices and resources for learning to take place anytime, anywhere and at their own pace.
+
+#### Personal Learning Device
+
+The device that was selected is the chromebook:
+
+<figure>
+<figcaption><b>This device best meets our schools requirements of:
+ </figcaption>
+<img src="/images/download.png" style="width:90%">
+</figure>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e2HdZVn4V68" title="What is a Chromebook?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
