@@ -35,3 +35,22 @@ Lower Secondary (Secondary One and Two)
 Upper Secondary (Secondary Three to Five)   
   
 At the end of Secondary Two, all students will take part in the Subject Option Exercise to decide the subject combinations they will offer at the upper secondary levels.
+
+| Express Course | Normal Academic Course | Normal Technical Course |
+|:---:|---|---|
+| 7 or 8 O-Level examinable subjects | 6 N-Level Examinable Subjects    <br><br>\*Eligible students may sit for the O-Level Examination at the end of Sec 4 for up to 3 subjects | 5 N-Level Examinable Subjects |
+| Physical Education   <br>Character and Leadership Education | Physical Education   <br>Character and Leadership Education | Physical Education  <br>Character and Leadership Education   <br>Music |
+|  |  |  |
+
+Examinable Subjects
+
+| O-Level | N-Level (Normal Academic) | N-Level (Normal Technical) |
+|:---:|---|---|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
