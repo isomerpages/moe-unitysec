@@ -2,6 +2,7 @@ collections:
   the-unity-edge:
     output: true
     order:
+      - Special Programmes/Talent Development Program.md
       - Special Programmes/.keep
       - Special Programmes/Aesthetic Programs.md
       - Special Programmes/Aesthetic Enrichment Modules.md
