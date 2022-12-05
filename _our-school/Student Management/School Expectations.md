@@ -159,3 +159,30 @@ The school’s School Rules and Code of Conduct are set up to inculcate good hab
 | 5.10 | Students who do not achieve 75% attendance within a school year may be deemed ineligible to take the school's promotional examinations. |
 |  |  |
 
+| 6. | **Safety and Personal Belongings** |
+|:---:|---|
+|  | Students are discouraged from bringing expensive items/gadgets, or large amounts of cash to school. To help ensure students' personal safety and protection, students should practice vigilance at all times. |
+| 6.1 | Students are to keep their valuables with them at all times. Personal valuables should not be left in a class rooms or open space unattended. |
+| 6.2 | It is students' individual responsibility to ensure that their belongings are kept safe or in-sight at all times. |
+| 6.3 | Students may opt to make use of school lockers to safe keep their belongings. |
+|  |  |
+
+| 7. | **Cyber Wellness** |
+|:---:|---|
+|  | All students must be responsible for their actions and words online. Respect and compassion should be demonstrated in students' use of social media platforms or any online applications. Inappropriate usage of online platforms and tools will not be tolerated. |
+| 7.1 | Students should protect themselves from cyber crimes by observing good and safe practices online; should report any inappropriate activities to the school. |
+|  |  |
+
+| 8. | **Electronics Devices** |
+|:---:|---|
+|  | While in school, the use of electronic devices such as mobile phones, smart watches, tablets etc. should primarily serve as tools of communication in times of emergency. Electronic devices should not be serve as distractions during official school activities. |
+| 8.1 | Students are not to use their mobile phones in any venues deployed for teaching and learning. These venues includes all classrooms, laboratories, library, special rooms, school hall etc. |
+| 8.2 | The use of electronic devices is not allowed during official school activities unless sanctioned by the teacher-in-charge. |
+| 8.3 | Electronic devices must be kept in the school bag and not to be left on or under the desk. |
+| 8.4 | Students must ensure that their mobile phones are on silent at all times. |
+| 8.5 | Charging of electronic devices in school is not allowed or else they will be removed for safe-keeping. |
+| 8.6 | Students shall be responsible and accountable for the safe-keeping of their personal devices. The school is not responsible for the loss of any personal devices. |
+| 8.7 | Students who infringe rules of the usage of mobile phones and other personal electronic devices may have their devices removed for safe-keeping. |
+|  |  |
+
+
