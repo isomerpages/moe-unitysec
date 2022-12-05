@@ -61,3 +61,27 @@ b.    Character and Citizenship Education (CCE)
 
 **<u>Secondary 5</u>**<br>
 **Unit: Respectful Relationships & Safety**
+
+_\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._ 
+
+**<u>_eTeens_** **Programme</u>**:
+
+8 \.         _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9 \.         Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Unity Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+#### Information for Parents
+
+10 \.       Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11 \.       Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an online opt-out form via Parents’ Gateway by 11/03/2022. The online form will be made available in Parents' Gateway on 11/2/2022.
+
+12 \.       Parents who wish to opt their children out of the **_eTeens_** **programme** (for secondary three students only) need to complete an online opt-out form via Parents’ Gateway by 11/03/2022. The online form will be made available in Parents' Gateway on 11/2/2022.
+
+13 \.       Parents can contact the school at 67671070 for discussion or to seek clarification about the school’s sexuality education programme.
+
+14 \.       Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements. 
+
+Updated: 28 Jan 2022
