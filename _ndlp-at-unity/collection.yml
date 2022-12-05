@@ -2,6 +2,7 @@ collections:
   ndlp-at-unity:
     output: true
     order:
+      - FAQ.md
       - NDLP@Unity.md
       - Updates.md
       - Parents Tool Kit/.keep
