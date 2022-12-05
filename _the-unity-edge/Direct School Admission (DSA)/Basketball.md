@@ -6,7 +6,7 @@ third_nav_title: Direct School Admission (DSA)
 ---
 ## Basketball
 
-<center><u><b>Direct School Admission (DSA)<br>Actualising Sportsmanship Through Basketball Programme</u></b></center>
+##### <center>Direct School Admission (DSA)<br>Actualising Sportsmanship Through Basketball Programme</center>
 
 #### Background
 
@@ -45,3 +45,6 @@ Unity Secondary School has a comprehensive development programme to groom our ba
 We have a team of passionate, committed and experienced teachers and coaches who oversee the physical, social and emotional well-being as well as the **academic progress** of the players.
 
 **For more information on our school and DSA programmes, do visit our DSA website at** [https://tinyurl.com/unitydsa](https://tinyurl.com/unitydsa).
+
+	
+	
