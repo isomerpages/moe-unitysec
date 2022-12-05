@@ -2,6 +2,7 @@ collections:
   the-unity-edge:
     output: true
     order:
+      - Special Programmes/Aesthetic Programs.md
       - Special Programmes/.keep
       - Key Programmes.md
       - Direct School Admission (DSA)/.keep
