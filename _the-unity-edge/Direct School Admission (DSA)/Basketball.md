@@ -109,3 +109,33 @@ Email: [toh\_yong\_yuan@moe.edu.sg](mailto:toh_yong_yuan@moe.edu.sg)
 General Office  <br>
 67671070<br>
 Email: [unity\_ss@moe.edu.sg](mailto:unity_ss@moe.edu.sg)
+
+#### Frequently Asked Questions
+
+**<u>_Actualising Sportsmanship Through Basketball Programme_</u>** 
+
+**1 \. Who can apply for DSA?**
+
+All Primary 6 students who meet the selection criteria.  
+  
+**2 \. How do I apply?**  
+
+Students can apply through the DSA-Sec portal with their parent’s SingPass. Alternatively, students and parents may approach the primary school for assistance.  
+  
+**3 \. Are there any specific selection criteria?**
+
+Basketball skill test, interview and primary school academic results will be taken into consideration for the DSA selection.
+
+**4 \. When and how will I know the results of my application?**  
+
+All applicants will be informed of the results of their application by post.
+
+**5 \. What is the frequency and duration of the basketball training?**  
+
+Basketball training will be thrice per week (Mon, Wed and Fri). 2-3 hours per session.
+
+**6 \. Must my child meet your schools’ minimum cut-off points even if he is selected through DSA for admission to your school?**
+
+Under the DSA-Sec Exercise, participating secondary schools will be able to select a percentage of their students for admission outside of the centralised posting system, via their own selection criteria. As long as your child equalities for either the Express, Normal Academic or Normal Technical stream, he/she is eligible for admission to our school via DSA.
+
+_Updated : 5th May, 2022_
