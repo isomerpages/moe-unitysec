@@ -11,3 +11,5 @@ links:
         url: /departments/dept/
       - title: Students
         url: /students/Students-Resources/sr/
+  - title: Our School
+    collection: departments
