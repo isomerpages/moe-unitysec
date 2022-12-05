@@ -24,3 +24,24 @@ Our vision is to nurture students to Lifelong Learners, Inspiring Leaders. We be
 
 The tables below summarises our basketball achievements which affirms the effective structures and processes that we have put in place within the programme despite our school’s short history.
 
+<img src="/images/photo1670247186.jpeg" style="width:49%" align=left>
+<img src="/images/photo1670247199.jpeg" style="width:47%" align=right>
+<br clear="left"><br>
+
+_\*Unity Sec did not send a B Division Boys team in 2001 and 2002. Unity Sec started the Basketball girls programme in 2003 and did not send a B Division Girls team in 2004 and 2005. NSG was cancelled in 2020._
+
+Over the past few years, Unity has produced many outstanding players who went on to represent Singapore Schools as well as Singapore at youth, national and professional levels. Unity Secondary School provides a **conducive environment for our players to develop character and to achieve excellence.**
+
+#### Programme 
+
+Unity Secondary School has a comprehensive development programme to groom our basketballers into outstanding players.  Besides building the essential skills and knowledge, the programme is structured to provide players with a range of experiences that go beyond just playing of the game. These include
+
+*   Umpiring matches
+*   Organising intra- and inter-school tournaments
+*   Coaching junior players
+*   Mental Strength Training
+*   Overseas Training Tours
+
+We have a team of passionate, committed and experienced teachers and coaches who oversee the physical, social and emotional well-being as well as the **academic progress** of the players.
+
+**For more information on our school and DSA programmes, do visit our DSA website at** [https://tinyurl.com/unitydsa](https://tinyurl.com/unitydsa).
