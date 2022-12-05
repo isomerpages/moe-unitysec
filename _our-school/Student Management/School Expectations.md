@@ -70,4 +70,29 @@ The school’s School Rules and Code of Conduct are set up to inculcate good hab
 | h. | During cold / rainy weather, only plain and simple sweaters are allowed. |
 |  |  |
 
+| 3.4 | **Class T-Shirt (Optional Attire)** |
+|:---:|---|
+| a. | The use of Class T-shirts can be a good way to promote class identity and help foster strong bonds among classmates. The Class T-shirt is highly visible and easily identifiable when worn in the school or in public. |
+| b. | It is recommended that class T-shirt designs do not include individual students’ names for safety reasons. They may include students’ index numbers instead. |
+| c. | No offensive words or graphics are allowed. The use of slang words should be avoided. |
+| d. | Class slogans are permitted but these should be phrased in proper, grammatical form. |
+| e. | Design must include ‘Unity Secondary School’ or ‘USS’. |
+| f. | Design must be vetted and approved by the Discipline Committee. |
+|  |  |
+
+| 3.5 | **Accessories and Make-up** |
+|:---:|---|
+|  | Students are not allowed to wear unnecessary accessories to school. |
+| a. | No earrings, chokers, neck/wrist chains, fancy watch straps, other forms of jewellery and accessories are allowed. |
+| b. | Boys are not allowed to wear any forms of ear studs or ear sticks. Girls are allowed only 1 pair of simple ear studs that should not be more than 2mm in diameter. |
+| c. | Fanciful spectacles and coloured contact lenses are not allowed. |
+| d. | Makeup on the face or body; tattoos and/or any form of body art is not allowed. |
+|  |  |
+
+| 3.6 | **Hairstyle and Personal Hygiene** |
+|:---:|---|
+|  | Students must adhere to hair guidelines at all times. Students may be sent for a haircut by a barber appointed by the School if hair guidelines are not adhered to. |
+|  |  |
+
+
 
