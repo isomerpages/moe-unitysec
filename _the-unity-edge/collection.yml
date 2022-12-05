@@ -2,7 +2,6 @@ collections:
   the-unity-edge:
     output: true
     order:
-      - Pastoral Care & Discipline.md
       - Key Programmes.md
       - Direct School Admission (DSA)/.keep
       - Direct School Admission (DSA)/Basketball.md
@@ -21,3 +20,4 @@ collections:
       - Character & Leadership Program/Sexuality Education.md
       - Character & Leadership Program/National Education.md
       - Character & Leadership Program/Values in Action.md
+      - Pastoral Care & Discipline.md
