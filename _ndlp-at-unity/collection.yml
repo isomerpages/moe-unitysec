@@ -2,7 +2,6 @@ collections:
   ndlp-at-unity:
     output: true
     order:
-      - Parents Tool Kit/Support You May Need.md
       - Parents Tool Kit/.keep
       - Parents Tool Kit/Parents Tool Kit.md
       - Parents Tool Kit/Learning Device.md
@@ -10,5 +9,6 @@ collections:
       - Parents Tool Kit/Learning & Communication Platforms.md
       - Parents Tool Kit/Managing Child's Use of Device.md
       - Parents Tool Kit/Partnering Schools.md
+      - Parents Tool Kit/Support You May Need.md
       - NDLP@Unity.md
       - Updates.md
