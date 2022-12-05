@@ -46,11 +46,5 @@ Examinable Subjects
 
 | O-Level | N-Level (Normal Academic) | N-Level (Normal Technical) |
 |:---:|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| English  <br>Chinese Language  <br>Malay Language  <br>Tamil Language  <br>Higher Chinese  <br>Higher Malay  <br>Higher Tamil  <br>Elementary<br>Mathematics  <br>Additional Mathematics  <br>Principles of Accounts  <br>Biology  <br>Chemistry  <br>Physics  <br>Science (Chemistry/Biology)  <br>Science(Chemistry/Physics)  <br>Geography  <br>English Literature  <br>Combined Humanities (SS/GE)\*  <br>Combined Humanities (SS/HE)\*  <br>Design and Technology   <br>Food and Nutrition<br><br><br>\*SS - Social Studies  <br>\*GE - Geography Elective  <br>\*HE - History Elective | English  <br>Chinese Language  <br>Malay Language  <br>Tamil Language  <br>Elementary Mathematics  <br>Additional Mathematics  <br>Principles of Accounts  <br>Science(Chemistry/Physics)  <br>Combined Humanities (SS/GE)\*  <br>Combined Humanities (SS/HE)\*  <bR>Design and Technology   <br>Food and Nutrition  <br>Art<br><br><br>\*SS - Social Studies  <br>\*GE - Geography Elective  <br>\*HE - History Elective | English  <br>Basic Chinese  <br>Basic Malay  <br>Basic Tamil  <br>Elementary Mathematics  <br>Science  <br>Elements of Business Skills  <br>Computer Applications  <br>Design and Technology |
 |  |  |  |
