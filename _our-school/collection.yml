@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - School Advisory Committee.md
       - Principal's Message.md
       - School History.md
       - Motto, Mission and Vision.md
@@ -10,3 +9,4 @@ collections:
       - Student Management/.keep
       - Student Management/School Expectations.md
       - Student Management/School Safety.md
+      - School Advisory Committee.md
