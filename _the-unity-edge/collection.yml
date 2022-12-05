@@ -2,8 +2,8 @@ collections:
   the-unity-edge:
     output: true
     order:
-      - Academic Learning.md
       - Key Programmes.md
       - Direct School Admission (DSA)/.keep
       - Direct School Admission (DSA)/Basketball.md
       - Direct School Admission (DSA)/Volleyball.md
+      - Academic Learning.md
