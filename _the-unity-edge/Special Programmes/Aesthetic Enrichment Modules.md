@@ -12,22 +12,22 @@ This culminated in the Sec 1 AEM Showcase, where each of the 5 guitar, 3 dance a
 
 Apart from staff and students, more than 100 parents also came to support their children and see for themselves what they had learnt.
 
-<img src="/images/eng1.jpeg" style="width:85%">
+<img src="/images/AEM (1).jpg" style="width:85%"><br>
 
-<img src="/images/eng1.jpeg" style="width:85%">
+<img src="/images/AEM (7).jpg" style="width:85%"><br>
 
-<img src="/images/eng1.jpeg" style="width:85%">
+<img src="/images/AEM (8).jpg" style="width:85%"><br>
 
-<img src="/images/eng1.jpeg" style="width:85%">
+<img src="/images/AEM (10).jpg" style="width:85%"><br>
 
-<img src="/images/eng1.jpeg" style="width:85%">
+<img src="/images/AEM (11).jpg" style="width:85%"><br>
 
-<img src="/images/eng1.jpeg" style="width:85%">
+<img src="/images/AEM Showcase (1).jpg" style="width:85%"><br>
 
-<img src="/images/eng1.jpeg" style="width:85%">
+**IMAGE SIZE EXCEEDS 5MB**
 
-<img src="/images/eng1.jpeg" style="width:85%">
+**IMAGE SIZE EXCEEDS 5MB**
 
-<img src="/images/eng1.jpeg" style="width:85%">
+<img src="/images/AEM Showcase (4).jpg" style="width:85%"><br>
 
-<img src="/images/eng1.jpeg" style="width:85%">
+<img src="/images/AEM Showcase (5).jpg" style="width:85%">
