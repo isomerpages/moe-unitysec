@@ -2,10 +2,10 @@ collections:
   the-unity-edge:
     output: true
     order:
-      - Special Programmes/Talent Development Program.md
       - Special Programmes/.keep
       - Special Programmes/Aesthetic Programs.md
       - Special Programmes/Aesthetic Enrichment Modules.md
+      - Special Programmes/Talent Development Program.md
       - Key Programmes.md
       - Direct School Admission (DSA)/.keep
       - Direct School Admission (DSA)/Basketball.md
