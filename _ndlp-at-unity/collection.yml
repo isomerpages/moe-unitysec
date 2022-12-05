@@ -2,4 +2,5 @@ collections:
   ndlp-at-unity:
     output: true
     order:
+      - Updates.md
       - NDLP@Unity.md
