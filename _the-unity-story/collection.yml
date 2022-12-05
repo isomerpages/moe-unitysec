@@ -2,6 +2,6 @@ collections:
   the-unity-story:
     output: true
     order:
-      - Achievements.md
       - The Unity Story.md
       - CCA Achievements.md
+      - Achievements.md
