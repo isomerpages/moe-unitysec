@@ -25,10 +25,12 @@ description: ""
 | MySkillsFuture Student Portal | [https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html) |
 | HRP Portal | [https://www.hrp.gov.sg/hrp/#/](https://www.hrp.gov.sg/hrp/#/) |
 | HR Online | [http://intranet.moe.gov.sg/hronline/Pages](http://intranet.moe.gov.sg/hronline/Pages) **ACCESS DENIED** |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| MOE Sports and Recreation Club | [https://www.mesrc.net](https://www.mesrc.net/) |
+| Parents Gateway Staff Portal | [https://pg.moe.edu.sg](https://pg.moe.edu.sg/) |
+| MOE Intranet | [http://intranet.moe.gov.sg](http://intranet.moe.gov.sg/) **SITE CANT BE REACHED** |
+| Code of Professional Conduct for Educators | [http://intranet.moe.gov.sg/academy/pages/Code/Codeofprofconduct.aspx](http://intranet.moe.gov.sg/academy/pages/Code/Codeofprofconduct.aspx) **SITE CANT BE REACHED** |
+| Ethos of the Teaching Profession | [http://intranet.moe.gov.sg/academy/Pages/ethos-teachprof.aspx](http://intranet.moe.gov.sg/academy/Pages/ethos-teachprof.aspx) **SITE CANT BE REACHED** |
+| ETD - Educational Technology Division | [http://intranet.moe.gov.sg/etd/Pages/index.aspx](http://intranet.moe.gov.sg/etd/Pages/index.aspx) **SITE CANT BE REACHED** |
+| Information Technology Division (ITD) Branch | [https://intranet.moe.gov.sg/itd/Pages/index.aspx](https://intranet.moe.gov.sg/itd/Pages/index.aspx) **SITE CANT BE REACHED** |
+| Singteach | [http://singteach.nie.edu.sg/](http://singteach.nie.edu.sg/) |
 |  |  |
