@@ -38,7 +38,7 @@ Our school offers a broad-based and ability driven CCA programme that will help 
 
 There will be a CCA briefing on 4 January 2022.  All Sec 1 students will have an opportunity to learn and experience the various CCAs that are offered in Unity Secondary School in week 1. (Refer to orientation programme above) 
 
-Please click [**here**](https://unitysec.moe.edu.sg/our-people/students/cca) **link isomer** to learn more about our CCAs in Unity Secondary School.
+Please click [**here**](/students/CCA/cca/) to learn more about our CCAs in Unity Secondary School.
 
 <b><u>Sports</u></b>
 
