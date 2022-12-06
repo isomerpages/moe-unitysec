@@ -40,7 +40,7 @@ Please click [**here**](http://hongkongtatkee.com/) to process your online pur
 
 Personal Learning Devices (PLDs)  transforms the learning environment as it allows teachers and students to harness technology for greater effectiveness in teaching and learning. The use of the personal learning devices for teaching and learning will support the development of digital literacies in our students as well as develop them as self-directed and collaborative learners.  
   
-For more information on the use of PLD in Unity, please click [**here**](https://unitysec-moe-edu-sg-admin.cwp.sg/ndlp-at-unity) **link isomer**.   
+For more information on the use of PLD in Unity, please click [**here**](/ndlp-at-unity/ndlp/).   
   
 **By end January 2022, parents/guardians would have received a letter from the school via Parents’ Gateway or hardcopy with details about the PLD.  More information of the device as well as the timeline for receiving the device will be shared through the Parents Engagement Sessions, PG announcements and via the school website updates.**
 
