@@ -8,7 +8,7 @@ third_nav_title: Students' Resources
 
 In case of a school closure, the students will be assigned Home Based Learning lessons and assignments via the **Student Learning portal (SLS)** :  [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)
 
-<u>**Support for Home-based Learning**</u>
+<u>Support for Home-based Learning</u>
   
 **School Operating Hours** <br>
 During school operating hours, students should contact the **School-based Helpline** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.  
@@ -16,7 +16,7 @@ During school operating hours, students should contact the **School-based Helpl
 **School-based Helpline: 67671070          
 Mondays - Fridays: am- 4:00pm**For other matters, students can email [unity\_ss@moe.edu.sg](mailto:unity_ss@moe.edu.sg). When emailing, they should include their full name, name of school and form class. 
 
-<u>**Self Help Website and Form**</u>
+<u>Self Help Website and Form</u>
 
 Self-help Form: [http://go.gov.sg/unitysecslshelp](http://go.gov.sg/unitysecslshelp) <br>(for unlocking account and resetting of password for SLS, IAMS/Student ICON email account)
 
