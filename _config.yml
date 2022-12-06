@@ -3,7 +3,7 @@ url: https://unitysec.moe.edu.sg
 favicon: /images/unity-secondary-school.jpg
 colors:
   primary-color: "#454545"
-  secondary-color: "#454545"
+  secondary-color: "#dec121"
   media-colors:
     - title: media-color-one
       color: "#dec121"
