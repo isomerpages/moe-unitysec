@@ -20,7 +20,7 @@ Please click **[here](/our-school/Student-Management/expectations/)** for more
 
 #### FAS 
 
-For students who are already on Financial Assistance Scheme (FAS) or intent to apply for FAS, please **do not** purchase your books and uniform yet. Please proceed to **[Step 5: Administrative Matters - MOE Financial Assistance Scheme (FAS) Application.](https://unitysec-moe-edu-sg-admin.cwp.sg/sec-1-registration-2022/step-5-administration-matters) link isomer**
+For students who are already on Financial Assistance Scheme (FAS) or intent to apply for FAS, please **do not** purchase your books and uniform yet. Please proceed to **[Step 5: Administrative Matters - MOE Financial Assistance Scheme (FAS) Application.](/sec-1-registration-2022/step5/)**
 
 #### Book Purchase
 
