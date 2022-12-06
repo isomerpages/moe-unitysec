@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENT 1
           description: Holiday Lesson & CCA Schedule
-          url: https://google.com
+          url: /students/Students-Resources/nov-holiday/
         - title: ANNOUNCEMENT 2
           description: Edusave Character Award (ECHA)
           url: https://gmail.com
