@@ -2,5 +2,5 @@ collections:
   contact-us:
     output: true
     order:
-      - Contact us Form.md
       - Address.md
+      - Contact us Form.md
