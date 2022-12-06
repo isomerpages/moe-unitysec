@@ -2,6 +2,6 @@ collections:
   unity-partners:
     output: true
     order:
-      - Parents/Parent’s Newsletter.md
-      - Parents/Parent’s Engagement Slides 2022.md
       - Parents/.keep
+      - Parents/Parent’s Engagement Slides 2022.md
+      - Parents/Parent’s Newsletter.md
