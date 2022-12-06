@@ -25,10 +25,10 @@ links:
   - title: Unity Partners
     collection: unity-partners
   - title: Contact Us
-    url: /permalink
+    url: /contact-us/Address/
     sublinks:
       - title: Address
-        url: /permalink
+        url: /contact-us/Address/
       - title: Official IG Account
         url: https://www.instagram.com/unitysec/
       - title: Contact us Form
