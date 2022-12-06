@@ -7,7 +7,7 @@ description: ""
 
 Please ensure that you can access Parents Gateway to complete the Sec 1 online registration. 
 
- 1 \.    Login to Parents Gateway. If you have not downloaded Parents Gateway, please click **[here](https://unitysec.moe.edu.sg/unity-partners/parents/parents-resources/parents-gateway) link isomer** and follow the instructions provided.
+ 1 \.    Login to Parents Gateway. If you have not downloaded Parents Gateway, please click **[here](/unity-partners/Parents/gateway/)** and follow the instructions provided.
 
  2 \.    You should receive notifications on the Parents Gateway app to complete the online registration by **23 December 2021**. Please **complete the _FormSG_**  found in the notification.
 
