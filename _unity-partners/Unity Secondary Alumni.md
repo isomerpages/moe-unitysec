@@ -19,3 +19,8 @@ description: ""
 
 #### The Unity Alumni
 
+##### <center>Who We Are</center>
+<center>We are a group of passionate Alumni of Unity Secondary with strong belief in inspiring our juniors. We aspire to connect all Unitians, Alumni and Current, to bring out the pride of Unity in every single Unitian.</center>
+
+##### <center>We Set Out To</center>
+
