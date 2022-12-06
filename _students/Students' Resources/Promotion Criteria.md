@@ -6,15 +6,15 @@ third_nav_title: Students' Resources
 ---
 ## Promotion Criteria
 
-<u>**Promotion to Secondary 2 and 3**</u>
+<u>Promotion to Secondary 2 and 3</u>
 
 To ensure a pass and be promoted, a student in the Express Stream must obtain 50% or more in English Language and a pass percentage in the average of all subjects. A student in the Normal Stream must obtain 50% or more in English Language and two other subjects.
 
-<u>**Promotion to Secondary 4**</u>
+<u>Promotion to Secondary 4</u>
 
 To be promoted to Secondary 4, a student in the Express Stream must secure a minimum Grade 6 in at least 3 subjects including English Language. A student in the Normal Stream must obtain a minimum Grade 5 in English Language and two other subjects to be promoted to Secondary 4.
 
-<u>**Promotion Criteria at a glance**</u>
+<u>Promotion Criteria at a glance</u>
 
 For more details, please refer to the following tables:
 
