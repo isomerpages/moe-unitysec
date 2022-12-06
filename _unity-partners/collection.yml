@@ -2,7 +2,6 @@ collections:
   unity-partners:
     output: true
     order:
-      - Parents Support Group 2020 & 2021.md
       - Parents/.keep
       - Parents/Parent’s Engagement Slides 2022.md
       - Parents/Parent’s Newsletter.md
@@ -13,3 +12,4 @@ collections:
       - Parents/Personal Data Protection Act (PDPA).md
       - Parents/Leave of Absence (LOA).md
       - Parents/Edusave Character Award.md
+      - Parents Support Group 2020 & 2021.md
