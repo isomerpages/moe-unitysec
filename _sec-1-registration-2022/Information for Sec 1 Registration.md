@@ -11,7 +11,7 @@ We would like to extend our warm welcome to you and your child to Unity Secondar
 
 In light of the COVID-19 situation, students **do not need** to report to school for Sec 1 registration on **23 December 2021**. All registrations will be completed online.
 
-Please note that all essential information will be disseminated via the Parents Gateway (PG) on 22 December 2021 after 2pm. If you are not onboard PG yet, please click **_[here](https://unitysec.moe.edu.sg/unity-partners/parents/parents-resources/parents-gateway)_ link isomer** to download the PG mobile application.
+Please note that all essential information will be disseminated via the Parents Gateway (PG) on 22 December 2021 after 2pm. If you are not onboard PG yet, please click **_[here](/unity-partners/Parents/gateway/)_**  to download the PG mobile application.
 
 Please ensure that you go through the following steps for the Sec 1 online registration 2022. _**(Compulsory for all Sec 1 students including students who have intention to transfer to another school)**_
 
