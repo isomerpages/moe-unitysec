@@ -16,7 +16,7 @@ description: ""
 #### School Expectations
 
 School expectations are set and clearly articulated to inculcate in our students the Unity school values.   
-Please click **[here](https://unitysec.moe.edu.sg/our-school/student-management/school-expectations) link isomer** for more information.
+Please click **[here](/our-school/Student-Management/expectations/)** for more information.
 
 #### FAS 
 
