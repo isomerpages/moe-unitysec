@@ -78,7 +78,7 @@ This approach is about explicit teaching. Teachers introduce, explain and demons
 
 #### Computer Applications (CPA)
 
-<u>**Computer Applications (CPA)**</u><br>
+<u>Computer Applications (CPA)</u><br>
 The Computer Applications (CPA) syllabus aims to prepare our students to be technologically adept and effective citizens, and to function and contribute effectively in a technologically driven world.
 
 The CPA syllabus emphasises on current technological developments and trends, and core computer skills. The syllabus is suitable for students who are mainly visual learners and best engaged through hands-on learning activities.
@@ -101,7 +101,7 @@ Learning is focused on real-life scenarios, taking place in authentic situations
 
 #### Elements of Business Skills (EBS)
 
-<u>**Elements of Business Skills (EBS)**</u><br>
+<u>Elements of Business Skills (EBS)</u><br>
 The syllabus aims to equip students with the basic knowledge, skills and values relevant for the new developments in the services sector. The focus is on the development of a range of knowledge and core skills in business and enterprise with particular emphasis on retail, tourism, and hospitality industries.
 
 In addition, the syllabus infuses economic and financial literacy in the general understanding of the business environment and for personal effectiveness. The syllabus also provides opportunities for students to develop social-emotional competencies in social awareness, relationship management and decision-making.
