@@ -32,3 +32,7 @@ Impact the Next Generation: <br>With an attitude of gratitude, we will serve ou
 ##### <center>The Unity Alumni Emblem</center>
 
 <img src="/images/CrestMeaning.png" style="width:85%">
+
+#### Unity Alumni Exco Committee Structure (June 2019 - June 2021)
+
+<img src="/images/UA Structure 2019 - 2021.jpg" style="width:85%">
