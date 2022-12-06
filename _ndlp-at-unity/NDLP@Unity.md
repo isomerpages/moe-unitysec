@@ -60,5 +60,5 @@ The device that was selected is the chromebook:
 <img src="/images/download.png" style="width:90%">
 </figure>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e2HdZVn4V68" title="What is a Chromebook?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e2HdZVn4V68" title="What is a Chromebook?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
