@@ -41,3 +41,7 @@ third_nav_title: Parents
 
 #### Sec 2 Parents' Briefings
 
+[**Videos from 1st April 2022 Sec 2 Parents' Briefing**](https://drive.google.com/file/d/137gvr7DaKE8IfPzO7BVHDapHM_PqqEUi/view?usp=sharing) **REQUIRE JACKSON'S INPUT VIDEO**
+
+**<u>Slides from 1 Apr 2022 Sec 2 Parents' Engagement Session</u>**<br>
+**[Sec 2 Assessment, Progression & Subject Combinations](/files/2022%20Sec%202%20Parents%20Briefing%20for%20sharing%20Read-Only.pdf)**
