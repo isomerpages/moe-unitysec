@@ -30,3 +30,5 @@ Promote Unity Culture:<br>Being a part of each and every Unitian, the Unity spir
 Impact the Next Generation: <br>With an attitude of gratitude, we will serve our Alma Mater with the best of our abilities, inspiring all other generations to do so too.</center>
 
 ##### <center>The Unity Alumni Emblem</center>
+
+<img src="/images/CrestMeaning.png" style="width:85%">
