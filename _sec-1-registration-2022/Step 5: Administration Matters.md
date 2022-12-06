@@ -38,7 +38,7 @@ Two types of FAS application
  
  o   Please do not purchase the books and uniforms before receiving approval as you will not be reimbursed for any amount spent.
 
-For more information on FAS please click **_[here](https://unitysec.moe.edu.sg/unity-partners/parents/parents-resources/financial-assistance)_ link isomer**
+For more information on FAS please click **_[here](/unity-partners/Parents/fas/)_**
 
 #### School Counselling Information
 
