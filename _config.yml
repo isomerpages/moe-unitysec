@@ -2,19 +2,19 @@ title: Unity Secondary School
 url: https://unitysec.moe.edu.sg
 favicon: /images/unity-secondary-school.jpg
 colors:
-  primary-color: "#454545"
-  secondary-color: "#454545"
+  primary-color: "#dec121"
+  secondary-color: "#dec121"
   media-colors:
     - title: media-color-one
-      color: "#454545"
+      color: "#dec121"
     - title: media-color-two
-      color: "#454545"
+      color: "#dec121"
     - title: media-color-three
-      color: "#454545"
+      color: "#dec121"
     - title: media-color-four
-      color: "#454545"
+      color: "#dec121"
     - title: media-color-five
-      color: "#454545"
+      color: "#dec121"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
