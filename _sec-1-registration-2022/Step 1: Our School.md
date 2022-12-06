@@ -11,10 +11,10 @@ description: ""
 
 #### Full Subject-Based Banding (Full SBB)
 
-<u>**Purpose of Full SBB**</u><br>
+<u>Purpose of Full SBB</u><br>
 Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students. With Full SBB, we are moving towards one secondary education, with many subject bands, to better meet our students’ learning needs. This is part of the broader shift in our education system to recognise the strengths and interests of our children, to help them build their confidence and develop an intrinsic motivation to learn for life. This is in line with our belief in providing opportunities for all our students.
 
-<u>**Implementation of Full SBB in 2024**</u><br>
+<u>Implementation of Full SBB in 2024</u><br>
 By 2024, all secondary schools will have implemented the following aspects of Full SBB:<br>
 • Mixed form classes with the provision of a common curriculum; and <br>
 • Offering of Humanities subjects at a more demanding level from Secondary 2.
