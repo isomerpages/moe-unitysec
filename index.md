@@ -15,5 +15,5 @@ sections:
           url: /students/Students-Resources/nov-holiday/
         - title: ANNOUNCEMENT 2
           description: Edusave Character Award (ECHA)
-          url: https://gmail.com
+          url: /unity-partners/Parents/eca/
 ---
