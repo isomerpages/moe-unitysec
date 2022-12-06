@@ -2,6 +2,7 @@ collections:
   unity-partners:
     output: true
     order:
+      - Parents/Edusave Character Award.md
       - Parents/.keep
       - Parents/Parent’s Engagement Slides 2022.md
       - Parents/Parent’s Newsletter.md
