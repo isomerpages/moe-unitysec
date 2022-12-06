@@ -56,23 +56,23 @@ third_nav_title: CCA
 
 #### Performing Arts
 
-<p><a href="/students/Performing-Arts/choir/">
+<p><a href="/students/Performing-Arts/io/">
 <img style="width:25%; margin-right:15px;" align=left src="/images/pa_indian_orch_tn.jpg">
 </a></p>
 
-<p><a href="/students/Performing-Arts/dance/">
+<p><a href="/students/Performing-Arts/sb/">
 <img style="width:25%; margin-right:15px; " align=left src="/images/pa_band_tn.jpg">
 </a></p>
 
-<p><a href="/students/Performing-Arts/sd/">
+<p><a href="/students/Performing-Arts/dance/">
 <img style="width:25%; margin-right:15px;" align=left src="/images/pa_dance_tn.jpg">
 </a></p><br clear=left>
 
-<p><a href="/students/Performing-Arts/io/">
+<p><a href="/students/Performing-Arts/choir/">
 <img style="width:25%; margin-right:15px; " align=left src="/images/pa_choir_tn.jpg">
 </a></p>
 
-<p><a href="/students/Performing-Arts/sb/">
+<p><a href="/students/Performing-Arts/sd/">
 <img style="width:25%; margin-right:15px;" align=left src="/images/pa_drama_tn.jpg">
 </a></p><br clear=left>
 
