@@ -23,3 +23,9 @@ Unity Secondary's Parent Support Group (PSG) had organised several programmes a
 | PT Family Day | Joanne Khor | Ramani | Joanne Tay | Damin |
 | Adhoc Project | Mak Chee Woh |  | Selvakumar |  |
 |  |  |  |  |  |
+
+<img src="/images/PSG.jpeg" style="width:85%">
+
+#### PSG Events
+
+For more information on the PSG events, click [here](https://www.facebook.com/groups/unitypsg/) to visit their Facebook page.
