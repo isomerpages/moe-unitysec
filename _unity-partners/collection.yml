@@ -2,7 +2,6 @@ collections:
   unity-partners:
     output: true
     order:
-      - Parents/Personal Data Protection Act (PDPA).md
       - Parents/.keep
       - Parents/Parent’s Engagement Slides 2022.md
       - Parents/Parent’s Newsletter.md
@@ -10,3 +9,4 @@ collections:
       - Parents/Useful contacts.md
       - Parents/Financial Assistance.md
       - Parents/Cyber Wellness Tips.md
+      - Parents/Personal Data Protection Act (PDPA).md
