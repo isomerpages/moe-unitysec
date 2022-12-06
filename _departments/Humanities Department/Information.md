@@ -34,7 +34,7 @@ Problem-Based Learning
 
 #### Geography
 
-<u>**Geography**</u>
+<u>Geography</u>
 
 Geography students can expect to acquire a wide range of knowledge and skills to understand and explain physical and human phenomena, contemporary environmental and social issues that occur in different places and cultures.
 
