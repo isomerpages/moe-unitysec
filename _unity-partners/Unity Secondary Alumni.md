@@ -20,7 +20,13 @@ description: ""
 #### The Unity Alumni
 
 ##### <center>Who We Are</center>
+
 <center>We are a group of passionate Alumni of Unity Secondary with strong belief in inspiring our juniors. We aspire to connect all Unitians, Alumni and Current, to bring out the pride of Unity in every single Unitian.</center>
 
 ##### <center>We Set Out To</center>
 
+<center>Involve and Engage: <br>We aim to create as many platforms as possible to allow cross-batch interactions.<br><br>
+Promote Unity Culture:<br>Being a part of each and every Unitian, the Unity spirit will continue going on strong as we continue moving forward.<br><br>
+Impact the Next Generation: <br>With an attitude of gratitude, we will serve our Alma Mater with the best of our abilities, inspiring all other generations to do so too.</center>
+
+##### <center>The Unity Alumni Emblem</center>
