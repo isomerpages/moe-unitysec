@@ -16,4 +16,11 @@ sections:
         - title: ANNOUNCEMENT 2
           description: Edusave Character Award (ECHA)
           url: /unity-partners/Parents/eca/
+  - infopic:
+      title: OPEN HOUSE
+      description: Click button below to view site
+      button: open house site
+      url: https://sites.google.com/moe.edu.sg/unitysec-openhouse/welcome?pli=1
+      image: /images/02 Pop-up for website.jpg
+      alt: Image alt text
 ---
