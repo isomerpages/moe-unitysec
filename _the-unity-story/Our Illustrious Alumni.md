@@ -31,3 +31,6 @@ description: ""
 <img src="/images/Alumni (7).jpg" style="width:49%" align=left>
 <img src="/images/Alumni (8).jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+<img src="/images/Alumni (9).jpg" style="width:49%" align=left>
+<br clear="left"><br>
