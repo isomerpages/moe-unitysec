@@ -2,7 +2,7 @@
 layout: homepage
 title: Unity Secondary School
 description: An Isomer site of the Singapore Government
-image: /images/photo1670341176.jpeg
+image: /images/unity-secondary-school.jpg
 permalink: /
 notification: ""
 sections:
@@ -24,3 +24,4 @@ sections:
       image: /images/02 Pop-up for website.jpg
       alt: Image alt text
 ---
+
