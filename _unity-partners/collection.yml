@@ -2,7 +2,6 @@ collections:
   unity-partners:
     output: true
     order:
-      - Unity Secondary Alumni.md
       - Parents/.keep
       - Parents/Parent’s Engagement Slides 2022.md
       - Parents/Parent’s Newsletter.md
@@ -14,3 +13,4 @@ collections:
       - Parents/Leave of Absence (LOA).md
       - Parents/Edusave Character Award.md
       - Parents Support Group 2020 & 2021.md
+      - Unity Secondary Alumni.md
