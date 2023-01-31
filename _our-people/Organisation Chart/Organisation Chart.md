@@ -32,7 +32,7 @@ third_nav_title: Organisation Chart
 | ST/ Geography | Mrs Chan- Low Siew Peng |
 | HOD/ Mathematics | Mr Tan Yee Kee |
 | LH/Mathematics | Ms Ong Pei Ee | 
-| ST/Learning Needs | Mdm Rohaila bte Sanusi |
+| LT/Learning Needs | Mdm Rohaila bte Sanusi |
 | HOD/ Physical Education & CCA | Mr Low Yee Fun |
 | HOD/ Science | Mr Arulchandran |
 | LH/ Science | Ms Huang Ningxin |
