@@ -18,6 +18,7 @@ third_nav_title: Organisation Chart
 | **EAS - General Office** |  |
 | Ms Chua Bee Kuan | Admin Manager |
 | Mr Yeo Lay King | Operations Manager |
+| Mr Daniel Ong Jin Hwa	 | Adjunct Operations Manager |
 | Mdm Afidah binte Ahmad | Admin Executive |
 | Ms Nur Syafawina Binte Zakariah | Admin Executive |
 | Mdm Goh Seck Heok | Corporate Support Officer |
