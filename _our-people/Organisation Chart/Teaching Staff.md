@@ -79,6 +79,7 @@ third_nav_title: Organisation Chart
 | Ms Sabrina Binte Jumadi | [sabrina\_bte\_jumadi@schools.gov.sg](mailto:sabrina_bte_jumadi@schools.gov.sg) |
 |  |  |
 | **Mother Tongue Department** |  |
+| Mr Tie Hieng Han	 | [tie\_hieng\_han@schools.gov.sg](mailto:chong_shur_chin@schools.gov.sg) |
 | Ms Chong Shur Chin | [chong\_shur\_chin@schools.gov.sg](mailto:chong_shur_chin@schools.gov.sg) |
 | Ms Ng Pin Leng | [ng\_pin\_leng@schools.gov.sg](mailto:ng_pin_leng@schools.gov.sg) |
 | Mdm Rashidah Binte Mohamad Yaakob | [rashidah\_mohamad\_yaakob@schools.gov.sg](mailto:rashidah_mohamad_yaakob@schools.gov.sg) |
