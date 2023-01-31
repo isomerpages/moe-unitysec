@@ -10,7 +10,7 @@ third_nav_title: Organisation Chart
 |:---:|---|
 | **Counsellors & LBS** |  |
 | Mdm Kumutha d/o Subramaniam | [kumutha\_subramaniam@schools.gov.sg](mailto:kumutha_subramaniam@schools.gov.sg) |
-| Mr Teng Swee Hoe (ECG) | [Teng\_SWEE\_HOE@schools.gov.sg](mailto:Teng_Swee_Hoe@schools.gov.sg) |
+| Mdm Michelle Ong Siew Hong	 | [ong\_siew\_hong@schools.gov.sg](mailto:ong_siew_hong@schools.gov.sg) |
 | Ms Lin Wenjie Wendy (LBS) | [lin\_wenjie@schools.gov.sg](mailto:lin_wenjie@schools.gov.sg) |
 | Ms Mah Wan Qing Michelle (SWO) | [mah\_wan\_qing\_michelle@schools.gov.sg](mailto:mah_wan_qing_michelle@schools.gov.sg) |
 |  |  |
