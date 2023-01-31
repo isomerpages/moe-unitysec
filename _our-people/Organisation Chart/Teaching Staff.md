@@ -20,7 +20,6 @@ third_nav_title: Organisation Chart
 | Mdm Tang Lai Sim, Christine | [tang\_lai\_sim\_christine@schools.gov.sg](mailto:tang_lai_sim_christine@schools.gov.sg) |
 | Ms Xu Bi Xian Janet | [xu\_bixian\_janet@schools.gov.sg](mailto:xu_bixian_janet@schools.gov.sg) |
 | Ms Siti Robi'ah Binte Jamal | [siti\_robiah\_jamal@schools.gov.sg](mailto:siti_robiah_jamal@schools.gov.sg)|
-| Ms Toh Jia Ying | [toh\_jia\_ying@schools.gov.sg](mailto:toh_jia_ying@schools.gov.sg) |
 | Ms Nur Hidayah Bte Bohari | [nur\_hidayah\_bohari@schools.gov.sg](mailto:nur_hidayah_bohari@schools.gov.sg) |
 | Ms Nur Syazwani Binte Nordin | [nur\_syazwani\_nordin@schools.gov.sg](mailto:nur_syazwani_nordin@schools.gov.sg) |
 | Ms Lilian Foo Chen Chen | [Lilian\_Foo\_Chen\_Chen@schools.gov.sg](mailto:norhikmah_sohoi@schools.gov.sg) |
@@ -28,8 +27,8 @@ third_nav_title: Organisation Chart
 | Mr Ho Chong Mun Frederick | [ho\_chong\_mun\_frederick@schools.gov.sg](mailto:ho_chong_mun_frederick@schools.gov.sg) |
 |  |  |
 |  **Craft & Technology Department** |  |
-| Mr Chew Thiam Teck | [chew\_thiam\_teck@schools.gov.sg](mailto:chew_thiam_teck@schools.gov.sg) |
 | Ms Fathiah Binte Borhan | [fathiah\_borhan@schools.gov.sg](mailto:fathiah_borhan@schools.gov.sg) |
+| Mr Chew Thiam Teck | [chew\_thiam\_teck@schools.gov.sg](mailto:chew_thiam_teck@schools.gov.sg) |
 | Mr Daniel Leong Mun Fatt | [daniel\_leong\_mun\_fatt@schools.gov.sg](mailto:daniel_leong_mun_fatt@schools.gov.sg) |
 | Mdm Tan Sin Liang Constance | [tan\_sin\_liang\_constance@schools.gov.sg](mailto:tan_sin_liang_constance@schools.gov.sg) |
 | Mr Lim Yew Meng Derek | [lim\_yew\_meng\_derek@schools.gov.sg](mailto:lim_yew_meng_derek@schools.gov.sg) |
