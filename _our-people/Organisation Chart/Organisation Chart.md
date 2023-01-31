@@ -14,7 +14,7 @@ third_nav_title: Organisation Chart
 | Vice-Principal | Ms Ng Tien Ni Jenny |
 | Vice-Principal | Mr Lim Cheng Tju |
 | School Staff Developer | Mr Shanmugam s/o Suppiah |
-| Year Head | Mr Boh Chuang Xiang William |
+| Year Head | Mr Ng Yan Kit |
 | Year Head | Ms Chia Kel- Li |
 | Asst Year Head (Upper Sec) | Ms Ong Soo Chuin Jean |
 | Asst Year Head (Lower Sec) | Ms Neo Ruey Ning Fiona |
@@ -23,6 +23,7 @@ third_nav_title: Organisation Chart
 | Ag HOD/ Craft and Technology | Ms Fathiah Borhan |
 | HOD/ English | Mr Ng Lip Siang Adrian |
 | ST/ English | Mr Andrew Lim You Shun |
+| HOD/ Mother Tongue | Mr Tie Hieng Han |
 | LH/Chinese Language | Ms Ng Pin Leng |
 | SH/ Malay Language | Mdm Rashidah bte Md Yaakob |
 | ST/Tamil Language | Mr Jaya Kumar |
@@ -30,8 +31,7 @@ third_nav_title: Organisation Chart
 | SH/Geography | Mrs Jasmin  Mariya d/o Madasamy |
 | ST/ Geography | Mrs Chan- Low Siew Peng |
 | HOD/ Mathematics | Mr Tan Yee Kee |
-| LH/Mathematics | Ms Ong Pei Ee |
-| ST/Mathematics | Mdm Ng Swee Meng Jasmine |
+| LH/Mathematics | Ms Ong Pei Ee | 
 | ST/Learning Needs | Mdm Rohaila bte Sanusi |
 | HOD/ Physical Education & CCA | Mr Low Yee Fun |
 | HOD/ Science | Mr Arulchandran |
