@@ -62,6 +62,7 @@ third_nav_title: Organisation Chart
 | Ms Chen Yi | [chen\_yi@schools.gov.sg](mailto:chen_yi@schools.gov.sg) |
 | Mdm Khairyn Adriana Putri Malek | [khairyn\_adriana\_putri\_malek@schools.gov.sg](mailto:khairyn_adriana_putri_malek@schools.gov.sg) |
 | Mdm Zhang Yi Fang | [zhang\_yi\_fang@schools.gov.sg](mailto:zhang_yi_fang@schools.gov.sg) |
+| Mr Eddie Teo | [teo\_ban\_heng\_eddie@schools.gov.sg](mailto:teo_ban_heng_eddie@schools.gov.sg) |
 |  |  |
 | **Science Department** |  |
 | Mr M Arulchandran | [m\_arulchandran@schools.gov.sg](mailto:m_arulchandran@schools.gov.sg) |
