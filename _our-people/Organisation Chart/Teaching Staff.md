@@ -87,6 +87,7 @@ third_nav_title: Organisation Chart
 | Mr Abdul Rahman B Ali | [abdul\_rahman\_b\_ali@schools.gov.sg](mailto:abdul_rahman_b_ali@schools.gov.sg) |
 | Mdm Chen Bi Qing | [chen\_bi\_qing@schools.gov.sg](mailto:chen_bi_qing@schools.gov.sg) |
 | Mdm Yue Qun | [yue\_qun@schools.gov.sg](mailto:yue_qun@schools.gov.sg) |
+| Mdm Fadilah Bte Mohamed	 | [fadilah\_mohamed@schools.gov.sg](mailto:fadilah_mohamed@schools.gov.sg) |
 | Mdm Jin Beihua | [jin\_beihua@schools.gov.sg](mailto:jin_beihua@schools.gov.sg) |
 | Mdm Fadilah Bte Mohamed | [fadilah\_mohamed@schools.gov.sg](mailto:fadilah_mohamed@schools.gov.sg) |
 | Ms Leow Shu Fen | [leow\_shu\_fen@schools.gov.sg](mailto:leow_shu_fen@schools.gov.sg) |
