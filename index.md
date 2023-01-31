@@ -24,4 +24,3 @@ sections:
       image: /images/02 Pop-up for website.jpg
       alt: Image alt text
 ---
-
