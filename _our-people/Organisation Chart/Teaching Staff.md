@@ -33,8 +33,8 @@ third_nav_title: Organisation Chart
 | Mr Lim Yew Meng Derek | [lim\_yew\_meng\_derek@schools.gov.sg](mailto:lim_yew_meng_derek@schools.gov.sg) |
 | Mr Low Jackson | [low\_jackson@schools.gov.sg](mailto:low_jackson@schools.gov.sg) |
 | Mr Siva Balan s/o Ayavoo | [sivabalan\_ayavoo@schools.gov.sg](mailto:sivabalan_ayavoo@schools.gov.sg) |
+| Ms Goh Gek Noi Joanne	 | [gek\_noi\_joanne\_goh@moe.edu.sg](mailto:gek_noi_joanne_goh@moe.edu.sg) |
 | Ms Hamidatulamaliah Bte Md Jamil | [hamidatulamaliah\_md\_jamil@schools.gov.sg](mailto:hamidatulamaliah_md_jamil@schools.gov.sg) |
-| Ms Phoebe Chin Kit Yin | [phoebe\_chin\_kit\_yin@moe.edu.sg](mailto:phoebe_chin_kit_yin@moe.edu.sg) |
 | Mdm Kuang Siew Lang | [kuang\_siew\_lang@schools.gov.sg](mailto:kuang_siew_lang@schools.gov.sg) |
 |  |  |
 |  **Humanities Department** |  |
