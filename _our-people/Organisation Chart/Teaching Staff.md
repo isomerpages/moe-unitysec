@@ -65,7 +65,7 @@ third_nav_title: Organisation Chart
 | Mr Eddie Teo | [teo\_ban\_heng\_eddie@schools.gov.sg](mailto:teo_ban_heng_eddie@schools.gov.sg) |
 |  |  |
 | **Science Department** |  |
-| Mr M Arulchandran | [m\_arulchandran@schools.gov.sg](mailto:m_arulchandran@schools.gov.sg) |
+| Mdm Chua Chiew Ping	 | [chua\_chiew\_ping@schools.gov.sg](mailto:m_arulchandran@schools.gov.sg) |
 | Mr Shanmugam s/o Suppiah | [shanmugam\_suppiah@schools.gov.sg](mailto:shanmugam_suppiah@schools.gov.sg) |
 | Mr William Boh Chuan Xiang | [boh\_chuan\_xiang@schools.gov.sg](mailto:boh_chuan_xiang@schools.gov.sg) |
 | Ms Huang Ningxin | [huang\_ningxin@schools.gov.sg](mailto:huang_ningxin@schools.gov.sg) |
