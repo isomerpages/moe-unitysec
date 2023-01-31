@@ -57,10 +57,8 @@ third_nav_title: Organisation Chart
 | Mdm Rohaila Binte Sanusi | [rohaila\_sanusi@schools.gov.sg](mailto:rohaila_sanusi@schools.gov.sg) |
 | Mdm Jasmine Ng Swee Meng	 | [ng\_swee\_meng@schools.gov.sg](mailto:ng_swee_meng@schools.gov.sg) |
 |Mrs Chang-Foo Wee Leng  | [foo\_wee\_leng@schools.gov.sg](mailto:foo_wee_leng@schools.gov.sg) |
-| Mr Tan Kee Seng | [tan\_kee\_seng@schools.gov.sg](mailto:tan_kee_seng@schools.gov.sg) |
 | Mr Lim Boon Liang | [lim\_boon\_liang@schools.gov.sg](mailto:lim_boon_liang@schools.gov.sg) |
 | Mdm Asmidah Bte Rahwam | [asmidah\_rahwam@schools.gov.sg](mailto:asmidah_rahwam@schools.gov.sg) |
-| Mdm Jeslyn Cheong Kiet Yeng | [cheong\_kiet\_yeng\_jeslyn@schools.gov.sg](mailto:cheong_kiet_yeng_jeslyn@schools.gov.sg) |
 | Ms Chen Yi | [chen\_yi@schools.gov.sg](mailto:chen_yi@schools.gov.sg) |
 | Mdm Khairyn Adriana Putri Malek | [khairyn\_adriana\_putri\_malek@schools.gov.sg](mailto:khairyn_adriana_putri_malek@schools.gov.sg) |
 | Mdm Zhang Yi Fang | [zhang\_yi\_fang@schools.gov.sg](mailto:zhang_yi_fang@schools.gov.sg) |
