@@ -34,8 +34,9 @@ third_nav_title: Organisation Chart
 | LH/Mathematics | Ms Ong Pei Ee | 
 | LT/Learning Needs | Mdm Rohaila bte Sanusi |
 | HOD/ Physical Education & CCA | Mr Low Yee Fun |
-| HOD/ Science | Mr Arulchandran |
+| HOD/ Science | Mdm Chua Chiew Ping |
 | LH/ Science | Ms Huang Ningxin |
+| SH/ Chem |   Ms Liang Yen Shan |
 | LT/ Science | Ms Jacqueline Tan Lin Yin |
 | Ag HOD CCE/ Character & Leadership Development | Mdm Nur Shaikhah bte Rajab |
 | HOD/Student Management and Guidance | Mr Chew Thiam Teck Scott |
