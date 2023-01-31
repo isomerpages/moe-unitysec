@@ -45,9 +45,9 @@ third_nav_title: Organisation Chart
 | Mrs Chan-Low Siew Peng | [low\_siew\_peng@schools.gov.sg](mailto:low_siew_peng@schools.gov.sg) |
 | Mrs Soh-Toh Meow Tin | [toh\_meow\_tin@schools.gov.sg](mailto:toh_meow_tin@schools.gov.sg) |
 | Mrs Kang-Lim Hui Fern Karen | [kang-lim\_hui\_fern\_karen@schools.gov.sg](mailto:kang-lim_hui_fern_karen@schools.gov.sg) |
-| Ms Durgamu D/O N. Tinagaran | [durgamu\_n\_tinagaran@schools.gov.sg](mailto:durgamu_n_tinagaran@schools.gov.sg) |
 | Mrs Elfy Ara-Lee Yi Yu | [lee\_yi\_yu\_elfy@schools.gov.sg](mailto:lee_yi_yu_elfy@schools.gov.sg) |
 | Ms Jaishree d/o Jaybalan | [jaishree\_jaybalan@schools.gov.sg](mailto:jaishree_jaybalan@schools.gov.sg) |
+| Mr Norman Phua Buan Hock	 | [phua\_buan\_hock\_norman@schools.gov.sg](mailto:phua_buan_hock_norman@schools.gov.sg) |
 |  |  |
 | **Mathematics Department** |  |
 | Mr Tan Yee Kee | [tan\_yee\_kee@schools.gov.sg](mailto:tan_yee_kee@schools.gov.sg) |
