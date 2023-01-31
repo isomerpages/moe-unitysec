@@ -98,6 +98,7 @@ third_nav_title: Organisation Chart
 | Mrs Mangaiyarkarasi Ganesh Kumar | [mangaiyarkarasi\_ganesh\_kumar@schools.gov.sg](mailto:mangaiyarkarasi_ganesh_kumar@schools.gov.sg) |
 | Ms Fairuz Bte Mohd Padin | [fairuz\_mohd\_padin@schools.gov.sg](mailto:fairuz_mohd_padin@schools.gov.sg) |
 | Ms Fatin Farahlyana Binte Mohamad Hasidi | [fatin\_farahlyana\_mohamad\_hasidi@schools.gov.sg](mailto:fatin_farahlyana_mohamad_hasidi@schools.gov.sg) |
+| Mr Morgan Law Mo Kwan	 | [law\_mo\_kwan\_a@schools.gov.sg](mailto:law_mo_kwan_a@schools.gov.sg) |
 |  |  |
 | **PE Department** |  |
 | Mr Low Yee Fun | [low\_yee\_fun@schools.gov.sg](mailto:low_yee_fun@schools.gov.sg) |
