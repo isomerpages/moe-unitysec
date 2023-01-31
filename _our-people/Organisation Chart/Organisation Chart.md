@@ -37,7 +37,7 @@ third_nav_title: Organisation Chart
 | HOD/ Science | Mdm Chua Chiew Ping |
 | LH/ Science | Ms Huang Ningxin |
 | SH/ Chem |   Ms Liang Yen Shan |
-| LT/ Science | Ms Jacqueline Tan Lin Yin |
+| LT/ Bio | Ms Jacqueline Tan Lin Yin |
 | Ag HOD CCE/ Character & Leadership Development | Mdm Nur Shaikhah bte Rajab |
 | HOD/Student Management and Guidance | Mr Chew Thiam Teck Scott |
 |  |  |
