@@ -10,7 +10,7 @@ third_nav_title: Organisation Chart
 
 |Designation  | Name |
 |:---:|---|
-| Principal | Mdm Aini bte Maarof |
+| Principal | Mdm Adel Ong Liang Fung |
 | Vice-Principal | Ms Ng Tien Ni Jenny |
 | Vice-Principal | Mr Lim Cheng Tju |
 | School Staff Developer | Mr Shanmugam s/o Suppiah |
