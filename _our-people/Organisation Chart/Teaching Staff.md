@@ -30,7 +30,6 @@ third_nav_title: Organisation Chart
 | Ms Fathiah Binte Borhan | [fathiah\_borhan@schools.gov.sg](mailto:fathiah_borhan@schools.gov.sg) |
 | Mr Chew Thiam Teck | [chew\_thiam\_teck@schools.gov.sg](mailto:chew_thiam_teck@schools.gov.sg) |
 | Mr Daniel Leong Mun Fatt | [daniel\_leong\_mun\_fatt@schools.gov.sg](mailto:daniel_leong_mun_fatt@schools.gov.sg) |
-| Mdm Tan Sin Liang Constance | [tan\_sin\_liang\_constance@schools.gov.sg](mailto:tan_sin_liang_constance@schools.gov.sg) |
 | Mr Lim Yew Meng Derek | [lim\_yew\_meng\_derek@schools.gov.sg](mailto:lim_yew_meng_derek@schools.gov.sg) |
 | Mr Low Jackson | [low\_jackson@schools.gov.sg](mailto:low_jackson@schools.gov.sg) |
 | Mr Siva Balan s/o Ayavoo | [sivabalan\_ayavoo@schools.gov.sg](mailto:sivabalan_ayavoo@schools.gov.sg) |
