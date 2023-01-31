@@ -38,7 +38,8 @@ third_nav_title: Organisation Chart
 | LH/ Science | Ms Huang Ningxin |
 | SH/ Chem |   Ms Liang Yen Shan |
 | LT/ Bio | Ms Jacqueline Tan Lin Yin |
-| Ag HOD CCE/ Character & Leadership Development | Mdm Nur Shaikhah bte Rajab |
+|  SH/ Character & Leadership Development | Mdm Nur Shaikhah bte Rajab |
+|   SH/ Student Leadership 	 | Mdm Cheong Kiet Yeng Jeslyn  |
 | HOD/Student Management and Guidance | Mr Chew Thiam Teck Scott |
 |  |  |
 
