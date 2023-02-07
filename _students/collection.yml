@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Students' Resources/Blended Learning.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2023 Student Handbook.md
@@ -11,6 +10,7 @@ collections:
       - Students' Resources/Unity Sec IP Page.md
       - Students' Resources/Assessment.md
       - Students' Resources/Promotion Criteria.md
+      - Students' Resources/Blended Learning.md
       - Students' Resources/Full Subject Based Banding.md
       - Students' Resources/Student Learning Space (SLS).md
       - Students' Resources/Referral for school counselling.md
