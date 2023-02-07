@@ -11,3 +11,5 @@ third_nav_title: Students' Resources
 Dear students, please access the link to view your class information.
 
 <img src="/images/allears_qr_code.jpeg" style="width:30%">
+
+[Class Information](https://forms.moe.edu.sg/auth)
