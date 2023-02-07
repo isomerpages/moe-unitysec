@@ -33,7 +33,7 @@ Form / Subject teachers can identify and refer students who need counselling sup
 
 <u>Students Self-Referral:</u>   
 
-Call School Counsellors : Ext. 325 (Ms Phang Jia Wen) or Ext. 324 (Ms Kumutha)<br>
+Call School Counsellors : Ext. 324 (Ms Michelle Ong) or Ext. 324 (Ms Kumutha)<br>
 Walk in: Counselling Rooms 1 or 2 at Block D Level 3 (Beside Computer Lab 1)<br>
 Available days & timing: Monday to Friday from 0730 to 1630  (appointments preferred)  
 
@@ -46,7 +46,7 @@ Ms Kumutha ([kumutha\_subramaniam@moe.edu.sg](mailto:kumutha_subramaniam@moe.edu
 
 Offers support for students having queries regarding educational courses & career options by helping them identify their personal work values, career interests and preferences to increase motivation for studies.
 
-Call ECG Counsellor : Ext. 250 (Mr Teng Swee Hoe)<br>
-Email: [teng\_swee\_hoe](mailto:teng_swee_hoe@schools.gov.sg)<br>
+Call ECG Counsellor : Ext. 250 (Mr Peter Phoa)<br>
+Email: [phoa\_ang\_hiok@schools.gov.sg](mailto:teng_swee_hoe@moe.edu.sg)<br>
 Walk in: ECG Room, Block D Level 2 (Beside Art Room) <br>
-Available day & timing: Every Monday from 8am to 5pm
+Available day & timing: Every Tuesdays and Thursdays from 8am to 5pm
