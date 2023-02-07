@@ -9,3 +9,5 @@ third_nav_title: Students' Resources
 #### Semester 1 Timetable
 
 Dear students, please access the link to view your class information.
+
+<img src="/images/allears_qr_code.jpeg" style="width:30%">
