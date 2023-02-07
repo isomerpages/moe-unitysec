@@ -11,4 +11,4 @@ Blended Learning
 
 Blended Learning Schedule for Semester 1
 ----------------------------------------
-![](/images/blended.png)
+<img src="/images/blended.png" style="width:50%">
