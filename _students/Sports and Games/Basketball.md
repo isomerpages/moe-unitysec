@@ -4,8 +4,6 @@ permalink: /sports-and-games/bball/
 description: ""
 third_nav_title: Sports and Games
 ---
-
-
 ## Basketball
 
 <img src="/images/bball boys.jpg" style="width:85%">
