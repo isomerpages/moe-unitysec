@@ -12,10 +12,10 @@ third_nav_title: Sports and Games
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| Lower Sec Teacher IC | Mr Siva Balan s/o Ayavoo |
-| Lower Sec Teacher IC | Mr Leong Mun Fatt Daniel |
-| Upper Sec Teacher IC | Mr Md Fairus Bin Md Farok |
-| Upper Sec Teacher IC | Mr Toh Yong Yuan |
+| Lower Sec Teacher IC | Mr Md Fairus Bin Md Farok |
+| Lower Sec Teacher IC | Ms Ng Pin Leng |
+| Upper Sec Teacher IC | Ms Liang Yen Shan |
+| Upper Sec Teacher IC | Mr Toh Yong Yuan (IC) |
 |  |  |
 
 **Weekly Schedule**
