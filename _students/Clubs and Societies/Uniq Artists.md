@@ -10,8 +10,9 @@ third_nav_title: Clubs and Societies
 
 | **Roles** | **Teacher-in-Charge** |
 |:---:|---|
-| Lower Sec Teacher IC | Mrs Constance Chee |
-| Lower Sec Teacher IC | Mdm Zhou Yong Ping |
+| Lower Sec Teacher IC | Ms Goh Gek Noi Joanne (IC) |
+| Upper Sec Teacher IC | Mr Lim Boon Liang |
+| Upper Sec Teacher IC | Mdm Zhou Yong Ping |
 |  |  |
 
 **Weekly Schedule**
