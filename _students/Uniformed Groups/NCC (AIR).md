@@ -11,7 +11,7 @@ third_nav_title: Uniformed Groups
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
 | Lower Sec Teacher IC | Ms Ong Pei Ee |
-| Lower Sec Teacher IC | Ms Toh Jia Ying |
+| Lower Sec Teacher IC | Mr Low Jackson (IC) |
 | Upper Sec Teacher IC | Ms Jaishree d/o Jaybalan |
 | Upper Sec Teacher IC | Mr Chan Chin Choon Vincent |
 |  |  |
