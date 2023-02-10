@@ -11,8 +11,8 @@ third_nav_title: Performing Arts
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
 | Lower Sec Teacher IC | Ms Nur Hidayah |
-| Upper Sec Teacher IC | Ms Chen Yi |
 | Upper Sec Teacher IC | Mr Siow Wee Koon |
+| Upper Sec Teacher IC | Ms Chen Yi (IC) |
 |  |  |
 
 **Weekly Schedule**
