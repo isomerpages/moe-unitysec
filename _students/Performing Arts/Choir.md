@@ -10,9 +10,9 @@ third_nav_title: Performing Arts
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| LS/US Teacher IC | Mrs Christine Lim |
 | Lower Sec Teacher IC | Mdm Li Xu |
-| Upper Sec Teacher IC | Mrs Elfy Ara |
+| Lower Sec Teacher IC | Mrs Elfy Ara |
+| Upper Sec Teacher IC | Mdm Tang Lai Sim Christine (IC) |
 |  |  |
 
 **Weekly Schedule**
