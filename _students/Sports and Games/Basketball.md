@@ -40,9 +40,10 @@ third_nav_title: Sports and Games
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| US/LS Teacher IC | Ms Liang Yen Shan |
-| Lower Sec Teacher IC | Ms Zhang Yi Fang |
-| Upper Sec Teacher IC | Mdm Jasmine Ng |
+| LS Teacher IC | Mr Md Fairus Bin Md Farok |
+| Lower Sec Teacher IC | Ms Ng Pin Leng |
+| Upper Sec Teacher IC | Mr Daniel Leong |
+| Upper Sec Teacher IC | Mr Toh Yong Yuan (IC) |
 | Coaches | Mr Ng Choong Hong<br>Mr Ang Kuang Ngee |
 |  |  |
 
