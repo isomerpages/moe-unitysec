@@ -10,9 +10,9 @@ third_nav_title: Performing Arts
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| Lower Sec Teacher IC | Ms Kang Siew Li, Jessilyn |
+| Lower Sec Teacher IC | Miss Nur Syazwani Binte Nordin |
 | Upper Sec Teacher IC | Mdm Foo Wee Leng |
-| Upper Sec Teacher IC | Mdm Asmidah Bte Rahwam |
+| Upper Sec Teacher IC | Mdm Asmidah Bte Rahwam (IC) |
 |  |  |
 
 **Weekly Schedule**
