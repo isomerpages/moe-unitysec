@@ -12,9 +12,8 @@ third_nav_title: Uniformed Groups
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| Lower Sec Teacher IC | Ms Xu Bixian Janet |
-| Upper Sec Teacher IC | Ms Phoebe Chin |
-| Upper Sec Teacher IC | Mdm Cheong Kiet Yeng Jeslyn |
+| Lower Sec Teacher IC | Mdm Cheong Kiet Yeng Jeslyn |
+| Upper Sec Teacher IC | Ms Xu Bixian Janet (IC) |
 |  |  |
 
 **Weekly Schedule**
