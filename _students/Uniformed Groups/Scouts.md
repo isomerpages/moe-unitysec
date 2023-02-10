@@ -10,9 +10,8 @@ third_nav_title: Uniformed Groups
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| LS/US Teacher IC | Mdm Hamida |
 | Lower Sec Teacher IC | Mr Arab Hussain |
-| Upper Sec Teacher IC | Ms Fatin Farahlyana |
+| Upper Sec Teacher IC | Ms Fatin Farahlyana (IC) |
 |  |  |
 
 **Weekly Schedule**
