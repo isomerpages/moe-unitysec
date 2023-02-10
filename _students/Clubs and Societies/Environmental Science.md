@@ -12,9 +12,8 @@ third_nav_title: Clubs and Societies
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| LS/US Teacher IC | Ms Sabrina Jumadi |
-| Lower Sec Teacher IC | Ms Sumitha d/o Poonia Murthy |
-| Upper Sec Teacher IC | Ms Durgamu d/o N Tinagaran |
+| Lower Sec Teacher IC| Ms Sabrina Jumadi (IC) |
+| Upper Sec Teacher IC | Ms Huang Ningxin |
 |  |  |
 
 **Weekly Schedule**
