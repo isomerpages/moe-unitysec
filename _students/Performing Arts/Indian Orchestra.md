@@ -10,7 +10,7 @@ third_nav_title: Performing Arts
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| Lower Sec Teacher IC | Mdm Mangaiyarkarasi Ganesh Kumar |
+| Lower Sec Teacher IC | Mdm Mangaiyarkarasi Ganesh Kumar (IC) |
 | Upper Sec Teacher IC | Mr Jaya Kumar |
 |  |  |
 
