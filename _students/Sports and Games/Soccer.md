@@ -4,8 +4,6 @@ permalink: /sports-and-games/soccer/
 description: ""
 third_nav_title: Sports and Games
 ---
-
-
 ## Soccer
 
 <img src="/images/soccer_grp.jpg" style="width:85%">
@@ -28,4 +26,3 @@ third_nav_title: Sports and Games
 |:---:|
 | Unity Football CCA was established in 2020. There is an emphasis on discipline, commitment and sportsmanship, as these are the most important characteristics of an excellent sports team.  <br><br>Team members are empowered with ownership of various roles and responsibilities. They are also given opportunities to lead themselves and others on and off the field. |
 |  |
-
