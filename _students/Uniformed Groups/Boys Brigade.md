@@ -12,8 +12,8 @@ third_nav_title: Uniformed Groups
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| LS/US Teacher IC | Mr Lim You Shun Andrew |
-| Lower Sec Teacher IC | Mr Tan Kee Seng |
+| LS/US Teacher IC | Mr Lim You Shun Andrew (IC) |
+| Lower Sec Teacher IC | Mrs Qu Ruokun |
 | Upper Sec Teacher IC | Mr Lim Yew Meng Derek |
 |  |  |
 
