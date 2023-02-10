@@ -10,9 +10,9 @@ third_nav_title: Performing Arts
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| LS/US Teacher IC | Mdm Norhayati Supari |
-| Lower Sec Teacher IC | Ms Nur Syazwani Binte Nordin |
-| Upper Sec Teacher IC | Ms Siti Robi'ah Bte Jamal |
+| Lower Sec Teacher IC | Mdm Norhayati Supari (IC) |
+| Lower Sec Teacher IC | Ms Kang Siew Li, Jessilyn |
+| Upper Sec Teacher IC |  Mrs Jasmin Ram|
 |  |  |
 
 **Weekly Schedule**
