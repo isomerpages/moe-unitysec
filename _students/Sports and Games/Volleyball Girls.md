@@ -10,9 +10,9 @@ third_nav_title: Sports and Games
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| LS/US Teacher IC | Mdm Khairyn Adriana Putri Malek |
-| Lower Sec Teacher IC | Mdm Chen Bi Qing |
-| Upper Sec Teacher IC | Mdm Low Siew Peng |
+| LS Teacher IC | Mdm Chen Bi Qing |
+| Lower Sec Teacher IC | Ms Koh Xue Ting |
+| Upper Sec Teacher IC | Mdm Khairyn Adriana Putri Malek (IC) |
 |  |  |
 
 **Weekly Schedule**
