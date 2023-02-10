@@ -10,10 +10,10 @@ third_nav_title: Sports and Games
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| Lower Sec Teacher IC | Mdm Yenty Bte Ramli |
-| Lower Sec Teacher IC | Ms Fairuz Bte Md Padin |
-| Upper Sec Teacher IC | Mdm Rohaila Binte Sanusi |
-| Upper Sec Teacher IC | Ms Hana Cheong Tsui Ying |
+| Lower Sec Teacher IC | Mr Tsia Gwo Hong |
+| Lower Sec Teacher IC | Ms Rashidah Yaakob /<br>Ms Fairuz Bte Md Padin |
+| Upper Sec Teacher IC | Mdm Yenty Bte Ramli |
+| Upper Sec Teacher IC | Ms Hana Cheong Tsui Ying (IC) |
 |  |  |
 
 **Weekly Schedule**
@@ -28,5 +28,3 @@ third_nav_title: Sports and Games
 |:---:|
 | Unity Track and Field has been actively participating in the National Schools Track and Field and the National Schools Cross Country for the past 10 years. Even though there are individual events, there is an emphasis on team training.  <br><br>Our Track motto is **C.A.P.** _C_ for Commitment, _A_ for Attitude and _P_ for Perseverance. We also believe in developing leadership in the most committed students and believe every student is a potential leader. |
 |  |
-
-
