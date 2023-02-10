@@ -10,7 +10,7 @@ third_nav_title: Clubs and Societies
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| LS/US Teacher IC | Mrs Christina Choo |
+| Lower Sec Teacher IC | Mrs Christina Choo (IC) |
 | Lower Sec Teacher IC | Mr Abdul Rahman |
 | Upper Sec Teacher IC | Ms Leow Shu Fen |
 |  |  |
