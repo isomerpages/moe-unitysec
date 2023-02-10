@@ -12,9 +12,8 @@ third_nav_title: Uniformed Groups
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| LS/US Teacher IC | Mdm Mok Lee Huang |
-| Lower Sec Teacher IC | Mrs Qu Ruo Kun |
-| Upper Sec Teacher IC | Mdm Yue Qun |
+| Lower Sec Teacher IC | Mdm Yue Qun (IC) |
+| Upper Sec Teacher IC |  Mdm Mok Lee Huang|
 |  |  |
 
 **Weekly Schedule**
