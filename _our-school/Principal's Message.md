@@ -5,17 +5,33 @@ description: ""
 ---
 ## Principal's Message
 
-<img src="/images/P - Mdm Aini.jpg" style="width:49%" align=left>
+<img src="/images/MdmOng.jpg" style="width:49%" align=left>
 
 ##### School\_Of\_OpportUNITY
 
-The world is ever changing. Our youths grow up in a world of constant change and information overload. Technology is reshaping the way we communicate, learn, work, build relations and live. Family dynamics and norms are also undergoing changes with far reaching consequences. There is less predictability and there are complex interconnected forces and events at play that is shaping this ‘new’ VUCA (volatile, uncertain, complex and ambiguous) world. One truism of this new world is life-long learning. Our youths must therefore be prepared to learn, unlearn and re-learn in order to survive and excel in this VUCA world.
+Established in 2000, Unity Secondary stays true to our mission of developing Unitians to be _resilient and future-ready with the passion to serve and lead_. A School of Opport**UNITY**, we welcome students and parents to step into the school that provides **R**ich Opportunities for students through our En**R**iching, **R**igorous and **R**elevant Programmes and Classroom Practices that are anchored in strong **R**elationships built between our Character Coaches, teachers and students.
 
-The education experience in Unity will prepare our students with key ‘survival skills’ so that they can continue to thrive in this VUCA world. Through our Unity Total Curriculum, we equip our students with enduring skillsets of communication, critical and inventive thinking. Our Curriculum allows our students not only to develop strong academic foundation, but also to build their resilience and hone their leadership competencies.
+  
 
-Guided by our School Philosophy, “Every Unitian is unique, has the potential and can be an inspiration,” a variety of programmes are in place to cater to students of all abilities. Programmes are customised for the different streams to instil the joy of learning through authentic learning experiences. Our Talent Development Programme for English, Mathematics, Science and Humanities nurtures students’ talent in the subjects of their interest. There are also opportunities for students with passion in sports like Basketball and Volleyball to hone their sporting skills through our DSA programmes. Our Applied Learning Programme (Biotechnology in Food Sustainability) exposes our students to higher level research through collaborations with local scientists on research projects. 
+En**R**iching - In Unity, we believe that every Unitian has potential to be an inspiration to others and this belief drives our motivation to provide rich opportunities for all Unitians. Run on a 4+1, 4-Day Academic and 1-Day Character Development Curriculum, Unitians dive into rich learning experiences from Monday to Thursday and the school is turned abuzz with Unitians embracing opportunities to be Leaders of Self and Others where CCA Leaders step up to lead in CCE lessons and CCAs on every Friday. Multiple practical platforms are created for Unitians to experience and practise leadership where they model the way and inspire others to lead. Diverse stretching programmes such as our _Leaders of English Programme, Advanced Mathematics Programme, Young Scientist Programme_ and _Humanities Programme_ nurture students’ talents and interests beyond the textbooks. In Unity, teachers are called Character Coaches as their focus is on development of Unitians to be young gentlemen and ladies to be leaders of character.
 
-Together with the support from parents and partnership with the community, the school establishes a caring and nurturing environment built on the culture of Growth Mindset. With the Growth Mindset as well as numerous learning opportunities, we are committed to bring out the best in our students so that they can Lead Self, Serve Others; Actualise Self and Inspire Others. 
+  
 
-Mdm Aini Maarof<br>
+**R**igorous and **R**elevant – ‘Every Classroom A Good Classroom’. Teachers in Unity Secondary immerse themselves in inquiry practices and lesson planning to design Active Learning lessons where every Unitian is an Active Learner – Doing to Learn; Learning with Others and constantly Assessing their Self Learning. Technology is harnessed to make learning and teaching visible in our classrooms.
+
+  
+
+Our **Applied Learning Programme (ALP) – Sustainability Education @ Unity Secondary School** future-proof our students with relevant skills of Biotechnology to relate to real world problems of food sustainability. Our students learn about genetic engineering in our Science Laboratories, experiment with solar technology and get exclusive access to tertiary institution’s fabrication labs. Our young Unitians learn practical scientific research skills to help them progress in their future careers.
+
+  
+
+Our **Learning For Life Programme (LLP) – Lead through Outdoor and Sports Adventures** is a natural platform to deepen our school’s **REC2IPE** Values of **RE**spect, **C**ommitment, **C**ompassion, **I**ntegrity and **PE**rseverance. Unitians are given exposure and experiences to lead through outdoor and sports adventures. With Unity’s niche and winning streak in Basketball and Volleyball, it’s a sporting school atmosphere that exudes high level of students’ commitment and tenacity in pushing themselves beyond their limits and in the process developed strong character and growth mindset.
+
+  
+
+Unity Secondary, a School of OpportUNITY is blessed with opportunities because of the strong support from our Teachers, School Admin Team, Parents, School Advisory Committee, Alumni and Community Partners who work in tandem with us to develop Unitians to be Lifelong Learners and Inspiring Leaders.
+
+![](/images/mdmong1.png)
+
+Mdm Adel Ong<br>
 Principal
