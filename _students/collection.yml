@@ -2,8 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Student Leadership/Structure of Unity Council.md
-      - Student Leadership/.keep
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2023 Student Handbook.md
@@ -44,4 +42,6 @@ collections:
       - Clubs and Societies/Uniq Productions.md
       - Clubs and Societies/Environmental Science.md
       - Clubs and Societies/Uniq Artists.md
+      - Student Leadership/.keep
+      - Student Leadership/Structure of Unity Council.md
       - Unity Students Portal.md
