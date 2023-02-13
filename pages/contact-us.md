@@ -16,7 +16,7 @@ locations:
       - Singapore 179097
       - ""
     operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: ""
     title: Branch Office
 contacts:
   - content:
