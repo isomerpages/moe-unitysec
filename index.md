@@ -16,6 +16,7 @@ sections:
         - title: ANNOUNCEMENT 2
           description: Edusave Character Award (ECHA)
           url: /unity-partners/Parents/eca/
+      subtitle: "#School_Of_OpportUNITY"
   - infopic:
       title: OPEN HOUSE
       description: Click button below to view site
