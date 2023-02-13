@@ -7,8 +7,9 @@ description: ""
 
 This page will be updated frequently. The school will update parents via PG as well as the school website. 
 
-#### PLD for Sec 1 2022 Cohort
+#### PLD for Sec 1 2023 Cohort
+-------------------------
 
-**\[Updated 5 Apr 2022\]** 
+\[Updated 16 Jan 2023\]  
   
-Dear parents and students, the Sec Ones will be receiving their PLDs on 13th April (Wednesday) along with a chromebook bag, mouse, cable lock and earpiece. They are also expected to keep the PLD box for a period of 7 days pending any manufacture defects which will require a one to one exchange. The boxes can be disposed off after a week.
+Dear Sec 1 Parents, the PDLP Procurement Letter has been sent via Parents Gateway  on 16th January 2023.
