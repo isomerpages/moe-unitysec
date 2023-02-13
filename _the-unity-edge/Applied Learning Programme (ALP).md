@@ -11,8 +11,7 @@ The ALP programme enriches our students with skills of Biotechnology to relate t
 
 **<u>2017</u>**
 
-**ALP 2017 (1) IMAGE NOT FOUND IN SITE**<br>
-**ALP 2017 (3) IMAGE NOT FOUND IN SITE**
+
 
 <img src="/images/ALP 2017.jpg" style="width:85%">
 
