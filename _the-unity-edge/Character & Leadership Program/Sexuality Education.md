@@ -60,4 +60,4 @@ b.    Character and Citizenship Education (CCE)
 #### 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021
  --------------------------------------------
  
- <p><a href=" https://online.fliphtml5.com/xkkgy/qvcw/"><img style="width:100%" src="/images/blend.png"></a></p>
+ <p><a href=" https://online.fliphtml5.com/xkkgy/qvcw/"><img style="width:100%" src="/images/SE.png"></a></p>
