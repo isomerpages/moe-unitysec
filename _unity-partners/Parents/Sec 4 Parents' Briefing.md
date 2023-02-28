@@ -27,3 +27,7 @@ Alumni Sharing 
 ---------------
 
 Please click on the links below to find out more about the various pathways as shared by our Alumni:
+
+[Polytechnic via EAE, O Lvl: Wayne Goh](/files/Alumni%20Sharing_Wayne.pdf)
+
+
