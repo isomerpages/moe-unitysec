@@ -10,11 +10,14 @@ sections:
       title: UNITY SECONDARY SCHOOL
       background: /images/37f0448e5_391.jpg
       key_highlights:
-        - title: ANNOUNCEMENT 1
-          description: Holiday Lesson & CCA Schedule
+        - title: 2023 Parents Engagement Slides
+          description: ""
           url: /students/Students-Resources/nov-holiday/
-        - title: ANNOUNCEMENT 2
-          description: Edusave Character Award (ECHA)
+        - title: 2023 Application to Transfer Waitlist
+          description: ""
           url: /unity-partners/Parents/eca/
+        - title: 2023 Class Timetable
+          description: ""
+          url: ""
       subtitle: "#School_Of_OpportUNITY"
 ---
