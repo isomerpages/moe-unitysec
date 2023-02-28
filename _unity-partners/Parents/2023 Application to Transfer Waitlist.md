@@ -6,6 +6,6 @@ third_nav_title: Parents
 ---
 Dear parents, please scan the QR code below or click on the link below to access the Application Form for Transfer In Waitlist (only applicable for students in MOE Mainstream School):
 
-<img src="/images/waitlist.png" width="30%" height="30%"></a>
+<img src="/images/waitlist.png" style="width:40%" ></a>
 
 [Application Form to Transfer In - Waitlist](https://go.gov.sg/zf0bzn)
