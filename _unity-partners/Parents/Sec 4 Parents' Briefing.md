@@ -30,4 +30,7 @@ Please click on the links below to find out more about the various pathways as s
 
 [Polytechnic via EAE, O Lvl: Wayne Goh](/files/Alumni%20Sharing_Wayne.pdf)
 
+IB Programme: Annissa (File Exceeds 5MB)
+
+[Polytechnic after O Lvl: Khaneesha](/files/Alumni%20Sharing%20_%20KHANEESHA%20FAUZI.pdf)
 
