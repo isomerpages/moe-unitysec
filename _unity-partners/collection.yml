@@ -2,6 +2,7 @@ collections:
   unity-partners:
     output: true
     order:
+      - Parents/Sec 3 Parents' Briefing.md
       - Parents/Sec 2 Parents' Briefing.md
       - Parents/.keep
       - Parents/2023 Application to Transfer Waitlist.md
