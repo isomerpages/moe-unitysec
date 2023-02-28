@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: 2023 Parents Engagement Slides
           description: ""
-          url: /students/Students-Resources/nov-holiday/
+          url: https://staging.d2i4e1lepc5foc.amplifyapp.com/unity-partners/Parents/engagement-slides/
         - title: 2023 Application to Transfer Waitlist
           description: ""
           url: /unity-partners/Parents/eca/
