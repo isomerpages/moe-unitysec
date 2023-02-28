@@ -11,5 +11,5 @@ third_nav_title: Parents
 #### Education and Career Guidance (ECG) Sharing
 
 <p><a href="https://online.fliphtml5.com/xkkgy/ocov/">
-<img style="width:40%" src="/images/Sec31.png">
+<img style="width:40%" src="/images/Sec32.png">
 </a></p>
