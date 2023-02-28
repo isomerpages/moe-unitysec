@@ -8,8 +8,8 @@ third_nav_title: Parents
 <img style="width:40%" src="/images/Sec21.png">
 </a></p>
 
-<p><a href="https://online.fliphtml5.com/xkkgy/apkd/">
-<img style="width:40%" src="/images/Sec1.png">
+<p><a href="https://online.fliphtml5.com/xkkgy/dykh/">
+<img style="width:40%" src="/images/Sec22.png">
 </a></p>
 
 <p><a href="https://online.fliphtml5.com/xkkgy/apkd/">
