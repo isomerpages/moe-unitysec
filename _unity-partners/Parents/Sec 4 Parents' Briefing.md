@@ -9,4 +9,6 @@ third_nav_title: Parents
 
   
 **Sec 4E Information Slides**
-
+<p><a href="https://online.fliphtml5.com/xkkgy/dncq/">
+<img style="width:40%" src="/images/Sec41.png">
+</a></p>
