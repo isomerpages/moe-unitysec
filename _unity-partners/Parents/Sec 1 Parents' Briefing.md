@@ -8,4 +8,6 @@ third_nav_title: Parents
 ----------------------------------------------
 **Information Slides**
 
-
+<p><a href=“[https://online.fliphtml5.com/xkkgy/apkd/)”>
+<img style=“width:40%” src=“/images/Sec1.png”>  
+</a></p>
