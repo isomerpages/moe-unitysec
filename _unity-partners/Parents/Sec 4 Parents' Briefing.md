@@ -12,3 +12,13 @@ third_nav_title: Parents
 <p><a href="https://online.fliphtml5.com/xkkgy/dncq/">
 <img style="width:40%" src="/images/Sec41.png">
 </a></p>
+
+**Sec 4N Information Slides**
+<p><a href="https://online.fliphtml5.com/xkkgy/gnup/">
+<img style="width:40%" src="/images/Sec42.png">
+</a></p>
+
+**Sec 4T Information Slides**
+<p><a href="https://online.fliphtml5.com/xkkgy/vubo/">
+<img style="width:40%" src="/images/Sec43.png">
+</a></p>
