@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: UNITY SECONDARY SCHOOL
-      background: /images/37f0448e5_391.jpg
+      background: /images/unity.gif
       key_highlights:
         - title: 2023 Parents Engagement Slides
           description: ""
