@@ -15,9 +15,9 @@ sections:
           url: https://staging.d2i4e1lepc5foc.amplifyapp.com/unity-partners/Parents/engagement-slides/
         - title: 2023 Application to Transfer Waitlist
           description: ""
-          url: /unity-partners/Parents/eca/
+          url: https://staging.d2i4e1lepc5foc.amplifyapp.com/unity-partners/Parents/2023-application-to-transfer-waitlist/
         - title: 2023 Class Timetable
           description: ""
-          url: ""
+          url: https://staging.d2i4e1lepc5foc.amplifyapp.com/students/Students-Resources/2023timetable/
       subtitle: "#School_Of_OpportUNITY"
 ---
