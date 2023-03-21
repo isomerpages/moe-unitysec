@@ -29,7 +29,6 @@ third_nav_title: Organisation Chart
 | ST/Tamil Language | Mr Jaya Kumar |
 | HOD/ Humanities | Mdm  Khamilia bte Hanapi |
 | SH/Geography | Mrs Jasmin  Mariya d/o Madasamy |
-| ST/ Geography | Mrs Chan- Low Siew Peng |
 | HOD/ Mathematics | Mr Tan Yee Kee |
 | LH/Mathematics | Ms Ong Pei Ee | 
 | LT/Learning Needs | Mdm Rohaila bte Sanusi |
