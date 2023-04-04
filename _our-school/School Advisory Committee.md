@@ -13,5 +13,6 @@ description: ""
 | Member | Mr Lee Kee Hian |
 | Member | Dr Francis Chin Kuok Choon |
 | Member | Dr Teo Chew Lee |
+| Member | Dr Teng Siao See |
 | Hon Secretary (5th Principal) |  Mdm Adel Ong|
 |  |  |
