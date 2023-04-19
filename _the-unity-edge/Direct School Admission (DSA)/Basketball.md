@@ -22,8 +22,7 @@ Our vision is to nurture students to Lifelong Learners, Inspiring Leaders. We be
 
 The tables below summarises our basketball achievements which affirms the effective structures and processes that we have put in place within the programme despite our school’s short history.
 
-![](/images/dsa_bball_table_2022.png)
-
+![](/images/dsa_bball_table_2022%20v2.png)
 
 
 Over the past few years, Unity has produced many outstanding players who went on to represent Singapore Schools as well as Singapore at youth, national and professional levels. Unity&nbsp;Secondary School provides a&nbsp;**conducive environment for our players to develop character and to achieve excellence.**

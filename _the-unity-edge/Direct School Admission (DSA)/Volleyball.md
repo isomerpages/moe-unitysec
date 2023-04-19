@@ -22,7 +22,7 @@ Our vision is to nurture students to Lifelong Learners, Inspiring Leaders. We be
 
 The table below summarises the teams achievements which affirms the effective structures and processes that we have put in place within the programme despite our school’s short history. 
 
-![](/images/VOLLEYBALL%20GIRLS%20DSA.png)
+![](/images/dsa_vball_table_2022%20v2.png)
 
 With the introduction of the DSA for our school Volleyball, we will like to propel our school volleyball team to the next level and continue to excel in the National Schools Games. With the vision to develop our students into Lifelong Learners, Inspiring Leaders, our school promise to provide a **conducive environment for our volleyball players to develop character and to achieve excellence.**
 
@@ -38,4 +38,3 @@ Unity Secondary School has a comprehensive development programme to develop stud
 *   Overseas Training Tours
 
 We have a team of passionate, committed and experienced teachers and coach who oversee the physical, social and emotional well-being&nbsp;as well as the&nbsp;**academic progress**&nbsp;of the players.
-
