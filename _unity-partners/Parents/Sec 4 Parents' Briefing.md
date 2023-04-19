@@ -6,7 +6,7 @@ third_nav_title: Parents
 ---
 13th Jan 2023 Sec 4 Parents' Engagement Session
 -----------------------------------------------
-
+Please click on the images below to  view:
   
 **Sec 4E Information Slides**
 <p><a href="https://online.fliphtml5.com/xkkgy/dncq/">
@@ -23,7 +23,7 @@ third_nav_title: Parents
 <img style="width:40%" src="/images/Sec43.png">
 </a></p>
 
-Alumni Sharing 
+Alumni Sharing&nbsp;
 ---------------
 
 Please click on the links below to find out more about the various pathways as shared by our Alumni:
