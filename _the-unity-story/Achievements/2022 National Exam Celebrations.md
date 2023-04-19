@@ -6,7 +6,7 @@ third_nav_title: Achievements
 ---
 ## 2022 National Exam Celebrations
 
-
+Please click on the image below to  view:
 
 
 <p><a href="https://online.fliphtml5.com/xkkgy/kiba/">

@@ -6,6 +6,8 @@ third_nav_title: Parents
 ---
 6th Jan 2023 Sec 1 Parents' Engagement Session
 ----------------------------------------------
+Please click on the images below to  view:
+
 **Information Slides**
 
 <p><a href="https://online.fliphtml5.com/xkkgy/apkd/">
@@ -34,4 +36,3 @@ third_nav_title: Parents
 
 ## FAQ
 Click [here](/files/USS%20Post%20Sec%201%20Parents%20Briefing%20FAQs_final.pdf) to view PDF.
-
