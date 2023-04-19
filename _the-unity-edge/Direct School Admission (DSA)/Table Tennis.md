@@ -37,4 +37,3 @@ Unity Secondary School provides ample opportunities and a comprehensive developm
 * Mentoring junior players
 
 We have a team of passionate, committed and experienced teachers and coaches who oversee the physical, social and emotional well-being as well as the **academic progress** of the players.
-
