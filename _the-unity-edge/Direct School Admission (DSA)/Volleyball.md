@@ -92,18 +92,14 @@ Email: unity_ss@moe.edu.sg
 
 Students can apply through the DSA-Sec portal with their parent’s SingPass. Alternatively, students and parents may approach the primary school for assistance. 
 
-2. Are there any specific selection criteria? 
-
-Basketball skill test, interview and primary school academic results will be taken into consideration for the DSA selection.
-
-3. When and how will I know the results of my application? 
+2. When and how will I know the results of my application? 
 
 All applicants will be informed of the results of their application by post. 
 
-4. What is the frequency and duration of the basketball training? 
+3. What is the frequency and duration of the volleyball training? 
 
-Basketball training will be thrice per week (Mon, Wed and Fri). 2-3 hours per session. The frequency of training sessions may change during NSG season.
+Volleyball training will be twice per week (Wed and Fri). 2-3 hours per session. The frequency of training sessions may change during NSG season.
 
-6. Must my child meet your schools’ minimum cut-off points even if he is selected through DSA for admission to your school?
+4. Must my child meet your schools’ minimum cut-off points even if he is selected through DSA for admission to your school?
 
 Under the DSA-Sec Exercise, participating secondary schools will be able to select a percentage of their students for admission outside of the centralised posting system, via their own selection criteria. As long as your child equalities for either the Express, Normal Academic or Normal Technical stream, he/she is eligible for admission to our school via DSA.
