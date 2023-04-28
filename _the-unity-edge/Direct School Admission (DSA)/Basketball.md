@@ -38,3 +38,37 @@ Unity Secondary School has a comprehensive development programme to groom our ba
 *   Overseas Training Tours
 
 We have a team of passionate, committed and experienced teachers and coaches who oversee the physical, social and emotional well-being&nbsp;as well as the&nbsp;**academic progress**&nbsp;of the players.
+
+**For more information on our school and DSA programmes, do visit our DSA website at** https://tinyurl.com/unitydsa
+
+#### Selection Criteria
+
+1.	Physical Proficiency Test
+
+*Applicants will undergo a physical proficiency test which will includes evaluation on Speed, Strength, Agility Jumping ability and Stamina.*
+
+2.	Basketball Skills Assessment
+
+*Applicants will undergo a basketball skill assessment which will includes evaluation on Ball handling skill, Game awareness and Teamwork*
+
+3.	Interview
+
+*Applicants will go through an interview on the selection day.*
+
+4.	Review of primary school academic results, testimonials, conduct and CCA records.
+
+**Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.**
+
+**Students who are successfully admitted to the school through DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for years 1 - 4.**
+
+#### Application Procedure
+
+
+
+| Important Dates | DSA Process |
+| -------- | -------- | 
+| 4 May 2023, Thursday   | Start of application process at 11am    | 
+| 31 May 2023, Wed | Application ends at 3pm | 
+| 26 Jun – 11 Sep 2023     | DSA Selection (Actual date will be informed to the shortlisted students closer to the date)     | 
+| By 11 September 2023    | Notification of DSA-Sec Admission via post. All applicants will receive a letter. Please inform the school if you do not receive a letter.     | 
+| 23 to 27 October 2023      | School Preference Submission DSA-Sec candidates who receive at least one DSA-Sec offer may indicate up to three school preferences. They can do so online via the DSA-Sec portal or at their primary schools.    | 
