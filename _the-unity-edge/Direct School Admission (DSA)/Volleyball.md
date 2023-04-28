@@ -67,3 +67,43 @@ All applicants will be notified of the outcome of their application via post by 
 **Note:<br>**
 Other applicants not studying in MOE mainstream primary schools. They need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Schools may refer them to MOE website at: https://go.gov.sg/nmsdsa-sec-application
 </p>
+
+##### Contacts
+	
+Mr Low Yee Fun<br>
+HOD PE/CCA<br>
+Tel: 67671070 ext 363<br>
+Email: low_yee_fun@moe.edu.sg<br>
+
+Mr Toh Yong Yuan<br>
+DSA Coordinator<br>
+Tel: 67671070 ext 288<br>
+Email: toh_yong_yuan@moe.edu.sg<br>
+
+General Office <br>
+67671070<br>
+Email: unity_ss@moe.edu.sg
+
+##### FREQUENTLY ASKED QUESTIONS 
+**<u>Actualising Sportsmanship Through Volleyball Programme</u>**
+
+
+1. How do I apply? 
+
+Students can apply through the DSA-Sec portal with their parent’s SingPass. Alternatively, students and parents may approach the primary school for assistance. 
+
+2. Are there any specific selection criteria? 
+
+Basketball skill test, interview and primary school academic results will be taken into consideration for the DSA selection.
+
+3. When and how will I know the results of my application? 
+
+All applicants will be informed of the results of their application by post. 
+
+4. What is the frequency and duration of the basketball training? 
+
+Basketball training will be thrice per week (Mon, Wed and Fri). 2-3 hours per session. The frequency of training sessions may change during NSG season.
+
+6. Must my child meet your schools’ minimum cut-off points even if he is selected through DSA for admission to your school?
+
+Under the DSA-Sec Exercise, participating secondary schools will be able to select a percentage of their students for admission outside of the centralised posting system, via their own selection criteria. As long as your child equalities for either the Express, Normal Academic or Normal Technical stream, he/she is eligible for admission to our school via DSA.
