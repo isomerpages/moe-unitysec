@@ -86,6 +86,20 @@ All applicants will be notified of the outcome of their application via post by 
 
 Note: 
 Other applicants not studying in MOE mainstream primary schools. They need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Schools may refer them to MOE website at: https://go.gov.sg/nmsdsa-sec-application
-
-
 </p>
+
+##### Contacts
+	
+Mr Low Yee Fun<br>
+HOD PE/CCA<br>
+Tel: 67671070 ext 363<br>
+Email: low_yee_fun@moe.edu.sg<br>
+
+Mr Toh Yong Yuan<br>
+DSA Coordinator<br>
+Tel: 67671070 ext 288<br>
+Email: toh_yong_yuan@moe.edu.sg<br>
+
+General Office <br>
+67671070<br>
+Email: unity_ss@moe.edu.sg
