@@ -130,4 +130,4 @@ Basketball training will be thrice per week (Mon, Wed and Fri). 2-3 hours per se
 
 6. Must my child meet your schools’ minimum cut-off points even if he is selected through DSA for admission to your school?
 
-Under the DSA-Sec Exercise, participating secondary schools will be able to select a percentage of their students for admission outside of the centralised posting system, via their own selection criteria. As long as your child equalities for either the Express, Normal Academic or Normal Technical stream, he/she is eligible for admission to our school via DSA.  
+Under the DSA-Sec Exercise, participating secondary schools will be able to select a percentage of their students for admission outside of the centralised posting system, via their own selection criteria. As long as your child equalities for either the Express, Normal Academic or Normal Technical stream, he/she is eligible for admission to our school via DSA.
