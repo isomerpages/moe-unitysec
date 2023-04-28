@@ -84,7 +84,7 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 
 All applicants will be notified of the outcome of their application via post by **11 September 2023**.
 
-Note: 
+**Note: <br>**
 Other applicants not studying in MOE mainstream primary schools. They need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Schools may refer them to MOE website at: https://go.gov.sg/nmsdsa-sec-application
 </p>
 
