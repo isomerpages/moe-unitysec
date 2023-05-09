@@ -15,7 +15,7 @@ Please click on the images below to  view:
 </a></p>
 
 **Principal's Address**
-<p><a href="https://online.fliphtml5.com/xkkgy/mwwa/">
+<p><a href="https://online.fliphtml5.com/xkkgy/onzl/">
 <img style="width:40%" src="/images/Sec12.png">
 </a></p>
 

@@ -28,6 +28,4 @@ At Unity, we believe that every child is unique, and our talent development prog
 <img style="width:100%" src="/images/talent_dev_appl_new.jpg">
 </a></p>
 
-Click this link to sign up for our&nbsp;[Talent Development Program 2023 :](https://forms.gle/AsybmBfpLohnbCxc7)  
-  
-Registration closes on 17th March 2023.
+Click this link to sign up for our&nbsp;[Talent Development Program 2023 ](https://forms.gle/AsybmBfpLohnbCxc7)
