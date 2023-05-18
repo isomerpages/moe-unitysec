@@ -4,8 +4,7 @@ permalink: /students/Students-Resources/2023timetable/
 description: ""
 third_nav_title: Students' Resources
 ---
-
-## 2023 Class Timetable 
+## 2023 Class Timetable&nbsp;
 
 #### Semester 1 Timetable
 
@@ -16,6 +15,3 @@ Dear students, please access the link to view your class information.
 [Class Information](https://forms.moe.edu.sg/auth)
 
 Click on the link below to view your class timetable:
-
-[2023 Class Timetable](https://unitysec.edupage.org/timetable/)
-
