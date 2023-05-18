@@ -15,3 +15,5 @@ Dear students, please access the link to view your class information.
 [Class Information](https://forms.moe.edu.sg/auth)
 
 Click on the link below to view your class timetable:
+
+Pending Semester 2 Timetable
