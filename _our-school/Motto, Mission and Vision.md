@@ -3,7 +3,7 @@ title: Motto, Mission and Vision
 permalink: /our-school/mmv/
 description: ""
 ---
-## Motto, Mission and Vision
+## Motto, Mission, Vision and Values
 
 #### MISSION
 
