@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Students' Resources/School Holiday Intervention Programme 2023.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2023 Student Handbook.md
