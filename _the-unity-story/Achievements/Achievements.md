@@ -4,7 +4,6 @@ permalink: /the-unity-story/achievements/
 description: ""
 third_nav_title: Achievements
 ---
-
 ## Achievements
 
 #### YEAR 2022 - STUDENTS' ACHIEVEMENTS
@@ -12,7 +11,7 @@ third_nav_title: Achievements
 | Name of Student | Achievement | Level (Cluster, Zonal, National, International) |
 |:---:|---|---|
 | 1. Dhanyashri Prabaharan (NCC)  <br>2. Masy'Aril Alexandria Bin Mahfoot Alexandria (Scouts)  <br>3. Kong Yan Tong, Karel (Choir) | 23rd International Elementz Fair by ASRJC (Bronze Award) | National |
-|  |  |  |
+| Pang Dang Diep Phi | All Singapore Mathematics Competition 2022 (20th Position in Lower Sec NA Category | National |
 
 #### YEAR 2022 - STAFF ACHIEVEMENTS
 
@@ -41,12 +40,12 @@ third_nav_title: Achievements
 
 | Name of Staff | Appointment | Achievement | Level (Cluster, Zonal, National, International |
 |:---:|---|---|---|
-| Mdm Nur Shaikhah bte Rajab | Subject Head, CCE | Conference Presenter at Teacher Conference & Excel Fest 2021 | National |
-| Ms Siti Robiah bte Jamal | Teacher | Conference Presenter at Teacher Conference & Excel Fest 2021 | National |
-| Ms Janet Xu | Teacher | Presentation at Teacher Conference & Excel Fest 2021 | National |
+| Mdm Nur Shaikhah bte Rajab | Subject Head, CCE | Conference Presenter at Teacher Conference &amp; Excel Fest 2021 | National |
+| Ms Siti Robiah bte Jamal | Teacher | Conference Presenter at Teacher Conference &amp; Excel Fest 2021 | National |
+| Ms Janet Xu | Teacher | Presentation at Teacher Conference &amp; Excel Fest 2021 | National |
 | Mdm Rohaila bte Sanusi | Senior Teacher (Mathematics) | Academy of Singapore Teacher Award Recipients 2021  <br><br>Facilitator of Network Learning Communities (Educational Support) | National |
 | Mdm Jasmin Mariya d/o Madasamy | Subject Head, Geography | National Day 2021 Commendation Medal  <br><br>Academy of Singapore Teacher Award Recipients 2021  <br><br>Facilitator of Network Learning Communities (Educational Support) | National |
-| Mdm Chen Bi Qing  <br>Mr Low Jackson  <br>Ms Janet Xu  <br>Mdm Yue Qun | Teacher | MOE Service Excellence Award (MSEA)  <br><bR>GOLD | National |
+| Mdm Chen Bi Qing  <br>Mr Low Jackson  <br>Ms Janet Xu  <br>Mdm Yue Qun | Teacher | MOE Service Excellence Award (MSEA)  <br><br>GOLD | National |
 | Mr Jeremy Yong | ICT Manager | MOE Service Excellence Award (MSEA)  <br><br>GOLD | National |
 | Ms Fairuz bte Mohd Paidin  <br>Ms Fatin Farahlyana bte Mohd Hasidi  <br>Ms Leow Shu Fen  <br>Mr Teng Han Yong  <br>Mdm Zhou Yong Ping | Teacher | MOE Service Excellence Award (MSEA)  <br><br>SILVER | National |
 |  |  |  |  |
