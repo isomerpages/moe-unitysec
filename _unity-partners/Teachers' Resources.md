@@ -19,4 +19,4 @@ description: ""
 | SLS – Student Learning Space   | [https://vle.learning.moe.edu.sg](https://vle.learning.moe.edu.sg)    | 
 | MySkillsFuture Student Portal     | [https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html)     | 
 | MOE Sports and Recreation Club     | [https://www.mesrc.net](https://www.mesrc.net/)    | 
-| Singteach     | [http://singteach.nie.edu.sg/](http://singteach.nie.edu.sg/)     | 
+| Singteach     | [http://singteach.nie.edu.sg/](http://singteach.nie.edu.sg/)     |
