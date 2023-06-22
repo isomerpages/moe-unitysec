@@ -16,4 +16,4 @@ Dear students, please access the link to view your class information.
 
 Click on the link below to view your class timetable:
 
-Pending Semester 2 Timetable
+[Semester 2 Timetable](https://unitysec.edupage.org/timetable/)
