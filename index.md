@@ -4,7 +4,8 @@ title: Unity Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/unity-secondary-school.jpg
 permalink: /
-notification: ""
+notification: Dear Students, Semester 2 timetable is out. You may access the
+  timetable in the link below.
 sections:
   - hero:
       title: UNITY SECONDARY SCHOOL
