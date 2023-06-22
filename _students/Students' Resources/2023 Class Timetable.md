@@ -6,7 +6,7 @@ third_nav_title: Students' Resources
 ---
 ## 2023 Class Timetable&nbsp;
 
-#### Semester 1 Timetable
+#### Semester 2 Timetable
 
 Dear students, please access the link to view your class information.
 
