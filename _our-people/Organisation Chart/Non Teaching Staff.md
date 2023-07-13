@@ -40,5 +40,6 @@ third_nav_title: Organisation Chart
 | **IT Centre** |  |
 | Mr Jeremy Yong | ICT Manager |
 | Mr Mohamad Firdaus Bin Jamil	 | Desktop Engineer |
+| Mr Hazim Amir Bin Shamsuri	 | Desktop Engineer |
 | Ms Nabilah Nasric | ICT Trainer |
 |  |  |
