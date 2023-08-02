@@ -8,11 +8,11 @@ description: ""
 <table>
   <tbody><tr>
 		<td>
-			<img align="left" style="width:35%" src="/images/MdmOng.jpg"></td>
+			<img align="left" style="width:30%" src="/images/MdmOng.jpg"></td>
   </tr>
 </tbody></table>
 
-##### School\_Of\_OpportUNITY
+##### #School\_Of\_OpportUNITY
 
 Established in 2000, Unity Secondary stays true to our mission of developing Unitians to be&nbsp;_resilient and future-ready with the passion to serve and lead_. A School of Opport**UNITY**, we welcome students and parents to step into the school that provides&nbsp;**R**ich Opportunities for students through our En**R**iching,&nbsp;**R**igorous and&nbsp;**R**elevant Programmes and Classroom Practices that are anchored in strong&nbsp;**R**elationships built between our Character Coaches, teachers and students.
 
