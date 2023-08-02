@@ -5,7 +5,12 @@ description: ""
 ---
 ## Principal's Message
 
-<img align="left" style="width:40%" src="/images/MdmOng.jpg">
+<table>
+  <tbody><tr>
+		<td>
+			<img align="left" style="width:35%" src="/images/MdmOng.jpg"></td>
+  </tr>
+</tbody></table>
 
 ##### School\_Of\_OpportUNITY
 
