@@ -1,6 +1,6 @@
 ---
 title: Students' Resources
-permalink: /students/students-resources/sr/
+permalink: /students/students-resources/
 description: ""
 third_nav_title: Students' Resources
 ---
