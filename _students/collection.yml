@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Students' Resources/2023 June Holidays CCA training.md
       - Students' Resources/School Holiday Intervention Programme 2023.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
