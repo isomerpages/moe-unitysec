@@ -2,10 +2,9 @@ collections:
   students:
     output: true
     order:
-      - Students' Resources/2023 June Holidays CCA training.md
+      - Students' Resources/2023 EYE and Prelim Timetables.md
       - Students' Resources/School Holiday Intervention Programme 2023.md
       - Students' Resources/.keep
-      - Students' Resources/Students' Resources.md
       - Students' Resources/2023 Student Handbook.md
       - Students' Resources/2023 Class Timetable.md
       - Students' Resources/2023 Book and Stationery Lists.md
