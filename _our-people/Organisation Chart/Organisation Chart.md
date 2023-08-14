@@ -23,6 +23,7 @@ third_nav_title: Organisation Chart
 | HOD/ Craft and Technology | Ms Fathiah Borhan |
 | HOD/ English | Mr Ng Lip Siang Adrian |
 | ST/ English | Mr Andrew Lim You Shun |
+| Ag SH/ English | Ms Janet Xu |
 | HOD/ Mother Tongue | Mr Tie Hieng Han |
 | LH/Chinese Language | Ms Ng Pin Leng |
 | SH/ Malay Language | Mdm Rashidah bte Md Yaakob |
