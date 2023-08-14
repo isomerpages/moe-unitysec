@@ -18,7 +18,7 @@ sections:
           description: ""
           url: https://staging.d2i4e1lepc5foc.amplifyapp.com/students/Students-Resources/2023timetable/
         - title: EYE and Prelim Schedules
-          description: Key Highlight description
+          description: ""
           url: https://www.unitysec.moe.edu.sg/students/students-resources/2023-eye-and-prelim-timetables/
       subtitle: "#School_Of_OpportUNITY"
 ---
