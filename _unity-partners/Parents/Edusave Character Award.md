@@ -13,4 +13,6 @@ The nomination period is from: .
 
 **14 August 2023 (Monday) to 6 September 2023 (Wednesday)**
 
-Please refer to the information linked below for the details of the eligibility criteria as well as other important information regarding the award. Thank you. 
+Please refer to the information linked below for the details of the eligibility criteria as well as other important information regarding the award. Thank you.
+
+[ECHA 2023](/files/echa%202023.pdf)
