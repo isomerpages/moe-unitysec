@@ -13,9 +13,9 @@ third_nav_title: Sports and Games
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
 | Lower Sec Teacher IC | Mr Md Fairus Bin Md Farok |
-| Lower Sec Teacher IC | Ms Ng Pin Leng |
-| Upper Sec Teacher IC | Ms Liang Yen Shan |
-| Upper Sec Teacher IC | Mr Toh Yong Yuan (IC) |
+| Lower Sec Teacher IC | Mdm Hong Wan Mei |
+| Upper Sec Teacher IC | Mr Daniel Leong|
+| Upper Sec Teacher IC | Mdm Goh Meow Peng Sherry (IC) |
 |  |  |
 
 **Weekly Schedule**
@@ -34,16 +34,16 @@ third_nav_title: Sports and Games
 
 #### Basketball Girls
 
-<img src="/images/bball girls.jpg" style="width:49%" align=left>
-<img src="/images/basketball girls.jpg" style="width:49%" align=right>
+<img src="/images/bball girls.jpg" style="width:49%" align="left">
+<img src="/images/basketball girls.jpg" style="width:49%" align="right">
 <br clear="left"><br>
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
 | LS Teacher IC | Mr Md Fairus Bin Md Farok |
-| Lower Sec Teacher IC | Ms Ng Pin Leng |
+| Lower Sec Teacher IC | Mdm Hong Wan Mei |
 | Upper Sec Teacher IC | Mr Daniel Leong |
-| Upper Sec Teacher IC | Mr Toh Yong Yuan (IC) |
+| Upper Sec Teacher IC | Mdm Goh Meow Peng Sherry (IC) |
 | Coaches | Mr Ng Choong Hong<br>Mr Ang Kuang Ngee |
 |  |  |
 
