@@ -12,10 +12,10 @@ third_nav_title: Clubs and Societies
 
 | **Roles** | **Teacher-in-Charge** |
 |:---:|---|
-| Lower Sec Teacher IC | Mdm Hamida Bte Md Jamil (IC) |
 | Lower Sec Teacher IC | Mr Darren Subramaniam |
 | Lower Sec Teacher IC | Mr Phua Buan Hock Norman |
 | Upper Sec Teacher IC | Mdm Nur Shaikhah Bte Rajab |
+| Upper Sec Teacher IC | Mdm Hamida Bte Md Jamil (IC)  |
 |  |  |
 
 **Weekly Schedule**
