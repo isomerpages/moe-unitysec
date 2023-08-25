@@ -10,9 +10,9 @@ third_nav_title: Sports and Games
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| Lower Sec Teacher IC | Mdm Fadilah Bte Mohamed |
+| Lower Sec Teacher IC | Mr Siva Balan s/o Ayavoo |
 | Upper Sec Teacher IC | Mr Teng Han Yong (IC) |
-| Upper Sec Teacher IC | Mr Siva Balan s/o Ayavoo |
+| Upper Sec Teacher IC | Mdm Fadilah Bte Mohamed |
 |  |  |
 
 **Weekly Schedule**
