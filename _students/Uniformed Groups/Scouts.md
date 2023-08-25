@@ -11,6 +11,7 @@ third_nav_title: Uniformed Groups
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
 | Lower Sec Teacher IC | Mr Arab Hussain |
+| Lower Sec Teacher IC | Ms Sumitha d/o Poonia Murthy |
 | Upper Sec Teacher IC | Ms Fatin Farahlyana (IC) |
 |  |  |
 
@@ -23,5 +24,5 @@ third_nav_title: Uniformed Groups
 
 | **CCA Description** |
 |:---:|
-| Unity Unicorn Scouts Troop was established in 2001, as part of the Unicorn Scout Group comprising of Dunearn Secondary, Unity Secondary, Unity Primary and Unicorn Ventures & Rovers Open Unit. As a mixed gender CCA, the Unit has an average of 50 members. <br><br>Since 2008, Unity Unicorn Scouts have attained the Frank Cooper Sands (Gold) Award consecutively to date. In 2020, four of our Scouts have also achieved the Chief Commissioner's Award (CCA), the highest award that a Scout can attain, bringing our total number of CCA Awardees to 12. |
+| Unity Unicorn Scouts Troop was established in 2001, as part of the Unicorn Scout Group comprising of Dunearn Secondary, Unity Secondary, Unity Primary and Unicorn Ventures &amp; Rovers Open Unit. As a mixed gender CCA, the Unit has an average of 50 members.&nbsp;<br><br>Since 2008, Unity Unicorn Scouts have attained the Frank Cooper Sands (Gold) Award consecutively to date. In 2020, four of our Scouts have also achieved the Chief Commissioner's Award (CCA), the highest award that a Scout can attain, bringing our total number of CCA Awardees to 12. |
 |  |

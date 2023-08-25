@@ -6,16 +6,16 @@ third_nav_title: Sports and Games
 ---
 ## Table Tennis
 
-<img src="/images/B Division Girls Team Photo 1.jpg" style="width:43%" align=left>
-<img src="/images/c div boys.jpg" style="width:53%" align=right>
+<img src="/images/B Division Girls Team Photo 1.jpg" style="width:43%" align="left">
+<img src="/images/c div boys.jpg" style="width:53%" align="right">
 <br clear="left"><br>
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
+| Lower Sec Teacher IC | Mdm Palanisamy Sulochana Devi |
 | Lower Sec Teacher IC | Mrs Kang-Lim Hui Fern, Karen (IC) |
-| Lower Sec Teacher IC | Mr Sony Rajan |
-| Upper Sec Teacher IC | Ms Toh Meow Tin  |
-| Upper Sec Teacher IC | Mdm Palanisamy Sulochana Devi |
+| Upper Sec Teacher IC | Mr Sony Rajan  |
+| Upper Sec Teacher IC | Ms Toh Meow Tin |
 |  |  |
 
 **Weekly Schedule**

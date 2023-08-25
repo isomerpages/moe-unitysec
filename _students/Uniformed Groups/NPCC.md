@@ -6,13 +6,14 @@ third_nav_title: Uniformed Groups
 ---
 ## NPCC
 
-<img src="/images/CCA Openhouse_1.jpg" style="width:49%" align=left>
-<img src="/images/CCA Openhouse_2.jpg" style="width:49%" align=right>
+<img src="/images/CCA Openhouse_1.jpg" style="width:49%" align="left">
+<img src="/images/CCA Openhouse_2.jpg" style="width:49%" align="right">
 <br clear="left"><br>
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
 | Lower Sec Teacher IC | Mdm Cheong Kiet Yeng Jeslyn |
+| Upper Sec Teacher IC | Ms Soh Jing Wen  |
 | Upper Sec Teacher IC | Ms Xu Bixian Janet (IC) |
 |  |  |
 

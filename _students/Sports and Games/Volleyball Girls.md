@@ -11,8 +11,7 @@ third_nav_title: Sports and Games
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
 | LS Teacher IC | Mdm Chen Bi Qing |
-| Lower Sec Teacher IC | Ms Koh Xue Ting |
-| Upper Sec Teacher IC | Mdm Khairyn Adriana Putri Malek (IC) |
+| Upper Sec Teacher IC | Mr Justin Tan Gim Yong (IC) |
 |  |  |
 
 **Weekly Schedule**
@@ -25,5 +24,5 @@ third_nav_title: Sports and Games
 
 | **CCA Description** |
 |:---:|
-| Unity Volleyball Girls CCA was established in 2001. It has about 54 members. <br><br>Unity Volleyball Girls CCA has been participating in West Zone B & C Divisions Volleyball Girls Championships . The Volleyball Girls players regularly engage in post-training reflective practices, so that they can set individual training goals, make conscious efforts to improve in their areas for improvement and also monitor their progress.  <br><br>They had a training trip to Taiwan 2018 & 2019 to train with many other talented Taiwanese volleyball players so as to be able to learn from them and get more experiences. They also had some friendly matches with other various schools during the holidays. |
+| Unity Volleyball Girls CCA was established in 2001. It has about 54 members. <br><br>Unity Volleyball Girls CCA has been participating in West Zone B &amp; C Divisions Volleyball Girls Championships . The Volleyball Girls players regularly engage in post-training reflective practices, so that they can set individual training goals, make conscious efforts to improve in their areas for improvement and also monitor their progress.  <br><br>They had a training trip to Taiwan 2018 &amp; 2019 to train with many other talented Taiwanese volleyball players so as to be able to learn from them and get more experiences. They also had some friendly matches with other various schools during the holidays. |
 |  |
