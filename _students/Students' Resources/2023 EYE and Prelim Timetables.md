@@ -10,7 +10,7 @@ Dear students, you may access the 2023 End of Year Examination and Prelim Timeta
 
 [Sec 2](/files/eye_2023_sec2_time%20table_as%20at%2023072023.pdf)
 
-[Sec 3](/files/eye_2023_sec3_time%20table_as%20at%2010082023.pdf)
+[Sec 3 - Updated](/files/eye_2023_sec3_time%20table_as%20at%2012092023.pdf)
 
 [Sec 4E5N Prelim - Updated](/files/2023%20sec%204e5n%20prelim%20timetable_final_caa11082023.pdf)
 
