@@ -24,7 +24,9 @@ third_nav_title: Achievements
 
 | Name of Staff | Appointment | Achievement | Level (Cluster, Zonal, National, International |
 |:---:|---|---|---|
-| Ms Tan Lin Yin Jacquelyn <br> Mdm Chong Shur Chin <br> Ms Ng Tien Ni Jenny | LT Biology  <br> HOD Curriculum and Tech <br> Vice Principal  | Presenters at TCEF 2023 | National |
+| Ms Tan Lin Yin Jacquelyn <br> Mdm Chong Shur Chin <br> Ms Ng Tien Ni Jenny | LT Biology  <br><br><br> HOD Curriculum and Tech <br> Vice Principal  | Presenters at TCEF 2023 | National |
+| Ms Tan Lin Yin Jacquelyn <br> Mdm Rohaila Sanusi | LT Biology  <br><br><br> Lead Teacher  | 2023 Associate of AST Award Recipient (Facilitator of Workshops)   | National |
+| Ms Xu Bixian Janet | Teacher  | 2023 Associate of AST Award Recipient (Innovator)    | National |
 |  |  |  |  |
 
 #### YEAR 2022 - STUDENTS' ACHIEVEMENTS
