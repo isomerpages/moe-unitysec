@@ -24,7 +24,7 @@ third_nav_title: Achievements
 
 | Name of Staff | Appointment | Achievement | Level (Cluster, Zonal, National, International |
 |:---:|---|---|---|
-| Mr Chew Thiam Teck Scott | HOD, Student Management and Guidance | Outstanding Honorary-VSC of the year 2022  <br>Singapore Police Force | National |
+| Ms Tan Lin Yin Jacquelyn <br> Mdm Chong Shur Chin <br> Ms Ng Tien Ni Jenny | LT Biology  <br> HOD Curriculum and Tech <br> Vice Principal  | Presenters at TCEF 2023 | National |
 |  |  |  |  |
 
 #### YEAR 2022 - STUDENTS' ACHIEVEMENTS
