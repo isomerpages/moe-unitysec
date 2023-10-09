@@ -6,6 +6,27 @@ third_nav_title: Achievements
 ---
 ## Achievements
 
+#### YEAR 2023 - STUDENTS' ACHIEVEMENTS
+
+| Name of Student | Achievement | Level (Cluster, Zonal, National, International) |
+|:---:|---|---|
+| Natalie Tor En Xing  | Singapore Schools Sports Council (SSSC) Colours Award - Best Sportsgirl for Taekwando| National |
+| Lay Jee Kheng  | NCC Air Competitions 2023 (Champion for paper glider category) - Champion | National |
+| Bremananth Ponnivanthi <br> Nadarajan Lalithapriya <br> Muthukumar Mahisha    | “THAMIZHUM AZHAKUM" (Beauty of Tamil in Tamil Film Songs) - First Prize | National |
+| Meenakshi Alagappan <br> Michael Albert Hana Akshitha <br>M Harrshana   | “THAMIZHUM AZHAKUM" (Beauty of Tamil in Tamil Film Songs) - Second Prize | National |
+| Ajay Philip Sharon Yalini <br> Umashankar Saadana Shri <br>Muralikrishnan Deekshita  | “THAMIZHUM AZHAKUM" (Beauty of Tamil Singapore Singapore Tamil Literature) - First Prize | National |
+| Muthukumar Mahisha   | Translation competition by Singapore Writers Association - First Prize | National |
+| Muthukumar Mahisha   | National Level Oratorical Competition by NPS Imayam International School - First Prize | National |
+| Gamboa Jayson Matthew Alcala <br> Kate Yee Xinyun <br> Saravanan Deepakkumar <br> Ng Jing Le Clarine <br> Sutharsanan Narmitha   | 24th - 28th ELEMENTZ International Fair - Gold | National |
+
+
+#### YEAR 2023 - STAFF ACHIEVEMENTS
+
+| Name of Staff | Appointment | Achievement | Level (Cluster, Zonal, National, International |
+|:---:|---|---|---|
+| Mr Chew Thiam Teck Scott | HOD, Student Management and Guidance | Outstanding Honorary-VSC of the year 2022  <br>Singapore Police Force | National |
+|  |  |  |  |
+
 #### YEAR 2022 - STUDENTS' ACHIEVEMENTS
 
 | Name of Student | Achievement | Level (Cluster, Zonal, National, International) |
