@@ -6,6 +6,29 @@ third_nav_title: Achievements
 ---
 ## Achievements
 
+#### YEAR 2023 - STUDENTS' ACHIEVEMENTS
+
+| Name of Student | Achievement | Level (Cluster, Zonal, National, International) |
+|:---:|---|---|
+| Natalie Tor En Xing  | Singapore Schools Sports Council (SSSC) Colours Award - Best Sportsgirl for Taekwando| National |
+| Lay Jee Kheng  | NCC Air Competitions 2023 (Champion for paper glider category) - Champion | National |
+| Bremananth Ponnivanthi <br> Nadarajan Lalithapriya <br> Muthukumar Mahisha    | “THAMIZHUM AZHAKUM" (Beauty of Tamil in Tamil Film Songs) - First Prize | National |
+| Meenakshi Alagappan <br> Michael Albert Hana Akshitha <br>M Harrshana   | “THAMIZHUM AZHAKUM" (Beauty of Tamil in Tamil Film Songs) - Second Prize | National |
+| Ajay Philip Sharon Yalini <br> Umashankar Saadana Shri <br>Muralikrishnan Deekshita  | “THAMIZHUM AZHAKUM" (Beauty of Tamil Singapore Singapore Tamil Literature) - First Prize | National |
+| Muthukumar Mahisha   | Translation competition by Singapore Writers Association - First Prize | National |
+| Muthukumar Mahisha   | National Level Oratorical Competition by NPS Imayam International School - First Prize | National |
+| Gamboa Jayson Matthew Alcala <br> Kate Yee Xinyun <br> Saravanan Deepakkumar <br> Ng Jing Le Clarine <br> Sutharsanan Narmitha   | 24th - 28th ELEMENTZ International Fair - Gold | National |
+
+
+#### YEAR 2023 - STAFF ACHIEVEMENTS
+
+| Name of Staff | Appointment | Achievement | Level (Cluster, Zonal, National, International |
+|:---:|---|---|---|
+| Ms Tan Lin Yin Jacquelyn <br> Mdm Chong Shur Chin <br> Ms Ng Tien Ni Jenny | LT Biology  <br><br><br> HOD Curriculum and Tech <br> Vice Principal  | Presenters at TCEF 2023 | National |
+| Ms Tan Lin Yin Jacquelyn <br> Mdm Rohaila Sanusi | LT Biology  <br><br><br> Lead Teacher  | 2023 Associate of AST Award Recipient (Facilitator of Workshops)   | National |
+| Ms Xu Bixian Janet | Teacher  | 2023 Associate of AST Award Recipient (Innovator)    | National |
+|  |  |  |  |
+
 #### YEAR 2022 - STUDENTS' ACHIEVEMENTS
 
 | Name of Student | Achievement | Level (Cluster, Zonal, National, International) |
