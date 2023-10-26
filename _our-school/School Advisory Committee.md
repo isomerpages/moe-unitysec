@@ -7,11 +7,10 @@ description: ""
 
 | Designation | Name |
 |:---:|---|
-| Chairman | Dr Andrew Chua Soon Kian |
+| Chairman | Dr Francis Chin Kuok Choon |
 | Member | Mr Ng Sey Ming |
 | Member | Mr Hendrick Tan Cheng Poh |
 | Member | Mr Lee Kee Hian |
-| Member | Dr Francis Chin Kuok Choon |
 | Member | Dr Teo Chew Lee |
 | Member | Dr Teng Siao See |
 | Hon Secretary (5th Principal) |  Mdm Adel Ong|
