@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Students' Resources/Students' Resources.md
-      - Students' Resources/2023 EYE and Prelim Timetables.md
       - Students' Resources/School Holiday Intervention Programme 2023.md
       - Students' Resources/.keep
       - Students' Resources/2023 Student Handbook.md
