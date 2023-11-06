@@ -4,8 +4,8 @@ title: Unity Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/unity-secondary-school.jpg
 permalink: /
-notification: Dear Students, EYE and Prelim Schedules are out. You may access
-  the timetable in the link below.
+notification: "Dear all, visit us at our Open House on Saturday, 18th November
+  2023,  from 8.30am to 12.30pm. "
 sections:
   - hero:
       title: UNITY SECONDARY SCHOOL
@@ -21,4 +21,6 @@ sections:
           description: ""
           url: https://www.unitysec.moe.edu.sg/students/students-resources/2023-eye-and-prelim-timetables/
       subtitle: "#School_Of_OpportUNITY"
+      url: https://go.gov.sg/unitysec-openhouse
+      button: click here for our open house details
 ---
