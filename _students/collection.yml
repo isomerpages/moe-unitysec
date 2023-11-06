@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Students' Resources/2024 Booklist.md
       - Students' Resources/Students' Resources.md
       - Students' Resources/End of Year School Holiday CCA Training 2023.md
       - Students' Resources/.keep
