@@ -2,7 +2,12 @@
 title: Key Programmes
 permalink: /the-unity-edge/key-programmes/
 description: ""
+variant: markdown
 ---
 ## Key Programmes
 
-<img src="/images/2021_Latest We Stories_Cover.jpeg" style="width:85%">
+
+![](/images/westories%20pg%201_1.JPG)
+![](/images/westories%20pg%202.JPG)
+
+[https://go.gov.sg/westories-official](https://go.gov.sg/westories-official)
