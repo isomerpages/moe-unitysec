@@ -100,6 +100,8 @@ The Edusave Character Award (ECHA) recognises students who demonstrate exemplary
 | Ms Tan Lin Yin Jacquelyn <br> Mdm Chong Shur Chin <br> Ms Ng Tien Ni Jenny | LT Biology  <br><br><br> HOD Curriculum and Tech <br> Vice Principal  | Presenters at TCEF 2023 | National |
 | Ms Tan Lin Yin Jacquelyn <br> Mdm Rohaila Sanusi | LT Biology  <br><br><br> Lead Teacher  | 2023 Associate of AST Award Recipient (Facilitator of Workshops)   | National |
 | Ms Xu Bixian Janet | Teacher  | 2023 Associate of AST Award Recipient (Innovator)    | National |
+| Mdm Khamilia Hanapi | HOD Humanities  | National Day Commendation Medal    | National |
+| Ms Tie Hieng Han| HOD Mother Tongue | National Day Commendation Medal   | National |
 
 ###### **MOE Service Excellence Award (MSEA) 2023**
 
