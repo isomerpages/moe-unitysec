@@ -31,8 +31,8 @@ The Edusave Character Award (ECHA) recognises students who demonstrate exemplary
 |Darius Seah Boon Siong|NPCC|Sec 4|
 | Erh Xi Rui Enid|NPCC|Sec 4|
 |Yang Kechao|NPCC|Sec 4|
-| Adryana Sofea Binte Abdullah|NPCC|Sec 4|
 |Isaac William Seah Zheng Yu|NPCC|Sec 4|
+| Adryana Sofea Binte Abdullah|Speech &amp; Drama|Sec 4|
 | Nur Adriana Binte Mohamed Najib|Speech &amp; Drama|Sec 4|
 |Sabriel Chin Jing Ting|Choir|Sec 4|
 |Yip Ziying Schnabel|Choir|Sec 4|
