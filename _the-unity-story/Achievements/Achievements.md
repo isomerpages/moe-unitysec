@@ -3,6 +3,7 @@ title: Achievements
 permalink: /the-unity-story/achievements/
 description: ""
 third_nav_title: Achievements
+variant: markdown
 ---
 ## Achievements
 
@@ -19,6 +20,30 @@ third_nav_title: Achievements
 | Muthukumar Mahisha   | National Level Oratorical Competition by NPS Imayam International School - First Prize | National |
 | Gamboa Jayson Matthew Alcala <br> Kate Yee Xinyun <br> Saravanan Deepakkumar <br> Ng Jing Le Clarine <br> Sutharsanan Narmitha   | 24th - 28th ELEMENTZ International Fair - Gold | National |
 
+#### Edusave Character Award (ECHA)
+The Edusave Character Award (ECHA) recognises students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions. 
+
+ | Name of Student | CCA |Level |
+|:--:|--|--|
+|Tan Keng Wee|NCC(Air)|Sec 5|
+|Ng Hong Han Jovan|Library Club|Sec 4|
+|Tan Kai Run, Shawn|Football|Sec 4|
+|Darius Seah Boon Siong|NPCC|Sec 4|
+| Erh Xi Rui Enid|NPCC|Sec 4|
+|Yang Kechao|NPCC|Sec 4|
+| Adryana Sofea Binte Abdullah|NPCC|Sec 4|
+|Isaac William Seah Zheng Yu|NPCC|Sec 4|
+| Nur Adriana Binte Mohamed Najib|Speech &amp; Drama|Sec 4|
+|Sabriel Chin Jing Ting|Choir|Sec 4|
+|Yip Ziying Schnabel|Choir|Sec 4|
+|Nur Falisha Binte Sha'Ari|Choir|Sec 4|
+|Chanel Goh En Ting|Table Tennis|Sec 4|
+|Rujira Leong Chew Peng|Table Tennis|Sec 4|
+|Lim Zheng Hui, Zann|Symphonic Band|Sec 4|
+|Cadi Toh En Ci|Volleyball Girls|Sec 4|
+|Anderson Tan Wei Keat|Scouts|Sec 4|
+|Ng Jing Le Clarine|Symphonic Band|Sec 3|
+|Lim Xinni Riko|Girls' Brigade|Sec 3|
 
 #### YEAR 2023 - STAFF ACHIEVEMENTS
 
