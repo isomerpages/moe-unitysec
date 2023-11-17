@@ -104,5 +104,4 @@ The Edusave Character Award (ECHA) recognises students who demonstrate exemplary
 | Mdm Chen Bi Qing  <br>Mr Low Jackson  <br>Ms Janet Xu  <br>Mdm Yue Qun | Teacher | MOE Service Excellence Award (MSEA)  <br><br>GOLD | National |
 | Mr Jeremy Yong | ICT Manager | MOE Service Excellence Award (MSEA)  <br><br>GOLD | National |
 | Ms Fairuz bte Mohd Paidin  <br>Ms Fatin Farahlyana bte Mohd Hasidi  <br>Ms Leow Shu Fen  <br>Mr Teng Han Yong  <br>Mdm Zhou Yong Ping | Teacher | MOE Service Excellence Award (MSEA)  <br><br>SILVER | National |
-|  |  |  |  | Platinum <br>Gold ||
-
+|  |  |  |  |  ||
