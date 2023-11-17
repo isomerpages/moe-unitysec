@@ -31,9 +31,9 @@ The Edusave Character Award (ECHA) recognises students who demonstrate exemplary
 |Darius Seah Boon Siong|NPCC|Sec 4|
 | Erh Xi Rui Enid|NPCC|Sec 4|
 |Yang Kechao|NPCC|Sec 4|
-| Adryana Sofea Binte Abdullah|NPCC|Sec 4|
 |Isaac William Seah Zheng Yu|NPCC|Sec 4|
-| Nur Adriana Binte Mohamed Najib|Speech &amp; Drama|Sec 4|
+| Adryana Sofea Binte Abdullah|Speech &amp; Drama|Sec 4|
+| Nur Adriana Binte Mohamed Najib|Choir|Sec 4|
 |Sabriel Chin Jing Ting|Choir|Sec 4|
 |Yip Ziying Schnabel|Choir|Sec 4|
 |Nur Falisha Binte Sha'Ari|Choir|Sec 4|
@@ -45,6 +45,7 @@ The Edusave Character Award (ECHA) recognises students who demonstrate exemplary
 |Ng Jing Le Clarine|Symphonic Band|Sec 3|
 |Lim Xinni Riko|Girls' Brigade|Sec 3|
 
+
 #### YEAR 2023 - STAFF ACHIEVEMENTS
 
 | Name of Staff | Appointment | Achievement | Level (Cluster, Zonal, National, International |
@@ -52,7 +53,14 @@ The Edusave Character Award (ECHA) recognises students who demonstrate exemplary
 | Ms Tan Lin Yin Jacquelyn <br> Mdm Chong Shur Chin <br> Ms Ng Tien Ni Jenny | LT Biology  <br><br><br> HOD Curriculum and Tech <br> Vice Principal  | Presenters at TCEF 2023 | National |
 | Ms Tan Lin Yin Jacquelyn <br> Mdm Rohaila Sanusi | LT Biology  <br><br><br> Lead Teacher  | 2023 Associate of AST Award Recipient (Facilitator of Workshops)   | National |
 | Ms Xu Bixian Janet | Teacher  | 2023 Associate of AST Award Recipient (Innovator)    | National |
-|  |  |  |  |
+| Mdm Khamilia Hanapi | HOD Humanities  | National Day Commendation Medal    | National |
+| Mr Tie Hieng Han| HOD Mother Tongue | National Day Commendation Medal   | National |
+
+###### **MOE Service Excellence Award (MSEA) 2023**
+
+| Award Category| Awardees |
+|:---:|---|
+| Mr Jeremy Yong <br> Mr Andrew Lim <br> Ms Chen Yi <br> Ms Jeslyn Cheong <br> Ms Chia Kel-li <br> Ms Chong Shur Chin <br> Ms Jacqueline Tan <br> Ms Wendy Lin <br> Ms Ong Pei Ee | Platinum <br>Gold <br>Gold<br>Gold<br>Gold<br>Gold<br>Gold<br>Gold<br>Gold |
 
 #### YEAR 2022 - STUDENTS' ACHIEVEMENTS
 
@@ -96,4 +104,5 @@ The Edusave Character Award (ECHA) recognises students who demonstrate exemplary
 | Mdm Chen Bi Qing  <br>Mr Low Jackson  <br>Ms Janet Xu  <br>Mdm Yue Qun | Teacher | MOE Service Excellence Award (MSEA)  <br><br>GOLD | National |
 | Mr Jeremy Yong | ICT Manager | MOE Service Excellence Award (MSEA)  <br><br>GOLD | National |
 | Ms Fairuz bte Mohd Paidin  <br>Ms Fatin Farahlyana bte Mohd Hasidi  <br>Ms Leow Shu Fen  <br>Mr Teng Han Yong  <br>Mdm Zhou Yong Ping | Teacher | MOE Service Excellence Award (MSEA)  <br><br>SILVER | National |
-|  |  |  |  |
+|  |  |  |  | Platinum <br>Gold ||
+
