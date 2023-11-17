@@ -60,7 +60,7 @@ The Edusave Character Award (ECHA) recognises students who demonstrate exemplary
 
 | Award Category| Awardees |
 |:---:|---|
-| Mr Jeremy Yong <br> Mr Andrew Lim <br> Ms Chen Yi <br> Ms Jeslyn Cheong <br> Ms Chia Kel-li <br> Ms Chong Shur Chin <br> Ms Jacqueline Tan <br> Ms Wendy Lin <br> Ms Ong Pei Ee | Platinum <br>Gold |
+| Mr Jeremy Yong <br> Mr Andrew Lim <br> Ms Chen Yi <br> Ms Jeslyn Cheong <br> Ms Chia Kel-li <br> Ms Chong Shur Chin <br> Ms Jacqueline Tan <br> Ms Wendy Lin <br> Ms Ong Pei Ee | Platinum <br>Gold <br>Gold<br>Gold<br>Gold<br>Gold<br>Gold<br>Gold<br>Gold |
 
 #### YEAR 2022 - STUDENTS' ACHIEVEMENTS
 
