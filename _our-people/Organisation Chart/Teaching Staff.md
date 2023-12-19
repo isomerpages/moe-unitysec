@@ -3,6 +3,7 @@ title: Teaching Staff
 permalink: /our-people/Organisation-Chart/ts/
 description: ""
 third_nav_title: Organisation Chart
+variant: markdown
 ---
 ## Teaching Staff
 
@@ -20,7 +21,6 @@ third_nav_title: Organisation Chart
 | Mdm Norhayati Bte Supari | [norhayati\_supari@schools.gov.sg](mailto:norhayati_supari@schools.gov.sg) |
 | Mdm Tang Lai Sim, Christine | [tang\_lai\_sim\_christine@schools.gov.sg](mailto:tang_lai_sim_christine@schools.gov.sg) |
 | Ms Xu Bi Xian Janet | [xu\_bixian\_janet@schools.gov.sg](mailto:xu_bixian_janet@schools.gov.sg) |
-| Ms Siti Robi'ah Binte Jamal | [siti\_robiah\_jamal@schools.gov.sg](mailto:siti_robiah_jamal@schools.gov.sg)|
 | Ms Nur Hidayah Bte Bohari | [nur\_hidayah\_bohari@schools.gov.sg](mailto:nur_hidayah_bohari@schools.gov.sg) |
 | Ms Nur Syazwani Binte Nordin | [nur\_syazwani\_nordin@schools.gov.sg](mailto:nur_syazwani_nordin@schools.gov.sg) |
 | Ms Lilian Foo Chen Chen | [Lilian\_Foo\_Chen\_Chen@schools.gov.sg](mailto:lilian_foo_chen_chen@schools.gov.sg) |
@@ -48,7 +48,6 @@ third_nav_title: Organisation Chart
 | Mr Norman Phua Buan Hock	 | [phua\_buan\_hock\_norman@schools.gov.sg](mailto:phua_buan_hock_norman@schools.gov.sg) |
 | Mrs Soh-Toh Meow Tin | [toh\_meow\_tin@schools.gov.sg](mailto:toh_meow_tin@schools.gov.sg) |
 | Mrs Kang-Lim Hui Fern Karen | [kang-lim\_hui\_fern\_karen@schools.gov.sg](mailto:kang-lim_hui_fern_karen@schools.gov.sg) |
-| Mrs Elfy Ara-Lee Yi Yu | [lee\_yi\_yu\_elfy@schools.gov.sg](mailto:lee_yi_yu_elfy@schools.gov.sg) |
 | Ms Nur Ain Binte Mohd Zulkifli | [nur\_ain\_mohd\_zulkifli@schools.gov.sg](mailto:nur_ain_mohd_zulkifli@schools.gov.sg) |
 | Mdm Khor Li Fon Fiona | [khor\_li\_fon\_fiona@schools.gov.sg](mailto:khor_li_fon_fiona@schools.gov.sg) |
 | Ms Yii Chin Meet Karen | [yii\_chin\_meet\_karen@schools.gov.sg](mailto:yii_chin_meet_karen@schools.gov.sg) |
@@ -66,16 +65,13 @@ third_nav_title: Organisation Chart
 | Ms Chen Yi | [chen\_yi@schools.gov.sg](mailto:chen_yi@schools.gov.sg) |
 | Ms Soh Jing Wen | [soh\_jing\_wen\_c@schools.gov.sg](mailto:soh_jing_wen_c@schools.gov.sg) |
 | Mr Tan Kee Seng | [tan\_kee\_seng\_a@schools.gov.sg](mailto:tan_kee_seng_a@schools.gov.sg) |
-| Mdm Wai Lai Quin | [wai\_lai\_quin\_a@schools.gov.sg](mailto:wai_lai_quin_a@schools.gov.sg) |
-| Mdm Lai Lian Ching Elsie | [lai\_lian\_ching@schools.gov.sg](mailto:lai_lian_ching@schools.gov.sg) |
 |  |  |
 | **Science Department** |  |
 | Mdm Chua Chiew Ping	 | [chua\_chiew\_ping@schools.gov.sg](mailto:chua_chiew_ping@schools.gov.sg) |
-| Mr Shanmugam s/o Suppiah | [shanmugam\_suppiah@schools.gov.sg](mailto:shanmugam_suppiah@schools.gov.sg) |
-| Ms Huang Ningxin | [huang\_ningxin@schools.gov.sg](mailto:huang_ningxin@schools.gov.sg) |
-| Ms Liang Yen Shan | [liang\_yen\_shan@schools.gov.sg](mailto:liang_yen_shan@schools.gov.sg) |
 | Mdm Tan Lin Yin Jacqueline | [tan\_lin\_yin\_jacqueline@schools.gov.sg](mailto:tan_lin_yin_jacqueline@schools.gov.sg) |
+| Ms Liang Yen Shan | [liang\_yen\_shan@schools.gov.sg](mailto:liang_yen_shan@schools.gov.sg) |
 | Ms Fiona Neo Ruey Ning | [neo\_ruey\_ning@schools.gov.sg](mailto:neo_ruey_ning@schools.gov.sg) |
+| Mr Shanmugam s/o Suppiah | [shanmugam\_suppiah@schools.gov.sg](mailto:shanmugam_suppiah@schools.gov.sg) |
 | Mr Chan Chin Choon, Vincent | [chan\_chin\_choon@schools.gov.sg](mailto:chan_chin_choon@schools.gov.sg) |
 | Mr Tsia Gwo Hong | [tsia\_gwo\_hong@schools.gov.sg](mailto:tsia_gwo_hong@schools.gov.sg) |
 | Mr Siow Wee Koon | [siow\_wee\_koon@schools.gov.sg](mailto:siow_wee_koon@schools.gov.sg) |
