@@ -3,6 +3,7 @@ title: Organisation Chart
 permalink: /our-people/Organisation-Chart/oc/
 description: ""
 third_nav_title: Organisation Chart
+variant: markdown
 ---
 ## Organisation Chart
 
@@ -12,11 +13,11 @@ third_nav_title: Organisation Chart
 |:---:|---|
 | Principal | Mdm Adel Ong Liang Fung |
 | Vice-Principal | Ms Ng Tien Ni Jenny |
-| Vice-Principal | Mr Lim Cheng Tju |
-| School Staff Developer | Mr Shanmugam s/o Suppiah |
+| Vice-Principal | Mr Lim Yong Chai Alan, Vice Principal |
+| School Staff Developer | Mdm&nbsp; Khamilia bte Hanapi |
 | Year Head | Mr Ng Yan Kit |
 | Year Head | Ms Chia Kel- Li |
-| Asst Year Head (Upper Sec) | Ms Ong Soo Chuin Jean |
+| Asst Year Head (Upper Sec) | Mr Lee Kah Lin Alvin |
 | Asst Year Head (Lower Sec) | Ms Neo Ruey Ning Fiona |
 | Administration Manager | Ms Chua Bee Kuan |
 | HOD/ Curriculum and Infomation Technology | Ms Chong Shur Chin |
@@ -28,7 +29,7 @@ third_nav_title: Organisation Chart
 | LH/Chinese Language | Ms Ng Pin Leng |
 | SH/ Malay Language | Mdm Rashidah bte Md Yaakob |
 | ST/Tamil Language | Mr Jaya Kumar |
-| HOD/ Humanities | Mdm&nbsp; Khamilia bte Hanapi |
+| HOD/ Humanities | Mdm Khairunisa |
 | SH/Geography | Mrs Jasmin&nbsp; Mariya d/o Madasamy |
 | HOD/ Mathematics | Mr Tan Yee Kee |
 | LH/Mathematics | Ms Ong Pei Ee | 
@@ -38,7 +39,7 @@ third_nav_title: Organisation Chart
 | LH/ Science | Ms Huang Ningxin |
 | SH/ Chem |   Ms Liang Yen Shan |
 | LT/ Bio | Ms Jacqueline Tan Lin Yin |
-|  SH/ Character &amp; Leadership Development | Mdm Nur Shaikhah bte Rajab |
+|  SH/ ALP &amp; Innovations | Mr Ho Kian Tong |
 |   SH/ Student Leadership 	 | Mdm Cheong Kiet Yeng Jeslyn  |
 | HOD/Student Management and Guidance | Mr Chew Thiam Teck Scott |
 |  |  |
