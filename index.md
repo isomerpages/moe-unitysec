@@ -17,6 +17,6 @@ sections:
           description: Sec 1 to 5 Booklist
           url: https://www.unitysec.moe.edu.sg/students/students-resources/2024-booklist/
       subtitle: "#School_Of_OpportUNITY"
-      url: https://go.gov.sg/unitysec-openhouse
-      button: click here for our open house details
+      url: https://go.gov.sg/experienceunity
+      button: click here for sec 1 registration details
 ---
