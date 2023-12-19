@@ -36,7 +36,6 @@ variant: markdown
 | LT/Learning Needs | Mdm Rohaila bte Sanusi |
 | HOD/ Physical Education &amp; CCA | Mr Low Yee Fun |
 | HOD/ Science | Mdm Chua Chiew Ping |
-| LH/ Science | Ms Huang Ningxin |
 | SH/ Chem |   Ms Liang Yen Shan |
 | LT/ Bio | Ms Jacqueline Tan Lin Yin |
 |  SH/ ALP &amp; Innovations | Mr Ho Kian Tong |
