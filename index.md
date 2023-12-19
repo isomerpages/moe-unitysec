@@ -4,7 +4,7 @@ title: Unity Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/unity-secondary-school.jpg
 permalink: /
-notification: ""
+notification: "Sec 1 Registration: Thursday, 21st December, 0800hrs to 1700hrs."
 sections:
   - hero:
       title: UNITY SECONDARY SCHOOL
