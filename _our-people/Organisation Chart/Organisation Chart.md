@@ -16,7 +16,7 @@ variant: markdown
 | Vice-Principal | Mr Lim Yong Chai Alan, Vice Principal |
 | School Staff Developer | Mdm&nbsp; Khamilia bte Hanapi |
 | Year Head | Mr Ng Yan Kit |
-| Year Head | Ms Chia Kel- Li |
+| Ag Year Head | Mdm&nbsp; Khamilia bte Hanapi |
 | Asst Year Head (Upper Sec) | Mr Lee Kah Lin Alvin |
 | Asst Year Head (Lower Sec) | Ms Neo Ruey Ning Fiona |
 | Administration Manager | Ms Chua Bee Kuan |
