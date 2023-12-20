@@ -7,7 +7,7 @@ third_nav_title: Students' Resources
 ---
 Dear students, you may refer and download your respective booklists for 2024 below:
 
-[Sec 1 G1G2G3 Booklist New](/files/Sec_1_G1G2G3_updated_18_Dec_23_final.pdf)
+[Sec 1G1G2G3 Booklist New v2](/files/Sec_1_G1G2G3_updated_20_Dec_23_final.pdf)
 
 [Sec 2E](/files/2024_sec%202%20express.pdf)
 [Sec 2NA](/files/2024_sec%202%20normal%20academic.pdf)
