@@ -3,13 +3,13 @@ title: Non Teaching Staff
 permalink: /our-people/Organisation-Chart/nts/
 description: ""
 third_nav_title: Organisation Chart
+variant: markdown
 ---
 ## Non-Teaching Staff
 
 | Name | Email |
 |:---:|---|
 | **Counsellors & LBS** |  |
-| Mdm Kumutha d/o Subramaniam (Counsellor) | [kumutha\_subramaniam@schools.gov.sg](mailto:kumutha_subramaniam@schools.gov.sg) |
 | Mdm Michelle Ong Siew Hong (Counsellor)	 | [ong\_siew\_hong@schools.gov.sg](mailto:ong_siew_hong@schools.gov.sg) |
 | Mr Peter Phoa (ECG)		 | [phoa\_ang\_hiok@schools.gov.sg](mailto:phoa_ang_hiok@schools.gov.sg) |
 | Ms Lin Wenjie Wendy (SEN) | [lin\_wenjie@schools.gov.sg](mailto:lin_wenjie@schools.gov.sg) |
