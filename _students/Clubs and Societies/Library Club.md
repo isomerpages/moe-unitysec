@@ -3,10 +3,10 @@ title: Library Club
 permalink: /students/Clubs-and-Societies/lc/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ## Library Club
 
-<img src="/images/eng1.jpeg" style="width:85%"> **FILE SIZE EXCEEDS 5MB**
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
