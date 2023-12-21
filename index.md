@@ -4,11 +4,7 @@ title: Unity Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/unity-secondary-school.jpg
 permalink: /
-notification: Dear 2024 Sec One Parents, due to technical difficulties, we are
-  not able to send out Parents Gateway messages. Rest assured that we will send
-  out the e-registration form by tomorrow, including offering of subjects at a
-  more demanding level. Meanwhile, you may click on the link below for more
-  information on Sec 1 Registration. Thank you.
+notification: ""
 sections:
   - hero:
       title: UNITY SECONDARY SCHOOL
