@@ -41,6 +41,7 @@ variant: markdown
 | Mr Teo Kok Hwee | [teo\_kok\_hwee@schools.gov.sg](mailto:teo_kok_hwee@schools.gov.sg) |
 |  |  |
 |  **Humanities Department** |  |
+| Mdm Khairunisa bte Mohd Ya'kob | [khairunisa\_mohamed\_yaakob@schools.gov.sg](mailto:Khairunisa_Mohamed_Yaakob@schools.gov.sg) |
 | Mdm Khamilia Binte Hanapi | [khamilia\_hanapi@schools.gov.sg](mailto:khamilia_hanapi@schools.gov.sg) |
 | Ms Chia Kel-li | [chia\_kel-li@schools.gov.sg](mailto:chia_kel-li@schools.gov.sg) |
 | Mdm Nur Shaikhah Binte Rajab | [nur\_shaikhah\_rajab@schools.gov.sg](mailto:nur_shaikhah_rajab@schools.gov.sg) |
@@ -64,6 +65,7 @@ variant: markdown
 | Mdm Asmidah Bte Rahwam | [asmidah\_rahwam@schools.gov.sg](mailto:asmidah_rahwam@schools.gov.sg) |
 | Ms Chen Yi | [chen\_yi@schools.gov.sg](mailto:chen_yi@schools.gov.sg) |
 | Ms Soh Jing Wen | [soh\_jing\_wen\_c@schools.gov.sg](mailto:soh_jing_wen_c@schools.gov.sg) |
+| Ms Phang Ka Leng | [phang\_ka\_leng@schools.gov.sg](mailto:Phang_Ka_Leng@schools.gov.sg) |
 | Mr Tan Kee Seng | [tan\_kee\_seng\_a@schools.gov.sg](mailto:tan_kee_seng_a@schools.gov.sg) |
 |  |  |
 | **Science Department** |  |
