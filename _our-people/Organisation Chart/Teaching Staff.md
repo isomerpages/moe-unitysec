@@ -56,11 +56,12 @@ variant: markdown
 | **Mathematics Department** |  |
 | Mr Tan Yee Kee | [tan\_yee\_kee@schools.gov.sg](mailto:tan_yee_kee@schools.gov.sg) |
 | Ms Ong Pei Ee | [ong\_pei\_ee@schools.gov.sg](mailto:ong_pei_ee@schools.gov.sg) |
-| Ms Jean Ong Soo Chuin | [ong\_soo\_chuin@schools.gov.sg](mailto:ong_soo_chuin@schools.gov.sg) |
+| Mr Lee Kah Lin Alvin | [kah\_lin\_alvin\_lee@schools.gov.sg](mailto:kah_lin_alvin_lee@schools.gov.sg) |
 | Mdm Jeslyn Cheong Kiet Yeng	 | [cheong\_kiet\_yeng\_jeslyn@schools.gov.sg](mailto:cheong_kiet_yeng_jeslyn@schools.gov.sg) |
 | Mdm Rohaila Binte Sanusi | [rohaila\_sanusi@schools.gov.sg](mailto:rohaila_sanusi@schools.gov.sg) |
 | Mdm Jasmine Ng Swee Meng	 | [ng\_swee\_meng@schools.gov.sg](mailto:ng_swee_meng@schools.gov.sg) |
 |Mrs Chang-Foo Wee Leng  | [foo\_wee\_leng@schools.gov.sg](mailto:foo_wee_leng@schools.gov.sg) |
+| Ms Jean Ong Soo Chuin | [ong\_soo\_chuin@schools.gov.sg](mailto:ong_soo_chuin@schools.gov.sg) |
 | Mr Lim Boon Liang | [lim\_boon\_liang@schools.gov.sg](mailto:lim_boon_liang@schools.gov.sg) |
 | Mdm Asmidah Bte Rahwam | [asmidah\_rahwam@schools.gov.sg](mailto:asmidah_rahwam@schools.gov.sg) |
 | Ms Chen Yi | [chen\_yi@schools.gov.sg](mailto:chen_yi@schools.gov.sg) |
@@ -74,6 +75,7 @@ variant: markdown
 | Mdm Tan Lin Yin Jacqueline | [tan\_lin\_yin\_jacqueline@schools.gov.sg](mailto:tan_lin_yin_jacqueline@schools.gov.sg) |
 | Ms Liang Yen Shan | [liang\_yen\_shan@schools.gov.sg](mailto:liang_yen_shan@schools.gov.sg) |
 | Ms Fiona Neo Ruey Ning | [neo\_ruey\_ning@schools.gov.sg](mailto:neo_ruey_ning@schools.gov.sg) |
+| Mr Ho Kian Tong | [ho\_kian\_tong@schools.gov.sg](mailto:ho_kian_tong@schools.gov.sg) |
 | Mr Shanmugam s/o Suppiah | [shanmugam\_suppiah@schools.gov.sg](mailto:shanmugam_suppiah@schools.gov.sg) |
 | Mr Chan Chin Choon, Vincent | [chan\_chin\_choon@schools.gov.sg](mailto:chan_chin_choon@schools.gov.sg) |
 | Mr Tsia Gwo Hong | [tsia\_gwo\_hong@schools.gov.sg](mailto:tsia_gwo_hong@schools.gov.sg) |
