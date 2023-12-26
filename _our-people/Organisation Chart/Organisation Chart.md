@@ -29,7 +29,7 @@ variant: markdown
 | LH/Chinese Language | Ms Ng Pin Leng |
 | SH/ Malay Language | Mdm Rashidah bte Md Yaakob |
 | ST/Tamil Language | Mr Jaya Kumar |
-| HOD/ Humanities | Mdm Khairunisa |
+| HOD/ Humanities | Mdm Khairunisa bte Mohd Ya'kob |
 | SH/Geography | Mrs Jasmin&nbsp; Mariya d/o Madasamy |
 | HOD/ Mathematics | Mr Tan Yee Kee |
 | LH/Mathematics | Ms Ong Pei Ee | 
