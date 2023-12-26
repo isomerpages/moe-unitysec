@@ -3,6 +3,7 @@ title: Parent’s Newsletter
 permalink: /unity-partners/Parents/newsletter/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 ## Parent’s Newsletter
 
@@ -16,10 +17,3 @@ third_nav_title: Parents
 | [Volume 23 Issue 4](https://go.gov.sg/uss-newsletter-t4-2022) |  |  |
 |  |  |  |
 
-##### <center>Year 2021</center>
-
-|  |  |  |
-|:---:|---|---|
-| [Volume 22 Issue 1](https://issuu.com/unitysec.coc/docs/unity_-_jan_29.1) | [Volume 22 Issue 2](https://issuu.com/unitysec.coc/docs/unity_-_feb_2021) | [Volume 22 Issue 3](https://issuu.com/unitysec.coc/docs/unity_-_march_2021) |
-| [Volume 22 Issue 4](https://issuu.com/unitysec.coc/docs/2021_term2_newsletter) | [Volume 22 Issue 5](https://issuu.com/unitysec.coc/docs/_opportunity_2021_term3) |  |
-|  |  |  |
