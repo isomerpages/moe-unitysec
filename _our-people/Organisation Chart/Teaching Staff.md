@@ -84,6 +84,7 @@ variant: markdown
 | Ms Sabrina Binte Jumadi | [sabrina\_bte\_jumadi@schools.gov.sg](mailto:sabrina_bte_jumadi@schools.gov.sg) |
 | Ms Sumitha_Poonia_Murthy | [sumitha\_poonia\_murthy@schools.gov.sg](mailto:sumitha_poonia_murthy@schools.gov.sg) |
 | Mdm Hong Wan Mei | [hong\_wan\_mei@schools.gov.sg](mailto:hong_wan_mei@schools.gov.sg) |
+| Mr Jason Khoo Kian Ann | [khoo\_kian\_ann\_jason@schools.gov.sg](mailto:khoo_kian_ann_jason@schools.gov.sg) |
 |  |  |
 | **Mother Tongue Department** |  |
 | Mr Tie Hieng Han	 | [tie\_hieng\_han@schools.gov.sg](mailto:tie_hieng_han@schools.gov.sg) |
@@ -101,13 +102,11 @@ variant: markdown
 | Mr Arab Hussain Jagur Hussain | [arab\_hussain\_jagur\_hussain@schools.gov.sg](mailto:arab_hussain_jagur_hussain@schools.gov.sg) |
 | Mdm Qu Ruokun | [qu\_ruokun@schools.gov.sg](mailto:qu_ruokun@schools.gov.sg) |
 | Mrs Mangaiyarkarasi Ganesh Kumar | [mangaiyarkarasi\_ganesh\_kumar@schools.gov.sg](mailto:mangaiyarkarasi_ganesh_kumar@schools.gov.sg) |
-| Ms Fairuz Bte Mohd Padin | [fairuz\_mohd\_padin@schools.gov.sg](mailto:fairuz_mohd_padin@schools.gov.sg) |
 | Ms Fatin Farahlyana Binte Mohamad Hasidi | [fatin\_farahlyana\_mohamad\_hasidi@schools.gov.sg](mailto:fatin_farahlyana_mohamad_hasidi@schools.gov.sg) |
 | Mr Morgan Law Mo Kwan	 | [law\_mo\_kwan\_a@schools.gov.sg](mailto:law_mo_kwan_a@schools.gov.sg) |
 |  |  |
 | **PE Department** |  |
 | Mr Low Yee Fun | [low\_yee\_fun@schools.gov.sg](mailto:low_yee_fun@schools.gov.sg) |
-| Ms Hana Cheong Tsui Ying | [cheong\_tsui\_ying\_hana@schools.gov.sg](mailto:cheong_tsui_ying_hana@schools.gov.sg) |
 | Mr Teng Han Yong | [teng\_han\_yong@schools.gov.sg](mailto:teng_han_yong@schools.gov.sg) |
 | Mr Tan Gim Yong | [tan\_gim\_yong@schools.gov.sg](mailto:tan_gim_yong@schools.gov.sg) |
 | Mdm Goh Meow Peng Sherry | [goh\_meow\_peng\_sherry@schools.gov.sg](mailto:goh_meow_peng_sherry@schools.gov.sg) |
