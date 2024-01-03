@@ -11,6 +11,7 @@ variant: markdown
 |:---:|---|
 | **Counsellors & LBS** |  |
 | Mdm Michelle Ong Siew Hong (Counsellor)	 | [ong\_siew\_hong@schools.gov.sg](mailto:ong_siew_hong@schools.gov.sg) |
+| Mdm Wendy Koh Kim Lian (Counsellor)	 | [wendy\_koh\_kim\_lian\_a@schools.gov.sg](mailto:wendy_koh_kim_lian_a@schools.gov.sg) |
 | Mr Peter Phoa (ECG)		 | [phoa\_ang\_hiok@schools.gov.sg](mailto:phoa_ang_hiok@schools.gov.sg) |
 | Ms Lin Wenjie Wendy (SEN) | [lin\_wenjie@schools.gov.sg](mailto:lin_wenjie@schools.gov.sg) |
 | Ms Mah Wan Qing Michelle (SWO) | [mah\_wan\_qing\_michelle@schools.gov.sg](mailto:mah_wan_qing_michelle@schools.gov.sg) |
@@ -34,8 +35,8 @@ variant: markdown
 | **Laboratory and Workshops** |  |
 | Mr Kumarasamy Shankar | Technical Support Officer (Sci) |
 | Ms Nur Amirah Binti Amir | Technical Support Officer (Sci) |
-| Mr Suwandi Bin Daani | Technical Support Officer (D&T) |
 | Mr Choo Soon Choon | Technical Support Officer (D&T) |
+| Mr Wan Sin Wah Steve | Technical Support Officer (D&T) |
 |  |  |
 | **IT Centre** |  |
 | Mr Jeremy Yong | ICT Manager |
