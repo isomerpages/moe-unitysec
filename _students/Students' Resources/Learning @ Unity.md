@@ -5,6 +5,4 @@ description: ""
 third_nav_title: Students' Resources
 variant: tiptap
 ---
-## Unity Sec IP Page
-
-Click [here](https://sites.google.com/moe.edu.sg/unitysec-ip-page/home) for more information.
+<h2>Learning @ Unity</h2><p>Click <a href="https://sites.google.com/moe.edu.sg/active-learning-unity/" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information.</p><p></p>
