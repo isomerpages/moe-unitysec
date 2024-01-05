@@ -12,5 +12,5 @@ variant: markdown
 Dear students, please download the student handbook [here.](/files/e_Student_Handbook_2024__updated_.pdf)
 
 <p><a href="https://sites.google.com/moe.edu.sg/unitystudentsportal/home/student-handbook">
-<img style="width:40%" src="/images/handbook2023.png">
+<img style="width:50%" src="/images/handbook2024.jpg">
 </a></p>
