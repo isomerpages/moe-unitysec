@@ -1,0 +1,47 @@
+collections:
+  students:
+    output: true
+    order:
+      - Students' Resources/.keep
+      - Students' Resources/Students' Resources.md
+      - Students' Resources/2024 Booklist.md
+      - Students' Resources/Student Handbook.md
+      - Students' Resources/Class Timetable.md
+      - Students' Resources/Learning @ Unity.md
+      - Students' Resources/Assessment.md
+      - Students' Resources/Promotion Criteria.md
+      - Students' Resources/Blended Learning.md
+      - Students' Resources/Full Subject Based Banding.md
+      - Students' Resources/Student Learning Space (SLS).md
+      - Students' Resources/Referral for school counselling.md
+      - Students' Resources/Useful Links for Students.md
+      - CCA/.keep
+      - CCA/CCA.md
+      - CCA/CCA POLICY  LEAPS 2, 0.md
+      - CCA/CCA Training Days and Venues.md
+      - Sports and Games/.keep
+      - Sports and Games/Basketball.md
+      - Sports and Games/Soccer.md
+      - Sports and Games/Table Tennis.md
+      - Sports and Games/Track and Field.md
+      - Sports and Games/Volleyball Girls.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Boys Brigade.md
+      - Uniformed Groups/Girls Brigade.md
+      - Uniformed Groups/NCC (AIR).md
+      - Uniformed Groups/NPCC.md
+      - Uniformed Groups/Scouts.md
+      - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Dance.md
+      - Performing Arts/Speech and Drama.md
+      - Performing Arts/Indian Orchestra.md
+      - Performing Arts/Symphonic Band.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Eco Explorers Club.md
+      - Clubs and Societies/Uniq Productions.md
+      - Clubs and Societies/Uniq Artists.md
+      - Student Leadership/.keep
+      - Student Leadership/Student Leadership.md
+      - Student Leadership/Structure of Unity Council.md
+      - Student Leadership/CCA Leaders.md

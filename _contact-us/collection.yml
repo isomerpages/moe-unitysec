@@ -1,0 +1,7 @@
+collections:
+  contact-us:
+    output: true
+    order:
+      - Address.md
+      - Official IG Account.md
+      - Contact us Form.md

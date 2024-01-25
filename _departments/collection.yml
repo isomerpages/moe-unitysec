@@ -1,0 +1,26 @@
+collections:
+  departments:
+    output: true
+    order:
+      - Departments.md
+      - Craft & Tech Department/.keep
+      - Craft & Tech Department/Information.md
+      - Craft & Tech Department/Events.md
+      - English Language Department/.keep
+      - English Language Department/Information.md
+      - English Language Department/Events.md
+      - Humanities Department/.keep
+      - Humanities Department/Information.md
+      - Humanities Department/Events.md
+      - Mathematics Department/.keep
+      - Mathematics Department/Information.md
+      - Mathematics Department/Events.md
+      - MTL Department/.keep
+      - MTL Department/Information.md
+      - MTL Department/Events.md
+      - Physical Education Department/.keep
+      - Physical Education Department/Information.md
+      - Physical Education Department/Events.md
+      - Science Department/.keep
+      - Science Department/Information.md
+      - Science Department/Events.md

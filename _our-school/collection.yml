@@ -1,0 +1,12 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - Principal's Message.md
+      - School History.md
+      - Motto, Mission, Vision and Values.md
+      - Facilities.md
+      - Student Management/.keep
+      - Student Management/School Expectations.md
+      - Student Management/School Safety.md
+      - School Advisory Committee.md
