@@ -43,7 +43,6 @@ variant: markdown
 |  **Humanities Department** |  |
 | Mdm Khairunisa bte Mohd Ya'kob | [Khairunisa\_Mohamed\_Yaakob@schools.gov.sg](mailto:Khairunisa_Mohamed_Yaakob@schools.gov.sg) |
 | Mdm Khamilia Binte Hanapi | [khamilia\_hanapi@schools.gov.sg](mailto:khamilia_hanapi@schools.gov.sg) |
-| Ms Chia Kel-li | [chia\_kel-li@schools.gov.sg](mailto:chia_kel-li@schools.gov.sg) |
 | Mdm Nur Shaikhah Binte Rajab | [nur\_shaikhah\_rajab@schools.gov.sg](mailto:nur_shaikhah_rajab@schools.gov.sg) |
 | Mdm Jasmin Mariya d/o Madasamy | [jasmin\_mariya\_madasamy@schools.gov.sg](mailto:jasmin_mariya_madasamy@schools.gov.sg) |
 | Mr Norman Phua Buan Hock	 | [phua\_buan\_hock\_norman@schools.gov.sg](mailto:phua_buan_hock_norman@schools.gov.sg) |
