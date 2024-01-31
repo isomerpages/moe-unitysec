@@ -23,7 +23,6 @@ variant: markdown
 | Mdm Afidah binte Ahmad | Admin Executive |
 | Ms Nur Syafawina Binte Zakariah | Admin Executive |
 | Mdm Goh Seck Heok | Corporate Support Officer |
-| Ms Ng Yam Cheng Jane | Corporate Support Officer |
 | Mdm Maimun Be binte Abdul Satar | Corporate Support Officer |
 | Mdm S Dhamayanthi | Corporate Support Officer |
 | Mdm Wong Yoke Meng | Corporate Support Officer |
