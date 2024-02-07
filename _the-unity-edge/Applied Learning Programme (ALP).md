@@ -2,31 +2,24 @@
 title: Applied Learning Programme (ALP)
 permalink: /the-unity-edge/alp/
 description: ""
+variant: markdown
 ---
 ## Applied Learning Programme (ALP)
 
-#### Applied Learning Programme (ALP) – Biotechnology in Food Sustainability
+Eco-stewards In Action – Thinker & Tinker To Champion Sustainability.
 
-The ALP programme enriches our students with skills of Biotechnology to relate to real world problems of food sustainability especially in the context of Singapore. Our students learn basic Microscopy, Microbiology, Plant Tissue Culture, Food Waste Composting and Hydroponics. Some of our students are also exposed to higher level research with these skills acquired. The scope of knowledge is far beyond their normal science lessons and with much hands on experiential learning, the students enjoy the exciting lessons donning on lab coats with the feeling of being a young scientist.
+Ever imagine what can be done to make Singapore’s food production more sustainable? Ever wonder what an energy-efficient community looks like in 2050? Spot Unity’seco-stewards in action as they critically problem-solve and tinker with sustainable solutions to meet real-world challenges! 
 
-**<u>2017</u>**
+**Sustainability Education @ Unity Secondary** is our Applied Learning Programme (ALP) that equips our students with multi-disciplinary and STEM-based skills to understand real world challenges and to problem-solve it in authentic contexts.
 
+![](/images/1__ALP__Caption___Eco_stewards_in_action_.jpeg)
 
+Engaged through Unity’s Problem-Based Learning approach, students critically analyse and research on sustainable development issues and challenges and co-create STEM-based solutions to build a resilient future.
 
-<img src="/images/ALP 2017.jpg" style="width:85%">
+Learning is hands-on and fun as students inquire and explore through building prototypes of Smart Home Farm Systems and Energy Efficient Community. Unity’s eco-stewards Code it and Minecraft it! It is serious fun and tinkering where our students acquire coding and automation skills to produce protypes in testing their sustainable solutions.
 
-**<u>2018</u>**
+![](/images/2__ALP__Caption___Thinkers_and_Tinkers_.jpeg)
 
-<img src="/images/ALP 2018  (4).jpg" style="width:85%"><br>
+Our 3-Year ALP experience immerses students in STEM skills where Technology, Mathematics and Engineering skills and concepts are taught and applied through students’ problem-based learning experiences. Aspiring eco-champions are further developed through our Young Scientists Programme as they learn from and work with partners such as NUS and Singapore Science Centre in their scientific inquiry projects and research. Learning is never a bore when it’s minds-on and hands-on!
 
-<img src="/images/ALP 2018  (11).jpg" style="width:85%"><br>
-
-<img src="/images/ALP 2018  (13).jpg" style="width:85%"><br>
-
-<img src="/images/ALP 2018  (22).jpg" style="width:85%"><br>
-
-<img src="/images/ALP 2018  (27).jpg" style="width:85%"><br>
-
-<img src="/images/ALP 2018  (28).jpg" style="width:85%"><br>
-
-<img src="/images/ALP 2018  (31).jpg" style="width:85%">
+![](/images/3__ALP__Caption__Conceptualisation_in_progress_.png)
