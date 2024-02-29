@@ -75,6 +75,7 @@ variant: markdown
 | Ms Liang Yen Shan | [liang\_yen\_shan@schools.gov.sg](mailto:liang_yen_shan@schools.gov.sg) |
 | Ms Fiona Neo Ruey Ning | [neo\_ruey\_ning@schools.gov.sg](mailto:neo_ruey_ning@schools.gov.sg) |
 | Mr Ho Kian Tong | [ho\_kian\_tong@schools.gov.sg](mailto:ho_kian_tong@schools.gov.sg) |
+| Mdm Mok Lee Huang | [mok\_lee\_huang@schools.gov.sg](mailto:mok_lee_huang@schools.gov.sg) |
 | Mr Shanmugam s/o Suppiah | [shanmugam\_suppiah@schools.gov.sg](mailto:shanmugam_suppiah@schools.gov.sg) |
 | Mr Chan Chin Choon, Vincent | [chan\_chin\_choon@schools.gov.sg](mailto:chan_chin_choon@schools.gov.sg) |
 | Mr Tsia Gwo Hong | [tsia\_gwo\_hong@schools.gov.sg](mailto:tsia_gwo_hong@schools.gov.sg) |
