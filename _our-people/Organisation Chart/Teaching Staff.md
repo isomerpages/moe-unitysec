@@ -75,7 +75,7 @@ variant: markdown
 | Ms Liang Yen Shan | [liang\_yen\_shan@schools.gov.sg](mailto:liang_yen_shan@schools.gov.sg) |
 | Ms Fiona Neo Ruey Ning | [neo\_ruey\_ning@schools.gov.sg](mailto:neo_ruey_ning@schools.gov.sg) |
 | Mr Ho Kian Tong | [ho\_kian\_tong@schools.gov.sg](mailto:ho_kian_tong@schools.gov.sg) |
-| Mr Shanmugam s/o Suppiah | [shanmugam\_suppiah@schools.gov.sg](mailto:shanmugam_suppiah@schools.gov.sg) |
+| Mdm Mok Lee Huang | [mok\_lee\_huang@schools.gov.sg](mailto:mok_lee_huang@schools.gov.sg) |
 | Mr Chan Chin Choon, Vincent | [chan\_chin\_choon@schools.gov.sg](mailto:chan_chin_choon@schools.gov.sg) |
 | Mr Tsia Gwo Hong | [tsia\_gwo\_hong@schools.gov.sg](mailto:tsia_gwo_hong@schools.gov.sg) |
 | Mr Siow Wee Koon | [siow\_wee\_koon@schools.gov.sg](mailto:siow_wee_koon@schools.gov.sg) |
@@ -83,6 +83,7 @@ variant: markdown
 | Ms Sabrina Binte Jumadi | [sabrina\_bte\_jumadi@schools.gov.sg](mailto:sabrina_bte_jumadi@schools.gov.sg) |
 | Ms Sumitha_Poonia_Murthy | [sumitha\_poonia\_murthy@schools.gov.sg](mailto:sumitha_poonia_murthy@schools.gov.sg) |
 | Mdm Hong Wan Mei | [hong\_wan\_mei@schools.gov.sg](mailto:hong_wan_mei@schools.gov.sg) |
+| Mr Shanmugam s/o Suppiah | [shanmugam\_suppiah\_a@schools.gov.sg](mailto:shanmugam_suppiah_a@schools.gov.sg) |
 | Mr Jason Khoo Kian Ann | [khoo\_kian\_ann\_jason@schools.gov.sg](mailto:khoo_kian_ann_jason@schools.gov.sg) |
 |  |  |
 | **Mother Tongue Department** |  |
