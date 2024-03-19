@@ -2,16 +2,13 @@
 title: School Advisory Committee
 permalink: /our-school/advisory-committee/
 description: ""
+variant: markdown
 ---
 ## School Advisory Committee
 
-| Designation | Name |
-|:---:|---|
-| Chairman | Dr Francis Chin Kuok Choon |
-| Member | Mr Ng Sey Ming |
-| Member | Mr Hendrick Tan Cheng Poh |
-| Member | Mr Lee Kee Hian |
-| Member | Dr Teo Chew Lee |
-| Member | Dr Teng Siao See |
-| Hon Secretary (5th Principal) |  Mdm Adel Ong|
-|  |  |
+![](/images/SAC_Members.jpg)
+
+**Front row (from left):** Dr Teo Chew Lee (Member), Mdm Adel Ong (Hon Secretary), Dr Teng Siao See (Member)<br><br>
+**Back row (from left to right):** Mr Ng Sey Ming (Member), Dr Francis Chin Kuok Choon (Chairman), Dr Samuel Chng (Member); Mr Hendrick Tan Cheng Poh(Member)
+
+
