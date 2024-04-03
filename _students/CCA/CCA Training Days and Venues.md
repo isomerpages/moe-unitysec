@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## CCA Training Days and Venues
 
-#### 2024 CCA Training Days and Venues Summary
+
 
 
 
