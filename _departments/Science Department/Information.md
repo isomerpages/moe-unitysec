@@ -3,6 +3,7 @@ title: Information
 permalink: /departments/Science-Department/info/
 description: ""
 third_nav_title: Science Department
+variant: markdown
 ---
 ## Information
 
@@ -17,7 +18,7 @@ The general aims of the various disciplines in science are to enable students to
 4 \.  understand the importance of experimental evidence when making decisions.<br>
 5 \.  develop awareness of the conclusions of important scientific theories so as to apply such knowledge in the natural world.
 
-**Pedagogies & mode of instruction**<br>
+**Pedagogies &amp; mode of instruction**<br>
 Various pedagogical approaches are used in the teaching of science in the classroom to enable students to acquire the skills and knowledge outlined in the various science syllabuses. Often there is an overlap of various pedagogies within a lesson to effectively engage students in learning.
 
 _Direct instruction_<br>
@@ -29,11 +30,15 @@ Problem based learning (PBL) helps students to understand basic science concepts
 _Practical lessons_<br>
 Practical work is integral to science education. Through practical lessons students observe or manipulate real objects, laboratory apparatus and materials individually or in small groups or by witness teacher demonstrations. Practical lessons enable students to develop scientific inquiry and practical skills. Students also gain a better understanding of scientific knowledge learned in the classroom and builds confidence in students. Practical work stimulates interest and enjoyment in the learning of science and gives insight into the scientific method. Students also develop ‘scientific attitudes’ such as open-mindedness and objectivity through the learning of science via practical work.
 
-**Key Programmes & Activities**
+**Key Programmes &amp; Activities**
 
-*   Australian Big Science Competition
-*   Design Thinking Programme
-*   Scientific Thinking and Enterprise Programme
-*   Use of Activated Effective Microorganisms in food waste composting
-*   Young Gifted Scientist Programme
-*   Unity Scientific Innovation Challenge
+*   Applied Learning Programme on STEM and Food Sustainability
+*   Singapore Science and Engineering Fair
+*   Tan Kah Kee Young Inventors' Award 
+*   Youth STEM Empowerment Programme (YSEP)
+*   Horizon Hydrogen Grand Prix (H2GP)
+*   International Elementz Fair
+*   Young Sustainability Champion Programme
+*   Young Engineers Competition
+*   Young Scientists Programme
+*   Unity Scientific Innovation Challenge in collaboration with Singapore Polytechnic and ERI@N (USPE)
