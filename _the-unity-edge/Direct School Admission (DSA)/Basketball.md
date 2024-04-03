@@ -77,3 +77,14 @@ as the&nbsp;<strong>academic progress</strong>&nbsp;of the players.</p>
 </p>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/0UYiPj06vHU"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/esther_lim_1.jpg"></a>
 <p></p>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/a5qBfOz8veg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/delvin_goh.jpg"></a>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yong_an.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/john.jpg">
+</div>
+<p></p>
