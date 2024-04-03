@@ -88,3 +88,75 @@ as the&nbsp;<strong>academic progress</strong>&nbsp;of the players.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/john.jpg">
 </div>
 <p></p>
+<h4>Selection Criteria</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/selectioncriteria.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Physical Proficiency Test</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Includes evaluation on speed, strength, agility, jumping ability and stamina.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Basketball Skills Assessment</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Includes evaluation on ball handling skill, game awareness and other skills
+eg. teamwork and communication.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Interview</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Face-to-face interview on the selection day to get to know potential candidates
+and understand their interests and needs.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Other</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Review of primary school academic results, testimonials, conduct and CCA
+records.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
+<p>Students who have successfully admitted to the school through DSA are
+expected to <strong>honour their commitment </strong>and participate in
+the activities related to the talent that they have selected for the number
+of years in the school.</p>
+<p></p>
