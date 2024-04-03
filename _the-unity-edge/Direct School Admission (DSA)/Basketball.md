@@ -180,18 +180,61 @@ to access the DSA-Sec Portal. Schools may refer them to MOE website at:
 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 <h4>Contacts</h4>
-<p><strong>Mr Low Yee Fun</strong>
-<br><em>HOD PE/CCA</em>
+<p><strong>Mr Low Yee Fun</strong> 
+<br><em>HOD PE/CCA</em> 
 <br>Tel: 67671070 ext 363
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">low_yee_fun@moe.edu.sg</a>
 </p>
-<p><strong>Ms Sherry Goh</strong>
-<br><em>DSA Coordinator</em>
+<p><strong>Ms Sherry Goh</strong> 
+<br><em>DSA Coordinator</em> 
 <br>Tel: 67671070 ext 231
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">goh_meow_peng_sherry@moe.edu.sg</a>
 </p>
-<p><strong>General Office</strong>
+<p><strong>General Office</strong> 
 <br>67671070
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">unity_ss@moe.edu.sg</a>
 </p>
+<p></p>
+<h4>FREQUENTLY ASKED QUESTIONS</h4>
+<p>Actualising Sportsmanship Through Basketball Niche Programme</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Who can apply for DSA?</p>
+</li>
+</ol>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All Primary 6 students who meet the selection
+criteria.</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>How do I apply?</p>
+</li>
+</ol>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students can apply through the DSA-Sec
+portal with their parent’s SingPass. Alternatively, students and parents
+may approach the primary school for assistance.</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Are there any specific selection criteria?</p>
+</li>
+</ol>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Basketball skill test, interview and primary
+school academic results will be taken into consideration for the DSA selection.</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>When and how will I know the results of my application?</p>
+</li>
+</ol>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All applicants will be informed of the
+results of their application by post.</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>Must my child meet your schools’ minimum cut-off points even if he is
+selected through DSA for admission to your school?</p>
+</li>
+</ol>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under the DSA-Sec Exercise, participating
+secondary schools will be able to select a percentage of their students
+for admission outside of the centralised posting system, via their own
+selection criteria. As long as your child qualifies the AL requirement,
+he/she is eligible for admission to our school via DSA.</p>
 <p></p>
