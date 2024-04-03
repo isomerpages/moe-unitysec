@@ -204,6 +204,7 @@ to access the DSA-Sec Portal. Schools may refer them to MOE website at:
 </ol>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All Primary 6 students who meet the selection
 criteria.</p>
+<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>How do I apply?</p>
@@ -212,6 +213,7 @@ criteria.</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students can apply through the DSA-Sec
 portal with their parent’s SingPass. Alternatively, students and parents
 may approach the primary school for assistance.</p>
+<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Are there any specific selection criteria?</p>
@@ -219,6 +221,7 @@ may approach the primary school for assistance.</p>
 </ol>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Basketball skill test, interview and primary
 school academic results will be taken into consideration for the DSA selection.</p>
+<p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>When and how will I know the results of my application?</p>
@@ -226,6 +229,7 @@ school academic results will be taken into consideration for the DSA selection.<
 </ol>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All applicants will be informed of the
 results of their application by post.</p>
+<p></p>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p>Must my child meet your schools’ minimum cut-off points even if he is
