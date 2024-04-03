@@ -160,3 +160,38 @@ expected to <strong>honour their commitment </strong>and participate in
 the activities related to the talent that they have selected for the number
 of years in the school.</p>
 <p></p>
+<h4>Application Procedure</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/application_timeline.jpg">
+</div>
+<p>1) Parents can log in to the DSA-Sec portal with SingPass to apply. Application
+for DSA-Sec can be submitted through the online DSA-Sec Portal. The application
+is free-of-charge and will be open in May.</p>
+<p>For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<p>2) If you are unable to apply online, approach your child's primary school
+for assistance. <strong>Closing date</strong> for DSA application:&nbsp;
+End May yearly.</p>
+<p>All applicants will be notified of the outcome of their application via
+post by <strong>Mid Sep yearly</strong>.</p>
+<p><strong>Note:<br></strong> Other applicants not studying in MOE mainstream
+primary schools. They need to apply for a Registration Number (RGxxxxxxx)
+to access the DSA-Sec Portal. Schools may refer them to MOE website at:
+<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</p>
+<h4>Contacts</h4>
+<p><strong>Mr Low Yee Fun</strong>
+<br><em>HOD PE/CCA</em>
+<br>Tel: 67671070 ext 363
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">low_yee_fun@moe.edu.sg</a>
+</p>
+<p><strong>Ms Sherry Goh</strong>
+<br><em>DSA Coordinator</em>
+<br>Tel: 67671070 ext 231
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">goh_meow_peng_sherry@moe.edu.sg</a>
+</p>
+<p><strong>General Office</strong>
+<br>67671070
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">unity_ss@moe.edu.sg</a>
+</p>
+<p></p>
