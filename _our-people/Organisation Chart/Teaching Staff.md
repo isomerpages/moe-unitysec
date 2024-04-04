@@ -49,6 +49,7 @@ variant: markdown
 | Mrs Soh-Toh Meow Tin | [toh\_meow\_tin@schools.gov.sg](mailto:toh_meow_tin@schools.gov.sg) |
 | Mrs Kang-Lim Hui Fern Karen | [kang-lim\_hui\_fern\_karen@schools.gov.sg](mailto:kang-lim_hui_fern_karen@schools.gov.sg) |
 | Ms Nur Ain Binte Mohd Zulkifli | [nur\_ain\_mohd\_zulkifli@schools.gov.sg](mailto:nur_ain_mohd_zulkifli@schools.gov.sg) |
+| Mrs Chua Wai Yi | [chow\_wai\_yi@schools.gov.sg](mailto:chow_wai_yi@schools.gov.sg) |
 | Mdm Khor Li Fon Fiona | [khor\_li\_fon\_fiona@schools.gov.sg](mailto:khor_li_fon_fiona@schools.gov.sg) |
 | Ms Yii Chin Meet Karen | [yii\_chin\_meet\_karen@schools.gov.sg](mailto:yii_chin_meet_karen@schools.gov.sg) |
 |  |  |
@@ -92,7 +93,6 @@ variant: markdown
 | Ms Ng Pin Leng | [ng\_pin\_leng@schools.gov.sg](mailto:ng_pin_leng@schools.gov.sg) |
 | Mdm Rashidah Binte Mohamad Yaakob | [rashidah\_mohamad\_yaakob@schools.gov.sg](mailto:rashidah_mohamad_yaakob@schools.gov.sg) |
 | Mr Jaya Kumar | [jaya\_kumar@schools.gov.sg](mailto:jaya_kumar@schools.gov.sg) |
-| Mr Abdul Rahman B Ali | [abdul\_rahman\_b\_ali@schools.gov.sg](mailto:abdul_rahman_b_ali@schools.gov.sg) |
 | Mdm Chen Bi Qing | [chen\_bi\_qing@schools.gov.sg](mailto:chen_bi_qing@schools.gov.sg) |
 | Mdm Yue Qun | [yue\_qun@schools.gov.sg](mailto:yue_qun@schools.gov.sg) |
 | Mdm Fadilah Bte Mohamed	 | [fadilah\_mohamed@schools.gov.sg](mailto:fadilah_mohamed@schools.gov.sg) |

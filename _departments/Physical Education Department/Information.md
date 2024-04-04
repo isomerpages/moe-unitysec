@@ -3,6 +3,7 @@ title: Information
 permalink: /departments/Physical-Education-Department/info/
 description: ""
 third_nav_title: Physical Education Department
+variant: markdown
 ---
 ## Information
 
@@ -22,11 +23,9 @@ Fitness and Conditioning modules (theory and practical) and various sports modul
 Major events and programmes for PE include:
 
 *   Healthy Lifestyle Week
-*   Road Relay
-*   Secondary 1 Adventure Quest
-*   Secondary 3 Overseas Camp
-*   Secondary 1 Swimming Programme
+*   Unity Run
+*   Secondary 1 Outdoor Challenge
+*   Secondary 2 Outdoor Adventure Camp
+*   Secondary 3 OBS
 *   Sports Fiesta
-*   ACES Day
-*   NYAA
 *   Wellness Programme
