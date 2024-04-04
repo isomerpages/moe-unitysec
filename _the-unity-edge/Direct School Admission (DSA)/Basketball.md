@@ -70,12 +70,12 @@ as the&nbsp;<strong>academic progress</strong>&nbsp;of the players.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/walloffame_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/walloffame_02_1.jpg">
 </div>
 <p></p>
 <p><a href="https://youtu.be/O3Jdi2b9CFk" rel="noopener noreferrer nofollow" target="_blank">Jr. NBA Singapore All-Stars 2018</a>
 </p>
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/0UYiPj06vHU"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/esther_lim_1.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/0UYiPj06vHU"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/esther_lim_2.jpg"></a>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://youtu.be/a5qBfOz8veg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/delvin_goh.jpg"></a>
 <p></p>
