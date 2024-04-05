@@ -34,7 +34,8 @@ the repetition of desirable actions in Unity.</p>
 <p></p>
 <h3>Catch and Highlight Multiply 2024</h3>
 <h4>Term 1</h4>
-<p></p>
+<p><strong><u>Sec 1</u></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/chm_01.jpg">
 </div>
@@ -49,5 +50,27 @@ the repetition of desirable actions in Unity.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/chm_04.jpg">
+</div>
+<p><strong><u>Sec 2</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chm_05.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chm_06.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chm_07.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chm_08.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/chm_09.jpg">
 </div>
 <p></p>
