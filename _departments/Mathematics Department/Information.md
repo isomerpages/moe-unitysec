@@ -35,15 +35,11 @@ This approach is about explicit teaching. Teachers introduce, explain and demons
 
 **Key Programmes &amp; Activities**
 
-*   Singapore Mathematical Olympiad
-*   University of New South Wales Mathematics Competition
-*   All Singapore Schools Mathematics Competition for Normal Course Students
-*   Independent Learning of Mathematics through E-Learning Portal
-*   Primary School Mathematics Peer Tutoring
-*   Mathematics Corridor (Learning Beyond Syllabus)
-*   NT Mathematics Trail
-*   Project Work
-*   Mathematical Modelling Tasks
+*   Singapore Asian Math Olympiad (SASMO)
+*   Singapore Math Kangaroo Contest 
+*   International Math Modelling Competition
+*   All Secondary School Normal Course Mathematics Competition
+*   Singapore International Mathematical and Computational Challenge (biennially)
 
 #### Principles of Accounts (POA)
 
@@ -71,11 +67,9 @@ This approach is about explicit teaching. Teachers introduce, explain and demons
 
 **Key Programmes &amp; Activities**
 
-*   POA Carnivals
-*   NYP-ACCA Accounting Challenge
-*   Ngee Ann Polytechnic Accounting Quiz
-*   Singapore Polytechnic Accounting Challenge
-*   Temasek Polytechnic POA Olympiad
+*   National Financial Literacy Challenge (East Zone POA NLC, CPF Board and CPDD Commerce Unit)
+*   Singapore Polytechnic “The NUMBERSPLAN” inter school competition
+*   Project Moolah 2024 - Financial Literacy Workshops with SMU Accountancy
 
 #### Computer Applications (CPA)
 
@@ -97,5 +91,4 @@ Learning is focused on real-life scenarios, taking place in authentic situations
 
 **Key Programmes &amp; Activities**
 
-*   Annual MEC Competition
-*   Teaching the animation software “Scratch” such that students learn to create interactive stories, games, music and art
+*   Animation and Game Making Contest (for students taking Computer Applications only)
