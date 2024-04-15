@@ -174,7 +174,6 @@ critically in their historical context to reach substantiated judgments
 about the past.</p>
 <p><strong>Pedagogies &amp; Modes of Teaching</strong>
 </p>
-<p>There are mainly three modes of teaching used in Combined Humanities.</p>
 <p>Inquiry-based learning will be the main approach in all three components
 of the subject. This approach facilitates the examination of current issues
 and problems at the local, regional or global scale from different perspectives
