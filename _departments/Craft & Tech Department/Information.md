@@ -3,84 +3,215 @@ title: Information
 permalink: /departments/Craft-and-Tech-Department/info/
 description: ""
 third_nav_title: Craft & Tech Department
+variant: tiptap
 ---
-## Information
-
-#### Design & Technology 
-
-The aim of Design & Technology (D&T) is to enable pupils to harness their innate curiosity and ability to create through design-and-make activities. It enables students to develop their dispositions for enterprise, creativity and innovation by identifying and responding to design needs through the process of research and observation, idea conceptualisation and development, graphic communication and working with appropriate tools and materials.
-
-Through this process, students develop an awareness of the impact of social, cultural and environmental factors on the design, and learn to exercise judgements of aesthetic, technical and economic nature. Students also develop safe working habits.
-
-Inherent in the process of designing, students also acquire knowledge on three basic technological areas, namely Structures, Mechanisms and Electronics. This is especially more so at upper secondary level.
-
-D&T is a compulsory subject for lower secondary students, while at upper secondary level, it is offered as an elective for interested students. Lower secondary students do not sit for a written examination, but they submit their coursework for assessment instead. Upper secondary students have to submit their coursework and sit for written examinations as part of their assessment.
-
-**Pedagogies & Modes of Teaching**
-
-Coursework is a core component of the curriculum for this subject, transcending all levels from Secondary 1 to 5. Through execution of the coursework and practical activities, students articulate their design problem solving capabilities.
-
-A thematic approach is used for Secondary 1 to 3 students’ coursework to better reflect and prepare them for the coursework requirements in Secondary 4, and also to make the design process more authentic.
-
-During Secondary 1 and 2, the emphasis is on understanding and appreciating the whole design cycle. During Secondary 3, the focus is on enhancing the research and decision making aspects, as well as to improve students’ ability in doodling and sketching for ideas exploration and development.
-
-ICT is pervasively used in students’ coursework, especially for Secondary 3 to 5 students. Students make use of software such as Alias SketchPro and Solidworks (for graphic communication), Freemind (for mind-mapping) and Microsoft Excel (for Gantt Chart).
-
-**Key Programmes & Activities**
-
-Students from Secondary 2 to 4 go through enrichment programmes to do with the use of Computer Aided Design (CAD) software to design their artefacts, as CAD system is widely used in the manufacturing industry and polytechnics.
-
-Out of classroom learning is achieved through learning journeys to places like Red Dot Museum, IKEA, Building Construction Academy, DesignRete and participation in national competitions such as Singapore Amazing Flying Machine, and the Green Competition organised by the polytechnics.
-
-#### Food and Consumer, Food and Nutrition (F&N)
-
-At lower secondary level, all students are required to take Food and Consumer Education as a subject. The aim of the syllabus is to empower students to take responsibility in making choices and decisions about health and daily needs through demonstration of:
-
-*   an understanding of relationship between health and nutrition
-*   an understanding of the importance of making informed decisions about food, consumer products and services
-*   the ability to apply the basic principles of nutrition and food management for healthy living
-*   the ability to apply the basic principles of consumer education to make informed choices as a consumer
-
-At upper secondary level, Food & Nutrition (F&N) is offered as an elective subject. The aim of the subject is to develop students’ understanding of the concepts of nutrition and meal planning develop students’ understanding of the relationship between diet and health develop students’ understanding of the principles of food science equip students with the knowledge and skills to make informed decisions concerning food and nutrition.
-
-Lower secondary students do not sit for a written examination but submit their coursework for assessment instead. Upper secondary students have to submit their coursework and sit for written examinations as part of their assessment.
-
-Coursework equips students with relevant 21st century competencies to prepare them to thrive in a globalised economy. It develops in students the competencies for planning, execution and evaluation, decision making and management of information.
-
-Students learn to think critically about issues on food, health, nutrition, approach problems with creative solutions and make decisions based on sound judgement and logical reasoning.
-
-**Pedagogies & Modes of Teaching**
-
-Coursework is a core component of the curriculum for this subject, transcending all levels from Secondary 1 to 5. Through the execution of coursework and practical activities, students demonstrate their understanding of the concepts of nutrition and meal planning for dietary needs of different groups of consumers.
-
-A thematic approach is used for Secondary 3 coursework, which revolves around the concept of planning and making a balanced diet for different age groups of consumers. This requires students to conduct research on the dietary requirements of specific target groups before embarking on creating dishes suitable for the targeted group, so as to promote healthy eating habits.
-
-Relevant theoretical knowledge is infused in practical sessions, so that students are able to see the interconnectedness between different topics, while learning becomes authentic and meaningful to students at the same time.
-
-ICT is pervasively used in coursework, especially for Secondary 3 to 5 students, so that they can learn to be independent and self-directed in learning. In the process, students gather and present relevant information to support their decision making process.
-
-Web 2.0 tools are used to encourage sharing of information and collaboration, such as video-sharing sites, online-discussion forums and wikis. Students are guided in using the web to discuss, share and contribute ideas and experiences on various nutrition topics.
-
-**Key Programmes & Activities**
-
-Participation in school and national level competitions as well as learning journeys to food exhibitions help to enrich the students’ learning experiences. Secondary 2 students participate in the “SuperChef Challenge” competition which is conducted at school level, while the Secondary 3 students participate in the “iChef Cooking” and “Lam Soon Salad Making” competitions which are conducted by external organisations.
-
-#### Art
-
-The Art curriculum for lower secondary focuses on teaching students basic art techniques and art appreciation. Art pieces are created using everyday materials, as well as recyclable materials to show them how art is everywhere.
-
-The upper secondary curriculum allows students to showcase their creativity through various media such as paintings and sculptures.
-
-**Pedagogies & Modes of Instruction**
-
-Art is learned through hands-on sessions which engage all the five senses. The use of visuals and multi-media enables students to have a deeper understanding and appreciation of different art forms.
-
-Students also learn collaboratively when they engage in group work such as Project Runway for Art.
-
-**Key Programmes & Activities**
-
-_Art_
-
-·       Sec 1 Art Sculpture Walk
-
-·       Upper Secondary Art Learning Journey to Museums and Art Exhibitions
+<h3>Information</h3>
+<p>The Craft &amp; Technology department comprises four units:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Art</p>
+</li>
+<li>
+<p>Design and Technology</p>
+</li>
+<li>
+<p>Food and Consumer Education / Food and Nutrition</p>
+</li>
+<li>
+<p>Music</p>
+<p></p>
+<p></p>
+</li>
+</ul>
+<h4>Art</h4>
+<p>The syllabus aims to develop students as active artists and informed audience
+with:</p>
+<p>• Curious minds that are open to exploring and experimenting in art.</p>
+<p>• Critical and inventive thinking in creative expression.</p>
+<p>• Personal voice and capacity to collaborate with others in art.</p>
+<p>• An awareness, interest, and respect for art from diverse social and
+cultural perspectives</p>
+<p><strong>Pedagogies &amp; Modes of Instruction</strong>
+</p>
+<p>Art is learned through hands-on sessions which engage all the five senses.
+The use of visuals and multi-media enables students to have a deeper understanding
+and appreciation of different art forms. Students also leverage technology
+to learn collaboratively.</p>
+<p><strong>Key Programmes &amp; Activities</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pop- Art</p>
+</li>
+<li>
+<p>Tessellation</p>
+</li>
+<li>
+<p>Cubism abstract art</p>
+</li>
+<li>
+<p>25th Anniversary Mural using recycled bottle caps ( VIA)</p>
+</li>
+<li>
+<p>Self Portrait Mixed Media</p>
+</li>
+<li>
+<p>Printmaking</p>
+</li>
+<li>
+<p>Upper Secondary Art Learning Journey to Museums and Art Exhibitions</p>
+</li>
+</ul>
+<h4>Design &amp; Technology</h4>
+<p>The aim of Design &amp; Technology (D&amp;T) is to enable pupils to harness
+their innate curiosity and ability to create through design-and-make activities.
+It enables students to develop their dispositions for enterprise, creativity
+and innovation by identifying and responding to design needs through the
+process of research and observation, idea conceptualisation and development,
+graphic communication and working with appropriate tools and materials.</p>
+<p>D&amp;T is a compulsory subject for lower secondary students, while at
+upper secondary level, it is offered as an elective for interested students.
+Lower secondary students do not sit for a written examination, but they
+submit their coursework for assessment instead. Upper secondary students
+have to submit their coursework and sit for written examinations as part
+of their assessment.</p>
+<p><strong>Pedagogies &amp; Modes of Teaching</strong>
+</p>
+<p>Coursework is a core component of the curriculum for this subject, transcending
+all levels from Secondary 1 to 5. Through execution of the coursework and
+practical activities, students articulate their design problem solving
+capabilities.</p>
+<p>During Secondary 1 and 2, the emphasis is on understanding and appreciating
+the whole design cycle. During Secondary 3, the focus is on enhancing the
+research and decision making aspects, as well as to improve students’ ability
+in doodling and sketching for ideas exploration.</p>
+<p><strong>Key Programmes &amp; Activities</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tealight cum Handphone Holder using Aluminium and Wood</p>
+</li>
+<li>
+<p>Mini Torchlight</p>
+</li>
+<li>
+<p>Designing for Elderly with Walking Stick</p>
+</li>
+<li>
+<p>Coursework Projects at Sec 3</p>
+</li>
+<li>
+<p>Cardboard Modelling</p>
+</li>
+<li>
+<p>Digital sketching/ideation using Sketchbook app</p>
+</li>
+</ul>
+<h4>Food and Consumer Education, Food and Nutrition (F&amp;N)</h4>
+<p>At lower secondary level, all students are required to take Food and Consumer
+Education as a subject. The aim of the syllabus is to empower students
+to take responsibility in making choices and decisions about health and
+daily needs through demonstration of:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>an understanding of relationship between health and nutrition</p>
+</li>
+<li>
+<p>an understanding of the importance of making informed decisions about
+food, consumer products and services</p>
+</li>
+<li>
+<p>the ability to apply the basic principles of nutrition and food management
+for healthy living</p>
+</li>
+<li>
+<p>the ability to apply the basic principles of consumer education to make
+informed choices as a consumer</p>
+</li>
+</ul>
+<p>At upper secondary level, Food &amp; Nutrition (F&amp;N) is offered as
+an elective subject. The aim of the subject is to develop students’ understanding
+of the concepts of nutrition and meal planning, develop students’ understanding
+of the relationship between diet and health, develop students’ understanding
+of the principles of food science equip students with the knowledge and
+skills to make informed decisions concerning food and nutrition.</p>
+<p><strong>Pedagogies &amp; Modes of Teaching</strong>
+</p>
+<p>Coursework is a core component of the curriculum for this subject, transcending
+all levels from Secondary 1 to 5. Through the execution of coursework and
+practical activities, students demonstrate their understanding of the concepts
+of nutrition and meal planning for dietary needs of different groups of
+consumers.</p>
+<p>A thematic approach is used for Secondary 3 coursework, which revolves
+around the concept of planning and making a balanced diet for different
+age groups of consumers. This requires students to conduct research on
+the dietary requirements of specific target groups before embarking on
+creating dishes suitable for the targeted group, so as to promote healthy
+eating habits.</p>
+<p><strong>Key Programmes &amp; Activities</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sec 1 - Creating healthier snacks for school canteen</p>
+</li>
+<li>
+<p>Sec 2 - Creating healthier local hawker dishes</p>
+</li>
+<li>
+<p>Culinary Competitions</p>
+</li>
+<li>
+<p>Food Sustainability Awareness with Science Department</p>
+</li>
+<li>
+<p>Healthy Lifestyle Week Challenge with PE Department</p>
+</li>
+</ul>
+<h4>Music</h4>
+<p>Students will have the opportunities to explore their environment through
+sounds and develop a connection with music through experiences that are
+meaningful and valuable. These include the ability to listen, sing, play,
+create and express themselves musically.</p>
+<p>At lower secondary level, all students will have an opportunity to learn
+and perform with 1-2 musical instruments as well as create their own music
+during their music lesson.</p>
+<p>Through the Music curriculum, students will be introduced to a wide range
+of genres and styles to put them in touch with their heritage as well as
+deepen their understanding of the cultural diversity of music in Singapore
+and the world.</p>
+<p><strong>Pedagogies &amp; Modes of Teaching</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students will learn through:</p>
+</li>
+<li>
+<p>Musical Communication and Culture</p>
+</li>
+<li>
+<p>Musical Collaboration</p>
+</li>
+<li>
+<p>Musical Creativity</p>
+</li>
+<li>
+<p>Critical Thinking in Music</p>
+</li>
+</ul>
+<p><strong>Key Programmes &amp; Activities</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learning Musical instruments : Piano Keyboard, Ukulele, Drums</p>
+</li>
+<li>
+<p>Pop-Band Covers - Battle of iBands</p>
+</li>
+<li>
+<p>Music Creation and Song Writing</p>
+</li>
+<li>
+<p>ASEAN Music</p>
+</li>
+</ul>
+<p></p>

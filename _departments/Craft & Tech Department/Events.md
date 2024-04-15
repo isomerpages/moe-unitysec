@@ -3,26 +3,63 @@ title: Events
 permalink: /departments/Craft-and-Tech-Department/events/
 description: ""
 third_nav_title: Craft & Tech Department
+variant: tiptap
 ---
-## Events
-
-The Craft & Technology department comprises of three units – Design and Technology, Nutrition and Food Science and Arts. The programme develops the students’ innate ability to create things through creative thinking and investigative experiences. Students learn to appreciate and emphatise real-world problems, and critically think about solutions, resulting in innovative ideas both in functions and aesthetics. They also embark on learning journeys and participate in competitions to extend the learning beyond classrooms. Students also get opportunities to display their work in the school and public spaces that brings about a sense of achievement and pride.
-
-<figure>
-<img src="/images/Super Chef food.jpg" style="width:90%">
-	<figcaption> <b>Nutrition and Food Science - Super Chef Challenge</b>
- </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Artwork Display.jpg" style="width:90%">
-	<figcaption> <b>Students' Artwork at Display</b>
- </figcaption>
-</figure>
-
-<figure>
-<img src="/images/DT Hands on Learning.jpg" style="width:90%">
-	<figcaption> <b>Hands-on Learning during D&T Lesson</b>
- </figcaption>
-</figure>
-
+<h2>Events</h2>
+<p>The programme in the department aims to develop the students’ innate ability
+to create things through creative thinking and investigative experiences.
+Students learn to appreciate and empathize real-world problems, and critically
+think about solutions, resulting in innovative ideas both in functions
+and aesthetics.</p>
+<p></p>
+<h4>Art</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art1.jpg">
+</div>
+<p><em>Students' Artwork at Display at the Arterior walkway</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art2.jpg">
+</div>
+<p><em>Sec 3 Art student’s Learning Journey to Arts Museum</em>
+</p>
+<h4>Design and Technology ( D&amp;T)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art3.jpg">
+</div>
+<p><em>Hands-on Learning during D&amp;T Lesson</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art4.jpg">
+</div>
+<p><em>Learning Journey to Bukit Batok Fire Station to learn about mechanisms and structures.</em>
+</p>
+<h4>Nutrition and Food Science (NFS)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art5.jpg">
+</div>
+<p><em>Cooking with Shatec</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art6.jpg">
+</div>
+<p><em>Practical sessions</em>
+</p>
+<h4>Music</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art7.jpg">
+</div>
+<p><em>Creating music collaboratively</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art8.jpg">
+</div>
+<p><em>Learning music with technology</em>
+</p>
