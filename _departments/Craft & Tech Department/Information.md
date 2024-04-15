@@ -62,7 +62,7 @@ to learn collaboratively.</p>
 <p>Upper Secondary Art Learning Journey to Museums and Art Exhibitions</p>
 </li>
 </ul>
-<h4>Design &amp; Technology </h4>
+<h4>Design &amp; Technology</h4>
 <p>The aim of Design &amp; Technology (D&amp;T) is to enable pupils to harness
 their innate curiosity and ability to create through design-and-make activities.
 It enables students to develop their dispositions for enterprise, creativity
@@ -107,7 +107,7 @@ in doodling and sketching for ideas exploration.</p>
 <p>Digital sketching/ideation using Sketchbook app</p>
 </li>
 </ul>
-<h4>Food and Consumer Education,  Food and Nutrition (F&amp;N)</h4>
+<h4>Food and Consumer Education, Food and Nutrition (F&amp;N)</h4>
 <p>At lower secondary level, all students are required to take Food and Consumer
 Education as a subject. The aim of the syllabus is to empower students
 to take responsibility in making choices and decisions about health and
@@ -198,7 +198,7 @@ and the world.</p>
 <p>Critical Thinking in Music</p>
 </li>
 </ul>
-<p><strong>Key Programmes &amp; Activities </strong>
+<p><strong>Key Programmes &amp; Activities</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
