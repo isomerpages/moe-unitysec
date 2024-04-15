@@ -59,7 +59,7 @@ virtual reality technology can also provide students with an immersive
 experience of field sites prior to and/or after primary data collection.
 When appropriately applied, teaching with geospatial technology would contribute
 towards the development of 21CC among students.</p>
-<p> <strong>Blended Learning </strong> 
+<p><strong>Blended Learning</strong>
 </p>
 <p>With Blended Learning, teachers curate teaching and learning activities
 that provide students with a seamless learning experience through a range
