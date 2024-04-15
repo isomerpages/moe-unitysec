@@ -11,7 +11,7 @@ variant: tiptap
 sense of national identity by helping them understand and appreciate the
 Singapore they live in today. Students will gain an understanding of Singapore's
 connection with rest of the world as part of the global trading network
-prior to the establishment of a Biritsh trading post. They will also understand
+prior to the establishment of a British trading post. They will also understand
 our experiences of being a port city under British rule as well as our
 experiences under Japanese occupation. Lastly, students will understand
 Singapore's journey towards independence and how Singaporeans' sense of
@@ -160,7 +160,7 @@ member&nbsp;in&nbsp;local and world community.</p>
 <p><strong>Geography Elective</strong>&nbsp;students can expect to acquire
 a wide range of knowledge and skills to understand and explain physical
 and human phenomena, contemporary environmental and social issues that
-occur in different places and cultures.They can expect to acquire insights
+occur in different places and cultures. They can expect to acquire insights
 into future challenges through the study of contemporary geographical issues
 of national, regional and global importance.</p>
 <p><strong>History Elective</strong>&nbsp;is a subject where students actively
@@ -188,7 +188,7 @@ knowledge through the use of ICT-enhanced lessons.</p>
 </p>
 <p>Field-based learning is one of the distinctive attributes of Geography.
 It is a teaching approach that is valuable in providing our students with
-‘hands-on’ experiences to enhance their learning.Case studies are an integral
+‘hands-on’ experiences to enhance their learning. Case studies are an integral
 part of the Geography syllabuses. They provide our students with opportunities
 to understand, draw links and apply concepts, patterns and processes to
 situations in the real world.</p>
