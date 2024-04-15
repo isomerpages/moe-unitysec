@@ -30,6 +30,9 @@ of geographical inquiry is thus at the heart of Geography instruction and
 learning, and students will be provided with the opportunities to learn
 the skills required through practice and engagement in geographical inquiry.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_15_at_12_44_21.jpg">
+</div>
 <p></p>
 <h4>Upper Sec Geography</h4>
 <p><strong>Bite-sized and Extended Fieldwork</strong>
@@ -43,6 +46,10 @@ the inquiry approach, so they have the opportunity to explore different
 inquiries and hone abilities in knowledge construction. For Humanities
 (Geography) syllabuses, students will do Bite-sized Fieldwork. For Geography
 syllabuses, 10 weeks are allocated for students to carry out Extended Fieldwork.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FW_Table.jpg">
+</div>
 <p></p>
 <p><strong>Use of Geospatial Technology in Geographical Inquiry</strong>
 </p>
