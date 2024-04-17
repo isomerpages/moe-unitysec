@@ -58,6 +58,10 @@ the necessary skills and habits for responsible digital citizenship. By
 nurturing a culture of awareness and responsibility, we continue to uphold
 Cyber Wellness as an integral part of our educational ethos, ensuring a
 safe and empowering digital environment for all Unitians.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cyberwellness.jpg">
+</div>
 <p>
 <br>
 </p>
