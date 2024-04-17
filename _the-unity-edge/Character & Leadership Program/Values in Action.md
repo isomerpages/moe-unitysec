@@ -3,33 +3,50 @@ title: Values in Action
 permalink: /the-unity-edge/Character-and-Leadership-Program/via/
 description: ""
 third_nav_title: Character & Leadership Program
+variant: tiptap
 ---
-## Values in Action
-
-An important platform for the character and leadership development of our students is through putting their values into action through the school’s Values-in-Action (VIA) programme. The school has developed a progressive 4-year VIA programme which is aligned to the CLD level outcomes for each level and provides platforms for students to put their values into action. Using the Head, Heart and Hands principles, the VIA activities also serve to instil in students a sense of compassion for the less fortunate, encourage volunteerism amongst them, as well as to provide opportunities for the students to lead themselves and serve others as concerned citizens.
-
-The Lower Secondary Cohort will be rendering support to both the Unitians under financial assistance and the Children’s Charities Association (CCA), whilst the Secondary Three cohort would be initiating class VIA activities pertaining to national issues (such as reaching out to the ageing population or maintaining racial harmony). The Secondary Four and Five students will be involved in Service Learning Projects in conjunction with International Friendship Day to raise awareness on global issues.
-
-The following are the VIA activities that our students will be involved in for 2016:
-
-| **Level** | **Activity** | **Period** |
-|:---:|---|---|
-| Sec 1 | Newspaper and old clothes collection to help raise funds | Terms 1 & 2 |
-| Sec 2 | Fun Fair to help raise funds | Terms 1 – 4 |
-| Sec 3 | Class-Initiated VIA | Terms 1 – 3 |
-| Sec 4 | Service Learning Projects in Conjunction with International Friendship Day | Terms 1 & 2 |
-| Sec 5 | Service Learning Projects in Conjunction with International Friendship Day | Terms 1 & 2 |
-| All | Youth Day Appeal<br><br>Recycling @ Unity<br><br>Keep Unity Clean Movement | Term 3<br><br>Terms 1 – 4<br><br>Terms 1 – 4 |
-|  |  |  |
-
-Students are also encouraged to initiate their own VIA activities beyond the school to put their values and leadership skills learnt into actions.  At the end of each activity, the students will reflect on their learning and on how they have led themselves and served others through the VIA activities in their individual reflection logs. This reflection allows our Unitians to thoughtfully process their learning and helps them to internalize the school values. Students will also conduct a self-assessment on the attainment of the respective CLD level outcomes for them to take responsibility of their own learning and to further reinforce their learning.
-
-<img src="/images/Keep Unity Clean Movement 2.jpeg" style="width:85%"><br>
-
-<img src="/images/Keep Unity Clean Movement 3.jpeg" style="width:85%"><br>
-
-<img src="/images/Sec 4 & 5 IFD Service Learning Symposium on Global Issues (1).jpeg" style="width:85%"><br>
-
-<img src="/images/Sec 4 & 5 IFD Service Learning Symposium on Global Issues (3).jpeg" style="width:85%"><br>
-
-<img src="/images/Sec 4 & 5 IFD Service Learning Symposium on Global Issues (4).jpeg" style="width:85%">
+<h2>Values in Action</h2>
+<p>In Unity Secondary School, Values in Action (VIA) is a platform where
+students demonstrate their understanding of the various contemporary issue
+themes such as environment and active citizenship. All students will get
+an opportunity to apply what they have learnt in the classroom in the real-world
+context, demonstrating and appreciating values such as empathy when they
+plan and execute their VIA projects.&nbsp;</p>
+<p></p>
+<p>To this end, we adopt an Active Learning approach in structuring Design
+Thinking into our CCE-VIA lessons. Design Thinking is used as a framework
+to compare and question perspectives of an issue at hand. This helps students
+to make sense of what they have learnt during the contemporary issue lessons,
+where they get to examine a pertinent social issue from the local and global
+perspective.&nbsp;With this, students think and discuss about the needs
+and challenges of different groups of people in the community. They brainstorm
+for ideas with the intention to help them and to make an impact, learning
+to think from the perspective of others.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_01.jpg">
+</div>
+<p></p>
+<p><strong>Here are some examples of how our students in their CCA-form class structure planned and executed their VIA project in 2023!&nbsp;</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_02.jpg">
+</div>
+<p><strong>NPCC Upper Sec:</strong> Collaboration with Fei Yue Senior Activity
+Centre to spread anti-scam awareness to the elderly</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_03.jpg">
+</div>
+<p><strong>NPCC Lower Sec:</strong> Collaboration with De La Salle School
+to promote positive cyber habits through games</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_04.jpg">
+</div>
+<p><strong>Dance:</strong> Took part in the Intergenerational Learning Programme
+by Council for the Third Age to teach the elderly how to dance
+<br>
+<br>
+</p>
