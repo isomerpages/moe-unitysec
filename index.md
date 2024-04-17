@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: UNITY SECONDARY SCHOOL
-      background: /images/sch_of_opportuniy.png
+      background: /images/animated_homepage.gif
       key_highlights:
         - title: 2024 Booklist
           description: Sec 1 to 5 Booklist
