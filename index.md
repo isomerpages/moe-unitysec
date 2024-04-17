@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: UNITY SECONDARY SCHOOL
-      background: /images/animated_homepage.gif
+      background: /images/Unity_Secondary.jpg
       key_highlights:
         - title: 2024 Booklist
           description: Sec 1 to 5 Booklist
@@ -17,5 +17,5 @@ sections:
           description: ""
           url: https://www.unitysec.moe.edu.sg/unity-partners/Parents/newsletter/
       subtitle: "#School_Of_OpportUNITY"
-      variant: image
+      variant: center
 ---
