@@ -22,12 +22,3 @@ links:
     collection: the-unity-story
   - title: Unity Partners
     collection: unity-partners
-  - title: Contact Us
-    url: /contact-us/Address/
-    sublinks:
-      - title: Address
-        url: /contact-us/Address/
-      - title: Official IG Account
-        url: https://www.instagram.com/unitysec/
-      - title: Contact us Form
-        url: /contact-us/form/
