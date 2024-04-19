@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: UNITY SECONDARY SCHOOL
-      background: /images/USS_Montage_1.jpg
+      background: /images/USS_Montage_2.jpg
       key_highlights:
         - title: 2024 Booklist
           description: Sec 1 to 5 Booklist
