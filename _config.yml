@@ -2,8 +2,8 @@ title: Unity Secondary School
 url: https://unitysec.moe.edu.sg
 favicon: /images/unity-secondary-school.jpg
 colors:
-  primary-color: "#454545"
-  secondary-color: "#dec121"
+  primary-color: "#d72a1c"
+  secondary-color: "#284b45"
   media-colors:
     - title: media-color-one
       color: "#dec121"
@@ -56,3 +56,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
