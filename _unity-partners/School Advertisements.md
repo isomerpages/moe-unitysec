@@ -19,10 +19,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halal Snack Stall</p>
+<p>Snack Stall (selling halal items)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 February 2024</p>
+<p>10 May 2024</p>
 </td>
 </tr>
 <tr>
@@ -30,7 +30,7 @@ description: ""
 <p>Traditional Indian Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 February 2024</p>
+<p>10 May 2024</p>
 </td>
 </tr>
 </tbody>
@@ -52,7 +52,7 @@ the application form:</p>
 </li>
 <li>
 <p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
-etc</p>
+etc.</p>
 </li>
 </ul>
 <p><strong>3.</strong>&nbsp;Submit the completed application form and documents
