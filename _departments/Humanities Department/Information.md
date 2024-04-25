@@ -89,49 +89,7 @@ them to understand people's relationship with self, society and the environment.
 </p>
 <p>Inquiry-Based Learning infused in Project Work</p>
 <p>Problem-Based Learning</p>
-<h4>Geography</h4>
-<p><u>Geography</u>
-</p>
-<p>Geography students can expect to acquire a wide range of knowledge and
-skills to understand and explain physical and human phenomena, contemporary
-environmental and social issues that occur in different places and cultures.</p>
-<p>They can expect to acquire insights into future challenges through the
-study of contemporary geographical issues of national, regional and global
-importance.</p>
-<p>Equipped with the skills of gathering and analysing information as well
-as an inquiring mind to seek answers to issues affecting our lives and
-the world we live in, Geography students will be prepared for their roles
-as informed citizens in the 21st century.</p>
-<p>The subject will enable students to appreciate the interdependence and
-fragility of the local and global&nbsp;environment,&nbsp;and the importance
-of achieving sustainable development.</p>
-<p>Geography will also help students develop appropriate attitudes and values
-that are needed to ensure the sustainable use of resources, preservation
-of natural environments and the well-being of human society.</p>
-<p><strong>Pedagogies &amp; Modes of Teaching</strong>
-</p>
-<p>Inquiry-based learning will be the main approach in Geography. This approach
-facilitates the examination of current issues and problems at the local,
-regional or global scale from a geographical perspective.</p>
-<p>Field-based learning is one of the distinctive attributes of Geography.
-It is a teaching approach that is valuable in providing our students with
-‘hands-on’ experiences to enhance their learning.</p>
-<p>Case studies are an integral part of the Geography syllabuses. They provide
-our students with opportunities to understand, draw links and apply concepts,
-patterns and processes to situations in the real world.</p>
-<p><strong>Key Programmes &amp; Activities</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;Local &amp; Overseas Fieldwork</p>
-</li>
-<li>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;ICT Enhanced Lessons</p>
-</li>
-<li>
-<p>&nbsp; &nbsp; &nbsp; &nbsp;Collaborative &amp;&nbsp;Self Directed&nbsp;Learning</p>
-</li>
-</ul>
+<h4><strong>Upper Secondary Humanities</strong></h4>
 <h4>Combined Humanities</h4>
 <p>Combined Humanities is a compulsory subject to be taken by all Express
 and Normal Academic students in our school. It is made up of two components.
@@ -185,7 +143,15 @@ These help to make students’ learning more meaningful and improve their
 retention of knowledge.</p>
 <p><strong>Key Programmes &amp; Activities</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Local Fieldwork</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ICT Enhanced Lessons</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaborative &amp;&nbsp;Self
-Directed&nbsp;Learning</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Local Fieldwork</p>
+</li>
+<li>
+<p>ICT Enhanced Lessons</p>
+</li>
+<li>
+<p>Collaborative &amp;&nbsp;Self Directed&nbsp;Learning</p>
+</li>
+</ul>
+<p></p>
