@@ -17,7 +17,27 @@ experiences under Japanese occupation. Lastly, students will understand
 Singapore's journey towards independence and how Singaporeans' sense of
 belonging, reality and hope was fostered in the newly independent nation
 state.</p>
-<h4>Learning Through Geographical Inquiry</h4>
+<p>Historical inquiry is the key pedagogy for the teaching of History. The
+use of inquiry in the History classroom allows students to reflect on historical
+questions and issues, and investigate about the past and make reasoned
+historical interpretations.</p>
+<p>Historical inquiry, which reflects the process of “doing history”, entails
+four phases: sparking curiosity, gathering evidence, exercising reasoning
+and reflective thinking (see figure below).Through these phases, students
+are guided through a process to construct, interpret and evaluate knowledge
+from different perspectives. Students will also monitor, assess and improve
+their learning.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/history_1.jpg">
+</div>
+<p><strong>Key Programmes &amp; Activities</strong>
+</p>
+<p>Students will take part in Inquiry-Based Projects where they can conduct
+historical investigations,&nbsp;while picking up valuable research and
+collaborative skills.</p>
+<p></p>
+<h4>Geography</h4>
 <p>The Geography Curriculum Concept articulates teaching with inquiry as
 a signature pedagogy of Geography educators and hence recommends the Geographical
 Inquiry Process (GIP) for both classroom instruction and fieldwork. Learning
@@ -34,54 +54,19 @@ the skills required through practice and engagement in geographical inquiry.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_04_15_at_12_44_21.jpg">
 </div>
 <p></p>
-<h4>Upper Sec Geography</h4>
-<p><strong>Bite-sized and Extended Fieldwork</strong>
-</p>
-<p>The Upper Secondary Geography has introduced Bite-sized and Extended Fieldwork
-into the different syllabuses to allow fieldwork skills to be taught within
-curriculum time. Fieldwork is integral to Geography learning, putting theories
-into context and energising students to investigate surroundings beyond
-their classroom walls. Therefore, students learn about fieldwork through
-the inquiry approach, so they have the opportunity to explore different
-inquiries and hone abilities in knowledge construction. For Humanities
-(Geography) syllabuses, students will do Bite-sized Fieldwork. For Geography
-syllabuses, 10 weeks are allocated for students to carry out Extended Fieldwork.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FW_Table.jpg">
-</div>
-<p></p>
-<p><strong>Use of Geospatial Technology in Geographical Inquiry</strong>
-</p>
-<p>The advancement of computer hardware and software has made geospatial
-data and technologies more accessible to teachers and students. Geospatial
-technologies, for example remote sensing, geographic information systems,
-Internet mapping and global positioning systems, are used to collect and
-process data about specific locations on Earth. Geospatial data and technologies
-can be readily incorporated into web-based learning activities to enhance
-students’ learning. For example, students will explore a variety of digital
-content such as images, statistics and graphs using interactive web maps
-available from the Singapore Student Learning Space (SLS). The use of 360o
-virtual reality technology can also provide students with an immersive
-experience of field sites prior to and/or after primary data collection.
-When appropriately applied, teaching with geospatial technology would contribute
-towards the development of 21CC among students.</p>
-<p><strong>Blended Learning</strong>
-</p>
-<p>With Blended Learning, teachers curate teaching and learning activities
-that provide students with a seamless learning experience through a range
-of learning opportunities in school and beyond. In delivering the Geography
-curriculum through Blended Learning, traditional in-class learning should
-be thoughtfully integrated with other learning approaches such as technology-based
-approaches to bring about an even more effective and student- centric educational
-experience. Teachers can also use the Student Learning Space Pedagogical
-Scaffold (SLSPS) 2.0 when designing these experiences.</p>
-<p></p>
 <p><strong>Key Programmes &amp; Activities</strong>
 </p>
-<p>Students will take part in Inquiry-Based Projects where they can conduct
-historical&nbsp;investigations,&nbsp;while picking up valuable research
-and collaborative skills.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Local &amp; Overseas Fieldwork</p>
+</li>
+<li>
+<p>ICT Enhanced Lessons</p>
+</li>
+<li>
+<p>Collaborative &amp;&nbsp;Self Directed&nbsp;Learning</p>
+</li>
+</ul>
 <h4>Social Studies (NT)</h4>
 <p>The Social Studies curriculum at the NT level/ G1 level seek to prepare
 students to be effective citizens by helping them understand the interconnectedness
