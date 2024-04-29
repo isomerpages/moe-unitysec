@@ -71,7 +71,6 @@ variant: markdown
 | Mr Tan Kee Seng | [tan\_kee\_seng\_a@schools.gov.sg](mailto:tan_kee_seng_a@schools.gov.sg) |
 |  |  |
 | **Science Department** |  |
-| Mdm Chua Chiew Ping	 | [chua\_chiew\_ping@schools.gov.sg](mailto:chua_chiew_ping@schools.gov.sg) |
 | Mdm Tan Lin Yin Jacqueline | [tan\_lin\_yin\_jacqueline@schools.gov.sg](mailto:tan_lin_yin_jacqueline@schools.gov.sg) |
 | Ms Liang Yen Shan | [liang\_yen\_shan@schools.gov.sg](mailto:liang_yen_shan@schools.gov.sg) |
 | Ms Fiona Neo Ruey Ning | [neo\_ruey\_ning@schools.gov.sg](mailto:neo_ruey_ning@schools.gov.sg) |
