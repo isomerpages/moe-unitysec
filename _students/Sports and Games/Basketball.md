@@ -130,11 +130,8 @@ on the challenges in their future.</p>
 <h4>CCA Facilities</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/bball_05.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_08.jpg">
 </div>
-<p>Indoor Sports Hall (ISH)</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_06.jpg">
-</div>
-<p>Sheltered Basketball Court (SBC)</p>
+<p></p>
+<p></p>
