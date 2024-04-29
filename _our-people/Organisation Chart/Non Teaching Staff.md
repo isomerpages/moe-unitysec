@@ -11,6 +11,7 @@ variant: markdown
 |:---:|---|
 | **Counsellors & LBS** |  |
 | Mdm Michelle Ong Siew Hong (Counsellor)	 | [ong\_siew\_hong@schools.gov.sg](mailto:ong_siew_hong@schools.gov.sg) |
+| Mdm Sumarni Binte Ismail (Counsellor)	 | [sumarni\_ismail@schools.gov.sg](mailto:sumarni_ismail@schools.gov.sg) |
 | Mdm Wendy Koh Kim Lian (Counsellor)	 | [wendy\_koh\_kim\_lian\_a@schools.gov.sg](mailto:wendy_koh_kim_lian_a@schools.gov.sg) |
 | Mr Peter Phoa (ECG)		 | [phoa\_ang\_hiok@schools.gov.sg](mailto:phoa_ang_hiok@schools.gov.sg) |
 | Ms Lin Wenjie Wendy (SEN) | [lin\_wenjie@schools.gov.sg](mailto:lin_wenjie@schools.gov.sg) |
