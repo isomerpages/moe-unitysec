@@ -21,7 +21,6 @@ variant: markdown
 | Year Head | Mr Ng Yan Kit |
 | HOD/Student Management and Guidance | Mr Chew Thiam Teck Scott |
 | HOD/ Curriculum and Infomation Technology | Ms Chong Shur Chin |
-| HOD/ Science | Mdm Chua Chiew Ping |
 | HOD/ Craft and Technology | Ms Fathiah Borhan |
 | HOD/ Humanities | Mdm Khairunisa bte Mohd Ya'kob |
 | HOD/ Physical Education &amp; CCA | Mr Low Yee Fun |
