@@ -89,7 +89,12 @@ as the&nbsp;<strong>academic progress</strong>&nbsp;of the players.</p>
 </div>
 <p></p>
 <h4>Selection Criteria</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -101,7 +106,12 @@ as the&nbsp;<strong>academic progress</strong>&nbsp;of the players.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -179,6 +189,11 @@ primary schools. They need to apply for a Registration Number (RGxxxxxxx)
 to access the DSA-Sec Portal. Schools may refer them to MOE website at:
 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
+<h4><strong>Application Procedure</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_bball.jpg">
+</div>
 <h4>Contacts</h4>
 <p><strong>Mr Low Yee Fun</strong> 
 <br><em>HOD PE/CCA</em> 
