@@ -22,7 +22,7 @@ in table tennis.</p>
 We believe that sports provide a platform to equip our students with the
 values of Respect, Compassion, Commitment, Integrity and Perseverance to
 develop the child leadership qualities.</p>
-<h4>Achievements </h4>
+<h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Consistent improvement in performance for B Division Girls in National
@@ -95,95 +95,46 @@ records.</p>
 <p><strong>Students who are successfully admitted to the school through DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for years 1 - 4.</strong>
 </p>
 <h4>Application Procedure</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Important Dates</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>DSA Process</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 May 2023, Thursday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Start of application process at 11am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31 May 2023, Wed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Application ends at 3pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 Jun – 11 Sep 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>DSA Selection (Actual date will be informed to the shortlisted students
-closer to the date)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>By 11 September 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Notification of DSA-Sec Admission via post. All applicants will receive
-a letter. Please inform the school if you do not receive a letter.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 to 27 October 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Preference Submission
-<br>DSA-Sec candidates who receive at least one DSA-Sec offer may indicate
-up to three school preferences. They can do so online via the DSA-Sec portal
-or at their primary schools.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>1. Parents can log in to the DSA-Sec portal with SingPass to apply.</p>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from <strong>4 May 2023, 11am</strong> to <strong>31 May 2023, 3pm</strong>.
-For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsa_appl_TT.jpg">
+</div>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+Parents can log in to the DSA-Sec portal with SingPass to apply. The application
+is free-of-charge and will be open in May.</p>
+<p>For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+</li>
+</ol>
 <p>2. If you are unable to apply online, approach your child's primary school
-for assistance.</p><pre><code>Closing date for DSA application is 31 May 2023.</code></pre>
+for assistance. <strong>Closing date</strong> for DSA application:&nbsp; <strong><em>End May yearly</em></strong>.</p>
 <p>All applicants will be notified of the outcome of their application via
-post by <strong>11 September 2023</strong>.</p>
+post by <strong><em>Mid Sep yearly</em></strong>.</p>
 <p><strong>Note: <br></strong> Other applicants not studying in MOE mainstream
 primary schools. They need to apply for a Registration Number (RGxxxxxxx)
 to access the DSA-Sec Portal. Schools may refer them to MOE website at:
-https://go.gov.sg/nmsdsa-sec-application</p>
+<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsa_dates.jpg">
+</div>
 <h5>Contacts</h5>
-<p>Mr Low Yee Fun
-<br>HOD PE/CCA
+<p><strong>Mr Low Yee Fun</strong>
+<br><em>HOD PE/CCA</em>
 <br>Tel: 67671070 ext 363
-<br>Email: low_yee_fun@moe.edu.sg
-<br>
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">low_yee_fun@schools.gov.sg</a>
 </p>
-<p>Mr Toh Yong Yuan
-<br>DSA Coordinator
-<br>Tel: 67671070 ext 288
-<br>Email: toh_yong_yuan@moe.edu.sg
-<br>
+<p></p>
+<p><strong>Ms Sherry Goh</strong>
+<br><em>DSA Coordinator</em>
+<br>Tel: 67671070 ext 231
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">goh_meow_peng_sherry@shools.gov.sg</a>
 </p>
-<p>General Office
+<p></p>
+<p><strong>General Office</strong>
 <br>67671070
 <br>Email: unity_ss@moe.edu.sg</p>
 <h5>FREQUENTLY ASKED QUESTIONS</h5>
@@ -191,34 +142,39 @@ https://go.gov.sg/nmsdsa-sec-application</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
+<p>Who can apply for DSA?</p>
+</li>
+</ol>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All Primary 6 students who meet the selection
+criteria.</p>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
 <p>How do I apply?</p>
 </li>
 </ol>
-<p>Students can apply through the DSA-Sec portal with their parent’s SingPass.
-Alternatively, students and parents may approach the primary school for
-assistance.</p>
-<ol start="2" data-tight="true" class="tight">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students can apply through the DSA-Sec
+portal with their parent’s SingPass. Alternatively, students and parents
+may approach the primary school for assistance.</p>
+<p></p>
+<ol start="3" data-tight="true" class="tight">
 <li>
 <p>When and how will I know the results of my application?</p>
 </li>
 </ol>
-<p>All applicants will be informed of the results of their application by
-post.</p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>What is the frequency and duration of the table tennis training?</p>
-</li>
-</ol>
-<p>Table tennis training will be twice per week (Monday and Fri). 2-3 hours
-per session. The frequency of training sessions may change during NSG season.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All applicants will be informed of the
+results of their application by post.</p>
+<p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Must my child meet your schools’ minimum cut-off points even if he is
 selected through DSA for admission to your school?</p>
 </li>
 </ol>
-<p>Under the DSA-Sec Exercise, participating secondary schools will be able
-to select a percentage of their students for admission outside of the centralised
-posting system, via their own selection criteria. As long as your child
-equalities for either the Express, Normal Academic or Normal Technical
-stream, he/she is eligible for admission to our school via DSA.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under the DSA-Sec Exercise, participating
+secondary schools will be able to select a percentage of their students
+for admission outside of the centralised posting system, via their own
+selection criteria. As long as your child qualifies the AL requirement,
+he/she is eligible for admission to our school via DSA.</p>
+<p><strong>&nbsp;</strong>
+</p>
