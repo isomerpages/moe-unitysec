@@ -117,18 +117,18 @@ to access the DSA-Sec Portal. Schools may refer them to MOE website at:
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsa_dates.jpg">
 </div>
 <h4><strong>Contacts</strong></h4>
-<p><strong>Mr Low Yee Fun</strong>
-<br><em>HOD PE/CCA</em>
+<p><strong>Mr Low Yee Fun</strong> 
+<br><em>HOD PE/CCA</em> 
 <br>Tel: 67671070 ext 363
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">low_yee_fun@schools.gov.sg</a>
 </p>
 <p></p>
-<p><strong>Mr Justin Tan</strong>
-<br><em>DSA Coordinator</em>
+<p><strong>Mr Justin Tan</strong> 
+<br><em>DSA Coordinator</em> 
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">tan_gim_yong@schools.gov.sg</a>
 </p>
 <p></p>
-<p><strong>General Office</strong>
+<p><strong>General Office</strong> 
 <br>67671070
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">unity_ss@moe.edu.sg</a>
 </p>
