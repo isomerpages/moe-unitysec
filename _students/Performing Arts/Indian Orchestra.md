@@ -3,15 +3,16 @@ title: Indian Orchestra
 permalink: /students/Performing-Arts/io/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
-## Indian Orchestra
+## Indian&nbsp;Orchestra
 
 <img src="/images/indian_orchestra.jpg" style="width:85%">
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| Lower Sec Teacher IC | Mdm Mangaiyarkarasi Ganesh Kumar (IC) |
-| Upper Sec Teacher IC | Mr Jaya Kumar |
+| Lower Sec Teacher IC | Mdm Sufianna |
+| Upper Sec Teacher IC | Mdm Mangaiyarkarasi Ganesh Kumar (IC) |
 |  |  |
 
 **Weekly Schedule**
