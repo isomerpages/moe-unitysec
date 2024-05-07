@@ -37,7 +37,7 @@ variant: tiptap
 <p>Lower Sec Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Darren Subramaniam</p>
+<p>Mr Ya Soon Kwang Raymond</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ variant: tiptap
 <p>Lower Sec Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Phua Buan Hock Norman</p>
+<p>Mr Morgan Law</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ variant: tiptap
 <p>Upper Sec Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Shaikhah Bte Rajab</p>
+<p>Mr Norman Phua Buan Hock</p>
 </td>
 </tr>
 <tr>
