@@ -3,6 +3,7 @@ title: Boys Brigade
 permalink: /students/Uniformed-Groups/bb/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## Boys Brigade
 
@@ -12,9 +13,10 @@ third_nav_title: Uniformed Groups
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| LS/US Teacher IC | Mr Lim You Shun Andrew |
+| Lower Sec Teacher IC | Mr Andrew Mathias Lim You Shun |
 | Lower Sec Teacher IC | Mrs Qu Ruokun |
 | Upper Sec Teacher IC | Mr Lim Yew Meng Derek  (IC) |
+| Upper Sec Teacher IC | Mdm Yue Qun) |
 |  |  |
 
 **Weekly Schedule**

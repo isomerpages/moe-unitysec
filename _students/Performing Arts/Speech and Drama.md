@@ -3,6 +3,7 @@ title: Speech and Drama
 permalink: /students/Performing-Arts/sd/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Speech and Drama
 
@@ -10,8 +11,10 @@ third_nav_title: Performing Arts
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| Lower Sec Teacher IC | Mdm Norhayati Supari (IC) |
-| Upper Sec Teacher IC |  Mrs Jasmin Ram|
+| Lower Sec Teacher IC | Mrs Chua Wai Yi |
+| Lower Sec Teacher IC | Ms Ng Pin Leng |
+| Upper Sec Teacher IC |  Mdm Norhayati Supari (IC)|
+| Upper Sec Teacher IC |  Mr Jaya Kumar|
 |  |  |
 
 **Weekly Schedule**

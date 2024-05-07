@@ -32,12 +32,20 @@ variant: tiptap
 <p>Lower Sec Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Palanisamy Sulochana Devi</p>
+<p>Ms Yii Chin Meet Karen</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Lower Sec Teacher IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Palanisamy Sulochana Devi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Kang-Lim Hui Fern, Karen (IC)</p>
@@ -49,14 +57,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sony Rajan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Upper Sec Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Toh Meow Tin</p>
 </td>
 </tr>
 <tr>
