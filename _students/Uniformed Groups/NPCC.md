@@ -3,6 +3,7 @@ title: NPCC
 permalink: /students/Uniformed-Groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## NPCC
 
@@ -12,8 +13,9 @@ third_nav_title: Uniformed Groups
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| Lower Sec Teacher IC | Mdm Cheong Kiet Yeng Jeslyn |
-| Upper Sec Teacher IC | Ms Soh Jing Wen  |
+| Lower Sec Teacher IC | Mr Darren Subramaniam |
+| Lower Sec Teacher IC | Ms Soh Jing Wen |
+| Upper Sec Teacher IC | Ms Jean Ong Soo Chuin  |
 | Upper Sec Teacher IC | Ms Xu Bixian Janet (IC) |
 |  |  |
 
