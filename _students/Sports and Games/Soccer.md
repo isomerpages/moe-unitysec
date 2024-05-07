@@ -35,7 +35,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Sec Teacher IC</p>
+<p>Lower Sec Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teng Han Yong (IC)</p>
