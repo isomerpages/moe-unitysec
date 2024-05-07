@@ -11,7 +11,7 @@ variant: markdown
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| LS Teacher IC | Mdm Chen Bi Qing |
+| Lower Sec Teacher IC | Mdm Chen Bi Qing |
 | Upper Sec Teacher IC | Mr Justin Tan Gim Yong (IC) |
 | Upper Sec Teacher IC | Mrs Soh-Toh Meow Tin |
 |  |  |
