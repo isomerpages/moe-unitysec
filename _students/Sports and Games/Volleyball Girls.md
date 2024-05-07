@@ -3,6 +3,7 @@ title: Volleyball Girls
 permalink: /students/Sports-and-Games/vg/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 ## Volleyball Girls
 
@@ -12,6 +13,7 @@ third_nav_title: Sports and Games
 |:---:|---|
 | LS Teacher IC | Mdm Chen Bi Qing |
 | Upper Sec Teacher IC | Mr Justin Tan Gim Yong (IC) |
+| Upper Sec Teacher IC | Mrs Soh-Toh Meow Tin |
 |  |  |
 
 **Weekly Schedule**
