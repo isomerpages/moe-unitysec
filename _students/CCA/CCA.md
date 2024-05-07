@@ -104,4 +104,26 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h3><strong>Clubs</strong></h3>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Clubs-and-Societies/ua/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Club.jpg"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/clubs-and-societies/ecoexpclub/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco_Explorers.jpg"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Clubs-and-Societies/up/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media.jpg"></a>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
