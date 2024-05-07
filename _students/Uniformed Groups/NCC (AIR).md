@@ -3,6 +3,7 @@ title: NCC (AIR)
 permalink: /students/Uniformed-Groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## NCC (AIR)
 
@@ -10,9 +11,9 @@ third_nav_title: Uniformed Groups
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| Lower Sec Teacher IC | Mr Chan Chin Choon Vincent |
-| Lower Sec Teacher IC | Ms Nur Ain Binte Mohd Zulkifli |
-| Upper Sec Teacher IC | Mr Low Jackson (IC) |
+| Lower Sec Teacher IC | Mr Low Jackson (IC) |
+| Lower Sec Teacher IC | Mr Chan Chin Choon, Vincent |
+| Upper Sec Teacher IC | Ms Nur Ain Binte Mohd Zulkifli |
 | Upper Sec Teacher IC | Ms Ong Pei Ee |
 |  |  |
 
