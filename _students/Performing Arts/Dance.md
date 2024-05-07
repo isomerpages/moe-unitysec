@@ -3,6 +3,7 @@ title: Dance
 permalink: /students/Performing-Arts/dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Dance
 
@@ -11,6 +12,7 @@ third_nav_title: Performing Arts
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
 | Lower Sec Teacher IC | Miss Nur Syazwani Binte Nordin |
+| Lower Sec Teacher IC | Mdm Jasmin Mariya d/o Madasamy |
 | Upper Sec Teacher IC | Mdm Foo Wee Leng |
 | Upper Sec Teacher IC | Mdm Asmidah Bte Rahwam (IC) |
 |  |  |
