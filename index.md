@@ -10,9 +10,6 @@ sections:
       title: UNITY SECONDARY SCHOOL
       background: /images/USS_Montage_2.jpg
       key_highlights:
-        - title: 2024 Booklist
-          description: Sec 1 to 5 Booklist
-          url: https://www.unitysec.moe.edu.sg/students/students-resources/2024-booklist/
         - title: Term 1 Newsletter
           description: ""
           url: https://www.unitysec.moe.edu.sg/unity-partners/Parents/newsletter/
