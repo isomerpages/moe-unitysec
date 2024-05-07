@@ -30,6 +30,14 @@ variant: tiptap
 <p>Lower Sec Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Lim Boon Liang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Teacher IC</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Goh Gek Noi Joanne (IC)</p>
 </td>
 </tr>
@@ -38,7 +46,7 @@ variant: tiptap
 <p>Upper Sec Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Boon Liang</p>
+<p>Ms Chng Kim Tee Evangeline</p>
 </td>
 </tr>
 <tr>
@@ -47,14 +55,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhou Yong Ping</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
