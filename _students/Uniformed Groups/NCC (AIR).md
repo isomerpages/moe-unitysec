@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## NCC (AIR)
 
-**IMAGE NOT FOUND IN ORIGINAL SITE**
+![](/images/NCC_01.jpg)
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
