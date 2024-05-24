@@ -1,0 +1,5 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Unity in Celebrations.md
