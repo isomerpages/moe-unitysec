@@ -199,13 +199,16 @@ The collection use and disclosure of such data are governed by the&nbsp;commerci
 provider’s terms of use, which can be found here:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;Student iCON: https://workspace.google.com/terms/education_terms_japan.html</p>
+<p>&nbsp;Student iCON: <a href="https://workspace.google.com/terms/education_terms_japan.html" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/terms/education_terms_japan.html</a>
+</p>
 </li>
 <li>
-<p>Microsoft Pro Plus: https://portal.office.com/commerce/mosa.aspx</p>
+<p>Microsoft Pro Plus: <a href="https://portal.office.com/commerce/mosa.aspx" rel="noopener noreferrer nofollow" target="_blank">https://portal.office.com/commerce/mosa.aspx</a>
+</p>
 </li>
 <li>
-<p>&nbsp;Zoom: https://zoom.us/docs/en-us/schools-privacy-statement.html</p>
+<p>&nbsp;Zoom: <a href="https://zoom.us/docs/en-us/schools-privacy-statement.html" rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/docs/en-us/schools-privacy-statement.html</a>
+</p>
 </li>
 </ul>
 <p></p>
