@@ -39,5 +39,6 @@ variant: markdown
 | Ag SH/ English | Ms Janet Xu |
 | ST/ English | Mr Andrew Lim You Shun |
 | ST/ Tamil Language | Mr Jaya Kumar |
+| ST/ Mathematics | Mr Liew Kok Keong |
 | Ag ST/Music | Ms Christine Tang |
 | Ag ST/PE | Mr Teng Han Yong |
