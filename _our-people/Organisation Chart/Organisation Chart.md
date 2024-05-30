@@ -13,14 +13,14 @@ variant: markdown
 |:---:|---|
 | Principal | Mdm Adel Ong Liang Fung |
 | Vice-Principal | Ms Ng Tien Ni Jenny |
-| Vice-Principal | Mr Lim Yong Chai Alan, Vice Principal |
+| Vice-Principal | Mr Lim Yong Chai Alan |
 | School Staff Developer | Mdm&nbsp; Khamilia bte Hanapi |
 | LT/ Bio | Ms Jacqueline Tan Lin Yin |
 | LT/ Learning Needs | Mdm Rohaila bte Sanusi |
 | Administration Manager | Ms Chua Bee Kuan |
 | Year Head | Mr Ng Yan Kit |
 | HOD/Student Management and Guidance | Mr Chew Thiam Teck Scott |
-| HOD/ Curriculum and Infomation Technology | Ms Chong Shur Chin |
+| HOD/ Curriculum, Instruction and Technology | Ms Chong Shur Chin |
 | HOD/ Craft and Technology | Ms Fathiah Borhan |
 | HOD/ Humanities | Mdm Khairunisa bte Mohd Ya'kob |
 | HOD/ Physical Education &amp; CCA | Mr Low Yee Fun |
