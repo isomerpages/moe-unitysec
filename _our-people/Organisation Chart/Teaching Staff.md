@@ -460,6 +460,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Liew Kok Keong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="liew_kok_keong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_kok_keong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Jasmine Ng Swee Meng</p>
 </td>
 <td rowspan="1" colspan="1">

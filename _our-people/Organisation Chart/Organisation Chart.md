@@ -13,20 +13,20 @@ variant: markdown
 |:---:|---|
 | Principal | Mdm Adel Ong Liang Fung |
 | Vice-Principal | Ms Ng Tien Ni Jenny |
-| Vice-Principal | Mr Lim Yong Chai Alan, Vice Principal |
+| Vice-Principal | Mr Lim Yong Chai Alan |
 | School Staff Developer | Mdm&nbsp; Khamilia bte Hanapi |
 | LT/ Bio | Ms Jacqueline Tan Lin Yin |
 | LT/ Learning Needs | Mdm Rohaila bte Sanusi |
 | Administration Manager | Ms Chua Bee Kuan |
 | Year Head | Mr Ng Yan Kit |
 | HOD/Student Management and Guidance | Mr Chew Thiam Teck Scott |
-| HOD/ Curriculum and Infomation Technology | Ms Chong Shur Chin |
+| HOD/ Curriculum, Instruction and Technology | Ms Chong Shur Chin |
 | HOD/ Craft and Technology | Ms Fathiah Borhan |
 | HOD/ Humanities | Mdm Khairunisa bte Mohd Ya'kob |
 | HOD/ Physical Education &amp; CCA | Mr Low Yee Fun |
-| HOD/ English | Mr Ng Lip Siang Adrian |
+| HOD/ English Language | Mr Ng Lip Siang Adrian |
 | HOD/ Mathematics | Mr Tan Yee Kee |
-| HOD/ Mother Tongue | Mr Tie Hieng Han |
+| HOD/ Mother Tongue Language | Mr Tie Hieng Han |
 | Ag Year Head  | Ms Neo Ruey Ning Fiona |
 | Asst Year Head (Upper Sec) | Mr Lee Kah Lin Alvin |
 | SH/ ALP &amp; Innovations | Mr Ho Kian Tong |
@@ -39,5 +39,6 @@ variant: markdown
 | Ag SH/ English | Ms Janet Xu |
 | ST/ English | Mr Andrew Lim You Shun |
 | ST/ Tamil Language | Mr Jaya Kumar |
+| ST/ Mathematics | Mr Liew Kok Keong |
 | Ag ST/Music | Ms Christine Tang |
 | Ag ST/PE | Mr Teng Han Yong |
