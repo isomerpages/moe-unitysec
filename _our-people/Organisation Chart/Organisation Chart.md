@@ -24,9 +24,9 @@ variant: markdown
 | HOD/ Craft and Technology | Ms Fathiah Borhan |
 | HOD/ Humanities | Mdm Khairunisa bte Mohd Ya'kob |
 | HOD/ Physical Education &amp; CCA | Mr Low Yee Fun |
-| HOD/ English | Mr Ng Lip Siang Adrian |
+| HOD/ English Language | Mr Ng Lip Siang Adrian |
 | HOD/ Mathematics | Mr Tan Yee Kee |
-| HOD/ Mother Tongue | Mr Tie Hieng Han |
+| HOD/ Mother Tongue Language | Mr Tie Hieng Han |
 | Ag Year Head  | Ms Neo Ruey Ning Fiona |
 | Asst Year Head (Upper Sec) | Mr Lee Kah Lin Alvin |
 | SH/ ALP &amp; Innovations | Mr Ho Kian Tong |
