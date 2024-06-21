@@ -3,15 +3,14 @@ title: Blended Learning
 permalink: /students/Students-Resources/blended-learning/permalink/
 description: ""
 third_nav_title: Students' Resources
-variant: markdown
+variant: tiptap
 ---
-Blended Learning
-================
-
-<p><a href="https://online.fliphtml5.com/xkkgy/mgdz/"><img style="width:100%" src="/images/blend.png"></a></p>
-
-Blended Learning Schedule for 2024
-----------------------------------------
-<img src="/images/blended_learning.png" style="width:60%">
-
-*3 days of National Oral Exam. Students who are not involved will do their Blended Learning at home and follow the time-table of the day.
+<h1>Blended Learning</h1>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Days_2024.png">
+</div>
+<p></p>
+<h2></h2>
+<p></p>
