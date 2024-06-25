@@ -39,6 +39,6 @@ sections:
       id: infopic
       button: The Unity Story
       url: https://www.unitysec.moe.edu.sg/the-unity-story/unity-story/
-      image: /images/celebrating_25_yrs.jpg
+      image: /images/celebrating_25_yrs_small.jpg
       alt: Image alt text
 ---
