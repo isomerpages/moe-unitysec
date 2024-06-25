@@ -30,4 +30,8 @@ sections:
           description: N and O Level Prelim Exam Schedules
           linktext: Learn more
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
+        - title: Blended Learning
+          description: Blended Learning Days for 2024
+          linktext: Learn more
+          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/blended-learning/permalink/
 ---
