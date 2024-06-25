@@ -2,5 +2,4 @@ collections:
   website-footer:
     output: true
     order:
-      - Terms of Use.md
       - Privacy Statement.md
