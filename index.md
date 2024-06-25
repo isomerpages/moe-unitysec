@@ -21,4 +21,16 @@ sections:
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
+  - textcards:
+      title: Latest Updates
+      id: textcards
+      cards:
+        - title: Assessment Plans
+          description: Sec 1 to 5 Assessment Plans for Semester 2
+          linktext: Learn more
+          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
+        - title: Exam Schedules
+          description: N and O Level Prelim Exam Schedules
+          linktext: Learn more
+          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
 ---
