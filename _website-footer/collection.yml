@@ -1,5 +1,4 @@
 collections:
   website-footer:
     output: true
-    order:
-      - Privacy Statement.md
+    order: []
