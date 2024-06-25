@@ -34,4 +34,11 @@ sections:
           description: Blended Learning Days for 2024
           linktext: Learn more
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/blended-learning/permalink/
+  - infopic:
+      subtitle: Unity Secondary
+      id: infopic
+      button: The Unity Story
+      url: https://www.unitysec.moe.edu.sg/the-unity-story/unity-story/
+      image: /images/celebrating_25_yrs.jpg
+      alt: Image alt text
 ---
