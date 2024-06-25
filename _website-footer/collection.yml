@@ -1,0 +1,4 @@
+collections:
+  website-footer:
+    output: true
+    order: []
