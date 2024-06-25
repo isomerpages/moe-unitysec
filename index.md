@@ -16,9 +16,6 @@ sections:
         - title: Class Timetable
           description: For Semester 2
           url: https://www.unitysec.moe.edu.sg/students/students-resources/classtimetable/
-        - title: Assessment Plans
-          description: N and O Lvl Prelim Timetables
-          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
   - textcards:
