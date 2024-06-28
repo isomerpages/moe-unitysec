@@ -34,6 +34,10 @@ sections:
           description: Blended Learning Days for 2024
           linktext: Learn more
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/blended-learning/permalink/
+        - title: End of Year Exams
+          description: Sec 1-3 EYE Exam Schedules
+          linktext: Learn more
+          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
   - infopic:
       subtitle: Unity Secondary
       id: infopic
