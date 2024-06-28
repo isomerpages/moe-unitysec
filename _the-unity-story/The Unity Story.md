@@ -11,6 +11,6 @@ variant: tiptap
 <p></p>
 <h4><strong>Celebrating 25 Years of OpportUNITY</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="80%" width="80%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Cw51jRf381o?si=TPINeWiuhgk6Y_UH"></iframe>
+<iframe height="405" width="720" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Cw51jRf381o?si=TPINeWiuhgk6Y_UH"></iframe>
 </div>
 <p></p>
