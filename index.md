@@ -37,8 +37,10 @@ sections:
   - infopic:
       subtitle: Unity Secondary
       id: infopic
-      button: The Unity Story
+      button: Click to view
       url: https://www.unitysec.moe.edu.sg/the-unity-story/unity-story/
-      image: /images/celebrating_25_yrs_small.jpg
+      image: /images/celebrating_25_yrs_01.jpg
       alt: Image alt text
+      description: Check out the highlights of our Silver Jubilee celebration here.
+      title: Celebrating 25 Years of OpportUNITY.
 ---
