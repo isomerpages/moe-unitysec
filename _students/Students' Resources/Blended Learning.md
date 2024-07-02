@@ -12,5 +12,13 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_Days_2024.png">
 </div>
 <p></p>
+<h3>Blended Learning Timetable (23rd to 25th July)</h3>
+<p>Dear students, please download the BL Timetable for the mentioned dates.
+Periods highlighted in yellow refer to synchronous lessons (lessons to
+take place via Zoom):</p>
+<p></p>
+<p><a href="/files/Unity_Secondary_School_lowerSec_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Lower Sec Timetable (Sec 1 and 2)</a>
+</p>
+<p></p>
 <h2></h2>
 <p></p>
