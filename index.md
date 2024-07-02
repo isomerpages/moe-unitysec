@@ -35,7 +35,7 @@ sections:
           linktext: Learn more
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/blended-learning/permalink/
         - title: End of Year Exams
-          description: Sec 1-3 EYE Exam Schedules
+          description: Sec 1-3 EYE Exam Schedules (updated on 2nd Jul)
           linktext: Learn more
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
   - infopic:
