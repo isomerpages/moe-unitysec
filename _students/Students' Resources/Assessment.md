@@ -25,3 +25,8 @@ below:</p>
 <p><a href="/files/2024__O_Level_Prelim_Timetable_caa_21_June.pdf" rel="noopener noreferrer nofollow" target="_blank">O Level Prelim Timetable</a>
 </p>
 <p></p>
+<h3>Sec 1 to 3 End of Year Exam (EYE) Schedule</h3>
+<p><a href="/files/EYE_2024_Time_Table_as_at_02072024.pdf" rel="noopener noreferrer nofollow" target="_blank">EYE Exam Timetable (Updated 02072024)</a>
+</p>
+<p></p>
+<p></p>
