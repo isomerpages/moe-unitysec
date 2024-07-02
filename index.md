@@ -30,8 +30,8 @@ sections:
           description: N and O Level Prelim Exam Schedules
           linktext: Learn more
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
-        - title: Blended Learning
-          description: Blended Learning Days for 2024
+        - title: BL Timetable (23 - 25 Jul)
+          description: Sec 1 to 3 Blended Learning Timetable
           linktext: Learn more
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/blended-learning/permalink/
         - title: End of Year Exams
