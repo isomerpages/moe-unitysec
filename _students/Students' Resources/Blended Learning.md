@@ -19,6 +19,7 @@ take place via Zoom):</p>
 <p></p>
 <p><a href="/files/Unity_Secondary_School_lowerSec_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Lower Sec Timetable (Sec 1 and 2)</a>
 </p>
-<p></p>
+<p><a href="/files/Unity_Secondary_School_UpperSEc_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Upper Sec Timetable (Sec 3)</a>
+</p>
 <h2></h2>
 <p></p>
