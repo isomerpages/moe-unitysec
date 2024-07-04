@@ -18,6 +18,13 @@ sections:
           url: https://www.unitysec.moe.edu.sg/students/students-resources/classtimetable/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
+  - infobar:
+      title: WA Task 3 Dates
+      subtitle: Sec 1 to 3
+      id: infobar
+      description: Check the schedules for the upcoming WA here.
+      button: Learn more
+      url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
   - textcards:
       title: Latest Updates
       id: textcards
