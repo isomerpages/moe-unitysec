@@ -6,6 +6,7 @@ third_nav_title: Humanities Department
 variant: tiptap
 ---
 <h2>Information</h2>
+<h3><strong>Lower Secondary Humanities</strong></h3>
 <h4>History</h4>
 <p>The Lower Secondary History syllabuses seek to imbue in our students a
 sense of national identity by helping them understand and appreciate the
