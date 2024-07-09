@@ -5,6 +5,64 @@ description: ""
 variant: tiptap
 ---
 <h2>Our Illustrious Alumni</h2>
+<h3>Achievements and Accolades</h3>
+<p></p>
+<p></p>
+<p><strong>NGEE ANN POLYTECHNIC’S 2024 GRADUATING CLASS</strong>
+</p>
+<p><strong>AWARD WINNERS FROM UNITY SECONDARY SCHOOL</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Peh_Yu_Peng.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lim_Long_Teck.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chew_Kai_Wen.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lee_Yu_Wei.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ng_Xin_Hwee_Amanda.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>(The Diploma with Merit is awarded to the top 10% of the graduates in each cohort)</em>
+</p>
 <h4>Unity Secondary in the NEWS!</h4>
 <div class="isomer-image-wrapper">
 <img style="width:90%" height="auto" width="100%" src="/images/Keane 2019.jpg">
