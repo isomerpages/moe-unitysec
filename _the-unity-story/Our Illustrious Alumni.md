@@ -61,6 +61,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p><em>(The Diploma with Merit is awarded to the top 10% of the graduates in each cohort)</em>
+</p>
 <h4>Unity Secondary in the NEWS!</h4>
 <div class="isomer-image-wrapper">
 <img style="width:90%" height="auto" width="100%" src="/images/Keane 2019.jpg">
