@@ -54,4 +54,12 @@ sections:
       alt: Image alt text
       description: Check out the highlights of our Silver Jubilee celebration here.
       title: Celebrating 25 Years of OpportUNITY.
+  - infopic:
+      title: Parent's Newsletter
+      id: infopic
+      description: Term 2 news and updates.
+      button: CLICK here
+      url: https://www.unitysec.moe.edu.sg/unity-partners/Parents/newsletter/
+      image: /images/Term2_newsletter_v2.jpg
+      alt: Image alt text
 ---

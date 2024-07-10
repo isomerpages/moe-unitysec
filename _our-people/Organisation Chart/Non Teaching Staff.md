@@ -3,43 +3,304 @@ title: Non Teaching Staff
 permalink: /our-people/Organisation-Chart/nts/
 description: ""
 third_nav_title: Organisation Chart
-variant: markdown
+variant: tiptap
 ---
-## Non-Teaching Staff
-
-| Name | Email |
-|:---:|---|
-| **Counsellors & LBS** |  |
-| Mdm Michelle Ong Siew Hong (Counsellor)	 | [ong\_siew\_hong@schools.gov.sg](mailto:ong_siew_hong@schools.gov.sg) |
-| Mdm Sumarni Binte Ismail (Counsellor)	 | [sumarni\_ismail@schools.gov.sg](mailto:sumarni_ismail@schools.gov.sg) |
-| Mr Peter Phoa (ECG)		 | [phoa\_ang\_hiok@schools.gov.sg](mailto:phoa_ang_hiok@schools.gov.sg) |
-| Ms Lin Wenjie Wendy (SEN) | [lin\_wenjie@schools.gov.sg](mailto:lin_wenjie@schools.gov.sg) |
-| Ms Mah Wan Qing Michelle (SWO) | [mah\_wan\_qing\_michelle@schools.gov.sg](mailto:mah_wan_qing_michelle@schools.gov.sg) |
-|  |  |
-| **EAS - General Office** |  |
-| Ms Chua Bee Kuan | Admin Manager |
-| Mr Yeo Lay King | Operations Manager |
-| Mr Daniel Ong Jin Hwa	 | Adjunct Operations Manager |
-| Mdm Afidah binte Ahmad | Admin Executive |
-| Ms Nur Syafawina Binte Zakariah | Admin Executive |
-| Mdm Goh Seck Heok | Corporate Support Officer |
-| Mdm Maimun Be binte Abdul Satar | Corporate Support Officer |
-| Mdm S Dhamayanthi | Corporate Support Officer |
-| Mdm Wong Yoke Meng | Corporate Support Officer |
-| Mdm Lee Ah Nooi @Lee Chin Lew | Corporate Support Officer |
-| Mdm Moh Yoke Sim | Corporate Support Officer |
-| Mdm Chang Joo Kheng | FCE Assistant |
-| Mdm Norazah Binte Abdul Aziz | Librarian |
-|  |  |
-| **Laboratory and Workshops** |  |
-| Mr Kumarasamy Shankar | Technical Support Officer (Sci) |
-| Ms Nur Amirah Binti Amir | Technical Support Officer (Sci) |
-| Mr Choo Soon Choon | Technical Support Officer (D&T) |
-| Mr Wan Sin Wah Steve | Technical Support Officer (D&T) |
-|  |  |
-| **IT Centre** |  |
-| Mr Jeremy Yong | ICT Manager |
-| Mr Mohamad Firdaus Bin Jamil	 | Desktop Engineer |
-| Mr Hazim Amir Bin Shamsuri	 | Desktop Engineer |
-| Ms Nabilah Nasric | ICT Trainer |
-|  |  |
+<h2>Non-Teaching Staff</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Counsellors &amp; LBS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Michelle Ong Siew Hong (Counsellor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_siew_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_siew_hong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sumarni Binte Ismail (Counsellor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sumarni_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sumarni_ismail@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Peter Phoa (ECG)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:phoa_ang_hiok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phoa_ang_hiok@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lin Wenjie Wendy (SEN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lin_wenjie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_wenjie@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Mah Wan Qing Michelle (SWO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mah_wan_qing_michelle@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mah_wan_qing_michelle@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>EAS - General Office</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Bee Kuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Lay King</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Daniel Ong Jin Hwa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjunct Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Afidah binte Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Syafawina Binte Zakariah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Seck Heok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Maimun Be binte Abdul Satar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm S Dhamayanthi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Yoke Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Ah Nooi @Lee Chin Lew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Moh Yoke Sim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chang Joo Kheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FCE Assistant</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Norazah Binte Abdul Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Laboratory and Workshops</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kumarasamy Shankar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer (Sci)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Amirah Binti Amir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer (Sci)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Choo Soon Choon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer (D&amp;T)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wan Sin Wah Steve</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Support Officer (D&amp;T)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>IT Centre</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jeremy Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamad Firdaus Bin Jamil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Hazim Amir Bin Shamsuri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nabilah Nasric</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Trainer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
