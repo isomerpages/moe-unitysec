@@ -20,7 +20,7 @@ variant: tiptap
 <h3>WA Task 3 Dates</h3>
 <p>Dear Sec 1 to 3 students, please refer to your respective WA Task 3 schedules
 below:</p>
-<p><a href="/files/WA_Task_3_Dates____2024_WA3_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Schedule</a>
+<p><a href="/files/120724_WA_Task_3_Dates____2024_WA3_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Schedule (updated 12th July)</a>
 </p>
 <p><a href="/files/WA_Task_3_Dates____2024_WA3_Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Schedule</a>
 </p>
