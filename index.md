@@ -29,10 +29,10 @@ sections:
       title: Latest Updates
       id: textcards
       cards:
-        - title: Assessment Plans
-          description: Sec 1 to 5 Assessment Plans for Semester 2
+        - title: Edusave Character Award (ECHA)
+          description: The 2024 ECHA is opened for nomination.
           linktext: Learn more
-          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
+          url: https://www.unitysec.moe.edu.sg/unity-partners/Parents/eca/
         - title: Exam Schedules
           description: N and O Level Prelim Exam Schedules
           linktext: Learn more
