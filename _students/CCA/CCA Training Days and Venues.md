@@ -3,12 +3,415 @@ title: CCA Training Days and Venues
 permalink: /students/CCA/trainingdays-venues/
 description: ""
 third_nav_title: CCA
-variant: markdown
+variant: tiptap
 ---
-## CCA Training Days and Venues
-
-
-
-
-
-<table data-sheets-root="1" style="table-layout:fixed;font-size:10pt;font-family:Arial;width:0px;border-collapse:collapse;border:none" border="1" dir="ltr" cellpadding="0" cellspacing="0" xmlns="http://www.w3.org/1999/xhtml"><colgroup><col width="51"><col width="162"><col width="325"><col width="335"></colgroup><tbody><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Unity Secondary School&quot;}" colspan="4" rowspan="1" style="border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:14pt;font-weight:bold;text-align:center;">Unity Secondary School</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2024 CCA Training Days and Venues Summary&quot;}" colspan="4" rowspan="1" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:bold;text-align:center;">2024 CCA Training Days and Venues Summary</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Uniformed Groups&quot;}" colspan="2" rowspan="1" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffff00;font-family:Calibri;font-size:12pt;font-weight:bold;text-align:center;">Uniformed Groups</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Day &amp; Time&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffff00;font-family:Calibri;font-size:12pt;font-weight:bold;text-align:center;">Day &amp; Time</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Classroom and Training Venue&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffff00;font-family:Calibri;font-size:12pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">Classroom and Training Venue</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:1}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">1</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NCC (Air)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">NCC (Air)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot; Wednesday: 4-6pm (Upper Sec)    \nFriday : 7.30am - 12.30pm \n(Inclusive of recess and CCE lesson)\nFriday: 2.30 -5.30pm (PDS)                     &quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">Wednesday: 4-6pm (Upper Sec)<br>Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)<br>Friday: 2.30 -5.30pm (PDS)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA classroom\nUnder the Bridge / Around School compound / field, parade square&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">CCA classroom<br>Under the Bridge / Around School compound / field, parade square</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:2}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">2</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;NPCC&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">NPCC</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wednesday: 4-6pm\nFriday : 7.30am - 12.30pm  \n(Inclusive of recess and CCE lesson)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Wednesday: 4-6pm<br>Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA classroom\nNPCC Room / Sheltered Basketball Court / Parade Square&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">CCA classroom<br>NPCC Room / Sheltered Basketball Court / Parade Square</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:3}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">3</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Scouts&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Scouts</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Friday : 7.30am - 12.30pm  \n(Inclusive of recess and CCE lesson)\n   Friday: 2.30pm - 5.30pm&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)<br>Friday: 2.30pm - 5.30pm</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA classroom\n Scouts Den / Grass patch beside Blk A&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">CCA classroom<br>Scouts Den / Grass patch beside Blk A</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:4}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">4</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Boys' Brigade&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Boys' Brigade</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Friday : 7.30am - 12.30pm \n(Inclusive of recess and CCE lesson)\nFriday: 2:30pm-5:30pm  &quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)<br>Friday: 2:30pm-5:30pm</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA classroom\n BB Room / Parade Square &quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">CCA classroom<br>BB Room / Parade Square</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:5}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">5</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Girls' Brigade&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Girls' Brigade</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Friday : 7.30am - 12.30pm  \n(Inclusive of recess and CCE lesson)\nAlternate Friday: 2.30 pm to 5.00pm&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)<br>Alternate Friday: 2.30 pm to 5.00pm</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA classroom\nLS 3 (Earth History Room)/parade square&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">CCA classroom<br>LS 3 (Earth History Room)/parade square</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sports &amp; Games&quot;}" colspan="2" rowspan="1" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffff00;font-family:Calibri;font-size:12pt;font-weight:bold;text-align:center;">Sports &amp; Games</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Day &amp; Time&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffff00;font-family:Calibri;font-size:12pt;font-weight:bold;text-align:center;">Day &amp; Time</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Venue&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffff00;font-family:Calibri;font-size:12pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">Venue</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:6}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">6</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Basketball Boys&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Basketball Boys</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Monday: 4-6pm\nWednesday: 4-6pm\nFriday : 7.30am - 12.30pm \n(Inclusive of recess and CCE lesson)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Monday: 4-6pm<br>Wednesday: 4-6pm<br>Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA classroom\nSheltered Court / Indoor Sports Hall&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">CCA classroom<br>Sheltered Court / Indoor Sports Hall</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:7}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">7</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Basketball Girls&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Basketball Girls</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Monday: 4-6pm\nWednesday: 4-6pm\nFriday : 7.30am - 12.30pm  \n(Inclusive of recess and CCE lesson)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Monday: 4-6pm<br>Wednesday: 4-6pm<br>Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA classroom\nMon - Indoor Sports Hall, Wed - SBC, Fri - Alternate ISH &amp; SBC&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">CCA classroom<br>Mon - Indoor Sports Hall, Wed - SBC, Fri - Alternate ISH &amp; SBC</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:8}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">8</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Track &amp; Field&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Track &amp; Field</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Monday : 4:00pm -6pm \nFriday : 7.30am - 12.30pm  \n(Inclusive of recess and CCE lesson)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Monday : 4:00pm -6pm<br>Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA classroom\nSchool Field/ Choa Chu Kang Stadium &quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">CCA classroom<br>School Field/ Choa Chu Kang Stadium</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:9}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">9</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Table Tennis&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Table Tennis</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Monday : 4-6pm\n(For school team to prepare for competition)\nFriday : 7.30am - 12.30pm \n(Inclusive of recess and CCE lesson)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Monday : 4-6pm<br>(For school team to prepare for competition)<br>Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;C-301, C302, C303, C304\nSchool Hall &quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">C-301, C302, C303, C304<br>School Hall</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:10}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">10</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Volleyball Girls&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Volleyball Girls</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wednesday: 2.30pm - 5.30pm \nFriday : 7.30am - 12.30pm  \n(Inclusive of recess and CCE lesson) \nFriday: 1pm - 3.30pm&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Wednesday: 2.30pm - 5.30pm<br>Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)<br>Friday: 1pm - 3.30pm</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA classroom\nSchool Hall / Outdoor Court&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">CCA classroom<br>School Hall / Outdoor Court</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:11}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">11</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Football&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Football</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wednesday: 4 -6pm\nFriday : 7.30am - 12.30pm  \n(Inclusive of recess and CCE lesson)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">Wednesday: 4 -6pm<br>Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA classroom\nSchool Field&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">CCA classroom<br>School Field</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Performing Arts&quot;}" colspan="2" rowspan="1" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffff00;font-family:Calibri;font-size:12pt;font-weight:bold;text-align:center;">Performing Arts</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Day &amp; Time&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffff00;font-family:Calibri;font-size:12pt;font-weight:bold;text-align:center;">Day &amp; Time</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Venue&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffff00;font-family:Calibri;font-size:12pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">Venue</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:12}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">12</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Symphonic Band&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Symphonic Band</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Monday: 3.45 - 6pm (Main Band)\n3.45 - 5.15pm (For Sec 1 in Semester 1 only) \nWednesday: 3.45 - 6pm (Main Band)                    \nFriday : 7.30am - 12.30pm  \n(Inclusive of recess and CCE lesson)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">Monday: 3.45 - 6pm (Main Band)<br>3.45 - 5.15pm (For Sec 1 in Semester 1 only)<br>Wednesday: 3.45 - 6pm (Main Band)<br>Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA classroom\nCD Shelter \n&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">CCA classroom<br>CD Shelter<br></td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:13}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">13</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;UNIque Dance Fusion&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">UNIque Dance Fusion</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Wednesday : 3.30 - 6.00pm \n Thursday : 3.30 - 6.00pm (for non-SYF group)\nFriday : 7.30am - 12.30pm \n(Inclusive of recess and CCE lesson) &quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Wednesday : 3.30 - 6.00pm<br>Thursday : 3.30 - 6.00pm (for non-SYF group)<br>Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA classroom\nAVA Room &quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">CCA classroom<br>AVA Room</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:14}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">14</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Choir&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Choir</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Monday: 4-6pm\nFriday : 7.30am - 12.30pm \n(Inclusive of recess and CCE lesson)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">Monday: 4-6pm<br>Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA classroom\nChoir Room, Music Room&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">CCA classroom<br>Choir Room, Music Room</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:15}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">15</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Indian Orchestra&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Indian Orchestra</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Monday: 4-6pm\nFriday : 7.30am - 12.30pm \n(Inclusive of recess and CCE lesson)\nFriday: 230-4pm&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">Monday: 4-6pm<br>Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)<br>Friday: 230-4pm</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA classroom\nIndian Orchestra room&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">CCA classroom<br>Indian Orchestra room</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:16}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">16</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Speech &amp; Drama&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Speech &amp; Drama</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Friday : 7.30am - 12.30pm \n(Inclusive of recess and CCE lesson)\nFriday: 2.30pm to 4.00pm&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)<br>Friday: 2.30pm to 4.00pm</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA classroom\nFriday : Learning Space 3  &quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">CCA classroom<br>Friday : Learning Space 3</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Clubs &amp; Societies&quot;}" colspan="2" rowspan="1" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffff00;font-family:Calibri;font-size:12pt;font-weight:bold;text-align:center;">Clubs &amp; Societies</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Day &amp; Time&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffff00;font-family:Calibri;font-size:12pt;font-weight:bold;text-align:center;">Day &amp; Time</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Venue&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffff00;font-family:Calibri;font-size:12pt;font-weight:bold;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">Venue</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:17}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">17</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Eco-explorers&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Eco-explorers</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Friday : 7.30am - 12.30pm \n(Inclusive of recess and CCE lesson)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;CCA classroom&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">CCA classroom</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:18}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">18</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Unique Media Productions &quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">Unique Media Productions</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Friday : 7.30am - 12.30pm \n(Inclusive of recess and CCE lesson)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Learning Space 1 or CCA Classroom\nLearning Space 2 orCCA Classroom\nMedia Recording Studio / Hall Backstage-CR / CCA Classroom&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">Learning Space 1 or CCA Classroom<br>Learning Space 2 orCCA Classroom<br>Media Recording Studio / Hall Backstage-CR / CCA Classroom</td></tr><tr style="height:21px;"><td data-sheets-value="{&quot;1&quot;:3,&quot;3&quot;:19}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;font-size:11pt;text-align:center;">19</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Art Club&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;text-align:center;">Art Club</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Friday : 7.30am - 12.30pm \n(Inclusive of recess and CCE lesson)&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;background-color:#ffffff;font-family:Calibri;font-size:12pt;font-weight:normal;text-align:center;">Friday : 7.30am - 12.30pm<br>(Inclusive of recess and CCE lesson)</td><td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Art Room 2&quot;}" style="border-right:1px solid #000000;border-bottom:1px solid #000000;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:top;wrap-strategy:4;white-space:normal;word-wrap:break-word;text-align:center;">Art Room 2</td></tr></tbody></table>
+<h2>CCA Training Days and Venues</h2>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Unity Secondary School</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>2024 CCA Training Days and Venues Summary</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Uniformed Groups</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day &amp; Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Classroom and Training Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC (Air)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday: 4-6pm (Upper Sec)
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)
+<br>Friday: 2.30 -5.30pm (PDS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA classroom
+<br>Under the Bridge / Around School compound / field, parade square</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday: 4-6pm
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA classroom
+<br>NPCC Room / Sheltered Basketball Court / Parade Square</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)
+<br>Friday: 2.30pm - 5.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA classroom
+<br>Scouts Den / Grass patch beside Blk A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys' Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)
+<br>Friday: 2:30pm-5:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA classroom
+<br>BB Room / Parade Square</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls' Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)
+<br>Alternate Friday: 2.30 pm to 5.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA classroom
+<br>LS 3 (Earth History Room)/parade square</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Sports &amp; Games</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day &amp; Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday: 4-6pm
+<br>Wednesday: 4-6pm
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA classroom
+<br>Sheltered Court / Indoor Sports Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday: 4-6pm
+<br>Wednesday: 4-6pm
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA classroom
+<br>Mon - Indoor Sports Hall, Wed - SBC, Fri - Alternate ISH &amp; SBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Track &amp; Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday : 4:00pm -6pm
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA classroom
+<br>School Field/ Choa Chu Kang Stadium</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Table Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday : 4-6pm
+<br>(For school team to prepare for competition)
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C-301, C302, C303, C304
+<br>School Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Volleyball Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday: 2.30pm - 5.30pm
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)
+<br>Friday: 1pm - 3.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA classroom
+<br>School Hall / Outdoor Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Football</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday: 4 -6pm
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA classroom
+<br>School Field</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Performing Arts</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day &amp; Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Symphonic Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday: 3.45 - 6pm (Main Band)
+<br>3.45 - 5.15pm (For Sec 1 in Semester 1 only)
+<br>Wednesday: 3.45 - 6pm (Main Band)
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA classroom
+<br>CD Shelter
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>UNIque Dance Fusion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday : 3.30 - 6.00pm
+<br>Thursday : 3.30 - 6.00pm (for non-SYF group)
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA classroom
+<br>AVA Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday: 4-6pm
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA classroom
+<br>Choir Room, Music Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indian Orchestra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday: 4-6pm
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)
+<br>Friday: 230-4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA classroom
+<br>Indian Orchestra room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Speech &amp; Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)
+<br>Friday: 2.30pm to 4.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA classroom
+<br>Friday : Learning Space 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Clubs &amp; Societies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day &amp; Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eco-explorers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA classroom</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unique Media Productions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Learning Space 1 or CCA Classroom
+<br>Learning Space 2 orCCA Classroom
+<br>Media Recording Studio / Hall Backstage-CR / CCA Classroom</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Room 2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
