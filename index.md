@@ -62,4 +62,16 @@ sections:
       url: https://www.unitysec.moe.edu.sg/unity-partners/Parents/newsletter/
       image: /images/Term2_newsletter_v2.jpg
       alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Teachers' Day
+          date: 29 August 2024
+          announcement: Alumni are allowed to visit on 27th and 28th Sept between 3 - 6
+            pm. Do inform teachers if you are coming back. However, no Alumni
+            will be allowed to come back to school on 29th Sept.
+          link_text: ""
+          link_url: ""
 ---
