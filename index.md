@@ -49,10 +49,6 @@ sections:
           description: N and O Level Prelim Exam Schedules
           linktext: Learn more
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
-        - title: BL Timetable (23 - 25 Jul)
-          description: Sec 1 to 3 Blended Learning Timetable
-          linktext: Learn more
-          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/blended-learning/permalink/
         - title: End of Year Exams
           description: Sec 1-3 EYE Exam Schedules (updated on 13th Aug)
           linktext: Learn more
