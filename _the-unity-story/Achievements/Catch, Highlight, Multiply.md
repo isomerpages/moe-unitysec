@@ -1039,4 +1039,331 @@ and VIA experience for everyone involved.</p>
 </table>
 <p></p>
 <h4><u>SEC 4</u></h4>
+<p><strong>4LEAD1</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HANNAH TASHA BINTE ABDULLAHSIRAJ</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hannah, being the Captain of the Girls' BB Team, led the team in training,
+games and competitions. A capable leader.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CHLOE HENG CHI XUAN (WANG ZHIXUAN)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As the V Captain of the Girls' BB Team, Chloe has played the supportive
+role to the captain, taking on many challenges and help lead the team into
+training, games and competitions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>KEE CHIN RU</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As the V Captain of the Girls' BB Team, Chin Ru has played the supportive
+role to the captain, taking on many challenges and help lead the team into
+training, games and competitions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CLAUDIA HOW XIAN HUI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Claudia, the President of the Speech and Drama Club, has been instrumental
+in leading the members, looking into their needs and preparing them for
+performances.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CLEA WONG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clea, the V President of the Speech and Drama Club, has been playing the
+supporting role to the President and running several projects, looking
+into the needs of members and preparing them for performances.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NUR NATHIRAH BINTE KAMALDIN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nathirah, the V President of the Speech and Drama Club, has been playing
+the supporting role to the President and running several projects, looking
+into the needs of members and preparing them for performances.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LOGGAH THARRSHAN S/O SUPPIAH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As the V Captain of the Boys' BB Team, Loggah has played the supportive
+role to the captain, taking on many challenges and help lead the team into
+training, games and competitions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>YAP JOE HONG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As the V Captain of the Boys' BB Team, Loggah has played the supportive
+role to the captain, taking on many challenges and help lead the team into
+training, games and competitions.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>4LEAD 2</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TERRY GOH WEI BIN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Juston models the way and guides students in demonstrating school desired
+behaviour.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>4SERVE 3</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CALUNSAG CADENCE MICHIKO LABORTE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Demonstrate commitment to the whole Serve 3 by spending her time over
+the weekend to make sure the class t-shirt order went through and got them
+ready before the Unity Run. She also willingly help Mdm Fadilah get an
+extra t-shirt for a footballer whose name was missed out.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>JANELLE LEOW</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Willing to come down on a Saturday evening to take video of our dance
+and dikir barat Hari Raya performances for one the Keat Hong RC Hari Raya
+show.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>4SERVE 4</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>POOBENDRAN TARUNIKA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Demonstrated commitment to help the class create VIA poster for collection
+drive.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>YAP XU YI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Demonstrated commitment to help the class create VIA poster for collection
+drive.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>4ACTUALISE 5</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>JOASH LIM ZHI XUAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>very helpful and very cooperatiive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><br>GLENDA KOH WEN XUAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>very understanding and very helpful</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CHEW YU HENG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>attended training very regularly and take training seriously</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOHAMED SYAZWAN ANAQY BIN MOHAMED YUSRY IQMAL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>attended training very regularly and take training seriously</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>4ACTUALISE 6</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SATHISH SANJITH NITHISH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>He help communicate the association about VIA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>KESHAAV SRINIVASAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>He step up to run and win the race at sports fiesta</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CHU CHEONG KIAT KELSEN (ZHU ZHANGJIE)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>He step up to run and win the race at sports fiesta</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>GOPI SRIVATHSAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>He step up to run and win the race at sports fiesta</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;<strong>4INSPIRE 7</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MARIMUTHU KSHIRAJAA SHREE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shree has shown dedication in training the juniors during CCA sessions.
+She is compassionate and always takes the initiative to help others.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TOBY TEO CHIA XIANG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toby demonstrates teamwork and commitment to both CCA and studies. He
+regularly stays back with his peers to train/guide them in both table tennis
+and academics. During VIA, he showed initiative and commitment in helping
+the beneficiary.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>WU ZHI XUAN VALENCIA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Valencia took initiative in assisting during CCA activities and consistently
+showed commitment to her CCA. She never failed to help the juniors whenever
+they were in need.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DAMIEN TAN CHIN WEI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Damien showed good leadership and determination in the recent BB Blaze
+competition. Damien led his team to the finish line, inspiring his teammates
+to pull through. when they were all tired. He also led by example and gave
+his 100% till the very end of the race.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
