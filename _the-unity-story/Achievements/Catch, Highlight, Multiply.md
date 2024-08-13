@@ -7,6 +7,10 @@ third_nav_title: Achievements
 ---
 <h3><strong>Catch and Highlight Multiply 2024</strong></h3>
 <h3><strong>Term 2</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHM01.jpg">
+</div>
 <h3><u>SEC 1</u></h3>
 <p><strong>1LEAD1</strong>
 </p>
