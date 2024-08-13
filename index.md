@@ -18,6 +18,18 @@ sections:
           url: https://www.unitysec.moe.edu.sg/students/students-resources/classtimetable/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
+  - announcements:
+      title: Teachers' Day Celebration
+      id: announcements
+      subtitle: Announcement
+      announcement_items:
+        - title: Date Posted
+          date: 05 August 2024
+          announcement: Alumni are allowed to visit on 27th and 28th Sept between 3 - 6
+            pm. Do inform teachers if you are coming back. However, no Alumni
+            will be allowed to come back to school on 29th Sept.
+          link_text: ""
+          link_url: ""
   - infobar:
       title: WA Task 3 Dates
       subtitle: Sec 1 to 3
@@ -37,12 +49,8 @@ sections:
           description: N and O Level Prelim Exam Schedules
           linktext: Learn more
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
-        - title: BL Timetable (23 - 25 Jul)
-          description: Sec 1 to 3 Blended Learning Timetable
-          linktext: Learn more
-          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/blended-learning/permalink/
         - title: End of Year Exams
-          description: Sec 1-3 EYE Exam Schedules (updated on 26th Jul)
+          description: Sec 1-3 EYE Exam Schedules (updated on 13th Aug)
           linktext: Learn more
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
   - infopic:
