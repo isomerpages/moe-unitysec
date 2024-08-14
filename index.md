@@ -24,10 +24,10 @@ sections:
       subtitle: Announcement
       announcement_items:
         - title: Date Posted
-          date: 05 August 2024
-          announcement: Alumni are allowed to visit on 27th and 28th Sept between 3 - 6
+          date: 14 August 2024
+          announcement: Alumni are allowed to visit on 27th and 28th August between 3 - 6
             pm. Do inform teachers if you are coming back. However, no Alumni
-            will be allowed to come back to school on 29th Sept.
+            will be allowed to come back to school on 29th August.
           link_text: ""
           link_url: ""
   - infobar:
