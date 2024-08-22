@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Students' Resources/S2 Subject Offering Exercise.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2024 Booklist.md
@@ -11,6 +10,7 @@ collections:
       - Students' Resources/Learning @ Unity.md
       - Students' Resources/Assessment.md
       - Students' Resources/Promotion Criteria.md
+      - Students' Resources/S2 Subject Offering Exercise.md
       - Students' Resources/Blended Learning.md
       - Students' Resources/Referral for school counselling.md
       - CCA/.keep
