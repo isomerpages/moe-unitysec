@@ -53,6 +53,10 @@ sections:
           description: Sec 1-3 EYE Exam Schedules (updated on 21st Aug)
           linktext: Learn more
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
+        - title: Subject Offering Exercise
+          description: Sec 2 selection of Subject Combinations and Guidelines.
+          linktext: Learn more
+          url: https://unitysec.moe.edu.sg/s2-subject-offering-exercise/
   - infopic:
       subtitle: Unity Secondary
       id: infopic
