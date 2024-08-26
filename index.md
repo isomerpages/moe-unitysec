@@ -10,9 +10,6 @@ sections:
       title: UNITY SECONDARY SCHOOL
       background: /images/USS_Montage_2.jpg
       key_highlights:
-        - title: Sch Canteen Advert
-          description: Application Form
-          url: https://www.unitysec.moe.edu.sg/unity-partners/sch-adverts/
         - title: Class Timetable
           description: For Semester 2
           url: https://www.unitysec.moe.edu.sg/students/students-resources/classtimetable/
