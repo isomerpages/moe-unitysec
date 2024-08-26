@@ -50,7 +50,7 @@ sections:
           linktext: Learn more
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
         - title: End of Year Exams
-          description: Sec 1-3 EYE Exam Schedules (updated on 21st Aug)
+          description: Sec 1-3 EYE Exam Schedules (updated on 26th Aug)
           linktext: Learn more
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
         - title: Subject Offering Exercise
