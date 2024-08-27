@@ -37,7 +37,7 @@ below:</p>
 </p>
 <p></p>
 <h3>Sec 1 to 3 End of Year Exam (EYE) Schedule</h3>
-<p><a href="/files/EYE_2024_Time_Table_as_at_26082024.pdf" rel="noopener nofollow" target="_blank">EYE Exam Timetable (Updated 26082024)</a>
+<p><a href="/files/EYE_2024_Time_Table_as_at_26082024_v2.pdf" rel="noopener nofollow" target="_blank">EYE Exam Timetable v2 (Updated 26082024)</a>
 </p>
 <p></p>
 <p></p>
