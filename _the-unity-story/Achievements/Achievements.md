@@ -6,6 +6,101 @@ third_nav_title: Achievements
 variant: tiptap
 ---
 <h2>Achievements</h2>
+<h4>YEAR 2024 - STUDENTS' ACHIEVEMENTS</h4>
+<h4></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Level (Cluster, Zonal, National, International)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Javier Ng Zhe Wei</p>
+<p>Chia Meredith</p>
+<p>Javin Lee Jun Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yip Mo En</p>
+<p>Sankaran Shva Aditya</p>
+<p>Ong Jing Kai Rynold</p>
+<p>Ahmad Alfyan Bin Zuraimi</p>
+<p>Lucas Lim Wei Hong</p>
+<p>Ang Jia Yi</p>
+<p>Denzil Kok Zi Yang</p>
+<p>Adam Shah Bin Iswadi</p>
+<p>Yap Xun Kai</p>
+<p>Khoo Yi Kai Irven</p>
+<p>Shereen Zafira Binte Zaidi</p>
+<p>Muhammad Razeq Bin Mohd Rashed</p>
+<p>Shafiaq Shaahid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inter-Unit Drill Competition - Gold Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Cheng Jun</p>
+<p>Chua Shao Kai</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Text Recital Competition CPCLL Commendation Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fan Wei Shun, Jayden</p>
+<p>Shermin Law Jie Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Text Recital Competition CPCLL 2nd Runner Up Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Edison Phua Jing Zun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC Outstanding Cadet Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>YEAR 2023 - STUDENTS' ACHIEVEMENTS</h4>
 <table style="minWidth: 75px">
 <colgroup>
