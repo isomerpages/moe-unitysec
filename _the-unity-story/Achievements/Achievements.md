@@ -101,6 +101,116 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<h4>YEAR 2024 - STAFF ACHIEVEMENTS</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Staff</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Appointment</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Level (Cluster, Zonal, National, International</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Lin Yin Jacqueline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Commendation Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yee Kee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Mathemathics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Commendation Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chew Thiam Teck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Student Management and Guidance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Long Service Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Lin Yin Jacqueline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Long Service Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Boon Liang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Long Service Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Phang Ka Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Long Service Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>YEAR 2023 - STUDENTS' ACHIEVEMENTS</h4>
 <table style="minWidth: 75px">
 <colgroup>
