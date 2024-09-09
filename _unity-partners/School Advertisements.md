@@ -5,7 +5,11 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>School Canteen Advertisement</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -22,7 +26,7 @@ description: ""
 <p>Snack Stall (selling halal items)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 May 2024</p>
+<p>Closed</p>
 </td>
 </tr>
 <tr>
@@ -30,7 +34,7 @@ description: ""
 <p>Traditional Indian Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 May 2024</p>
+<p>Closed</p>
 </td>
 </tr>
 </tbody>
