@@ -15,33 +15,10 @@ sections:
           url: https://www.unitysec.moe.edu.sg/students/students-resources/classtimetable/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
-  - announcements:
-      title: Teachers' Day Celebration
-      id: announcements
-      subtitle: Announcement
-      announcement_items:
-        - title: Date Posted
-          date: 14 August 2024
-          announcement: Alumni are allowed to visit on 27th and 28th August between 3 - 6
-            pm. Do inform teachers if you are coming back. However, no Alumni
-            will be allowed to come back to school on 29th August.
-          link_text: ""
-          link_url: ""
-  - infobar:
-      title: WA Task 3 Dates
-      subtitle: Sec 1 to 3
-      id: infobar
-      description: Check the schedules for the upcoming WA here.
-      button: Learn more
-      url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
   - textcards:
       title: Latest Updates
       id: textcards
       cards:
-        - title: Edusave Character Award (ECHA)
-          description: The 2024 ECHA is opened for nomination.
-          linktext: Learn more
-          url: https://www.unitysec.moe.edu.sg/unity-partners/Parents/eca/
         - title: Exam Schedules
           description: N and O Level Prelim Exam Schedules
           linktext: Learn more
