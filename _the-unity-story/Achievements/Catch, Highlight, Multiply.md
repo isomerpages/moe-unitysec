@@ -6,11 +6,8 @@ description: ""
 third_nav_title: Achievements
 ---
 <h3><strong>Catch and Highlight Multiply 2024</strong></h3>
-<h3><strong>Term 2</strong></h3>
+<h3><strong>Term 3</strong></h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHM01.jpg">
-</div>
 <h3><u>SEC 1</u></h3>
 <p><strong>1LEAD1</strong>
 </p>
@@ -22,19 +19,26 @@ third_nav_title: Achievements
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>RAEYOS HO WUN HYMN</strong>
+<p><strong>ALETHEA NG PEI QI</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Demonstrates commitment and models the way for peers by volunteering to
-help in CCA leaders appointment ceremony despite not part of their duty
-to do so.</p>
+<td rowspan="1" colspan="1">
+<p>Alethea demonstrates the school values of commitment and perseverance
+during Drama CCA. She is enthusiastic during training and clearly displays
+leadership of self in the way she contributes to the CCA and is a role
+model to her peers.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>VAIDEV MOGAN</strong>
+<p><strong>SOFYA QYSTINA BINTE HIRUAN</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sofya demonstrates the school values of commitment and perseverance during
+Drama CCA. She takes the initiative to contribute during training and clearly
+displays leadership of self in the way she performs during CCA and is a
+role model to her peers.</p>
 </td>
 </tr>
 </tbody>
@@ -49,26 +53,23 @@ to do so.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MUHAMMAD HFIY RAYYAN BIN SAIMI</strong>
+<p><strong>MADHUMITA D/O SETHASIVAM</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hfiy has added to the class positive atmosphere by always being approachable
-and friendly towards all his classmates. He also looks out for his peers
-and is always willing lend a helping hand to those in need.</p>
+<p>Madhumita demonstrated courage and integrity when she promptly reported
+her friend's wrongdoing to her teacher. In doing so, she has helped create
+a safer and more conducive learning environment in the school.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>WONG WAN ZHEN TIERRA</strong>
+<p><strong>JARED TOH KAI YUAN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tierra has added to the class positive atmosphere by taking the initiative
-to lead class bonding activities in class after morning assembly. She demonstrated
-leadership by rallying some of her peers to help her carry out the activities.
-Her classmates enjoyed the games and truly appreciate the work that she
-has put in.</p>
+<p>Jared is a humble and approachable student who many peers look up to.
+He models the way by adhering to school rules and shows care for his classmates.</p>
 </td>
 </tr>
 </tbody>
@@ -83,44 +84,50 @@ has put in.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>DERRICK JOSHUA PAUL</strong>
+<p><strong>ANG LE WEI</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>demonstrates compassion towards his peers. very positive thinking and
-encourages his teammates.</p>
+<p>Le Wei shows his support to class activities and contributed a lot to
+the design of the costume for MBS model</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MUHAMMAD DANIAL BAZIL BIN HAZRIN</strong>
+<p><strong>TAN WAN YI, TIFFANI</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>demonstrates respect towards teachers and his peers. Encourages his peers
-and gives them moral support whenever needed.</p>
+<p>Tiffani model the way as CSL she did her duties diligently</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ALEEYA FALISHA BINTE RIZWAN HUSAIN</strong>
+<p><strong>WAH LE YANG</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>demonstrates respect and commitment by encouraging her peers to respect
-the librarian and library rules and encouraging her peers to commit to
-the reading of story books during the session.</p>
+<p>Le Yang came out of his way to help his peers for the MBS model project</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>KOK OON KAY, ANGIE</strong>
+<p><strong>KHLOZANN CHEN XIN YU</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>demonstrates resilience by not giving in to setbacks in school and showing
-strength despite adversity whilst staying committed to her responsibilities
-during weighted assessment period.</p>
+<p>Khlozann model the way as PSL she did her duties and helped check in with
+some of the girls during cca when they had problems</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ERIQ SHAQIL BIN MUHAMMAD SUBKI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eriq will help his peers academically whenever theres a need to. He is
+respectful towards his teachers and peers.</p>
 </td>
 </tr>
 </tbody>
@@ -135,61 +142,11 @@ during weighted assessment period.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>REIKO TAN YITING</strong>
+<p><strong>LEE ADEN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Proactive class leader to remind classmates to
-<br>bring PLD, other necc materials etc, helpful
-<br>and respectful to all</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>ALYA ERWANY YASMIN BINTE AZMAN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Proactive class leader who lock up classroom without being reminded, helpful
-and respectful to all</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SURESHKUMAR DHEVESH</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shows commitment and perseverance to collect
-<br>bottle caps from classmates and keep a record</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>1ACTUALISE 5</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>YAP CHIN TENG</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>community service leader, helping with the VIA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>QISTINA BALQIS BINTE MOHAMED ALI</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>help peers and teacher willingly.</p>
+<p>Proactive and help during one of the NCC camp</p>
 </td>
 </tr>
 </tbody>
@@ -204,33 +161,25 @@ and respectful to all</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>WOO YU QING PHOEBE</strong>
+<p><strong>TANG XUAN TING, JOY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Was proactive in helping her peers during the making of friendship bands
-during International Friendship Day. In CCA, she helps in collating weekly
-attendance for the Sec 1s and steps up to remind her peers of upcoming
-CCA activities.</p>
+<p>Responsible and self-directed student who models the way in being a positive
+peer influence. She can be relied upon to complete any tasks assigned to
+her and is always willing to lend a helping hand to her teachers and peers.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>KONG YEE ROU</strong>
+<p><strong>SENTHIL PAVITHA</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Demonstrates dedication towards band and is proactive in fulfilling her
-role as a CCA representative</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>BRYAN TAN WEI KANG</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Stands up for what is right and advises his peers to be on task in class</p>
+<p>As a newly appointed Peer Support Leader in Term 3, Pavitha has quickly
+risen to fulfill her role and has taken the initiative to help her peers
+whenever needed. Her proactive approach makes a good role model for her
+peers.</p>
 </td>
 </tr>
 </tbody>
@@ -245,38 +194,59 @@ role as a CCA representative</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CHAN ZHI SWEN</strong>
+<p><strong>GAO DING EN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>volunteered to sweep the floor</p>
+<p>Helped to carry the English Department magazines
+<br>from Level 1 to classroom early in the morning before flag raising.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>POH TIAN YU, TERRY</strong>
+<p><strong>SYLVESTER LIEW JIA LE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>volunteered to sweep the floor</p>
+<p>Helped to carry the English Department magazines
+<br>from Level 1 to classroom early in the morning before flag raising.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YAP ZUN HEE, ADEN</strong>
+<p><strong>TAN&nbsp;KENG HEIN, ADEN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Accompanied Wayne during the Unity Run when his shoe was spoilt</p>
+<p>Helped to carry the English Department magazines
+<br>from Level 1 to classroom early in the morning before flag raising.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LIM WEN LONG IAN</strong>
+<p><strong>ALICE SOO JING HOE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>picked up a wallet for his classmates</p>
+<p>Helped to fan the contingent under the hot sun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TIONG KAI LIN, CHARLISE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Helped to fan the contingent under the hot sun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TAN OON HOCK SAMUEL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A good influence on people around him through his positive contribution.</p>
 </td>
 </tr>
 </tbody>
@@ -291,61 +261,25 @@ role as a CCA representative</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>AKHILESH SARAVANAN PILLAI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Act of honesty, Akhilesh found $10 and bought it to GO.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>CHEN YIWEN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Contribution to VIA (among the top bottle cap collectors)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>CLARYNE ONG AN EN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Contribution to VIA (among the top bottle cap collectors)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>KANTHAKUMAR JAYASHRI</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Contribution to VIA (among the top bottle cap collectors)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>WONG SI JEOI SHANNON</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Contribution to VIA (among the top bottle cap collectors)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>ANZER YAP</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Contribution to VIA (among the top bottle cap collectors)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>YAP YONG LE, GERALD</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Contribution to VIA (among the top bottle cap collectors)</p>
+<p>She has shown good sportsmanship during Sport Fiesta. Injured by opponent
+but not only did she not get aggressive, persevered and finished the game.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3><u>SEC 2</u></h3>
 <p><strong>2LEAD1</strong>
 </p>
