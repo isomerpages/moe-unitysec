@@ -718,30 +718,22 @@ class spirit.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LAM ZI KEI</strong>
+<p><strong>MUHAMMAD YUSUF BIN ABDUL AZEES</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Led the class well as CSL and took initiative in looking out for her juniors
-in Speech and Drama</p>
+<p>Recommended by Math Teacher, Yusuf demonstrated exemplary behaviour and
+leadership in math class</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ZAMORA ARZEL SANGGALANG</strong>
+<p><strong>LIEW JIA YI RAELYNN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Led the class well as CSL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>NADIA AKBAR</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Led Drama exco well in planning and preparing for Sec 4 Appreciation Ceremony</p>
+<p>For showing willingness to step up and carry out responsibilities as VP
+Drama and PSL</p>
 </td>
 </tr>
 </tbody>
@@ -756,60 +748,22 @@ in Speech and Drama</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YAP XUN KAI</strong>
+<p><strong>ADAM SHAH BIN ISWADI</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Proactive in leading the class in the SIngapore of the national anthem
-and pledge.</p>
+<p>Kind-hearted student who can be depended on to support students who is
+in need.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LEE YAN JUN</strong>
+<p><strong>ONG JING KAI, RYNOLD</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Has been proactive and actively involved in all school events as a UC
-and the VP of Media Production.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>3SERVE 3</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MOHAMAD ALFIAN GARSYAH BIN ABDULLAH MUNSHI</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>swept the classroom without being told</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>JED TAN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>helped to pick up litter in the field after the Unity run</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>GIOK EN CI JOYLYN (XU ENCI)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>helped the sec 1 to take a group photo, So that they feel belonged and
-identified</p>
+<p>Have initiative and can be depended on to lead in class activities with
+many responsibilities</p>
 </td>
 </tr>
 </tbody>
@@ -824,38 +778,29 @@ identified</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ANG GUANG QUAN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Modeled the way by offering to help those around him.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>LEE SHAO MING CEDRIC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Encouraged the heart to get the best efforts from his peers.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>THNG WEN XUAN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Challenged the process to ensure best outcomes for CCA.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>RAMESH YAZHINI</strong>
+<p><strong>RAYYAN MIRZA BIN FARIZ</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Modeled the way when leading juniors during training.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ASHOK PRANESH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modeled the way when leading juniors during training.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>REYES SEPHYRA GLADRIEL ROXAS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Challenged the process to ensure best outcomes for VIA as a CSL.</p>
 </td>
 </tr>
 </tbody>
@@ -870,27 +815,24 @@ identified</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>WELDON LAU HAO YUAN</strong>
+<p><strong>WONG SHIN YEE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Demonstrated commitment to CCA &amp; put in very good effort to come up
-with video for Art Club farewell for Sec 4s</p>
+<p>Took initiative to better promote CCA online</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SHAIRA DANIYA BINTE MOHAMMAD SHAHID</strong>
+<p><strong>WELDON LAU HAO YUAN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Demonstrated commitment to stand by classmate who has family issues. Supported
-classmate &amp; responded to classmates parents. Gave good counsel.</p>
+<p>Edited some videos</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>3ACTUALISE 6</strong>
 </p>
 <table style="minWidth: 50px">
@@ -901,39 +843,31 @@ classmate &amp; responded to classmates parents. Gave good counsel.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MICHAEL ALBERT HANA AKSHITA</strong>
+<p><strong>TAN DING XIANG</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>model the way - volunteered to help put up posters for via</p>
+<p>&nbsp;Lead self and model the way - care for and help his classmates in
+their studies</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MEENAKSHI ALAGAPPAN</strong>
+<p><strong>CALEB JOEL QIJIE LECAINE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>model the way - volunteered to help put up posters for via</p>
+<p>&nbsp;Model the way - help to take care of classroom tidiness by cleaning
+the class even if it is not his class.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SARVENDRAN S/O MATHIVANAN</strong>
+<p><strong>LOH JIE RU</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>model the way - volunteered to help keep class tidy after morning assembly
-and found and return friend's wallet</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>LEW ZHI QI</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>model the way - volunteered to help put up posters for via</p>
+<p>&nbsp;Show responsibility, volunteer to help, esp. for 25th anniversary</p>
 </td>
 </tr>
 </tbody>
@@ -948,32 +882,25 @@ and found and return friend's wallet</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MERLA EASHITA</strong>
+<p><strong>ELIJAH FOCK JUN RUEI</strong>
 </p>
 </td>
-<td rowspan="11" colspan="1">
-<p>These students demonstrated their commitment and give of their best in
-their academic pursuit of various subjects. As a result, they emerged as
-the top scorers in various subjects in their form class of their streams.
-They modelled the way and inspired a shared vision by sharing their success
-strategies with their classmates in the form of a class presentation.</p>
+<td rowspan="8" colspan="1">
+<p>Group leaders of teams for VIA. They helped to organise and manage the
+groups assigned to them and faciitate the running of the Clothes Swap VIA.
+Elijah was active in the preparation. He was involved during the prep-meeting
+and posed many constructive questions regarding the planning of the event.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LINUS GOH REN JIE (WU RENJIE)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>TANG ZHENG RUI, MARCUS</strong>
+<p><strong>SENTHILKUMAR PREETHIKA</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PHYLLIS CHANG ONN CHING</strong>
+<p><strong>LIM YI SHENG JOVAN</strong>
 </p>
 </td>
 </tr>
@@ -985,37 +912,25 @@ strategies with their classmates in the form of a class presentation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>BAALIHA RISHVANA D/O SULTHAN SYED IBRAHIM</strong>
+<p><strong>CLAUDIA ANG</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NUR ELIZA LIM</strong>
+<p><strong>EVIAN YEO</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>TEO YUN JING</strong>
+<p><strong>VARSHAA RAMESH</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AFIQ SYAUQI BIN SUFNAIDI</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>DARRYL ANG YI XUAN</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>TAN YONG SAN, DEON</strong>
+<p><strong>MARCUS TANG</strong>
 </p>
 </td>
 </tr>
@@ -1031,29 +946,54 @@ strategies with their classmates in the form of a class presentation.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SITI ALSYIRAH MUHAMMAD ASYRAF</strong>
+<p><strong><br>MANHA NORAH SHEFFY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siti took the initiative to share in the school assembly on responsible
-use of Artificial Intelligence.</p>
+<p>Norah is nominated due to her outstanding performance as the emcee for
+both our 25th Anniversary celebration and the National Day event. Her remarkable
+ability to engage and inspire the audience, coupled with her seamless coordination
+with various teams, demonstrates her leadership and dedication to school.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>EVA IZZ DA'ANIA BINTE SHAHRUL NIZAM</strong>
+<p><strong>HUANG JINGCHUN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eva, our dedicated Community Service Leader, took the helm in guiding
-our class through the Values in Action Project this term. Together with
-Claudia, our other CSL, they co-facilitated the lessons, ensuring a rich
-and VIA experience for everyone involved.</p>
+<p>Jingchun put in effort and showcased her best performance in the 25th
+anniversary.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LAI JING QI JANA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jana is nominated for her significant contributions to our 25th Anniversary
+celebration and her proactive involvement in the Voices of Youth event.
+Her moving recitation of a poem during the anniversary performance showcased
+her exceptional talent and dedication to our school's values. Additionally,
+her initiative to sign up for training as a facilitator for the Voices
+of Youth event highlights her commitment to leadership</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CHUA ZI NING CHARLENE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Charlene is nominated for her contribution to our school anniversary performance.
+Her dedication and performance were truly commendable. Additionally, her
+willingness to step out of her comfort zone and share her OBS experiences
+demonstrates her commitment to personal growth and leadership.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><u>SEC 4</u></h4>
 <p><strong>4LEAD1</strong>
 </p>
