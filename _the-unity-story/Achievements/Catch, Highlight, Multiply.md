@@ -6,10 +6,10 @@ description: ""
 third_nav_title: Achievements
 ---
 <h3><strong>Catch and Highlight Multiply 2024</strong></h3>
-<h3><strong>Term 2</strong></h3>
+<h3><strong>Term 3</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHM01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CHM_t3.jpg">
 </div>
 <h3><u>SEC 1</u></h3>
 <p><strong>1LEAD1</strong>
@@ -22,19 +22,26 @@ third_nav_title: Achievements
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>RAEYOS HO WUN HYMN</strong>
+<p><strong>ALETHEA NG PEI QI</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Demonstrates commitment and models the way for peers by volunteering to
-help in CCA leaders appointment ceremony despite not part of their duty
-to do so.</p>
+<td rowspan="1" colspan="1">
+<p>Alethea demonstrates the school values of commitment and perseverance
+during Drama CCA. She is enthusiastic during training and clearly displays
+leadership of self in the way she contributes to the CCA and is a role
+model to her peers.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>VAIDEV MOGAN</strong>
+<p><strong>SOFYA QYSTINA BINTE HIRUAN</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sofya demonstrates the school values of commitment and perseverance during
+Drama CCA. She takes the initiative to contribute during training and clearly
+displays leadership of self in the way she performs during CCA and is a
+role model to her peers.</p>
 </td>
 </tr>
 </tbody>
@@ -49,26 +56,23 @@ to do so.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MUHAMMAD HFIY RAYYAN BIN SAIMI</strong>
+<p><strong>MADHUMITA D/O SETHASIVAM</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hfiy has added to the class positive atmosphere by always being approachable
-and friendly towards all his classmates. He also looks out for his peers
-and is always willing lend a helping hand to those in need.</p>
+<p>Madhumita demonstrated courage and integrity when she promptly reported
+her friend's wrongdoing to her teacher. In doing so, she has helped create
+a safer and more conducive learning environment in the school.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>WONG WAN ZHEN TIERRA</strong>
+<p><strong>JARED TOH KAI YUAN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tierra has added to the class positive atmosphere by taking the initiative
-to lead class bonding activities in class after morning assembly. She demonstrated
-leadership by rallying some of her peers to help her carry out the activities.
-Her classmates enjoyed the games and truly appreciate the work that she
-has put in.</p>
+<p>Jared is a humble and approachable student who many peers look up to.
+He models the way by adhering to school rules and shows care for his classmates.</p>
 </td>
 </tr>
 </tbody>
@@ -83,44 +87,50 @@ has put in.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>DERRICK JOSHUA PAUL</strong>
+<p><strong>ANG LE WEI</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>demonstrates compassion towards his peers. very positive thinking and
-encourages his teammates.</p>
+<p>Le Wei shows his support to class activities and contributed a lot to
+the design of the costume for MBS model</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MUHAMMAD DANIAL BAZIL BIN HAZRIN</strong>
+<p><strong>TAN WAN YI, TIFFANI</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>demonstrates respect towards teachers and his peers. Encourages his peers
-and gives them moral support whenever needed.</p>
+<p>Tiffani model the way as CSL she did her duties diligently</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ALEEYA FALISHA BINTE RIZWAN HUSAIN</strong>
+<p><strong>WAH LE YANG</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>demonstrates respect and commitment by encouraging her peers to respect
-the librarian and library rules and encouraging her peers to commit to
-the reading of story books during the session.</p>
+<p>Le Yang came out of his way to help his peers for the MBS model project</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>KOK OON KAY, ANGIE</strong>
+<p><strong>KHLOZANN CHEN XIN YU</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>demonstrates resilience by not giving in to setbacks in school and showing
-strength despite adversity whilst staying committed to her responsibilities
-during weighted assessment period.</p>
+<p>Khlozann model the way as PSL she did her duties and helped check in with
+some of the girls during cca when they had problems</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ERIQ SHAQIL BIN MUHAMMAD SUBKI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eriq will help his peers academically whenever theres a need to. He is
+respectful towards his teachers and peers.</p>
 </td>
 </tr>
 </tbody>
@@ -135,61 +145,11 @@ during weighted assessment period.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>REIKO TAN YITING</strong>
+<p><strong>LEE ADEN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Proactive class leader to remind classmates to
-<br>bring PLD, other necc materials etc, helpful
-<br>and respectful to all</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>ALYA ERWANY YASMIN BINTE AZMAN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Proactive class leader who lock up classroom without being reminded, helpful
-and respectful to all</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SURESHKUMAR DHEVESH</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shows commitment and perseverance to collect
-<br>bottle caps from classmates and keep a record</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>1ACTUALISE 5</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>YAP CHIN TENG</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>community service leader, helping with the VIA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>QISTINA BALQIS BINTE MOHAMED ALI</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>help peers and teacher willingly.</p>
+<p>Proactive and help during one of the NCC camp</p>
 </td>
 </tr>
 </tbody>
@@ -204,33 +164,25 @@ and respectful to all</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>WOO YU QING PHOEBE</strong>
+<p><strong>TANG XUAN TING, JOY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Was proactive in helping her peers during the making of friendship bands
-during International Friendship Day. In CCA, she helps in collating weekly
-attendance for the Sec 1s and steps up to remind her peers of upcoming
-CCA activities.</p>
+<p>Responsible and self-directed student who models the way in being a positive
+peer influence. She can be relied upon to complete any tasks assigned to
+her and is always willing to lend a helping hand to her teachers and peers.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>KONG YEE ROU</strong>
+<p><strong>SENTHIL PAVITHA</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Demonstrates dedication towards band and is proactive in fulfilling her
-role as a CCA representative</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>BRYAN TAN WEI KANG</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Stands up for what is right and advises his peers to be on task in class</p>
+<p>As a newly appointed Peer Support Leader in Term 3, Pavitha has quickly
+risen to fulfill her role and has taken the initiative to help her peers
+whenever needed. Her proactive approach makes a good role model for her
+peers.</p>
 </td>
 </tr>
 </tbody>
@@ -245,38 +197,59 @@ role as a CCA representative</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CHAN ZHI SWEN</strong>
+<p><strong>GAO DING EN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>volunteered to sweep the floor</p>
+<p>Helped to carry the English Department magazines
+<br>from Level 1 to classroom early in the morning before flag raising.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>POH TIAN YU, TERRY</strong>
+<p><strong>SYLVESTER LIEW JIA LE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>volunteered to sweep the floor</p>
+<p>Helped to carry the English Department magazines
+<br>from Level 1 to classroom early in the morning before flag raising.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YAP ZUN HEE, ADEN</strong>
+<p><strong>TAN&nbsp;KENG HEIN, ADEN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Accompanied Wayne during the Unity Run when his shoe was spoilt</p>
+<p>Helped to carry the English Department magazines
+<br>from Level 1 to classroom early in the morning before flag raising.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LIM WEN LONG IAN</strong>
+<p><strong>ALICE SOO JING HOE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>picked up a wallet for his classmates</p>
+<p>Helped to fan the contingent under the hot sun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TIONG KAI LIN, CHARLISE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Helped to fan the contingent under the hot sun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TAN OON HOCK SAMUEL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A good influence on people around him through his positive contribution.</p>
 </td>
 </tr>
 </tbody>
@@ -291,61 +264,25 @@ role as a CCA representative</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>AKHILESH SARAVANAN PILLAI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Act of honesty, Akhilesh found $10 and bought it to GO.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>CHEN YIWEN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Contribution to VIA (among the top bottle cap collectors)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>CLARYNE ONG AN EN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Contribution to VIA (among the top bottle cap collectors)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>KANTHAKUMAR JAYASHRI</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Contribution to VIA (among the top bottle cap collectors)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>WONG SI JEOI SHANNON</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Contribution to VIA (among the top bottle cap collectors)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>ANZER YAP</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Contribution to VIA (among the top bottle cap collectors)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>YAP YONG LE, GERALD</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Contribution to VIA (among the top bottle cap collectors)</p>
+<p>She has shown good sportsmanship during Sport Fiesta. Injured by opponent
+but not only did she not get aggressive, persevered and finished the game.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3><u>SEC 2</u></h3>
 <p><strong>2LEAD1</strong>
 </p>
@@ -357,24 +294,31 @@ role as a CCA representative</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CHAN HUI EN, QUEENIE</strong>
+<p><strong>SEO LIN SHENG, LANCE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student inspired a shared vision by enlisting classmates and teammates
-towards a common goal. She also showed commitment and perseverance in basketball
-trainings, modeling the way for others to follow.</p>
+<p>IC for VIA activities, help to facilitate discussions during planning
+and monitoring progress</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NUR SUFFIANNAH BINTE SULAIMAN</strong>
+<p><strong>YEO MEXES ZANDER</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student models the way and takes initiative to complete tasks with minimal
-guidance. She is also committed in CCA, being very responsive and on task
-during speech and drama training.</p>
+<p>Treasurer and publicity in charge for VIA. Budget and buy required items
+for VIA. Take pics during VIA activities.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DIONG XUAN NING</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liaise all the logistics matter for VIA and take pictures for VIA activities.</p>
 </td>
 </tr>
 <tr>
@@ -383,18 +327,59 @@ during speech and drama training.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Laiqa has volunteered to help out as EL oral examination time keeper and
-ushers. Due to her initative, the oral exam was able to carry out smoothly.</p>
+<p>Manpower IC. Helps to arrange the students into groups, nominate Group
+IC to facilitate activities.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SEO LIN SHENG, LANCE</strong>
+<p><strong>TEO ZI YUN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lance has volunteered to help out as EL oral examination time keeper and
-ushers. Due to his initative, the oral exam was able to carry out smoothly.</p>
+<p>2IC for VIA activities, contribute ideas, drop down discussion points
+and monitor progress.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MARCUS NEO SHI TAO</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marcus showed integrity, commitment and compassion this term which is
+commendable effort in improving his behaviour and conduct compared to previous
+terms.</p>
+<p>
+<br>He has shown integrity in his actions and words, taking steps to improve
+himself after reminders from teachers. Many teachers have seen a marked
+improvement in his behaviour and his chinese teacher who used to chase
+him for homework, has commented that Marcus has recently shown a more positive
+and serious attitude in class and wanted to affirm and encourage his positive
+change.
+<br>
+<br>Marcus has also shown commitment in basketball, giving his best during
+training sessions and trying his very best to maintain his positive behaviour
+in term 3.</p>
+<p>
+<br>Lastly, Marcus has shown compassion and care as he was the first to befriend
+his new classmate, Max. He engaged in conversations with him in the classroom
+and I have seen him trying to explain to Max during bball trainings how
+to do certain drills as Max was unsure how to do it as he was new to bball.</p>
+<p>
+<br>Overall, we would like to commend and affirm Marcus on his positive change
+and his effort to be better. Well done, Marcus!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>RIFQI RIYAZ BIN KAMSANI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Will take initiative to make sure that the music room is clean, littered
+picked up, chairs pushed in before he leaves the music room. A responsible
+student indeed. (submitted by Mrs Lim)</p>
 </td>
 </tr>
 </tbody>
@@ -409,22 +394,46 @@ ushers. Due to his initative, the oral exam was able to carry out smoothly.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>KHOO YI KAI IRVEN</strong>
+<p><strong>MALCOM YONG KAI ZHOU</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Irven models the way and took up the challenge to be the emcee of the
-UC &amp; CCAL appointment ceremony in Term 2.</p>
+<p>Malcom has demonstrated courage by confidently speaking in front of the
+entire school. In addition, he has contributed extensively to creating
+the class T-shirt design.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>DAROLD GAN JING XUAN</strong>
+<p><strong><br>SUN YUFANXING</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Darold demonstrates commitment in doing his best in whatever he does.
-He also shows respects to his teachers and peers.</p>
+<p>Fan Xing has demonstrated courage by confidently speaking in front of
+the entire school. Moreover, she is a reflective student who welcomes feedback
+and is committed to learn and improve herself.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LAU EN TONG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>En Tong had demonstrated a positive attitude both in class and during
+media production club activities. Her dedication and enthusiasm make them
+a valuable member of the class and club.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>PENG WEIDONG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wei Dong's positive attitude in the media production club is commendable.
+His continuous self-improvement, eagerness to learn new skills, and calm
+leadership make him an inspiring role model for his peers.</p>
 </td>
 </tr>
 </tbody>
@@ -439,43 +448,38 @@ He also shows respects to his teachers and peers.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MUHAMMAD QAYYUM ANAQI BIN HELMIE</strong>
+<p><strong>ONG XUAN SZE XENA</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shows respect for the environment.
-<br>Helped to sweep the floor when it was dirty.</p>
+<p><strong>&nbsp;</strong>For stepping up for VIA activities</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MUHAMMAD QURAISY' QASHRIEL BIN MUHAMMAD FAUZI</strong>
+<p><strong>IRWANDANISH SHAH BIN SHAHRILL</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shows respect for the environment.
-<br>Helped to sweep the floor when it was dirty</p>
+<p>For stepping up for VIA activities</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>IAN FAREEZ BIN MUHAMMAD FAZLIN</strong>
+<p><strong>LAU ZHI WEI, KENZIE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Helps the teacher to set up the laptop esp when
-<br>teacher needed help with the portable projector.</p>
+<p>For stepping up for VIA activities</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>TAN WEIQI</strong>
+<p><strong>SOH YANNAPHAS</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>She is very adaptive, coming from a new school,
-<br>and perserve on. She always supports the school
-<br>events very willingly.</p>
+<p>For stepping up for VIA activities</p>
 </td>
 </tr>
 </tbody>
@@ -490,42 +494,48 @@ He also shows respects to his teachers and peers.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>JANELL LIM XIN YI</strong>
+<p><strong>CHUA JING JIA KIZEL</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>designed the poster, arrange the tables and chairs to the side for parents
-briefing</p>
+<p>Kizel always help me during Chinese lesson and in form class, helping
+me translate the things I need to say to the student, and always help me
+collect things which required her to run up and down. But she never complained
+about helping.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>JADEN NG TENG YAO</strong>
+<p><strong>TAY YU THONG</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>help with the VIA, arrange the tables and chairs to the side for parents
-briefing</p>
+<p>Yu Thong has helped in making the class tee and went through the trouble
+of chasing after students for money. she does her best to ensure that she
+achieve good outcomes.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>JANINE SOH KAIXIN</strong>
+<p><strong>ONG KUAN XIANG</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>He modeled the way by helping to decorate the class notice board without
-being told.</p>
+<p>He modeled the way by volunteering to clarify with NCC CC and helping
+the Sec 2 NCC cadets buy the belt. Kuan Xian also help to schedule the
+class to pair up with Felix for class activities so that everyone get the
+fair chance to work with Felix and hence able to know Felix better.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ANDRIN QUEK JUN TONG</strong>
+<p><strong>MOHAN THILOJAN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>He modeled the way by steping up to lead NCC cadets in 25th Anniversary
-UGs world rehearsal.</p>
+<p>He modeled the way by volunteering to work with Kuan Xian in coordinating
+for buying belt for Sec 2 NCC cadets. Thilojan also actively participate
+and involved in the class effort to promote class bonding.</p>
 </td>
 </tr>
 </tbody>
@@ -540,30 +550,10 @@ UGs world rehearsal.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>DJARRON HANATO</strong>
-</p>
+<p>CHUA YAN YOU ZAVIER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>stepped up as PSL as helped paced classmates for 2.4 km</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SHERMIN LAW JIE LING</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>As the girls' captain practised hard at the 25th anniversary rehearsal.
-shows high level of responsibility.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><br>TAN JIAWEI CHELSEA</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>entered into the finals of 1500M walk for NSG. showed the will to excel</p>
+<p>&nbsp;Lead the CCA for bonding games</p>
 </td>
 </tr>
 </tbody>
@@ -578,30 +568,41 @@ shows high level of responsibility.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LAW JUN LONG LUCAS</strong>
+<p><strong>BARRITE DENISE OLEXA DONGEL</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Both of them helped with the ICT department for the maintenance of Its
-equipment. They went around to do a check in of the mobile laptop tables
-in each classroom. Pin Chao also helped with carrying more chairs into
-class when there weren’t sufficient seats during the parents' briefing.</p>
+<td rowspan="1" colspan="1">
+<p>She has been a supportive PSL for the class and she also guides her sec1
+juniors in her section patiently during Band sessions.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NG PIN CHAO</strong>
+<p><strong>AARON TAN PEI HAO</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>He gave clear instructions to his sec1 juniors on how to improve the way
+they play their instrument during Band sectionals.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>JEEVA GANESH KUMAR</strong>
+<p><strong>TAN PEH LYN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jeeva helping with classroom cleaning. He is responsibility and teamwork
-while maintaining a clean and hygienic environment.</p>
+<p>She helps classmate Jeeva Maths subject and cares for other students.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>RIZQA AULIA BINTE HAFIZUL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>She is being a Supportive PSL for the class and she also guides &amp;
+positive encourage her sec 1 juniors in Scouts activities.</p>
 </td>
 </tr>
 </tbody>
@@ -616,30 +617,47 @@ while maintaining a clean and hygienic environment.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>VIJAYAKUMAR DHUSHITHA</strong>
+<p><strong>STALIN JESHURAN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Took initiative to foster a positive class tone</p>
+<p>Took initiative to discuss and prepare the slides for VIA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NAGESWARAN MRINALINI</strong>
+<p><strong>CHEN ZIYING</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Took initiative to foster a positive class tone</p>
+<p>Took initiative to discuss and prepare the slides for VIA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>JASH MYCAJ SAMBILE FLORENTINO</strong>
+<p><strong>KISHORE MURUGANANDAM</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mycaj helped to decorate the class board and give suggestions to improve
-the teamwork.</p>
+<p>Took initiative to discuss and prepare the slides for VIA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NEO YU HENG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Conduct the VIA day activity with big passion and responsibility</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>JOE AMARIO MORAL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Conduct the VIA day activity with big passion and responsibility</p>
 </td>
 </tr>
 </tbody>
@@ -654,47 +672,44 @@ the teamwork.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>VIBANDOR CAELAN ELYSIA GUDIAGA</strong>
+<p><strong>LI XUAN PEI</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Caelan models the way and took up the challenge to be the emcee of the
-UC &amp; CCAL appointment ceremony in Term 2.</p>
+<p>Took initiative to help new classmate fit in and adjust to the class.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ALOYSIUS LEE</strong>
+<p><strong>MOHAMAD QUSHAYYI BIN MOHAMAD FADLY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>He helped plan and organize VIA, and during the VIA activities, he shared
-food with the whole class, taking care of and showing concern for his classmates.</p>
+<p>Looks out and supports peers. Checks in on them to make sure that they
+are okay emotionally.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NG KANG JUN LUCAS</strong>
+<p><strong>BRYAN YOU HAO WEN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>He helped plan and organize VIA, and during the VIA activities, he shared
-food with the whole class, taking care of and showing concern for his classmates.</p>
+<p>Supports his peers. Works closely with classmates to bond and improve
+class spirit.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ELISE VOON JIA HUI</strong>
+<p><strong>ZOE NEO XIAO HWEE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>She gave good suggestions regarding the situation in the class, and she
-also helps arrange chairs before parent briefing.</p>
+<p>Helps her classmate with Math’s Homework and perseveres in her own learning.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><u>SEC 3</u></h4>
 <p><strong>3LEAD1</strong>
 </p>
@@ -706,30 +721,22 @@ also helps arrange chairs before parent briefing.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LAM ZI KEI</strong>
+<p><strong>MUHAMMAD YUSUF BIN ABDUL AZEES</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Led the class well as CSL and took initiative in looking out for her juniors
-in Speech and Drama</p>
+<p>Recommended by Math Teacher, Yusuf demonstrated exemplary behaviour and
+leadership in math class</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ZAMORA ARZEL SANGGALANG</strong>
+<p><strong>LIEW JIA YI RAELYNN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Led the class well as CSL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>NADIA AKBAR</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Led Drama exco well in planning and preparing for Sec 4 Appreciation Ceremony</p>
+<p>For showing willingness to step up and carry out responsibilities as VP
+Drama and PSL</p>
 </td>
 </tr>
 </tbody>
@@ -744,60 +751,22 @@ in Speech and Drama</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YAP XUN KAI</strong>
+<p><strong>ADAM SHAH BIN ISWADI</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Proactive in leading the class in the SIngapore of the national anthem
-and pledge.</p>
+<p>Kind-hearted student who can be depended on to support students who is
+in need.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LEE YAN JUN</strong>
+<p><strong>ONG JING KAI, RYNOLD</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Has been proactive and actively involved in all school events as a UC
-and the VP of Media Production.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>3SERVE 3</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MOHAMAD ALFIAN GARSYAH BIN ABDULLAH MUNSHI</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>swept the classroom without being told</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>JED TAN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>helped to pick up litter in the field after the Unity run</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>GIOK EN CI JOYLYN (XU ENCI)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>helped the sec 1 to take a group photo, So that they feel belonged and
-identified</p>
+<p>Have initiative and can be depended on to lead in class activities with
+many responsibilities</p>
 </td>
 </tr>
 </tbody>
@@ -812,38 +781,29 @@ identified</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ANG GUANG QUAN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Modeled the way by offering to help those around him.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>LEE SHAO MING CEDRIC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Encouraged the heart to get the best efforts from his peers.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>THNG WEN XUAN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Challenged the process to ensure best outcomes for CCA.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>RAMESH YAZHINI</strong>
+<p><strong>RAYYAN MIRZA BIN FARIZ</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Modeled the way when leading juniors during training.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ASHOK PRANESH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modeled the way when leading juniors during training.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>REYES SEPHYRA GLADRIEL ROXAS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Challenged the process to ensure best outcomes for VIA as a CSL.</p>
 </td>
 </tr>
 </tbody>
@@ -858,27 +818,24 @@ identified</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>WELDON LAU HAO YUAN</strong>
+<p><strong>WONG SHIN YEE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Demonstrated commitment to CCA &amp; put in very good effort to come up
-with video for Art Club farewell for Sec 4s</p>
+<p>Took initiative to better promote CCA online</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SHAIRA DANIYA BINTE MOHAMMAD SHAHID</strong>
+<p><strong>WELDON LAU HAO YUAN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Demonstrated commitment to stand by classmate who has family issues. Supported
-classmate &amp; responded to classmates parents. Gave good counsel.</p>
+<p>Edited some videos</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>3ACTUALISE 6</strong>
 </p>
 <table style="minWidth: 50px">
@@ -889,39 +846,31 @@ classmate &amp; responded to classmates parents. Gave good counsel.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MICHAEL ALBERT HANA AKSHITA</strong>
+<p><strong>TAN DING XIANG</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>model the way - volunteered to help put up posters for via</p>
+<p>&nbsp;Lead self and model the way - care for and help his classmates in
+their studies</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MEENAKSHI ALAGAPPAN</strong>
+<p><strong>CALEB JOEL QIJIE LECAINE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>model the way - volunteered to help put up posters for via</p>
+<p>&nbsp;Model the way - help to take care of classroom tidiness by cleaning
+the class even if it is not his class.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SARVENDRAN S/O MATHIVANAN</strong>
+<p><strong>LOH JIE RU</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>model the way - volunteered to help keep class tidy after morning assembly
-and found and return friend's wallet</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>LEW ZHI QI</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>model the way - volunteered to help put up posters for via</p>
+<p>&nbsp;Show responsibility, volunteer to help, esp. for 25th anniversary</p>
 </td>
 </tr>
 </tbody>
@@ -936,32 +885,25 @@ and found and return friend's wallet</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MERLA EASHITA</strong>
+<p><strong>ELIJAH FOCK JUN RUEI</strong>
 </p>
 </td>
-<td rowspan="11" colspan="1">
-<p>These students demonstrated their commitment and give of their best in
-their academic pursuit of various subjects. As a result, they emerged as
-the top scorers in various subjects in their form class of their streams.
-They modelled the way and inspired a shared vision by sharing their success
-strategies with their classmates in the form of a class presentation.</p>
+<td rowspan="8" colspan="1">
+<p>Group leaders of teams for VIA. They helped to organise and manage the
+groups assigned to them and faciitate the running of the Clothes Swap VIA.
+Elijah was active in the preparation. He was involved during the prep-meeting
+and posed many constructive questions regarding the planning of the event.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LINUS GOH REN JIE (WU RENJIE)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>TANG ZHENG RUI, MARCUS</strong>
+<p><strong>SENTHILKUMAR PREETHIKA</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PHYLLIS CHANG ONN CHING</strong>
+<p><strong>LIM YI SHENG JOVAN</strong>
 </p>
 </td>
 </tr>
@@ -973,37 +915,25 @@ strategies with their classmates in the form of a class presentation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>BAALIHA RISHVANA D/O SULTHAN SYED IBRAHIM</strong>
+<p><strong>CLAUDIA ANG</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NUR ELIZA LIM</strong>
+<p><strong>EVIAN YEO</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>TEO YUN JING</strong>
+<p><strong>VARSHAA RAMESH</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AFIQ SYAUQI BIN SUFNAIDI</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>DARRYL ANG YI XUAN</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>TAN YONG SAN, DEON</strong>
+<p><strong>MARCUS TANG</strong>
 </p>
 </td>
 </tr>
@@ -1019,29 +949,54 @@ strategies with their classmates in the form of a class presentation.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SITI ALSYIRAH MUHAMMAD ASYRAF</strong>
+<p><strong><br>MANHA NORAH SHEFFY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siti took the initiative to share in the school assembly on responsible
-use of Artificial Intelligence.</p>
+<p>Norah is nominated due to her outstanding performance as the emcee for
+both our 25th Anniversary celebration and the National Day event. Her remarkable
+ability to engage and inspire the audience, coupled with her seamless coordination
+with various teams, demonstrates her leadership and dedication to school.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>EVA IZZ DA'ANIA BINTE SHAHRUL NIZAM</strong>
+<p><strong>HUANG JINGCHUN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eva, our dedicated Community Service Leader, took the helm in guiding
-our class through the Values in Action Project this term. Together with
-Claudia, our other CSL, they co-facilitated the lessons, ensuring a rich
-and VIA experience for everyone involved.</p>
+<p>Jingchun put in effort and showcased her best performance in the 25th
+anniversary.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LAI JING QI JANA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jana is nominated for her significant contributions to our 25th Anniversary
+celebration and her proactive involvement in the Voices of Youth event.
+Her moving recitation of a poem during the anniversary performance showcased
+her exceptional talent and dedication to our school's values. Additionally,
+her initiative to sign up for training as a facilitator for the Voices
+of Youth event highlights her commitment to leadership</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CHUA ZI NING CHARLENE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Charlene is nominated for her contribution to our school anniversary performance.
+Her dedication and performance were truly commendable. Additionally, her
+willingness to step out of her comfort zone and share her OBS experiences
+demonstrates her commitment to personal growth and leadership.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4><u>SEC 4</u></h4>
 <p><strong>4LEAD1</strong>
 </p>
@@ -1053,45 +1008,12 @@ and VIA experience for everyone involved.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HANNAH TASHA BINTE ABDULLAHSIRAJ</strong>
+<p><strong>MOE THU KHA</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hannah, being the Captain of the Girls' BB Team, led the team in training,
-games and competitions. A capable leader.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>CHLOE HENG CHI XUAN (WANG ZHIXUAN)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>As the V Captain of the Girls' BB Team, Chloe has played the supportive
-role to the captain, taking on many challenges and help lead the team into
-training, games and competitions.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>KEE CHIN RU</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>As the V Captain of the Girls' BB Team, Chin Ru has played the supportive
-role to the captain, taking on many challenges and help lead the team into
-training, games and competitions.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>CLAUDIA HOW XIAN HUI</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Claudia, the President of the Speech and Drama Club, has been instrumental
-in leading the members, looking into their needs and preparing them for
-performances.</p>
+<p>Thu Kha shows RESPECT to his teachers and others through his words and
+actions.</p>
 </td>
 </tr>
 <tr>
@@ -1100,42 +1022,26 @@ performances.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Clea, the V President of the Speech and Drama Club, has been playing the
-supporting role to the President and running several projects, looking
-into the needs of members and preparing them for performances.</p>
+<p>Clea demonstrated COMPASSION by showing care and empathy to Claudia during
+one of the discussions.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NUR NATHIRAH BINTE KAMALDIN</strong>
+<p><strong>SHAWN TAN HONG XUAN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nathirah, the V President of the Speech and Drama Club, has been playing
-the supporting role to the President and running several projects, looking
-into the needs of members and preparing them for performances.</p>
+<p>Shawn demonstrates RESILIENCE by taking steps to improve himself.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>LOGGAH THARRSHAN S/O SUPPIAH</strong>
+<p><strong>NG YUE JIA GERLYN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>As the V Captain of the Boys' BB Team, Loggah has played the supportive
-role to the captain, taking on many challenges and help lead the team into
-training, games and competitions.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>YAP JOE HONG</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>As the V Captain of the Boys' BB Team, Loggah has played the supportive
-role to the captain, taking on many challenges and help lead the team into
-training, games and competitions.</p>
+<p>Gerlyn demonstrates COMMITMENT by giving her best in her work.</p>
 </td>
 </tr>
 </tbody>
@@ -1150,45 +1056,12 @@ training, games and competitions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>TERRY GOH WEI BIN</strong>
+<p><strong>MEREDITH CHIA</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Juston models the way and guides students in demonstrating school desired
-behaviour.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>4SERVE 3</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>CALUNSAG CADENCE MICHIKO LABORTE</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Demonstrate commitment to the whole Serve 3 by spending her time over
-the weekend to make sure the class t-shirt order went through and got them
-ready before the Unity Run. She also willingly help Mdm Fadilah get an
-extra t-shirt for a footballer whose name was missed out.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>JANELLE LEOW</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Willing to come down on a Saturday evening to take video of our dance
-and dikir barat Hari Raya performances for one the Keat Hong RC Hari Raya
-show.</p>
+<p>Meredith models the way and leads by example by lending a helping hand
+whenever she can to support her peers.</p>
 </td>
 </tr>
 </tbody>
@@ -1203,22 +1076,52 @@ show.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>POOBENDRAN TARUNIKA</strong>
+<p><strong>NUR JHIAN DAGATAN ROSLE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Demonstrated commitment to help the class create VIA poster for collection
-drive.</p>
+<p>Demonstrated commitment by giving their best in their work and submit
+what is needed promptly.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YAP XU YI</strong>
+<p><strong><br>MURUGANANDAM THARUN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Demonstrated commitment to help the class create VIA poster for collection
-drive.</p>
+<p>Demonstrated commitment by giving their best in their work and submit
+what is needed promptly.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TRICIA LIAN HUI SI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Demonstrated commitment by giving their best in their work and submit
+what is needed promptly.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MAHNEERUT RACHEL LIM E-KYM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Demonstrated commitment by giving their best in their work and submit
+what is needed promptly.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NOR SYAZWANY ADRIANA BINTE MOHAMED YUSRY IQMAL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Demonstrated commitment by giving their best in their work and submit
+what is needed promptly.</p>
 </td>
 </tr>
 </tbody>
@@ -1233,38 +1136,38 @@ drive.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>JOASH LIM ZHI XUAN</strong>
+<p><strong>WONG SHI QIN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>very helpful and very cooperatiive</p>
+<p>very respectful, very understanding and helpful</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br>GLENDA KOH WEN XUAN</strong>
+<p><strong>TAN WAN YI PHOEBE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>very understanding and very helpful</p>
+<p>very helpful and very polite</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CHEW YU HENG</strong>
+<p><strong>LIM JING XUAN NICOLE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>attended training very regularly and take training seriously</p>
+<p>very punctual, very attentive</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MOHAMED SYAZWAN ANAQY BIN MOHAMED YUSRY IQMAL</strong>
+<p><strong>THEODORE ALPHONSO ANAND</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>attended training very regularly and take training seriously</p>
+<p>very helpful, very cooperative</p>
 </td>
 </tr>
 </tbody>
@@ -1279,43 +1182,40 @@ drive.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SATHISH SANJITH NITHISH</strong>
+<p><strong><br>TAN JIALE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>He help communicate the association about VIA</p>
+<p>He voluntarily helped junior’s sec 1 to guide them with their instruments
+every weeklong after the sec 4 stand down, and tide over the sec 3 all
+at intervention problem</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>KESHAAV SRINIVASAN</strong>
+<p><strong><br>MUHAMMAD AQIL FAIZAN BIN MOHAMED FAZULIE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>He step up to run and win the race at sports fiesta</p>
+<p>He voluntarily helped junior’s sec 1 to guide them with their instruments
+every weeklong after the sec 4 stand down, and tide over the sec 3 all
+at intervention problem</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CHU CHEONG KIAT KELSEN (ZHU ZHANGJIE)</strong>
+<p><strong>ANG YI KAI (HONG YIKAI)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>He step up to run and win the race at sports fiesta</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>GOPI SRIVATHSAN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>He step up to run and win the race at sports fiesta</p>
+<p>He voluntarily helped junior’s sec 1 to guide them with their instruments
+every weeklong after the sec 4 stand down, and tide over the sec 3 all
+at intervention problem</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;<strong>4INSPIRE 7</strong>
+<p>&nbsp;<strong>4INSPIRE 8</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1325,47 +1225,23 @@ drive.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MARIMUTHU KSHIRAJAA SHREE</strong>
+<p><strong><br>CELESTIA MAYE CHOO</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shree has shown dedication in training the juniors during CCA sessions.
-She is compassionate and always takes the initiative to help others.</p>
+<p>Celestia models the way and guides students in demonstrating school desired
+behaviour.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>TOBY TEO CHIA XIANG</strong>
+<p><strong>NEO WEE LENG SARAH (LIANG WEILING)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Toby demonstrates teamwork and commitment to both CCA and studies. He
-regularly stays back with his peers to train/guide them in both table tennis
-and academics. During VIA, he showed initiative and commitment in helping
-the beneficiary.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>WU ZHI XUAN VALENCIA</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Valencia took initiative in assisting during CCA activities and consistently
-showed commitment to her CCA. She never failed to help the juniors whenever
-they were in need.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>DAMIEN TAN CHIN WEI</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Damien showed good leadership and determination in the recent BB Blaze
-competition. Damien led his team to the finish line, inspiring his teammates
-to pull through. when they were all tired. He also led by example and gave
-his 100% till the very end of the race.</p>
+<p>Responsible and self-directed student who models the way in being a positive
+peer influence. She can be relied upon to complete any tasks assigned to
+her and is always willing to lend a helping hand to her teachers and peers.</p>
 </td>
 </tr>
 </tbody>
