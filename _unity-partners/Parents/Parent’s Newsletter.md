@@ -19,3 +19,4 @@ variant: markdown
 |  |  |  |
 | [Unity Sec Term 2 Newsletter ](https://issuu.com/unitysec/docs/2024_uss_term_2_newsletter?fr=xKAE9_zU1NQ) |  |  |
 |  |  |  |
+| [Unity Sec Term 3 Newsletter ](https://issuu.com/unitysec/docs/t3_newsletter_2024?fr=xKAE9_zU1NQ) |  |  |
