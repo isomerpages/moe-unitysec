@@ -505,15 +505,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Asmidah Bte Rahwam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:asmidah_rahwam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">asmidah_rahwam@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Chen Yi</p>
 </td>
 <td rowspan="1" colspan="1">
