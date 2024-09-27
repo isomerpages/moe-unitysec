@@ -11,8 +11,7 @@ variant: markdown
 
 | **Roles** | **Names of Teachers-in-Charge** |
 |:---:|---|
-| Lower Sec Teacher IC | Mdm Sufianna |
-| Upper Sec Teacher IC | Mdm Mangaiyarkarasi Ganesh Kumar (IC) |
+| Teacher IC | Mdm Mangaiyarkarasi Ganesh Kumar (IC) |
 |  |  |
 
 **Weekly Schedule**
