@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Students' Resources
 ---
+<h4>Dear all, please refer to the briefing slides below for the Subject Offering Exercise:</h4>
+<p><strong><a href="/files/10_Oct__Sec_2__Express__Subject_Option_Exercise_2024_Update.pdf" rel="noopener nofollow" target="_blank"><u>[10 Oct] Sec 2 (Express) Subject Option Exercise 2024 Update</u></a></strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_subj_offering_dates.jpg">
