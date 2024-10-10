@@ -19,10 +19,6 @@ sections:
       title: Latest Updates
       id: textcards
       cards:
-        - title: End of Year Exams
-          description: Sec 1-3 EYE Exam Schedules (updated on 5th Sept)
-          linktext: Learn more
-          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
         - title: Subject Offering Exercise
           description: Sec 2 selection of Subject Combinations and Guidelines.
           linktext: Learn more
