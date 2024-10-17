@@ -18,11 +18,11 @@ third_nav_title: Students' Resources
 </div>
 <p></p>
 <h4>Submission Links</h4>
-<p>Express: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vNBxWB</a>
+<p>Express: <a href="https://forms.moe.edu.sg/forms/vj6B7W" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/vj6B7W</a>
 </p>
-<p>NA: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vG2BW7</a>
+<p>NA: <a href="https://forms.moe.edu.sg/forms/v3ONyX" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/v3ONyX</a>
 </p>
-<p>NT: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vw5Ano</a>
+<p>NT: <a href="https://forms.moe.edu.sg/forms/JqpxEZ" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/JqpxEZ</a>
 </p>
 <p></p>
 <h4>Appeal Link</h4>
