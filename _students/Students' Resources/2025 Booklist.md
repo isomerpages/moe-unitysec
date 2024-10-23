@@ -9,7 +9,7 @@ third_nav_title: Students' Resources
 2025 below:</p>
 <p></p>
 <p>Sec 1G1G2G3 Booklist - To be published during Sec 1 Registration</p>
-<p><a href="/files/Unity_2025_booklist_Sec_2_22Oct.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2G1G2G3 Booklist</a> 
+<p><a href="/files/Unity_2025_booklist_Sec_2_22Oct.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2G1G2G3 Booklist</a>
 </p>
 <p><a href="/files/Unity_2025_booklist_3Exp_22Oct.pdf" rel="noopener nofollow" target="_blank">Sec 3E Booklist</a>
 </p>
