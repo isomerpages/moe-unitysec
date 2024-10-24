@@ -24,6 +24,10 @@ sections:
             17th Oct)
           linktext: Learn more
           url: https://unitysec.moe.edu.sg/s2-subject-offering-exercise/
+        - title: Booklist 2025
+          description: Booklist for Sec 2 to 5 available here.
+          linktext: Learn more
+          url: ""
   - infopic:
       subtitle: Unity Secondary
       id: infopic
