@@ -27,7 +27,7 @@ sections:
         - title: Booklist 2025
           description: Booklist for Sec 2 to 5 available here.
           linktext: Learn more
-          url: ""
+          url: https://www.unitysec.moe.edu.sg/students/students-resources/2025-booklist/
   - infopic:
       subtitle: Unity Secondary
       id: infopic
