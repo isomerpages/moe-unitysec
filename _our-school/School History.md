@@ -110,15 +110,35 @@ staff and students to embark on the journey of achieving school excellence.</p>
 </div>
 <p>In 2009, the school celebrated 10 Years of Unity (10th School Anniversary)
 with a fun-fair to raise fund for needy students.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/history 5.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/history 5.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/history 7.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/history 7.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/history 6.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/history 6.jpg">
 </div>
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Unity Secondary School welcomed her third Principal, Mr Chan Ying Yin,
 on 15 December 2009. A holistic student development framework was formulated
 to guide the school in Academic Education and Character and Citizenship
@@ -132,15 +152,35 @@ others.</p>
 <p>In 2010, the school hosted one of the legs of the torch relay of the inaugural&nbsp;<strong>Youth Olympic Games.</strong> This
 has reinforced the school's strong tradition and achievements in sports
 and fitness.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/history 8.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/history 8.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/history 9.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/history 9.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/history 10.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/history 10.jpg">
 </div>
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p>In 2014, the school celebrated 15 Years of Unity (15th School Anniversary)
 by setting two records in the Singapore Book of Records: achieving the
 “<strong>Most Number of People Bouncing Basketball at the Same Time</strong>”
@@ -149,7 +189,7 @@ in the project “Thumbs-up in Unity”. The talent of Unitians and parents
 were showcased in “The Unity Spirit Art Exhibition” and musical “Rhapsody
 in Unity III”.</p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/photo1670241539.jpeg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/photo1670241539.jpeg">
 </div>
 <p>On 15 December 2015, Mdm Aini Maarof took over as the fourth principal
 of the school. Under her leadership Unity Secondary School continues to
