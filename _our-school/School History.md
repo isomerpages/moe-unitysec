@@ -67,16 +67,28 @@ variant: tiptap
 <p>Unity Secondary School was established in January 2000 with 17 staff and
 364 pupils. Mr N Satianathan, who was appointed Principal-designate in
 July 1999, became the school’s first Principal.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/History 1.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/History 1.png">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:47%" height="auto" width="100%" src="/images/History 2.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/History 2.png">
 </div>
-<p>
-<br>
-<br>
-</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>The official opening ceremony of the school was held on 15 November 2001.
 The opening ceremony was officiated by Mr Yeo Cheow Tong, then Minister
 for Communications &amp; Information Technology and MP for Hong Kah GRC.</p>
