@@ -4,7 +4,8 @@ title: Unity Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/unity-secondary-school.jpg
 permalink: /
-notification: ""
+notification: Dear visitors, visit us at our Open House on Friday, 15th
+  November, between 4.30pm to 8.30pm.
 sections:
   - hero:
       title: UNITY SECONDARY SCHOOL
@@ -17,7 +18,7 @@ sections:
       variant: image
   - infopic:
       title: Unity Open House 2024
-      subtitle: 15th Nov, 4.30pm to 8.30pm
+      subtitle: unity secondary
       id: infopic
       image: /images/Open_House__2024_MOTD.png
       alt: Image alt text
