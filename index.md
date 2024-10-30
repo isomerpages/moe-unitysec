@@ -45,4 +45,11 @@ sections:
       url: https://www.unitysec.moe.edu.sg/unity-partners/Parents/newsletter/
       image: /images/Term2_newsletter_v2.jpg
       alt: Image alt text
+  - infopic:
+      title: Unity Open House 2024
+      subtitle: 15th Nov, 4.30pm to 8.30pm
+      id: infopic
+      description: ""
+      image: /images/Open_House__2024_MOTD.png
+      alt: Image alt text
 ---
