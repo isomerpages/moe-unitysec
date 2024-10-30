@@ -4,7 +4,8 @@ title: Unity Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/unity-secondary-school.jpg
 permalink: /
-notification: ""
+notification: Dear visitors, visit us at our Open House on Friday, 15th
+  November, between 4.30pm to 8.30pm.
 sections:
   - hero:
       title: UNITY SECONDARY SCHOOL
@@ -15,6 +16,12 @@ sections:
           url: https://www.unitysec.moe.edu.sg/students/students-resources/classtimetable/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
+  - infopic:
+      title: Unity Open House 2024
+      subtitle: unity secondary
+      id: infopic
+      image: /images/Open_House__2024_MOTD.png
+      alt: Image alt text
   - textcards:
       title: Latest Updates
       id: textcards
@@ -37,12 +44,4 @@ sections:
       alt: Image alt text
       description: Check out the highlights of our Silver Jubilee celebration here.
       title: Celebrating 25 Years of OpportUNITY.
-  - infopic:
-      title: Parent's Newsletter
-      id: infopic
-      description: Term 3 news and updates.
-      button: CLICK here
-      url: https://www.unitysec.moe.edu.sg/unity-partners/Parents/newsletter/
-      image: /images/Term2_newsletter_v2.jpg
-      alt: Image alt text
 ---
