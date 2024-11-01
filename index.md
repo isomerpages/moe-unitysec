@@ -23,6 +23,7 @@ sections:
       image: /images/Open_House__2024_MOTD.png
       alt: Image alt text
       url: https://sites.google.com/moe.edu.sg/unityopenhouse?usp=sharing
+      button: Click to view
   - textcards:
       title: Latest Updates
       id: textcards
