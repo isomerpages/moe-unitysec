@@ -5,6 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Students' Resources
 ---
+<p><strong>Dear Students, please click on the link below to find out your results. You will need to login with your MIMS account to view:</strong>
+</p>
+<p><a href="https://forms.moe.edu.sg/forms/vryrL1" rel="noopener nofollow" target="_blank">Result of S2 subject offering Exercise</a>
+</p>
+<p></p>
+<p></p>
 <h4>Dear all, please refer to the briefing slides below for the Subject Offering Exercise:</h4>
 <p><strong><a href="/files/10_Oct__Sec_2__Express__Subject_Option_Exercise_2024_Update.pdf" rel="noopener nofollow" target="_blank"><u>[10 Oct] Sec 2 (Express) Subject Option Exercise 2024 Update</u></a></strong>
 </p>
