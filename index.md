@@ -29,8 +29,8 @@ sections:
       id: textcards
       cards:
         - title: Subject Offering Exercise
-          description: Sec 2 selection of Subject Combinations and Guidelines. (Updated on
-            17th Oct)
+          description: "Dear Students, you may view your results of S2 Subject Offering
+            Exercise here:"
           linktext: Learn more
           url: https://unitysec.moe.edu.sg/s2-subject-offering-exercise/
         - title: Booklist 2025
