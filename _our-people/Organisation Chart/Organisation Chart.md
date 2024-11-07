@@ -139,6 +139,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Neo Ruey Ning Fiona</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD/Student Management and Guidance</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,14 +207,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tie Hieng Han</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Neo Ruey Ning Fiona</p>
 </td>
 </tr>
 <tr>
