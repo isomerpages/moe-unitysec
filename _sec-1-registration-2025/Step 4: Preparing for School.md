@@ -17,9 +17,9 @@ books and uniform yet. Please proceed to&nbsp;<strong><a href="/sec-1-registrati
 </p>
 <h4>Book Purchase</h4>
 <p>We strongly encourage all students to purchase their books online.&nbsp;</p>
-<p>You may download the booklist&nbsp;<strong><a href="/files/Sec%201%20Booklist%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+<p>You may download the booklist&nbsp;<a href="https://www.unitysec.moe.edu.sg/students/students-resources/2025-booklist/" rel="noopener nofollow" target="_blank">here</a><strong>.</strong>
 </p>
-<p>Please click&nbsp;<strong><a href="https://languagetrading.com.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
+<p>Please click&nbsp;<a href="https://languagetrading.com.sg/" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
 process your online purchase.</p>
 <h4>Uniform Purchase</h4>
 <p>We strongly encourage all students to purchase their school uniform online.&nbsp;</p>
