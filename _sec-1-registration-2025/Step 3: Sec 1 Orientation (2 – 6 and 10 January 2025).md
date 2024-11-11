@@ -8,37 +8,18 @@ variant: tiptap
 <p>
 <br>
 </p>
-<p><strong>Contents</strong>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Orientation Programme</p>
-</li>
-<li>
-<p>First day of School (4 January 2022, Tue)</p>
-</li>
-<li>
-<p>CCA Experience</p>
-</li>
-<li>
-<p>CCA Policy - LEAPS 2.0</p>
-</li>
-</ul>
 <h4>Orientation Programme</h4>
 <p>To help our students better adjust to secondary school life, we have specially
-designed a week of orientation programme for all our Sec 1 students. Academic
-lessons will start in Week 2 ( 10 Jan 2022).</p>
-<p>For Week 1 &amp; 2, our Sec 1 students will be organised by their orientation
-group (OG) and there will 2 Character Coaches assigned to look after the
-student well-being for each OG.</p>
-<p>Once students have submitted their option for CCA at the end of week 1,
-students will be assigned to their respective CCA form class at the end
-of week 2.</p>
+designed a week of orientation programme for all our Sec 1 student. Academic
+lessons will start in week 1 (7 Jan 2025).</p>
+<p>For Week 0, 1 &amp; 2, our sec 1 students will be <strong>organised by orientation group</strong> and
+there will be 2 teachers assigned to look after the student well-being
+for each class until the students are assigned their CCA form class by
+end of Week 1.</p>
 <p>Please refer to the following schedule for the Orientation activities,
 timing, attire and things to bring.</p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/orientation 2022 22dec.png">
+<img style="margin-left:0px;margin-top:0px;" height="515" width="505" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe1jlJeCGE1eb8bsP6CNhI2yH63uKePsxMsCsc0-C9KPRTgOzMt3jD1b2ZrUNNnVK1pElWzCPdQ4MEFCAZ6ubTKAuZK-B__hsWyXZCShXrtsckF2N7Gc7fkIqld_XYfUMFxAyiqw8NV_J93ExcE-_A1RKD-j8g920jGzyOsYUUB6T3aH3iiEg?key=Y5YFPZuHkCmhQynFke1MqA">
 </div>
 <p>
 <br>You may also download the Sec 1 orientation programme <strong><a href="/files/Sec%201%20orientation%202022%20updated%2022dec.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
