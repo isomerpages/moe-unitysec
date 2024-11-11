@@ -63,6 +63,10 @@ they meet subject-specific criteria.&nbsp;</p>
 <br>Students will attend lessons based on their subject classes. The subject
 classes will be organised based on their respective course levels i.e N(T),
 N(A) or Express. [*Unity Secondary School will implement FSBB in 2024]</p>
+<h4>Location of USS</h4>
+<div class="iframe-wrapper">
+<iframe height="352" width="628" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=ZgQ-XXKjPVY&amp;t=1s"></iframe>
+</div>
 <h4>USS 360 video (virtual tour)</h4>
 <div class="iframe-wrapper">
 <iframe height="352" width="628" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ydn2fKqMeao"></iframe>
