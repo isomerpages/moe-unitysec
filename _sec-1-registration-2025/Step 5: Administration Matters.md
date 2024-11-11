@@ -90,4 +90,5 @@ need to purchase the BCP for Secondary School students.
 <br>
 </p>
 <p></p>
+<h4><strong><u>Go to Step 6: Subject at a More Demanding Level/ Higher Mother Tongue language (HMTL)/ 3<sup>rd</sup> Language (Only for students who are eligible)</u></strong></h4>
 <p></p>
