@@ -65,18 +65,21 @@ classes will be organised based on their respective course levels i.e N(T),
 N(A) or Express. [*Unity Secondary School will implement FSBB in 2024]</p>
 <h4>Location of USS</h4>
 <div class="iframe-wrapper">
-<iframe height="352" width="628" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=ZgQ-XXKjPVY&amp;t=1s"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZgQ-XXKjPVY?si=R8VlrrnkmY8J8ACa"></iframe>
 </div>
 <h4>USS 360 video (virtual tour)</h4>
 <div class="iframe-wrapper">
-<iframe height="352" width="628" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ydn2fKqMeao"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ydn2fKqMeao?si=noQ_BKa-EIUNV6ge"></iframe>
 </div>
 <h4>Unity Experience</h4>
 <div class="iframe-wrapper">
-<iframe height="354" width="630" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lEoHvBndV24"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lEoHvBndV24?si=hj_9U8GlRs2VGLEi"></iframe>
 </div>
+<p>
+<br>
+</p>
 <div class="iframe-wrapper">
-<iframe height="354" width="630" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=9JnJWjtZ8J0&amp;t=2s"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9JnJWjtZ8J0?si=puEYl4AUf9bNMExJ"></iframe>
 </div>
 <p>
 <br>
