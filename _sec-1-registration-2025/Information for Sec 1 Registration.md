@@ -4,7 +4,7 @@ permalink: /sec-1-registration-2022/information/
 description: ""
 variant: tiptap
 ---
-<h2>Information for Sec 1 Registration</h2>
+<h3>Information for Sec 1 Registration</h3>
 <h4>WELCOME TO UNITY SECONDARY SCHOOL!</h4>
 <p>We would like to extend a warm welcome to you and your child to Unity
 Secondary School and also to congratulate your child for his/her achievement
