@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Step 7: Home School Partnership</h3>
 <h4>Sec 1 Parents' Briefing [10 January 2025]</h4>
-<p>We will be organising a briefing for all Sec One parents on <strong>10 January 2025, 1800h</strong>.
+<p>We will be organising a briefing for all Sec One parents on <strong><u>10 January 2025, 1800hr</u></strong>.
 Please refer to the notification on Parents Gateway for more information.</p>
 <h4>Parents Support Group (PSG)</h4>
 <p>The PSG consists of a group of dedicated parents who partner the school
