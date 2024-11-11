@@ -24,12 +24,12 @@ move from primary to secondary school, you might wonder what secondary
 school life will be like, and how they will adjust to the different environment
 and routines.&nbsp;</p>
 <p>Your child might also feel anxious as they embark on their secondary school
-journey. Their anxiety can be turned into excitement if they better prepared
-for the change and can adapt well to secondary school life – and parents
-play an important role in helping your child make the transition!&nbsp;</p>
-<p>This&nbsp;<a href="/files/Resource%20Kit%20-%20Parent%20Kit%20-%20Primary%20to%20Secondary%20Transition.pdf" rel="noopener noreferrer nofollow" target="_blank">issue of Parent Kit</a>&nbsp;provides
-tips on how you can help your child transit smoothly from Primary School
-to Secondary 1
+journey. Their anxiety can be turned into excitement if they are better
+prepared for the change and can adapt well to secondary school life – and
+parents play an important role in helping your child make the transition!&nbsp;</p>
+<p>This issue of the <strong><em>Parent Kit </em></strong>provides tips on
+how you can help your child transit smoothly from Primary School to Secondary
+1.
 <br>
 <br>
 <br>
