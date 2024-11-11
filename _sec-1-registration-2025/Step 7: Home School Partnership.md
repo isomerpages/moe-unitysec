@@ -14,8 +14,10 @@ to support fellow parents in nurturing their children. It is the platform
 for parents to network, share, learn and support each other in this parenting
 journey.</p>
 <h4>Join PSG</h4>
-<p>If you are interested to join the PSG, click&nbsp;<strong><em><a href="https://docs.google.com/forms/d/1B-zvbhxLw5mMmNXk_xoxkJj-BlM5qETQcKoEbLOj6w0/edit" rel="noopener noreferrer nofollow" target="_blank">here</a></em></strong>.</p>
-<p>For more information on Unity PSG, click&nbsp;<strong><a href="/files/PSG%20Welcome%20Letter%202022v2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+<p>Please click <a href="https://docs.google.com/forms/d/1B-zvbhxLw5mMmNXk_xoxkJj-BlM5qETQcKoEbLOj6w0/edit" rel="noopener nofollow" target="_blank">here</a> if
+you are interested to join the Unity PSG.</p>
+<p>Please click <a href="https://www.unitysec.moe.edu.sg/unity-partners/psg/" rel="noopener nofollow" target="_blank">here</a> for
+more information on Unity PSG.</p>
 <h4>Transition to Secondary School</h4>
 <p>Your child has arrived at yet another milestone in their life! As they
 move from primary to secondary school, you might wonder what secondary
