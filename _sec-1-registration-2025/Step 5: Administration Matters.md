@@ -65,30 +65,24 @@ look for our School Counsellors.</p>
 <p>Please click&nbsp;<a href="https://www.unitysec.moe.edu.sg/students/Students-Resources/counselling/" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
 more information on our school counselling service.</p>
 <h4>Special Educational Needs</h4>
-<p>Our Allied Educator (Learning and Behavioural Support)/ AED (LBS) will
-be in school on 23 December 2021. For parents who require any advice or
-additional support for your child with special educational needs, you may
-proceed to the general office in school to look for our AED (LBS).</p>
+<p>Our SEN Officer will be in school on 19 December 2024. For parents who
+require any advice or additional support for your child with Special Educational
+Needs, you may proceed to the general office in school to look for our
+SEN Officer.</p>
 <h4>Appeal for Transfer (For serious medical conditions)</h4>
 <p>Students who would like to request for a school transfer due to medical
 reasons will need to submit their appeal through the posted secondary school
-in person latest by&nbsp;<strong>23 December 2021, 12pm</strong>. For more
-information,&nbsp;please refer to the following&nbsp;<strong><em><a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener noreferrer nofollow" target="_blank">MOE website</a></em></strong>.</p>
+in person latest by <strong>19 December 2024, 12pm</strong>.</p>
 <h4>Appeal for Transfer (Non-Medical Cases)</h4>
-<p>For student who would like to transfer to Unity Secondary School, please
-click&nbsp;<strong><em><a href="https://form.gov.sg/#!/61bf2c4c2ec457001253e117" rel="noopener noreferrer nofollow" target="_blank">here</a></em> FORM NOT AVAILABLE</strong>.</p>
-<p>The deadline for the submission of appeal (non-medical cases) is on&nbsp;<strong>28 December 2021, 12pm.</strong>&nbsp;Late
-submission will not be allowed.</p>
-<h4>Online Consent for HPB School Health and Dental Services</h4>
-<p>The Health Promotion Board (HPB)’s School Health and Dental Services will
-be conducting its annual health screening, immunisation and dental services
-for your child. These services ensure the protection of your child’s health
-and early detection of health issues. Please click&nbsp;<strong><em><a href="/files/HPB%20letter.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></em></strong>&nbsp;to
-download the parents’ letter regarding online consent from HPB.</p>
+<p>For students who would like to transfer to Unity Secondary School, please
+click <a href="https://form.gov.sg/654fa75f4833110012c9a42b" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>The deadline for the submission of appeal (non-medical cases) is on&nbsp;<strong>28 December 2023, 12pm.</strong> Late
+submissions will not be entertained.</p>
+<h4></h4>
 <h4>Secondary One Students using Primary School Smart Card SSC</h4>
 <p>While Secondary One Students are waiting for their Secondary level SSCs
 to be ready,&nbsp;they can continue to use their Primary level SSCs for
-concessionary travel till end Apr 2022. Students can still purchase the
+concessionary travel till end Apr 2023. Students can still purchase the
 Bus Concession Pass (BCP) using their Primary level SSCs, but they would
 need to purchase the BCP for Secondary School students.
 <br>
