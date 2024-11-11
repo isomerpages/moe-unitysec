@@ -2,22 +2,24 @@
 title: "Step 2: Online Registration"
 permalink: /sec-1-registration-2022/step2/
 description: ""
+variant: tiptap
 ---
-## Step 2: Online Registration
-
-Please ensure that you can access Parents Gateway to complete the Sec 1 online registration. 
-
- 1 \.    Login to Parents Gateway. If you have not downloaded Parents Gateway, please click **[here](/unity-partners/Parents/gateway/)** and follow the instructions provided.
-
- 2 \.    You should receive notifications on the Parents Gateway app to complete the online registration by **23 December 2021**. Please **complete the _FormSG_**  found in the notification.
-
-_If you are not eligible to apply for Singpass, do not worry. Our school administrative staff will get in touch with you soon to facilitate your registration._
-<br><br><br>
-
-<p><a href="/sec-1-registration-2022/step1/">
-<img style="width:40%" align=left src="/images/photo1670135465.jpeg">
-</a></p>
-
-<p><a href="/sec-1-registration-2022/step3/">
-<img style="width:40%" align=right src="/images/photo1670135468.jpeg">
-</a></p>
+<h2>Step 2: Online Registration</h2>
+<p>Please ensure that you can access Parents Gateway to complete the Sec
+1 online registration.&nbsp;</p>
+<p>1 .&nbsp;&nbsp;&nbsp;&nbsp;Login to Parents Gateway. If you have not downloaded
+Parents Gateway, please click&nbsp;<strong><a href="https://www.unitysec.moe.edu.sg/unity-partners/Parents/gateway/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;and
+follow the instructions provided.</p>
+<p>2 .&nbsp;&nbsp;&nbsp;&nbsp;You should receive notifications on the Parents
+Gateway app to complete the online registration by&nbsp;<strong>21 December 2024</strong>.
+Please&nbsp;<strong>complete the&nbsp;<em>FormSG</em></strong>&nbsp;&nbsp;found
+in the notification.</p>
+<p><em>If you are not eligible to apply for Singpass, do not worry. Our school administrative staff will get in touch with you soon to facilitate your registration.</em>
+</p>
+<p><a href="https://form.gov.sg/654fa449622a5d0011c6fb0b" rel="noopener noreferrer nofollow" target="_blank"><u>https://form.gov.sg/654fa449622a5d0011c6fb0b</u></a>
+<br>
+<br>
+<br>
+</p>
+<p></p>
+<p></p>
