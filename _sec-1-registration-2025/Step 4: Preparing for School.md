@@ -4,7 +4,7 @@ permalink: /sec-1-registration-2022/step4/
 description: ""
 variant: tiptap
 ---
-<h2>Step 4: Preparing for School</h2>
+<h3>Step 4: Preparing for School</h3>
 <h4>School Expectations</h4>
 <p>School expectations are set and clearly articulated to inculcate in our
 students the Unity school values.&nbsp;
