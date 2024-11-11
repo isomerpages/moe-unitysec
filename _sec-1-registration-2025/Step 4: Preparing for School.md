@@ -13,7 +13,7 @@ more information.</p>
 <h4>FAS&nbsp;</h4>
 <p>For students who are already on Financial Assistance Scheme (FAS) or intent
 to apply for FAS, please&nbsp;<strong>do not</strong>&nbsp;purchase your
-books and uniform yet. Please proceed to&nbsp;<strong><a href="/sec-1-registration-2022/step5/" rel="noopener noreferrer nofollow" target="_blank">Step 5: Administrative Matters - MOE Financial Assistance Scheme (FAS) Application.</a></strong>
+books and uniform yet. Please proceed to&nbsp;<strong><a href="/sec-1-registration-2022/step5/" rel="noopener noreferrer nofollow" target="_blank">Step 5: Administrative Matters</a></strong>
 </p>
 <h4>Book Purchase</h4>
 <p>We strongly encourage all students to purchase their books online.&nbsp;</p>
@@ -55,8 +55,8 @@ do expect a <strong>longer waiting time.</strong>
 2025.</p>
 <p>For more information, please visit <a href="https://www.unitysec.moe.edu.sg/ndlp-at-unity/ndlp/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.unitysec.moe.edu.sg/ndlp-at-unity/ndlp</u></a>
 </p>
-<p>
-<br>
-</p>
+<p></p>
+<p></p>
+<h4><strong><u>Go to Step 5: Administrative Matters</u></strong><br></h4>
 <p></p>
 <p></p>
