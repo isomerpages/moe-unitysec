@@ -82,6 +82,6 @@ N(A) or Express. [*Unity Secondary School will implement FSBB in 2024]</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9JnJWjtZ8J0?si=puEYl4AUf9bNMExJ"></iframe>
 </div>
 <p></p>
-<h4><strong><u>&nbsp;Go to Step 2: Online Registration</u></strong><br><br><br></h4>
+<h4><strong><u>Go to Step 2: Online Registration</u></strong><br><br><br></h4>
 <p></p>
 <p></p>
