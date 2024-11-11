@@ -53,16 +53,16 @@ as you will not be reimbursed for any amount spent.</p>
 <p>Counselling provides our students an opportunity to talk about things
 that are of concern to them with a qualified and experienced school counsellor.
 Our school counsellors are trained to listen without judging and help students
-with the thoughts or feelings that are affecting them.</p>
-<p>Our school based counselling service provides support for the students
+with the thoughts or feelings that are affecting them.&nbsp;</p>
+<p>Our school-based counselling service provides support for the students
 in a place that is familiar, safe and secure. Talking to a school counsellor
 can allow the students to explore and understand their problems, and to
 find the courage and strength to face and change the circumstance that
-they feel so overwhelmed by.</p>
+they feel so overwhelmed by.&nbsp;</p>
 <p>For parents who require any advice or additional support for your child,
-you may proceed to the general office in school to look for our School
-Counsellor.</p>
-<p>Please click&nbsp;<strong><a href="/files/Sec%201%20orientation%202022%20updated%2022dec%20(1).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
+you may proceed to the general office in school on 19 December 2024 to
+look for our School Counsellors.</p>
+<p>Please click&nbsp;<a href="https://www.unitysec.moe.edu.sg/students/Students-Resources/counselling/" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
 more information on our school counselling service.</p>
 <h4>Special Educational Needs</h4>
 <p>Our Allied Educator (Learning and Behavioural Support)/ AED (LBS) will
