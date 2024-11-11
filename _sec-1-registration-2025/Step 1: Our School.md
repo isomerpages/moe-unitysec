@@ -7,7 +7,7 @@ variant: tiptap
 <h2>Step 1: Our School&nbsp;</h2>
 <p><strong>Principal’s Welcome Address</strong>
 </p>
-<p><strong>Unity’s Key Programmes and Strengths</strong>
+<p><a href="https://sites.google.com/moe.edu.sg/unityopenhouse?usp=sharing" rel="noopener nofollow" target="_blank">Unity’s Key Programmes and Strengths</a>
 </p>
 <h4>Full Subject-Based Banding (Full SBB)</h4>
 <p><strong><u>Purpose of Full SBB</u></strong>
