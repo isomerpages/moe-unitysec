@@ -23,23 +23,28 @@ timing, attire and things to bring.</p>
 </div>
 <p>
 <br>You may also download the Sec 1 orientation programme <strong><a href="/files/Sec%201%20orientation%202022%20updated%2022dec.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
-<h4>First day of School (4 January 2022, Tue)</h4>
-<p>All Sec 1 students are to report to the Schools Hall&nbsp;<strong>by 0720</strong>&nbsp;on&nbsp;<strong>4 January 2022</strong>.
-Our Unity Councillor will be there to direct the students to their respective
-classes.</p>
+<h4>First day of School (2 January 2025, Thursday)</h4>
+<p>All Sec 1 students are to report to the <strong><u>Sheltered Basketball Court by 0720</u></strong><u> on </u><strong><u>2 January 2025</u></strong>.
+Our Unity Councillors will be at the school’s foyer to direct the Sec 1
+students to the reporting venue.</p>
 <p>Students are allowed to report in their primary school uniform if the
 new uniform is not ready.</p>
-<p>If students are unable to report to school on the first day of school
-on 4 January 2022 due to valid reasons, please contact our General Office
-(No: 6767 1070) directly.</p>
+<p>If students are unable to report to school on 2 January 2025 due to valid
+reasons, please contact our <strong>General Office</strong> (No: <strong>6767 1070</strong>)
+directly.</p>
+<p></p>
 <h4>CCA Experience</h4>
-<p>Our school offers a broad-based and ability driven CCA programme that
-will help to develop and maximise the potential and talents of our youth
-beyond the academic aspect.</p>
-<p>There will be a CCA briefing on 4 January 2022.&nbsp; All Sec 1 students
-will have an opportunity to learn and experience the various CCAs that
-are offered in Unity Secondary School in week 1. (Refer to orientation
-programme above)&nbsp;</p>
+<p>Our school offers a broad-based and ability-driven CCA programme that
+will help to develop and maximise the potential and talents of our students
+beyond the academic aspect.&nbsp;</p>
+<p>There will be a CCA briefing on 2 January 2025. All Sec One students will
+have an opportunity to find out more and experience the various CCAs that
+are offered in Unity Secondary School. Selected CCAs will be conducting
+trials on the afternoon of 3 - 4 January. On 5 January, students can have
+the opportunity to experience all CCA during the CCA open house. They will
+need to submit their CCA options by the end of the Orientation Week. <em>(Refer to orientation programme above)</em>
+</p>
+<p></p>
 <p>Please click&nbsp;<strong><a href="/students/CCA/cca/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
 learn more about our CCAs in Unity Secondary School.</p>
 <p><strong><u>Sports</u></strong>
