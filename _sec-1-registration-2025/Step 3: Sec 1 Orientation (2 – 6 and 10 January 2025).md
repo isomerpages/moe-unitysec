@@ -73,13 +73,6 @@ learn more about our CCAs in Unity Secondary School.</p>
 <br>
 </p>
 <h4>CCA Policy – LEAPS 2.0</h4>
-<p>LEAPS 2.0 is a framework to recognise secondary school students’ holistic
-development.
-<br>Please click&nbsp;<strong><a href="/students/CCA/leaps/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
-learn more about LEAPS 2.0.
-<br>
-<br>
-<br>
-</p>
+<h4>LEAPS 2.0 is a framework to recognise secondary school students’ holistic development. <br>Please click&nbsp;<strong><a href="/students/CCA/leaps/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to learn more about LEAPS 2.0. <br><br><br><strong><u>Go to Step 4: Preparing for School</u></strong></h4>
 <p></p>
 <p></p>
