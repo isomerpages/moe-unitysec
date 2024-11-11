@@ -4,7 +4,7 @@ permalink: /sec-1-registration-2022/step1/
 description: ""
 variant: tiptap
 ---
-<h2>Step 1: Our School&nbsp;</h2>
+<h3>Step 1: Our School&nbsp;</h3>
 <p><strong>Principal’s Welcome Address</strong>
 </p>
 <p><a href="https://sites.google.com/moe.edu.sg/unityopenhouse?usp=sharing" rel="noopener nofollow" target="_blank">Unity’s Key Programmes and Strengths</a>
