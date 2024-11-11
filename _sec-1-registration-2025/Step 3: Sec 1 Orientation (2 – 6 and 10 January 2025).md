@@ -67,6 +67,11 @@ learn more about our CCAs in Unity Secondary School.</p>
 <div class="iframe-wrapper">
 <iframe height="340" width="605" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4nRLjMUiCL0"></iframe>
 </div>
+<p><em>*Indian Orchestra is no longer offered to Secondary 1 students from 2024 onwards</em>
+</p>
+<p>
+<br>
+</p>
 <h4>CCA Policy – LEAPS 2.0</h4>
 <p>LEAPS 2.0 is a framework to recognise secondary school students’ holistic
 development.
