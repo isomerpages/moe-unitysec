@@ -4,7 +4,7 @@ permalink: /sec-1-registration-2022/step2/
 description: ""
 variant: tiptap
 ---
-<h2>Step 2: Online Registration</h2>
+<h3>Step 2: Online Registration</h3>
 <p>Please ensure that you can access Parents Gateway to complete the Sec
 1 online registration.&nbsp;</p>
 <p>1 .&nbsp;&nbsp;&nbsp;&nbsp;Login to Parents Gateway. If you have not downloaded
