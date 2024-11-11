@@ -50,5 +50,5 @@ the notification in the Parents Gateway.
 <br>
 <br>
 </p>
-<p></p>
+<h4><strong><u>Go to Step 7: Home School Partnership</u></strong></h4>
 <p></p>
