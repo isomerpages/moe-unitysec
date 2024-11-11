@@ -28,15 +28,32 @@ process your online purchase.</p>
 <p>If you still need to come down physically to complete your purchases,
 do expect a <strong>longer waiting time.</strong>
 </p>
-<h4>Personalized Learning Device</h4>
-<p>Personal Learning Devices (PLDs)&nbsp; transforms the learning environment
-as it allows teachers and students to harness technology for greater effectiveness
-in teaching and learning. The use of the personal learning devices for
-teaching and learning will support the development of digital literacies
-in our students as well as develop them as self-directed and collaborative
-learners.</p>
-<p>For more information on the use of PLD in Unity, please click&nbsp;<strong><a href="/ndlp-at-unity/ndlp/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.&nbsp;</p>
-<p><strong>By end January 2022, parents/guardians would have received a letter from the school via Parents’ Gateway or hardcopy with details about the PLD.&nbsp; More information of the device as well as the timeline for receiving the device will be shared through the Parents Engagement Sessions, PG announcements and via the school website updates.</strong>
+<h4>Personalized Learning Device (PLD)</h4>
+<p>Students will be using the chromebook as their PLD.&nbsp;</p>
+<p>The device bundle will include the following:</p>
+<ul>
+<li>
+<p>Acer Chromebook R857TN*</p>
+</li>
+<li>
+<p>Cable Lock</p>
+</li>
+<li>
+<p>USB Type C Earpiece</p>
+</li>
+<li>
+<p>Insurance and Warranty</p>
+</li>
+<li>
+<p>3-year warranty and 3-year insurance</p>
+</li>
+<li>
+<p>2 repairs or 1 replacement claim</p>
+</li>
+</ul>
+<p>The PDLP Procurement Letter will be sent via Parents Gateway on 2 January
+2025.</p>
+<p>For more information, please visit <a href="https://www.unitysec.moe.edu.sg/ndlp-at-unity/ndlp/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.unitysec.moe.edu.sg/ndlp-at-unity/ndlp</u></a>
 </p>
 <h4>Safe Management Measures</h4>
 <p>Due to COVID-19 situation, we strongly encourage all students to complete
