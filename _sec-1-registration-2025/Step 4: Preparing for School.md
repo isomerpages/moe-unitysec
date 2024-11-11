@@ -23,8 +23,11 @@ books and uniform yet. Please proceed to&nbsp;<strong><a href="/sec-1-registrati
 process your online purchase.</p>
 <h4>Uniform Purchase</h4>
 <p>We strongly encourage all students to purchase their school uniform online.&nbsp;</p>
-<p>Please click&nbsp;<strong><a href="http://hongkongtatkee.com/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
+<p>Please click&nbsp;<a href="http://hongkongtatkee.com/" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
 process your online purchase.</p>
+<p>If you still need to come down physically to complete your purchases,
+do expect a <strong>longer waiting time.</strong>
+</p>
 <h4>Personalized Learning Device</h4>
 <p>Personal Learning Devices (PLDs)&nbsp; transforms the learning environment
 as it allows teachers and students to harness technology for greater effectiveness
