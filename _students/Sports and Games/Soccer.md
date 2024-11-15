@@ -5,9 +5,10 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<h2>Soccer</h2>
+<h2>Football</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/soccer_grp.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/football_001.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -30,7 +31,7 @@ variant: tiptap
 <p>Lower Sec Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rashidah Binte Mohamad Yaakob</p>
+<p>Mdm Fadilah Bte Mohamed</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +39,7 @@ variant: tiptap
 <p>Lower Sec Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teng Han Yong (IC)</p>
+<p>Mr Mohammed Fairuz Bin Mohd Farok</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +47,7 @@ variant: tiptap
 <p>Upper Sec Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Siva Balan s/o Ayavoo</p>
+<p>Mr Teng Han Yong (OIC)</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +55,15 @@ variant: tiptap
 <p>Upper Sec Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fadilah Bte Mohamed</p>
+<p>Mr Siva Balan s/o Ayavoo (2IC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Coach</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Shahril Ishak</p>
 </td>
 </tr>
 </tbody>
@@ -82,7 +91,15 @@ variant: tiptap
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.45pm to 5.45pm</p>
+<p>3pm to 5pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3pm to 5pm</p>
 </td>
 </tr>
 <tr>
@@ -91,14 +108,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>8am to 10am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -110,19 +119,102 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>CCA Description</strong>
-</p>
+<h4><strong>CCA Description</strong></h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Unity Football CCA was established in 2020. There is an emphasis on discipline,
-commitment and sportsmanship, as these are the most important characteristics
-of an excellent sports team.
-<br>
-<br>Team members are empowered with ownership of various roles and responsibilities.
-They are also given opportunities to lead themselves and others on and
-off the field.</p>
+<p>Founded in 2020, Unity Secondary School’s Football Co-Curricular Activity
+(CCA) program is dedicated to nurturing both athletic talent and strong
+character. In just a few years, our program has rapidly grown into a close-knit
+community where students can discover their passion for football, develop
+essential life skills, and grow into resilient, responsible individuals
+who embody Unity’s core values both on and off the field.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Our Mission: More Than Just Football</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>At Unity Secondary, we see football as a powerful platform for holistic
+growth. Our program instills values like resilience, teamwork, and respect,
+preparing students to succeed not only in sports but in every aspect of
+their lives. Every training session and match provides opportunities for
+our players to practice discipline, perseverance, and sportsmanship, creating
+a foundation for success beyond the pitch.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Our Achievements</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Since our establishment, our players have demonstrated remarkable dedication
+and progress, achieving several notable milestones in a short time:</p>
+<p><strong>2022: </strong>Quarter-Finals, West Zone, C Division</p>
+<p><strong>2023:</strong> 2nd Place, League 5, B Division</p>
+<p><strong>2024:</strong> 3rd Place, League 4, C Division</p>
+<p>These accomplishments reflect the commitment and passion of our players,
+coaches, and school community. With each season, we strive to reach new
+heights while maintaining our commitment to the holistic development of
+every student.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Why Choose Football at Unity?</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Character and Values-Based Development</strong>
+</p>
+<p>Unity’s Football CCA emphasizes the core values of resilience, respect,
+and responsibility. Every aspect of our program reinforces these values,
+guiding players to grow as individuals who are prepared to overcome challenges
+both on the field and in life.</p>
+<p><strong>Physical and Mental Resilience</strong>
+</p>
+<p>Football builds physical fitness, coordination, and mental toughness.
+Our training program challenges students in a supportive environment, helping
+them to become more agile, focused, and resilient in every situation.</p>
+<p><strong>Top-Quality Coaching and Mentorship</strong>
+</p>
+<p>Led by passionate coaches and educators, our program provides top-quality
+instruction that focuses on skill development, strategic thinking, and
+sportsmanship. Our coaches act as mentors, encouraging players to strive
+for their best while creating a supportive team culture.</p>
+<p><strong>Balanced Academic and Athletic Growth</strong>
+</p>
+<p>Academic success is a top priority. We structure our training schedules
+to ensure students excel both on the field and in their studies, working
+closely with families and teachers to support each player’s academic goals.</p>
+<p><strong>Pathways for Future Growth</strong>
+</p>
+<p>For students who aspire to compete at higher levels, we offer guidance
+on pathways into regional and national football circuits, providing support
+for those interested in exploring long-term opportunities in sports.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Join Us in Shaping Future Champions</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unity Secondary’s Football CCA is more than just a sports program—it’s
+a vibrant community of students, parents, and teachers committed to growth,
+teamwork, and sportsmanship. We invite students who are ready to challenge
+themselves, create lifelong memories, and contribute to Unity Secondary’s
+proud football legacy.</p>
+<p>Together, let’s inspire the champions of tomorrow, both on the field and
+beyond.</p>
 </td>
 </tr>
 <tr>
