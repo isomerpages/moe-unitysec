@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec Teacher IC</p>
+<p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Fadilah Bte Mohamed</p>
@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec Teacher IC</p>
+<p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammed Fairuz Bin Mohd Farok</p>
@@ -44,7 +44,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Sec Teacher IC</p>
+<p>Sec 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teng Han Yong (OIC)</p>
@@ -52,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Sec Teacher IC</p>
+<p>Sec 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Siva Balan s/o Ayavoo (2IC)</p>
