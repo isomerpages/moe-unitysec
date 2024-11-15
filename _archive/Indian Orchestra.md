@@ -1,13 +1,12 @@
 ---
-title: Soccer
-permalink: /sports-and-games/soccer/
+title: Indian Orchestra
+permalink: /students/Performing-Arts/io/
 description: ""
-third_nav_title: Sports and Games
 variant: tiptap
 ---
-<h2>Soccer</h2>
+<h2>Indian&nbsp;Orchestra</h2>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/soccer_grp.jpg">
+<img style="width:85%" height="auto" width="100%" src="/images/indian_orchestra.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -27,34 +26,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec Teacher IC</p>
+<p>Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rashidah Binte Mohamad Yaakob</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lower Sec Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Teng Han Yong (IC)</p>
+<p>Mdm Mangaiyarkarasi Ganesh Kumar (IC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Sec Teacher IC</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Siva Balan s/o Ayavoo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Upper Sec Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Fadilah Bte Mohamed</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -82,7 +65,15 @@ variant: tiptap
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.45pm to 5.45pm</p>
+<p>2:45pm - 4:45pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:45pm - 4:45pm</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +81,7 @@ variant: tiptap
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8am to 10am</p>
+<p>8am - 10:30am</p>
 </td>
 </tr>
 <tr>
@@ -116,13 +107,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Unity Football CCA was established in 2020. There is an emphasis on discipline,
-commitment and sportsmanship, as these are the most important characteristics
-of an excellent sports team.
-<br>
-<br>Team members are empowered with ownership of various roles and responsibilities.
-They are also given opportunities to lead themselves and others on and
-off the field.</p>
+<p>Indian Orchestra CCA's core mission is to cultivate love for orchestra
+music among its members, so that they will enjoy playing the instruments.
+Since we are the only secondary school which has Indian Orchestra CCA in
+Singapore, we want to develop among our CCA members an enjoyment and appreciation
+of Indian classical instruments, an awareness of Indian culture and a sense
+of belonging to the CCA.</p>
 </td>
 </tr>
 <tr>
