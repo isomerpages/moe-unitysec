@@ -47,7 +47,11 @@ on the challenges in their future.</p>
 <p></p>
 <h4>CCA Teachers</h4>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -57,10 +61,7 @@ on the challenges in their future.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sherry Goh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">goh_meow_peng_sherry@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -70,11 +71,7 @@ on the challenges in their future.</p>
 <p>Sec 2 Character Coach</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hong Wan Mei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hong_wan_mei@moe.edu.sg</a>
-</p>
+<p>Mr Liew Kok Keong</p>
 </td>
 </tr>
 <tr>
@@ -84,11 +81,7 @@ on the challenges in their future.</p>
 <p>Sec 3 Character Coach</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Md Fairus Bin Md Farok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mohammed_fairus_farok@moe.edu.sg</a>
-</p>
+<p>Mr Daniel Leong</p>
 </td>
 </tr>
 <tr>
@@ -98,24 +91,7 @@ on the challenges in their future.</p>
 <p>Sec 4 Character Coach</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Leong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">daniel_leong_mun_fatt@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Teacher IC</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Liang Yen Shan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">liang_yen_shan@moe.edu.sg</a>
-</p>
+<p>Mdm Lorraine Pek</p>
 </td>
 </tr>
 </tbody>
