@@ -73,33 +73,26 @@ variant: tiptap
 </table>
 <h3><strong>Performing Arts</strong></h3>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Performing-Arts/choir/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Choir.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Performing-Arts/choir/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Choir.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Performing-Arts/dance/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Dance.jpg"></a>
-</th>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Performing-Arts/io/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Indian_Orchestra.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Performing-Arts/dance/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Dance.jpg"></a>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Performing-Arts/sd/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Speech_and_Drama.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Performing-Arts/sd/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Speech_and_Drama.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Performing-Arts/sb/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Symphonic_Band.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Performing-Arts/sb/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Symphonic_Band.jpg"></a>
 </td>
 </tr>
 </tbody>

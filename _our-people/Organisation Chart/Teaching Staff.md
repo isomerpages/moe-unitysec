@@ -532,10 +532,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Phang Ka Leng</p>
+<p>Ms Pek Geok Kim Lorraine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Phang_Ka_Leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phang_ka_leng@schools.gov.sg</a>
+<p><a href="mailto:pek_geok_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pej_geok_kim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
