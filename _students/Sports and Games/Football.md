@@ -39,7 +39,7 @@ variant: tiptap
 <p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Fairuz Bin Mohd Farok</p>
+<p>Mr Mohammed Fairus Bin Mohd Farok</p>
 </td>
 </tr>
 <tr>
