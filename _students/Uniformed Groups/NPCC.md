@@ -58,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 14 Teacher IC</p>
+<p>Sec 4 Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jason Khoo Kian Ann</p>
