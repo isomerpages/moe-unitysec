@@ -27,15 +27,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec Teacher IC</p>
+<p>Sec 1 Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Low Jackson (IC)</p>
+<p>Mr Shen Yanru</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec Teacher IC</p>
+<p>Sec 2 Teacher IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Pei Ee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chan Chin Choon, Vincent</p>
@@ -43,18 +51,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Sec Teacher IC</p>
+<p>Sec 4 Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Ain Binte Mohd Zulkifli</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Upper Sec Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ong Pei Ee</p>
+<p>Ms Jackson Low (IC)</p>
 </td>
 </tr>
 <tr>
