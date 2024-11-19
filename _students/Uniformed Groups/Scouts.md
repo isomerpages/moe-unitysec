@@ -27,7 +27,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec Teacher IC</p>
+<p>Sec 1 Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Arab Hussain</p>
@@ -35,7 +35,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec Teacher IC</p>
+<p>Sec 2 Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sumitha d/o Poonia Murthy</p>
@@ -43,18 +43,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Sec Teacher IC</p>
+<p>Sec 3 Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fatin Farahlyana (IC)</p>
+<p>Mdm Aidashikin Bte Solikin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sec 4 Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Fatin Farahlyana (IC)</p>
 </td>
 </tr>
 </tbody>
