@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents/.keep
-      - Parents/Sec 3 Parents' Briefing Slides.md
       - Parents/Sec 4 Parents' Briefing Slides.md
       - Parents/2023 Application to Transfer Waitlist.md
       - Parents/Parent’s Newsletter.md
