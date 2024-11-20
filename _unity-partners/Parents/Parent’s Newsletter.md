@@ -32,6 +32,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://issuu.com/unitysec/docs/uss_term_4_newsletter?fr=xKAE9_zU1NQ" rel="noopener nofollow" target="_blank">Unity Sec Term 4 Newsletter</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
