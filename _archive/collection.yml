@@ -2,6 +2,10 @@ collections:
   archive:
     output: true
     order:
+      - Sec 4 Parents' Briefing Slides.md
+      - Sec 3 Parents' Briefing Slides.md
+      - Sec 1 Parents' Briefing Slides.md
+      - Sec 2 Parents' Briefing Slides.md
       - Indian Orchestra.md
       - 2023 National Exam Celebrations.md
       - Updates.md
