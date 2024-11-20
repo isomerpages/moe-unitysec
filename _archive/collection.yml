@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Sec 2 Parents' Briefing Slides.md
       - Indian Orchestra.md
       - 2023 National Exam Celebrations.md
       - Updates.md
