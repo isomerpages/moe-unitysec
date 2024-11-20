@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Parents/.keep
-      - Parents/2023 Application to Transfer Waitlist.md
+      - Parents/Application to Transfer Waitlist.md
       - Parents/Parent’s Newsletter.md
       - Parents/Parents Gateway.md
       - Parents/Useful contacts.md
