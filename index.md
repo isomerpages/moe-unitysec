@@ -15,6 +15,18 @@ sections:
           url: https://www.unitysec.moe.edu.sg/unity-partners/Parents/newsletter/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: 2024 Unity Sec Prospectus
+          date: 22 November 2024
+          announcement: Dear Parents,  current and potential students, the 2024 Unity
+            Secondary School Prospectus captures the different facets of life in
+            Unity Secondary School.
+          link_text: Click here to view
+          link_url: https://www.unitysec.moe.edu.sg/unity-partners/Parents/newsletter/
   - textcards:
       title: Latest Updates
       id: textcards
@@ -37,16 +49,4 @@ sections:
       alt: Image alt text
       description: Check out the highlights of our Silver Jubilee celebration here.
       title: Celebrating 25 Years of OpportUNITY.
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: 2024 Unity Sec Prospectus
-          date: 22 November 2024
-          announcement: Dear Parents,  current and potential students, the 2024 Unity
-            Secondary School Prospectus captures the different facets of life in
-            Unity Secondary School.
-          link_text: Click here to view
-          link_url: https://www.unitysec.moe.edu.sg/unity-partners/Parents/newsletter/
 ---
