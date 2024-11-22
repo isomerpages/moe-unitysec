@@ -5,6 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Students' Resources
 ---
+<h4>Release of Appeal outcome</h4>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vV5L76</a>
+</p>
+<p></p>
+<p></p>
 <p><strong>Dear Students, please click on the link below to find out your results. You will need to login with your MIMS account to view:</strong>
 </p>
 <p><a href="https://forms.moe.edu.sg/forms/vryrL1" rel="noopener nofollow" target="_blank">Result of S2 subject offering Exercise</a>
