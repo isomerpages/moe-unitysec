@@ -31,9 +31,9 @@ sections:
       title: Latest Updates
       id: textcards
       cards:
-        - title: Subject Offering Exercise
-          description: "Dear Students, you may view your results of S2 Subject Offering
-            Exercise here:"
+        - title: Subject Offering Exercise (Appeal Outcome)
+          description: "Dear Students, you may view the release of your Appeal outcome
+            here:"
           linktext: Learn more
           url: https://unitysec.moe.edu.sg/s2-subject-offering-exercise/
         - title: Booklist 2025
