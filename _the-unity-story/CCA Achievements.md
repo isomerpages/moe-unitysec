@@ -34,7 +34,8 @@ variant: tiptap
 <p>Basketball ‘B’ Div Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th</p>
+<p><em>4th</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +59,8 @@ variant: tiptap
 <p>Basketball ‘B’ Div Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p><em>3rd</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +68,8 @@ variant: tiptap
 <p>Basketball ‘B’ Div Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 8</p>
+<p><em>Top 8</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +77,8 @@ variant: tiptap
 <p>Table Tennis ‘B’ Div Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th</p>
+<p><em>4th</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +86,8 @@ variant: tiptap
 <p>Football C Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd in Tier 3</p>
+<p><em>3rd in Tier 3</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +111,8 @@ variant: tiptap
 <p>Boys’ Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold</p>
+<p><em>Gold</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +120,8 @@ variant: tiptap
 <p>Girls’ Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze</p>
+<p><em>Bronze</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +129,8 @@ variant: tiptap
 <p>NCC (Air)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold</p>
+<p><em>Gold</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +138,8 @@ variant: tiptap
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold</p>
+<p><em>Gold</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +147,8 @@ variant: tiptap
 <p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold</p>
+<p><em>Gold</em>
+</p>
 </td>
 </tr>
 </tbody>
