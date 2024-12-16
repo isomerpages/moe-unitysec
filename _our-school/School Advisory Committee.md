@@ -13,5 +13,5 @@ variant: tiptap
 Ong (Hon Secretary), Dr Teng Siao See (Member))
 <br>
 <br><strong>Back row (from left to right):</strong> Mr Khoo Yik Lin (Member),
-Dr Francis Chin Kuok Choon (Chairman), Mmr Mark Chua (Member), Dr Samuel
+Dr Francis Chin Kuok Choon (Chairman), Mr Mark Chua (Member), Dr Samuel
 Chng (Member)</p>
