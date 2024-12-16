@@ -77,15 +77,15 @@ in person latest by <strong>19 December 2024, 12pm</strong>.</p>
 <h4>Appeal for Transfer (Non-Medical Cases)</h4>
 <p>For students who would like to transfer to Unity Secondary School, please
 click <a href="https://form.gov.sg/6368906797cc4b0012c4edc2" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p>The deadline for the submission of appeal (non-medical cases) is on&nbsp;<strong>28 December 2023, 12pm.</strong> Late
+<p>The deadline for the submission of appeal (non-medical cases) is on&nbsp;<strong>27 December 2024, 12pm.</strong> Late
 submissions will not be entertained.</p>
 <h4></h4>
 <h4>Secondary One Students using Primary School Smart Card SSC</h4>
 <p>While Secondary One Students are waiting for their Secondary level SSCs
 to be ready,&nbsp;they can continue to use their Primary level SSCs for
-concessionary travel till end Apr 2023. Students can still purchase the
-Bus Concession Pass (BCP) using their Primary level SSCs, but they would
-need to purchase the BCP for Secondary School students.
+concessionary travel till <u>end Apr 2025</u>. Students can still purchase
+the Bus Concession Pass (BCP) using their Primary level SSCs, but they
+would need to purchase the BCP for Secondary School students.
 <br>
 <br>
 <br>
