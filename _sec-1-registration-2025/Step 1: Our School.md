@@ -5,10 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3>Step 1: Our School&nbsp;</h3>
-<p><strong>Principal’s Welcome Address</strong>
-</p>
-<p><a href="https://sites.google.com/moe.edu.sg/unityopenhouse?usp=sharing" rel="noopener nofollow" target="_blank">Unity’s Key Programmes and Strengths</a>
-</p>
+<h4><a href="/files/Principal_s_Letter_to_Welcome_Our_Secondary_One_Students_and_Parents__2025_.pdf" rel="noopener nofollow" target="_blank">Principal’s Welcome Address</a></h4>
+<h4><a href="https://sites.google.com/moe.edu.sg/unityopenhouse?usp=sharing" rel="noopener nofollow" target="_blank">Unity’s Key Programmes and Strengths</a></h4>
 <h4>Full Subject-Based Banding (Full SBB)</h4>
 <p><strong><u>Purpose of Full SBB</u></strong>
 <br>Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning
