@@ -53,6 +53,7 @@ learn more about our CCAs in Unity Secondary School.</p>
 <div class="iframe-wrapper">
 <iframe height="337" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iOdIoL1997A"></iframe>
 </div>
+<p></p>
 <p><strong><u>Uniformed Group</u></strong>
 </p>
 <div class="iframe-wrapper">
@@ -75,7 +76,8 @@ learn more about our CCAs in Unity Secondary School.</p>
 </p>
 <p>LEAPS 2.0 is a framework to recognise secondary school students’ holistic
 development.
-<br>Please click&nbsp;here&nbsp;to learn more about LEAPS 2.0.
+<br>Please click&nbsp;<a href="https://www.unitysec.moe.edu.sg/students/CCA/leaps/" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
+learn more about LEAPS 2.0.
 <br>
 <br>
 </p>
