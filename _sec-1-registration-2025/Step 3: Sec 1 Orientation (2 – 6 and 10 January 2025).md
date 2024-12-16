@@ -4,7 +4,7 @@ permalink: /sec-1-registration-2022/step3/
 description: ""
 variant: tiptap
 ---
-<h3>Step 3: Sec 1 Orientation (2 – 6 January 2025 and 10 January 2025)</h3>
+<h3><strong>Step 3: Sec 1 Orientation (2 – 6 January 2025 and 10 January 2025)</strong></h3>
 <p>
 <br>
 </p>
@@ -40,10 +40,11 @@ beyond the academic aspect.&nbsp;</p>
 <p>There will be a CCA briefing on 2 January 2025. All Sec One students will
 have an opportunity to find out more and experience the various CCAs that
 are offered in Unity Secondary School. Selected CCAs will be conducting
-trials on the afternoon of 3 - 4 January. On 5 January, students can have
-the opportunity to experience all CCA during the CCA open house. They will
-need to submit their CCA options by the end of the Orientation Week. <em>(Refer to orientation programme above)</em>
-</p>
+trials on the afternoon of 8 Jan (Sports CCA) &amp; 9 Jan (Non-sports CCAs).
+On 10 January, students can have the opportunity to experience all CCA
+during the CCA open house. They will need to submit their CCA options by
+the end of the Orientation Week. (Refer to orientation programme above)
+.</p>
 <p></p>
 <p>Please click&nbsp;<strong><a href="/students/CCA/cca/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
 learn more about our CCAs in Unity Secondary School.</p>
