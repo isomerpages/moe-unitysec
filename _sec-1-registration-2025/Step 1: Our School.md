@@ -9,7 +9,9 @@ variant: tiptap
 <h4><a href="https://sites.google.com/moe.edu.sg/unityopenhouse?usp=sharing" rel="noopener nofollow" target="_blank">Unity’s Key Programmes and Strengths</a></h4>
 <h4>Full Subject-Based Banding (Full SBB)</h4>
 <p><strong><u>Purpose of Full SBB</u></strong>
-<br>Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning
+<br>From 2024, all secondary schools will implement Full Subject Based Banding
+(SBB).</p>
+<p>Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning
 and develop multiple pathways to cater to the different strengths and interests
 of our students. With Full SBB, we are moving towards one secondary education,
 with many subject bands, to better meet our students’ learning needs. This
@@ -17,6 +19,9 @@ is part of the broader shift in our education system to recognise the strengths
 and interests of our children, to help them build their confidence and
 develop an intrinsic motivation to learn for life. This is in line with
 our belief in providing opportunities for all our students.</p>
+<p>This means that students will be placed in mixed form classes and will
+be able to take a mix of subjects at different subject levels, while attending
+some subjects as part of the common curriculum.</p>
 <p><strong><u>Implementation of Full SBB in 2024</u></strong>
 <br>By 2024, all secondary schools will have implemented the following aspects
 of Full SBB:
