@@ -55,10 +55,6 @@ all students. There will be common curriculum coverage and assessment tasks
 <br>All Sec 1 Students will have opportunities to do English Language, Mother
 Tongue Language, Mathematics and Science at a more demanding level, if
 they meet subject-specific criteria.&nbsp;</p>
-<p>• <strong>For Geography, History, Literature, Computer Applications</strong>
-<br>Students will attend lessons based on their subject classes. The subject
-classes will be organised based on their respective course levels i.e N(T),
-N(A) or Express. [*Unity Secondary School will implement FSBB in 2024]</p>
 <h4>Location of USS</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZgQ-XXKjPVY?si=R8VlrrnkmY8J8ACa"></iframe>
