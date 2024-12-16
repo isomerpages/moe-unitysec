@@ -40,7 +40,7 @@ the following PSLE requirements:</p>
 <p>AL 3 in MTL <strong><u>and</u></strong> at least a pass in HMTL</p>
 <p>
 <br>Notifications will be sent via Parents Gateway if your child is eligible
-for HMTL. Please refer to the notifications and complete by <strong>28 December 2023</strong>.</p>
+for HMTL. Please refer to the notifications and complete by <strong>26 December 2024</strong>.</p>
 </li>
 </ul>
 <h4>3rd Language Application Results</h4>
