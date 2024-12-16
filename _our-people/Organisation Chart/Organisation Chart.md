@@ -35,14 +35,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/VP__Ms_Ng_Tien_Ni_Jenny.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/VP__Mr_Alan_Lim_Yong_Chai.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/VP__Mr_Alan_Lim_Yong_Chai.jpg">
-</div>
 </td>
 </tr>
 <tr>
@@ -50,10 +47,10 @@ variant: tiptap
 <p>Mdm Adel Ong Liang Fung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Tien Ni Jenny</p>
+<p>Mr Lim Yong Chai Alan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Yong Chai Alan</p>
+<p>Ms Yuen Chai Lin</p>
 </td>
 </tr>
 </tbody>
@@ -86,7 +83,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Tien Ni Jenny</p>
+<p>Ms Yuen Chai Lin</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +99,7 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp; Khamilia bte Hanapi</p>
+<p>Mdm&nbsp;Khamilia Hanapi</p>
 </td>
 </tr>
 <tr>
