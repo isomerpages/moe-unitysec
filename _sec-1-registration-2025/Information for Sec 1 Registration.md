@@ -14,10 +14,8 @@ in the recent PSLE.&nbsp;</p>
 be completed online.</p>
 <p>Please note that all essential information will be disseminated via the
 Parents Gateway (PG) on <strong>18 December 2024 </strong>after 2pm. If
-you are not onboard PG yet, please click <strong><em>here</em> </strong>to
+you are not onboard PG yet, please click <a href="https://www.unitysec.moe.edu.sg/unity-partners/Parents/gateway/" rel="noopener nofollow" target="_blank">here</a><strong> </strong>to
 download the PG mobile application.&nbsp;</p>
-<p><a href="https://www.unitysec.moe.edu.sg/unity-partners/Parents/gateway/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.unitysec.moe.edu.sg/unity-partners/Parents/gateway/</u></a>
-</p>
 <p></p>
 <p>Please ensure that you go through the following steps for the Sec 1 online
 registration for 2025. <em>(Compulsory for all Sec 1 students including students with intention to transfer to another school)</em>

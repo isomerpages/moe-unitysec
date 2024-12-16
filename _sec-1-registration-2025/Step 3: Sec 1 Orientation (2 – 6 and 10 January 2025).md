@@ -4,7 +4,7 @@ permalink: /sec-1-registration-2022/step3/
 description: ""
 variant: tiptap
 ---
-<h3>Step 3: Sec 1 Orientation (2 – 6 January 2025 and 10 January 2025)</h3>
+<h3><strong>Step 3: Sec 1 Orientation (2 – 6 January 2025 and 10 January 2025)</strong></h3>
 <p>
 <br>
 </p>
@@ -40,10 +40,11 @@ beyond the academic aspect.&nbsp;</p>
 <p>There will be a CCA briefing on 2 January 2025. All Sec One students will
 have an opportunity to find out more and experience the various CCAs that
 are offered in Unity Secondary School. Selected CCAs will be conducting
-trials on the afternoon of 3 - 4 January. On 5 January, students can have
-the opportunity to experience all CCA during the CCA open house. They will
-need to submit their CCA options by the end of the Orientation Week. <em>(Refer to orientation programme above)</em>
-</p>
+trials on the afternoon of 8 Jan (Sports CCA) &amp; 9 Jan (Non-sports CCAs).
+On 10 January, students can have the opportunity to experience all CCA
+during the CCA open house. They will need to submit their CCA options by
+the end of the Orientation Week. (Refer to orientation programme above)
+.</p>
 <p></p>
 <p>Please click&nbsp;<strong><a href="/students/CCA/cca/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
 learn more about our CCAs in Unity Secondary School.</p>
@@ -52,6 +53,7 @@ learn more about our CCAs in Unity Secondary School.</p>
 <div class="iframe-wrapper">
 <iframe height="337" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iOdIoL1997A"></iframe>
 </div>
+<p></p>
 <p><strong><u>Uniformed Group</u></strong>
 </p>
 <div class="iframe-wrapper">
@@ -74,7 +76,8 @@ learn more about our CCAs in Unity Secondary School.</p>
 </p>
 <p>LEAPS 2.0 is a framework to recognise secondary school students’ holistic
 development.
-<br>Please click&nbsp;here&nbsp;to learn more about LEAPS 2.0.
+<br>Please click&nbsp;<a href="https://www.unitysec.moe.edu.sg/students/CCA/leaps/" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
+learn more about LEAPS 2.0.
 <br>
 <br>
 </p>

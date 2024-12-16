@@ -15,8 +15,8 @@ variant: tiptap
 <ul>
 <li>
 <p>Please bring and exchange your approval letter at the FAS counter at classroom
-(C1-01) on 21 December 2023 in order for you to collect your books and
-uniforms.</p>
+(C1-01) on <strong><u>19 December 2024</u></strong> in order for you to collect
+your books and uniforms.</p>
 </li>
 </ul>
 </li>
@@ -26,7 +26,8 @@ uniforms.</p>
 <ul>
 <li>
 <p>You may obtain a copy of the application form from the FAS counter at
-classroom (C1-01) on 21 December 2023, or download a copy <em>here</em>.&nbsp;</p>
+classroom (C1-01) on <strong><u>19 December 2024</u></strong>, or download
+a copy <em>here</em>.&nbsp;</p>
 </li>
 <li>
 <p>Upon completion, please submit the application form and the required supporting
@@ -60,31 +61,31 @@ can allow the students to explore and understand their problems, and to
 find the courage and strength to face and change the circumstance that
 they feel so overwhelmed by.&nbsp;</p>
 <p>For parents who require any advice or additional support for your child,
-you may proceed to the general office in school on 19 December 2024 to
+you may proceed to the general office in school on<strong> 19 December 2024</strong> to
 look for our School Counsellors.</p>
 <p>Please click&nbsp;<a href="https://www.unitysec.moe.edu.sg/students/Students-Resources/counselling/" rel="noopener nofollow" target="_blank">here</a>&nbsp;for
 more information on our school counselling service.</p>
 <h4>Special Educational Needs</h4>
-<p>Our SEN Officer will be in school on 19 December 2024. For parents who
-require any advice or additional support for your child with Special Educational
-Needs, you may proceed to the general office in school to look for our
-SEN Officer.</p>
+<p>Our SEN Officer will be in school on <strong>19 December 2024</strong>.
+For parents who require any advice or additional support for your child
+with Special Educational Needs, you may proceed to the general office in
+school to look for our SEN Officer.</p>
 <h4>Appeal for Transfer (For serious medical conditions)</h4>
 <p>Students who would like to request for a school transfer due to medical
 reasons will need to submit their appeal through the posted secondary school
 in person latest by <strong>19 December 2024, 12pm</strong>.</p>
 <h4>Appeal for Transfer (Non-Medical Cases)</h4>
 <p>For students who would like to transfer to Unity Secondary School, please
-click <a href="https://form.gov.sg/654fa75f4833110012c9a42b" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p>The deadline for the submission of appeal (non-medical cases) is on&nbsp;<strong>28 December 2023, 12pm.</strong> Late
+click <a href="https://form.gov.sg/6368906797cc4b0012c4edc2" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>The deadline for the submission of appeal (non-medical cases) is on&nbsp;<strong>27 December 2024, 12pm.</strong> Late
 submissions will not be entertained.</p>
 <h4></h4>
 <h4>Secondary One Students using Primary School Smart Card SSC</h4>
 <p>While Secondary One Students are waiting for their Secondary level SSCs
 to be ready,&nbsp;they can continue to use their Primary level SSCs for
-concessionary travel till end Apr 2023. Students can still purchase the
-Bus Concession Pass (BCP) using their Primary level SSCs, but they would
-need to purchase the BCP for Secondary School students.
+concessionary travel till <u>end Apr 2025</u>. Students can still purchase
+the Bus Concession Pass (BCP) using their Primary level SSCs, but they
+would need to purchase the BCP for Secondary School students.
 <br>
 <br>
 <br>
