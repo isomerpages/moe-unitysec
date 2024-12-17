@@ -16,8 +16,7 @@ Please&nbsp;<strong>complete the&nbsp;<em>FormSG</em></strong>&nbsp;&nbsp;found
 in the notification.</p>
 <p><em>If you are not eligible to apply for Singpass, do not worry. Our school administrative staff will get in touch with you soon to facilitate your registration.</em>
 </p>
-<p><a href="https://form.gov.sg/654fa449622a5d0011c6fb0b" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/654fa449622a5d0011c6fb0b</a>
-<br>
+<p><a href="https://form.gov.sg/675b9c9a62bc25935047bfba" rel="noopener nofollow" target="_blank">2025 Sec One Registration Form</a>
 <br>
 </p>
 <h4><br><strong><u>&nbsp;Go to Step 3: Sec 1 Orientation</u></strong></h4>
