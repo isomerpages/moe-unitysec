@@ -19,10 +19,10 @@ end of Week 1.</p>
 <p>Please refer to the following schedule for the Orientation activities,
 timing, attire and things to bring.</p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="515" width="505" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe1jlJeCGE1eb8bsP6CNhI2yH63uKePsxMsCsc0-C9KPRTgOzMt3jD1b2ZrUNNnVK1pElWzCPdQ4MEFCAZ6ubTKAuZK-B__hsWyXZCShXrtsckF2N7Gc7fkIqld_XYfUMFxAyiqw8NV_J93ExcE-_A1RKD-j8g920jGzyOsYUUB6T3aH3iiEg?key=Y5YFPZuHkCmhQynFke1MqA">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Orientation_2025_v1.jpg">
 </div>
 <p>
-<br>You may also download the Sec 1 orientation programme <strong><a href="/files/Sec%201%20orientation%202022%20updated%2022dec.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+<br>You may also download the Sec 1 orientation programme <a href="/files/Sec_1_Orientation_2025_v1.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4>First day of School (2 January 2025, Thursday)</h4>
 <p>All Sec 1 students are to report to the <strong><u>Sheltered Basketball Court by 0720</u></strong><u> on </u><strong><u>2 January 2025</u></strong>.
 Our Unity Councillors will be at the school’s foyer to direct the Sec 1
