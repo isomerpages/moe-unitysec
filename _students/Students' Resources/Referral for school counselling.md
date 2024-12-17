@@ -94,7 +94,8 @@ for a discussion of concerns:</p>
 <p>Offers support for students having queries regarding educational courses
 &amp; career options by helping them identify their personal work values,
 career interests and preferences to increase motivation for studies.</p>
-<p>Call ECG Counsellor : Ext. 250 (Mr Peter Phoa)
+<p>Call ECG Counsellor : Ext. 268 (Mr Peter Phoa)
 <br>Email:&nbsp;<a href="mailto:teng_swee_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phoa_ang_hiok@schools.gov.sg</a>
-<br>Walk in: ECG Room, Block D Level 2 (Beside Art Room)
-<br>Available day &amp; timing: Every Tuesdays and Thursdays from 8am to 5pm</p>
+<br>Walk in: Student Service Hub at Block D, Level 3 (Beside Learning Space
+2)
+<br>Available day &amp; timing: Every Monday and Thursday from 8am to 5pm</p>
