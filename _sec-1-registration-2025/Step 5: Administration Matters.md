@@ -76,7 +76,7 @@ reasons will need to submit their appeal through the posted secondary school
 in person latest by <strong>19 December 2024, 12pm</strong>.</p>
 <h4>Appeal for Transfer (Non-Medical Cases)</h4>
 <p>For students who would like to transfer to Unity Secondary School, please
-click <a href="https://form.gov.sg/6368906797cc4b0012c4edc2" rel="noopener nofollow" target="_blank">here</a>.</p>
+click <a href="https://form.gov.sg/675ba15162bc25935048f57c" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>The deadline for the submission of appeal (non-medical cases) is on&nbsp;<strong>27 December 2024, 12pm.</strong> Late
 submissions will not be entertained.</p>
 <h4></h4>
