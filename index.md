@@ -4,7 +4,8 @@ title: Unity Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/unity-secondary-school.jpg
 permalink: /
-notification: ""
+notification: To 2025 Sec 1 parents,  Sec 1 registration information and form
+  will be sent via Parents Gateway on 18 Dec (Wed) before 5 pm.
 sections:
   - hero:
       title: UNITY SECONDARY SCHOOL

@@ -2,7 +2,6 @@
 title: Application to Transfer Waitlist
 permalink: /unity-partners/parents/application-to-transfer-waitlist/
 description: ""
-third_nav_title: Parents
 variant: tiptap
 ---
 Dear parents, please scan the QR code below or click on the link below&nbsp;to access the Application Form for Transfer In Waitlist (only applicable for students in MOE Mainstream School):

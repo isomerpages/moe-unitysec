@@ -46,6 +46,9 @@ Mother Tongue Language (HMTL)/ 3<sup>rd</sup> Language Application Results</p>
 <p><strong>Step 7</strong>: Home School Partnership</p>
 </li>
 </ul>
+<h4><strong>Application to Transfer Waitlist</strong></h4>
+<p><a href="https://form.gov.sg/675ba15162bc25935048f57c" rel="noopener nofollow" target="_blank">Sec 1 Transfer Appeal Form</a>
+</p>
 <p></p>
 <p></p>
 <h4><strong><u>&nbsp;Go to Step 1: Our School</u></strong></h4>
