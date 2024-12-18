@@ -81,6 +81,6 @@ learn more about LEAPS 2.0.
 <br>
 <br>
 </p>
-<h4><br><strong><u>Go to Step 4: Preparing for School</u></strong></h4>
+<h4><br><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step4/" rel="noopener nofollow" target="_blank">Go to Step 4: Preparing for School</a></h4>
 <p></p>
 <p></p>

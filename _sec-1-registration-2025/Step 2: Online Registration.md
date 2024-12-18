@@ -19,6 +19,6 @@ in the notification.</p>
 <p><a href="https://form.gov.sg/675b9c9a62bc25935047bfba" rel="noopener nofollow" target="_blank">2025 Sec One Registration Form</a>
 <br>
 </p>
-<h4><br><strong><u>&nbsp;Go to Step 3: Sec 1 Orientation</u></strong></h4>
+<h4><br><strong><u>&nbsp;</u></strong><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step3/" rel="noopener nofollow" target="_blank">Go to Step 3: Sec 1 Orientation</a></h4>
 <p></p>
 <p></p>

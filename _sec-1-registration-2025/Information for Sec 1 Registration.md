@@ -51,5 +51,5 @@ Mother Tongue Language (HMTL)/ 3<sup>rd</sup> Language Application Results</p>
 </p>
 <p></p>
 <p></p>
-<h4><strong><u>&nbsp;Go to Step 1: Our School</u></strong></h4>
+<h4><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step1/" rel="noopener nofollow" target="_blank">Go to Step 1: Our School</a></h4>
 <p></p>

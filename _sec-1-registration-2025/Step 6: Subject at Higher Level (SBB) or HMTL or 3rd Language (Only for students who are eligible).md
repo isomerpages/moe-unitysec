@@ -50,5 +50,5 @@ the notification in the Parents Gateway.
 <br>
 <br>
 </p>
-<h4><strong><u>Go to Step 7: Home School Partnership</u></strong></h4>
+<h4><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step7/" rel="noopener nofollow" target="_blank">Go to Step 7: Home School Partnership</a></h4>
 <p></p>

@@ -76,6 +76,6 @@ they meet subject-specific criteria.&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
-<h4><strong><u>Go to Step 2: Online Registration</u></strong><br><br><br></h4>
+<h4><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step2/" rel="noopener nofollow" target="_blank">Go to Step 2: Online Registration</a><br><br><br></h4>
 <p></p>
 <p></p>
