@@ -91,5 +91,5 @@ would need to purchase the BCP for Secondary School students.
 <br>
 </p>
 <p></p>
-<h4><strong><u>Go to Step 6: Subject at a More Demanding Level/ Higher Mother Tongue language (HMTL)/ 3<sup>rd</sup> Language (Only for students who are eligible)</u></strong></h4>
+<h4><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step6/" rel="noopener nofollow" target="_blank">Go to Step 6: Subject at a More Demanding Level/ Higher Mother Tongue language (HMTL)/ 3rd Language (Only for students who are eligible)</a></h4>
 <p></p>
