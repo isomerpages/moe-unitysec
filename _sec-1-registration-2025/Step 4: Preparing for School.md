@@ -57,6 +57,6 @@ do expect a <strong>longer waiting time.</strong>
 </p>
 <p></p>
 <p></p>
-<h4><strong><u>Go to Step 5: Administrative Matters</u></strong><br></h4>
+<h4><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step5/" rel="noopener nofollow" target="_blank">Go to Step 5: Administrative Matters</a><br></h4>
 <p></p>
 <p></p>
