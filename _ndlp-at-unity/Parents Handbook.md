@@ -4,7 +4,7 @@ permalink: /parents-handbook/
 variant: tiptap
 description: ""
 ---
-<h4><strong>PARENT HANDBOOK (I) </strong></h4>
+<h4><strong>PARENT HANDBOOK (I)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP2___Parent_Handbook__I__2025_Page_1.jpg">
 </div>
@@ -28,4 +28,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IP2___Parent_Handbook__I__2025_Page_6.jpg">
 </div>
+<h4><strong>PARENT HANDBOOK (II)</strong></h4>
+<p></p>
+<p></p>
 <p></p>
