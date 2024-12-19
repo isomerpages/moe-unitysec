@@ -3,40 +3,64 @@ title: Parents Tool Kit
 permalink: /ndlp-at-unity/Parents-Tool-Kit/ptk/
 description: ""
 third_nav_title: Parents Tool Kit
+variant: tiptap
 ---
-## Parents Tool Kit
-
-Dear parents, here are some useful resources for you to support your child in their learning.   
-You may click on the links below to access the resources.
-
-#### Cyber Wellness@Home & Learning with a Personal Learning Device
-
-**[Learning Device](/ndlp-at-unity/Parents-Tool-Kit/ld/)**
-
-*   How will learning be different with the personal learning device in Unity?
-*    What is the Acceptable User Policy (AUP) in Unity?
-
-**[Learning Structures](/ndlp-at-unity/Parents-Tool-Kit/ls/)** 
-
-*   Blended Learning Timetable
-*   HBL Routine
-*   Class Learning Routine
-
-**[Learning and Communciation Platforms](/ndlp-at-unity/Parents-Tool-Kit/lcp/)**  
-
-*   Student Learning Space (SLS),  Google Classroom, Zoom
-*   Parent Gateway (PG)
-
-**[Managing Child's Use of Device](/ndlp-at-unity/Parents-Tool-Kit/mcud/)**  
-
-*   How can I help my child to navigate the digital environment?
-*   How can I help ease my child into learning with a personal learning device?
-*   Understanding a teenager’s point of view (Trust & Privacy)
-
-**[Partnering Schools](/ndlp-at-unity/Parents-Tool-Kit/ps/)**   
-  
-How can I actively partner my child’s school to reinforce good digital habits at home?  
-  
-**[Support You May Need](/ndlp-at-unity/Parents-Tool-Kit/symn/)**  
-  
-How should I access resources to support my child in this digital learning journey?
+<h2>Parents Tool Kit</h2>
+<p>Dear parents, here are some useful resources for you to support your child
+in their learning.&nbsp;
+<br>You may click on the links below to access the resources.</p>
+<h4>Cyber Wellness@Home &amp; Learning with a Personal Learning Device</h4>
+<p><strong><a href="/ndlp-at-unity/Parents-Tool-Kit/ld/" rel="noopener noreferrer nofollow" target="_blank">Learning Device</a></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>How will learning be different with the personal learning device in Unity?</p>
+</li>
+<li>
+<p>What is the Acceptable User Policy (AUP) in Unity?</p>
+</li>
+</ul>
+<p><strong><a href="/ndlp-at-unity/Parents-Tool-Kit/ls/" rel="noopener noreferrer nofollow" target="_blank">Learning Structures</a></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Blended Learning Timetable</p>
+</li>
+<li>
+<p>HBL Routine</p>
+</li>
+<li>
+<p>Class Learning Routine</p>
+</li>
+</ul>
+<p><strong><a href="/ndlp-at-unity/Parents-Tool-Kit/lcp/" rel="noopener noreferrer nofollow" target="_blank">Learning and Communciation Platforms</a></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Student Learning Space (SLS),&nbsp; Google Classroom, Zoom</p>
+</li>
+<li>
+<p>Parent Gateway (PG)</p>
+</li>
+</ul>
+<p><strong><a href="/ndlp-at-unity/Parents-Tool-Kit/mcud/" rel="noopener noreferrer nofollow" target="_blank">Managing Child's Use of Device</a></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>How can I help my child to navigate the digital environment?</p>
+</li>
+<li>
+<p>How can I help ease my child into learning with a personal learning device?</p>
+</li>
+<li>
+<p>Understanding a teenager’s point of view (Trust &amp; Privacy)</p>
+</li>
+</ul>
+<p><strong><a href="/ndlp-at-unity/Parents-Tool-Kit/ps/" rel="noopener noreferrer nofollow" target="_blank">Partnering Schools</a></strong>
+</p>
+<p>How can I actively partner my child’s school to reinforce good digital
+habits at home?</p>
+<p><strong><a href="/ndlp-at-unity/Parents-Tool-Kit/symn/" rel="noopener noreferrer nofollow" target="_blank">Support You May Need</a></strong>
+</p>
+<p>How should I access resources to support my child in this digital learning
+journey?</p>
