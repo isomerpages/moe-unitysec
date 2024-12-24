@@ -7,7 +7,6 @@ variant: tiptap
 ---
 <h2>Student Handbook</h2>
 <h4>Student Handbook for Unitians</h4>
-<p>Dear students, please download the student handbook <a href="/files/Student_eHandbook_2025__updated_.pdf" rel="noopener nofollow" target="_blank">here</a>
-<a href="/files/e_Student_Handbook_2024__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">.</a>
+<p>Dear students, please download the student handbook <a href="/files/Student_eHandbook_2025__updated_.pdf" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p></p>
