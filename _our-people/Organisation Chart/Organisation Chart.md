@@ -102,7 +102,7 @@ variant: tiptap
 <p>Ag School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Ong Pei Ee</p>
+<p>Ms&nbsp;Ong Pei Ee</p>
 </td>
 </tr>
 <tr>
@@ -134,14 +134,6 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Yan Kit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Neo Ruey Ning Fiona</p>
 </td>
 </tr>
@@ -159,6 +151,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chong Shur Chin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ag HOD/ CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheong Kiet Yeng Jeslyn</p>
 </td>
 </tr>
 <tr>
@@ -211,10 +211,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst Year Head (Upper Sec)</p>
+<p>Ag HOD/ Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Liang Yen Shan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Yan Kit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Kah Lin Alvin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH/ ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Yuen Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH/ Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Meow Peng Sherry</p>
 </td>
 </tr>
 <tr>
@@ -227,7 +259,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Geography</p>
+<p>SH/ Geography</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jasmin&nbsp; Mariya d/o Madasamy</p>
@@ -235,10 +267,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/ CCE</p>
+<p>SH/ History</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Kiet Yeng Jeslyn</p>
+<p>Mr Wong Jing Jie</p>
 </td>
 </tr>
 <tr>
@@ -251,18 +283,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/ Malay Language</p>
+<p>LH/ Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rashidah bte Md Yaakob</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LH/ Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ong Pei Ee</p>
+<p>Ms Sumitha d/o Poonia Murthy</p>
 </td>
 </tr>
 <tr>
@@ -275,10 +299,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/ English</p>
+<p>SH/ English Language &amp; Lit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Janet Xu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH/ Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Pei Ee</p>
 </td>
 </tr>
 <tr>
