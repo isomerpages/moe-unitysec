@@ -22,7 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Counsellors &amp; LBS</strong>
+<p><strong>Counsellors &amp; SEN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Michelle Ong Siew Hong (Counsellor)</p>
+<p>Mdm Michelle Ong Siew Hong (Snr Sch Counsellor)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_siew_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_siew_hong@schools.gov.sg</a>
@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sumarni Binte Ismail (Counsellor)</p>
+<p>Mdm Sumarni Binte Ismail (Sch Counsellor)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sumarni_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sumarni_ismail@schools.gov.sg</a>
@@ -49,7 +49,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Peter Phoa (ECG)</p>
+<p>Ms Liaw Peiru (Sch Counsellor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: liaw_peiru@schools.gov.sg" rel="noopener nofollow" target="_blank">liaw_peiru@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Peter Phoa (Snr Edn &amp; Career Guidance Counsellor)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:phoa_ang_hiok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phoa_ang_hiok@schools.gov.sg</a>
@@ -58,19 +67,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Wenjie Wendy (SEN)</p>
+<p>Ms Lin Wenjie Wendy (Snr SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lin_wenjie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_wenjie@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Mah Wan Qing Michelle (SWO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mah_wan_qing_michelle@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mah_wan_qing_michelle@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -109,22 +109,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Ong Jin Hwa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adjunct Operations Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Afidah binte Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Admin Executive</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nur Syafawina Binte Zakariah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,10 +133,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm S Dhamayanthi</p>
+<p>Mdm Nur Hazwani Kowangi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm S Dhamayanthi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +152,7 @@ variant: tiptap
 <p>Mdm Wong Yoke Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -168,7 +160,7 @@ variant: tiptap
 <p>Mdm Lee Ah Nooi @Lee Chin Lew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -176,7 +168,7 @@ variant: tiptap
 <p>Mdm Moh Yoke Sim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +209,7 @@ variant: tiptap
 <p>Mr Kumarasamy Shankar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer (Sci)</p>
+<p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -225,7 +217,7 @@ variant: tiptap
 <p>Ms Nur Amirah Binti Amir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer (Sci)</p>
+<p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -233,7 +225,7 @@ variant: tiptap
 <p>Mr Choo Soon Choon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer (D&amp;T)</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +233,7 @@ variant: tiptap
 <p>Mr Wan Sin Wah Steve</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer (D&amp;T)</p>
+<p>STEM Instructor (Workshop)</p>
 </td>
 </tr>
 <tr>
