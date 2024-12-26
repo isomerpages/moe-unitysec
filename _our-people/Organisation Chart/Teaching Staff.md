@@ -148,6 +148,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Chng Kim Tee Evangeline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chng_Kim_Tee_Evangeline@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Darren Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
