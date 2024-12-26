@@ -151,7 +151,8 @@ variant: tiptap
 <p>Mdm Chng Kim Tee Evangeline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chng_Kim_Tee_Evangeline@schools.gov.sg</p>
+<p><a href="mailto:chng_kim_tee_evangeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_kim_tee_evangeline@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -522,15 +523,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ya Soon Kwang Raymond</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ya_soon_kwang_raymond@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ya_soon_kwang_raymond@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Pek Geok Kim Lorraine</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -727,15 +719,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rashidah Binte Mohamad Yaakob</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rashidah_mohamad_yaakob@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_mohamad_yaakob@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Jaya Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -830,15 +813,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fatin_farahlyana_mohamad_hasidi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fatin_farahlyana_mohamad_hasidi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Morgan Law Mo Kwan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:law_mo_kwan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">law_mo_kwan_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
