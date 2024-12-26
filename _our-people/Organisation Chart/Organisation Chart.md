@@ -235,6 +235,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH/ Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Meow Peng Sherry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH/ ALP &amp; Innovations</p>
 </td>
 <td rowspan="1" colspan="1">
