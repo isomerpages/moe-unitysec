@@ -134,14 +134,6 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Yan Kit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Neo Ruey Ning Fiona</p>
 </td>
 </tr>
@@ -211,7 +203,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst Year Head (Upper Sec)</p>
+<p>Asst Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Yan Kit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Kah Lin Alvin</p>
