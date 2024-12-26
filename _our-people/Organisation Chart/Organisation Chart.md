@@ -155,6 +155,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ag HOD/ CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheong Kiet Yeng Jeslyn</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD/ Craft and Technology</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -203,6 +211,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ag HOD/ Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Liang Yen Shan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Asst Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -227,7 +243,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Geography</p>
+<p>SH/ Geography</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jasmin&nbsp; Mariya d/o Madasamy</p>
@@ -235,10 +251,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/ CCE</p>
+<p>SH/ History</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheong Kiet Yeng Jeslyn</p>
+<p>Mr Wong Jing Jie</p>
 </td>
 </tr>
 <tr>
@@ -251,22 +267,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/ Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Rashidah bte Md Yaakob</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LH/ Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ong Pei Ee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LH/ Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -275,7 +275,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/ English</p>
+<p>SH/ English Language &amp; Lit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Janet Xu</p>
