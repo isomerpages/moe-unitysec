@@ -827,6 +827,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Aidashikin Bte Solikin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: aidashikin_solikin@schools.gov.sg" rel="noopener nofollow" target="_blank">aidashikin_solikin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
