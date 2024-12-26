@@ -267,6 +267,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH/ Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sumitha d/o Poonia Murthy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LH/ Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
