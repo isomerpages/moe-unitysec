@@ -35,10 +35,6 @@ sections:
             here:"
           linktext: Learn more
           url: https://unitysec.moe.edu.sg/s2-subject-offering-exercise/
-        - title: Booklist 2025
-          description: Booklist for Sec 1 to 5 available here. (Updated on 16th Dec)
-          linktext: Learn more
-          url: https://www.unitysec.moe.edu.sg/students/students-resources/2025-booklist/
   - infopic:
       subtitle: Unity Secondary
       id: infopic
