@@ -35,13 +35,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/VP__Mr_Alan_Lim_Yong_Chai.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/VP__Mr_Alan_Lim_Yong_Chai.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Ms_Yuen_Chai_Lin.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/VP_Yuen_Chai_Lin.jpg">
 </div>
 </td>
 </tr>
