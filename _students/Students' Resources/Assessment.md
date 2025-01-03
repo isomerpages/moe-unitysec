@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>Assessment</h2>
 <p>Dear Students, please click on the respective Assessment Plan Overviews
-(Semester 2) below:</p>
+(Semester 1) below:</p>
 <p><a href="/files/Sem_2_Assessment_Plan_Overview_Sec_1_caa_21062024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Assessment Plan Overview</a>
 </p>
 <p><a href="/files/Sem_2_Assessment_Plan_Overview_Sec_2_caa_24062024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Assessment Plan Overview</a>
