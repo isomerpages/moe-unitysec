@@ -29,19 +29,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P__Mdm_Ong_Liang_Fung.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/P__Mdm_Ong_Liang_Fung.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/VP__Mr_Alan_Lim_Yong_Chai.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/VP__Mr_Alan_Lim_Yong_Chai.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/blank_heasd.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/VP_Yuen_Chai_Lin.jpg">
 </div>
 </td>
 </tr>

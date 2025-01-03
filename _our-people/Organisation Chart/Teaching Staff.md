@@ -380,15 +380,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yii Chin Meet Karen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yii_chin_meet_karen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yii_chin_meet_karen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -684,10 +675,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Chua Sock Sian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_sock_sian@schools.gov.sg" rel="noopener nofollow" target="_blank">chua_sock_sian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Shen Yanru</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Shen_Yanru@schools.gov.sg" rel="noopener nofollow" target="_blank">Shen_Yanru@schools.gov.sg</a>
+<p><a href="mailto:Shen_Yanru@schools.gov.sg" rel="noopener nofollow" target="_blank">shen_yanru@schools.gov.sg</a>
 </p>
 </td>
 </tr>
