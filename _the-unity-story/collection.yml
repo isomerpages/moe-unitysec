@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - The Unity Story.md
+      - Achievements/CCA Achievements.md
       - Achievements/Catch, Highlight, Multiply.md
       - Achievements/.keep
       - Achievements/Achievements.md
