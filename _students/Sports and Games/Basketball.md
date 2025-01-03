@@ -60,7 +60,7 @@ on the challenges in their future.</p>
 <p>Sec 1 Character Coach</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sherry Goh</p>
+<p>Ms Sherry Goh / Mdm Hong Wan Mei</p>
 <p></p>
 </td>
 </tr>
