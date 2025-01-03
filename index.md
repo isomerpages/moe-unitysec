@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: UNITY SECONDARY SCHOOL
-      background: /images/USS_Montage_2.jpg
+      background: /images/website_montagen_2025.jpg
       key_highlights:
         - title: Booklist 2025
           description: Sec 1 to 5
