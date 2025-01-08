@@ -380,6 +380,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Cheng Yee Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheng_yee_ting@schools.gov.sg" rel="noopener nofollow" target="_blank">cheng_yee_ting@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
