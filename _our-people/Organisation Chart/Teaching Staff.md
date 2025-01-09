@@ -526,7 +526,7 @@ variant: tiptap
 <p>Ms Pek Geok Kim Lorraine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pek_geok_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pej_geok_kim@schools.gov.sg</a>
+<p><a href="mailto:pek_geok_kim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pek_geok_kim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
