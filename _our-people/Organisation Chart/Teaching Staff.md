@@ -326,6 +326,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Wong Jing Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_jing_jie@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_jing_jie@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Nur Shaikhah Binte Rajab</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -580,15 +589,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_kian_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kian_tong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Jing Jie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_jing_jie@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_jing_jie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
