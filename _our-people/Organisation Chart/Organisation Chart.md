@@ -86,7 +86,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yuen Chai Lin</p>
+<p>Mr Lim Yong Chai Alan</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Yong Chai Alan</p>
+<p>Ms Yuen Chai Lin</p>
 </td>
 </tr>
 <tr>
