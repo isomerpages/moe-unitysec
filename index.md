@@ -19,6 +19,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: O Level Briefing Slides
+          date: 13 January 2025
+          announcement: Dear Graduates, you may download the O Level Briefing Slides that
+            was shared on 10th January here.
+          link_text: Click here to view
+          link_url: xxx
         - title: 2024 Unity Sec Prospectus
           date: 22 November 2024
           announcement: Dear Parents,  current and potential students, the 2024 Unity
