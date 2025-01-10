@@ -26,15 +26,6 @@ sections:
             Unity Secondary School.
           link_text: Click here to view
           link_url: https://www.unitysec.moe.edu.sg/unity-partners/Parents/newsletter/
-  - textcards:
-      title: Latest Updates
-      id: textcards
-      cards:
-        - title: Subject Offering Exercise (Appeal Outcome)
-          description: "Dear Students, you may view the release of your Appeal outcome
-            here:"
-          linktext: Learn more
-          url: https://unitysec.moe.edu.sg/s2-subject-offering-exercise/
   - infopic:
       subtitle: Unity Secondary
       id: infopic
