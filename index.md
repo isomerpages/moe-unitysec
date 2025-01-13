@@ -19,6 +19,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: O Level Briefing Slides
+          date: 13 January 2025
+          announcement: Dear Graduates, you may download the O Level Briefing Slides that
+            was shared on 10th January here.
+          link_text: Click here to view
+          link_url: https://unitysec.moe.edu.sg/o-level-briefing-slides/
         - title: 2024 Unity Sec Prospectus
           date: 22 November 2024
           announcement: Dear Parents,  current and potential students, the 2024 Unity
@@ -26,15 +32,6 @@ sections:
             Unity Secondary School.
           link_text: Click here to view
           link_url: https://www.unitysec.moe.edu.sg/unity-partners/Parents/newsletter/
-  - textcards:
-      title: Latest Updates
-      id: textcards
-      cards:
-        - title: Subject Offering Exercise (Appeal Outcome)
-          description: "Dear Students, you may view the release of your Appeal outcome
-            here:"
-          linktext: Learn more
-          url: https://unitysec.moe.edu.sg/s2-subject-offering-exercise/
   - infopic:
       subtitle: Unity Secondary
       id: infopic
