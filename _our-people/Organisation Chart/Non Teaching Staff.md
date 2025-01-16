@@ -22,7 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Counsellors &amp; SEN</strong>
+<p><strong>Care Team</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,6 +72,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lin_wenjie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_wenjie@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Samatha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Health Advisor</p>
 </td>
 </tr>
 <tr>
