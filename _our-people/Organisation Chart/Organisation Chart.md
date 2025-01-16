@@ -131,10 +131,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>Year Head (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Neo Ruey Ning Fiona</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 4/5 Year Head (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chong Shur Chin</p>
+<p>Mr Tan Yee Kee</p>
 </td>
 </tr>
 <tr>
@@ -219,7 +228,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst Year Head</p>
+<p>Asst Year Head (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Yan Kit</p>
@@ -227,7 +236,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst Year Head</p>
+<p>Asst Year Head (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Kah Lin Alvin</p>
