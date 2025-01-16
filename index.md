@@ -13,6 +13,9 @@ sections:
         - title: Booklist 2025
           description: Sec 1 to 5
           url: https://www.unitysec.moe.edu.sg/students/students-resources/2025-booklist/
+        - title: Sec 1 Parents' Briefing
+          description: 10th Jan 2025
+          url: https://www.unitysec.moe.edu.sg/unity-partners/parents/sec-1-parents-briefing-slides/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
   - announcements:
