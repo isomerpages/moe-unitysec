@@ -477,7 +477,7 @@ our beliefs</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>2025 Sexuality Education Lessons in CCE </strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <h4><strong>Secondary 4</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -643,7 +643,7 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>2025 Sexuality Education Lessons in CCE </strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <h4><strong>Secondary 5</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -723,7 +723,7 @@ negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
-<p><strong>At Unity Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2024:</strong>
+<p><strong>At Unity Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -750,7 +750,7 @@ are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide
@@ -762,7 +762,7 @@ being faithful, correct, and consistent condom use).</p>
 in a healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -776,7 +776,7 @@ decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 </tbody>
@@ -788,9 +788,9 @@ eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
 <p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be distributed to parents through
-Parents’ Gateway and the completed form is to be submitted by <strong>31/03/2024</strong>.</p>
+Parents’ Gateway and the completed form is to be submitted by <strong>3/04/2025</strong>.</p>
 <p>12. Parents who wish to opt their children out of the <strong><em>eTeens programme</em></strong> need
 to complete an opt-out form. This form will be distributed to parents through
-Parents’ Gateway and the completed form is to be submitted by <strong>31/03/2024</strong>.</p>
+Parents’ Gateway and the completed form is to be submitted by <strong>3/04/2025</strong>.</p>
 <p>13. Parents can contact the school at <em>67671070</em> for discussion or
 to seek clarification about the school’s Sexuality Education programme.</p>
