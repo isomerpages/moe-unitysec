@@ -42,7 +42,7 @@ before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h5>OVERVIEW OF UNITY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2024</h5>
+<h5>OVERVIEW OF UNITY SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</h5>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -54,7 +54,8 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Character
 and Citizenship Education (CCE)</p>
 <p></p>
-<p>Sexuality Education Lessons:</p>
+<p><strong><u>Sexuality Education Lessons:</u></strong>
+</p>
 <p>6. The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
@@ -74,7 +75,7 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p></p>
-<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE </strong></h4>
 <h4><strong>Secondary 1</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -144,7 +145,7 @@ and offline</p>
 and recognise that the readiness and interest in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -170,7 +171,7 @@ psychological abuse from others, especially those we know and trust, can
 have strong negative effects on a person’s self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 1 &amp; 2</p>
 </td>
 </tr>
 <tr>
@@ -201,13 +202,13 @@ acting irresponsibly or maliciously when online (e.g. spreading of online
 falsehoods, flouting copyright laws, etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE </strong></h4>
 <h4><strong>Secondary 2</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
