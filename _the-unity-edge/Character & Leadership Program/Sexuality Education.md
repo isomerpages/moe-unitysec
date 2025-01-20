@@ -75,7 +75,7 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p></p>
-<h4><strong>2025 Sexuality Education Lessons in CCE </strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <h4><strong>Secondary 1</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -208,7 +208,7 @@ falsehoods, flouting copyright laws, etc.)</p>
 </tbody>
 </table>
 <p></p>
-<h4><strong>2025 Sexuality Education Lessons in CCE </strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <h4><strong>Secondary 2</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -279,7 +279,7 @@ one’s own unique qualities and characteristics as a male or female</p>
 entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -306,7 +306,7 @@ and the importance of exercising discretion to reduce risks and avoid negative
 consequences, both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 1 &amp; 2</p>
 </td>
 </tr>
 <tr>
@@ -333,13 +333,13 @@ situations and the importance of exercising discretion to reduce risks
 and avoid negative consequences, both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 1 &amp; 2</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <h4><strong>Secondary 3</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -409,7 +409,7 @@ when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -441,7 +441,7 @@ healthy ways of coping with broken relationships, and family and friends
 are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -472,12 +472,12 @@ that we strengthen our character when we commit to sound values-based viewpoints
 our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 3 Week 3</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE </strong></h4>
 <h4><strong>Secondary 4</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -543,7 +543,7 @@ to the self-esteem of oneself and others and should be avoided</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -580,7 +580,7 @@ personal and emotional boundaries in a relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -612,7 +612,7 @@ a couple handles conflict is critical to the success of their marriage</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -638,12 +638,12 @@ our character when we commit to sound values-based viewpoints (e.g. respect
 for life) and decisions, and speak and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE </strong></h4>
 <h4><strong>Secondary 5</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -704,7 +704,7 @@ our character when we commit to sound values-based viewpoints (e.g. respect
 for life) and decisions, and speak and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 </tbody>
