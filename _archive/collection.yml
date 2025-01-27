@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Catch, Highlight, Multiply.md
       - Application to Transfer Waitlist.md
       - Sec 4 Parents' Briefing Slides.md
       - Sec 3 Parents' Briefing Slides.md
