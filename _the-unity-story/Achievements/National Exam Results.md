@@ -27,3 +27,11 @@ third_nav_title: Achievements
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/all_round_excellence_4E5N_2.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4E_Results.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/4E_Results_2.jpg">
+</div>
+<p></p>
