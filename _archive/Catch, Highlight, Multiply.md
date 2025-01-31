@@ -3,7 +3,6 @@ title: Catch, Highlight, Multiply
 permalink: /catch-highlight-multiply/
 variant: tiptap
 description: ""
-third_nav_title: Achievements
 ---
 <h3><strong>Catch and Highlight Multiply 2024</strong></h3>
 <h3><strong>Term 3</strong></h3>
