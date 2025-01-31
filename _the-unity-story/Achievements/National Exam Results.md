@@ -41,7 +41,4 @@ third_nav_title: Achievements
 </div>
 <p>For 2023 National Exam results and achievements, please click <a href="https://issuu.com/unitysec/docs/website_update_on_students_achievments_26_jan_20" rel="noopener nofollow" target="_blank">here.</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/unitians_in_the_news.jpg">
-</div>
 <p></p>
