@@ -13,9 +13,9 @@ sections:
         - title: Booklist 2025
           description: Sec 1 to 5
           url: https://www.unitysec.moe.edu.sg/students/students-resources/2025-booklist/
-        - title: Sec 1 Parents' Briefing
-          description: 10th Jan 2025
-          url: https://www.unitysec.moe.edu.sg/unity-partners/parents/sec-1-parents-briefing-slides/
+        - title: WA Schedules
+          description: WA1 & WA2 Dates
+          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
   - announcements:
@@ -28,13 +28,6 @@ sections:
             was shared on 10th January here.
           link_text: Click here to view
           link_url: https://unitysec.moe.edu.sg/o-level-briefing-slides/
-        - title: 2024 Unity Sec Prospectus
-          date: 22 November 2024
-          announcement: Dear Parents,  current and potential students, the 2024 Unity
-            Secondary School Prospectus captures the different facets of life in
-            Unity Secondary School.
-          link_text: Click here to view
-          link_url: https://www.unitysec.moe.edu.sg/unity-partners/Parents/newsletter/
   - infopic:
       subtitle: Unity Secondary
       id: infopic
