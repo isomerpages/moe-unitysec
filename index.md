@@ -16,6 +16,9 @@ sections:
         - title: WA Schedules
           description: WA1 & WA2 Dates
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
+        - title: Parents' Briefing Slides
+          description: Sec 4
+          url: https://www.unitysec.moe.edu.sg/unity-partners/parents/sec-4-parents-briefing-slides/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
   - announcements:
