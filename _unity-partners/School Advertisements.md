@@ -23,18 +23,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Snack Stall (selling halal items)</p>
+<p>Japanese &amp; Korean Food Fushion (Halal / Non Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Closed</p>
+<p>14 March 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Traditional Indian Food Stall</p>
+<p>Chinese Cooked Food (Rice &amp; Noodles)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Closed</p>
+<p>14 March 2025</p>
 </td>
 </tr>
 </tbody>
@@ -101,6 +101,14 @@ Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools
 </li>
 <li>
 <p>Healthy and fit to operate the stall.</p>
+</li>
+<li>
+<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
+Food Hygiene Certificate.</p>
+</li>
+<li>
+<p>Successful applicant is required to apply for a food stall license from
+Singapore Food Agency (SFA).</p>
 <p></p>
 </li>
 </ul>
@@ -108,17 +116,27 @@ Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
-Food Hygiene Certificate.</p>
+<p>Have catering experience or experience working in a school environment,
+with a proven track record of success and positive feedback from previous
+school partnerships or contracts. Applicants should have no history of
+food safety violations, contract terminations, or non-renewals due to poor
+performance in school settings.</p>
 </li>
 <li>
-<p>Possess catering experience or experience operating in a school environment.</p>
+<p>Possess strong interpersonal skills, with the ability to interact positively
+and constructively with others. &nbsp;</p>
 </li>
 <li>
-<p>Successful applicant is required to apply for a food stall license from
-Singapore Food Agency (SFA).</p>
+<p>Proven ability to work cooperatively and collaborate well with school
+staff, students and other vendors.</p>
+</li>
+<li>
+<p>Demonstrate a clear understanding of and ability to comply with school
+canteen regulations and policies.</p>
 </li>
 </ul>
+<p><em>Note that preference will be given to applicants who meet the above criteria and show commitment and enthusiasm for building long-term positive relationships within the school community.</em>
+</p>
 <p>Shortlisted applicants will be notified for an interview and will be required
 to provide food sampling for the School Canteen Selection Committee.</p>
 <p></p>
