@@ -10,9 +10,6 @@ sections:
       title: UNITY SECONDARY SCHOOL
       background: /images/website_montage_2025.jpg
       key_highlights:
-        - title: Booklist 2025
-          description: Sec 1 to 5
-          url: https://www.unitysec.moe.edu.sg/students/students-resources/2025-booklist/
         - title: WA Schedules
           description: WA1 & WA2 Dates
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
