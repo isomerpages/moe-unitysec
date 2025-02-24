@@ -380,15 +380,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Khor Li Fon Fiona</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:khor_li_fon_fiona@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khor_li_fon_fiona@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Cheng Yee Ting</p>
 </td>
 <td rowspan="1" colspan="1">
