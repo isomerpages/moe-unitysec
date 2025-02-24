@@ -10,27 +10,24 @@ sections:
       title: UNITY SECONDARY SCHOOL
       background: /images/website_montage_2025.jpg
       key_highlights:
-        - title: Booklist 2025
-          description: Sec 1 to 5
-          url: https://www.unitysec.moe.edu.sg/students/students-resources/2025-booklist/
         - title: WA Schedules
           description: WA1 & WA2 Dates
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
         - title: Parents' Briefing Slides
-          description: Sec 4E5N
-          url: https://www.unitysec.moe.edu.sg/unity-partners/parents/sec-4-parents-briefing-slides/
+          description: Sec 3
+          url: https://www.unitysec.moe.edu.sg/unity-partners/parents/sec-3-parents-briefing-slides/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: O Level Briefing Slides
-          date: 13 January 2025
-          announcement: Dear Graduates, you may download the O Level Briefing Slides that
-            was shared on 10th January here.
+        - title: School Canteen Advertisement
+          date: 24 February 2025
+          announcement: Interested applicants, please click on the link below. Closing
+            date is on 14th March 2025.
           link_text: Click here to view
-          link_url: https://unitysec.moe.edu.sg/o-level-briefing-slides/
+          link_url: https://www.unitysec.moe.edu.sg/unity-partners/sch-adverts/
   - infopic:
       subtitle: Unity Secondary
       id: infopic
