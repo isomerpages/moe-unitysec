@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Students' Resources
 ---
-<p>Dear Graduates, please click on the link below to download the O Level
-briefing slides that was shared on Friday, 10th January:</p>
+<p>Dear Graduands, please click on the link below to download the GCE Examination
+Briefing Slides that was shared on 28th Feb:</p>
 <p></p>
-<p><a href="/files/2024_O_Level_Briefing_Slides_for_Students_on_10_Jan_25_compressed__1_.pdf" rel="noopener nofollow" target="_blank">2024 O-Level Briefing Slides for Students</a>
+<p><a href="/files/2025_Registration_Verification_Briefing_Slides_28_Feb_2025_v2.pdf" rel="noopener nofollow" target="_blank">2025 Registration Verification Briefing Slides</a>
 </p>
+<p></p>
+<p></p>
