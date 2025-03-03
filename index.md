@@ -16,6 +16,9 @@ sections:
         - title: Parents' Briefing Slides
           description: Sec 3
           url: https://www.unitysec.moe.edu.sg/unity-partners/parents/sec-3-parents-briefing-slides/
+        - title: GCE Exam Briefing Slides
+          description: ""
+          url: https://www.unitysec.moe.edu.sg/gce-exam-briefing-slides/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
   - announcements:
