@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Students' Resources/O Level Briefing Slides.md
+      - Students' Resources/GCE Examination Briefing Slides.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/2025 Booklist.md
