@@ -532,6 +532,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Chen Cui Xia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_cui_xia@schools.gov.sg" rel="noopener nofollow" target="_blank">chen_cui_xia@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Victor Tan Yian Liang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:victor_tan_yian_liang_b@schools.gov.sg" rel="noopener nofollow" target="_blank">victor_tan_yian_liang_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
