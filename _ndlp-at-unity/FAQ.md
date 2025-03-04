@@ -8,6 +8,9 @@ variant: tiptap
 <p>This page contains the frequently asked questions by parents.
 <br>Do email to :&nbsp;<a href="mailto:admin_unity_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Unity ICT Admin</a>&nbsp;for any
 enquiries.</p>
+<p>For more information, you may refer to the PDLP Student Device Information
+Kit <a href="/files/Student_Device_Information_Kit_2025__updated_14Feb25_.pdf" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <p><strong>Contents</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -62,8 +65,9 @@ as curriculum-aligned references for students.</p>
 <p><strong>5 .&nbsp;What device will the students be purchasing?</strong>
 </p>
 <p>The students will be purchasing a Chromebook.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%" height="auto" width="100%" src="/images/CB.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/acer_chromebk.jpg">
 </div>
 <p>
 <br>
@@ -93,7 +97,7 @@ considerations of the selection of device is that it will weigh less than
 <p>Technical support will be provided to students through:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;Service-desk&nbsp; support in School - ICT Centre is open from&nbsp;<strong>730am-4.30pm</strong>&nbsp;every
+<p>&nbsp;Service-desk&nbsp; support in School - ICT Centre is open from&nbsp;<strong>7.30am-4.30pm</strong>&nbsp;every
 Monday to Friday</p>
 <p>-&gt; Trouble-shooting of device issues
 <br>-&gt; Solve connectivity issues</p>
@@ -102,16 +106,21 @@ Monday to Friday</p>
 <p>For repair of devices ( hardware issues) - the device will be collected
 from the school to be sent for repairs. Depending on the issue and the
 availability of parts, there will be an average of 2-3 weeks turnaround
-time. During this time, a temporary loan school-owned device will be issued
+time.</p>
+</li>
+<li>
+<p>During this time, a temporary loan school-owned device will be issued
 to students while waiting for their devices to be repaired.</p>
 </li>
 </ul>
 <p><strong>9 .&nbsp;What is the insurance coverage like?</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/insurance coverage.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/insurance_coverage.jpg">
+</div>
+<p><em>*The insurance coverage is only applicable to situations of damages and loss where the student has exercised duty of care and taken precautions to safeguard the device. Acer will make the necessary assessment for claim eligibility.</em>
+</p>
 <p><strong>10 .&nbsp;Will my child/ward be allowed to store the device in school overnight? Where will students store their devices when they go for recess or PE lessons?</strong>&nbsp;</p>
 <p>Students are expected to secure their devices to their table using the
 cable lock that will be purchased in the device bundle.&nbsp; Classrooms
@@ -174,9 +183,8 @@ as part of Google Suite.
 <br>(b)&nbsp;<strong>Microsoft Pro Plus</strong>: Every secondary school student
 will be able to use Microsoft Office tools that&nbsp;include Word, PowerPoint
 and Excel.
-<br>(c)&nbsp;<strong>Zoom</strong>: Every secondary school student will be
-given a Zoom free account with 40 mins time limit&nbsp;using the Student
-iCON for the students’ video conferencing needs.&nbsp;</p>
+<br>
+</p>
 <p>Your child will be guided and informed on the log-in process for these
 applications.</p>
 <h4>Data Protection</h4>
@@ -206,9 +214,6 @@ provider’s terms of use, which can be found here:</p>
 <p>Microsoft Pro Plus: <a href="https://portal.office.com/commerce/mosa.aspx" rel="noopener noreferrer nofollow" target="_blank">https://portal.office.com/commerce/mosa.aspx</a>
 </p>
 </li>
-<li>
-<p>&nbsp;Zoom: <a href="https://zoom.us/docs/en-us/schools-privacy-statement.html" rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/docs/en-us/schools-privacy-statement.html</a>
-</p>
-</li>
 </ul>
+<p></p>
 <p></p>

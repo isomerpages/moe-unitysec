@@ -3,7 +3,6 @@ title: S2 Subject Offering Exercise
 permalink: /s2-subject-offering-exercise/
 variant: tiptap
 description: ""
-third_nav_title: Students' Resources
 ---
 <h4>Release of Appeal outcome</h4>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vV5L76</a>
