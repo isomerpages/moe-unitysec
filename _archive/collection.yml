@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - S2 Subject Offering Exercise.md
       - Catch, Highlight, Multiply.md
       - Application to Transfer Waitlist.md
       - Sec 2 Parents' Briefing Slides.md
