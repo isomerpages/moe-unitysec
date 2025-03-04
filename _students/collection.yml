@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Students' Resources/Sch Holiday Intervention.md
       - Students' Resources/.keep
       - Students' Resources/Students' Resources.md
       - Students' Resources/GCE Examination Briefing Slides.md
