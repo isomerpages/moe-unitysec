@@ -19,6 +19,9 @@ sections:
         - title: GCE Exam Briefing Slides
           description: ""
           url: https://www.unitysec.moe.edu.sg/gce-exam-briefing-slides/
+        - title: Hol Intervention
+          description: Mar & June
+          url: https://www.unitysec.moe.edu.sg/sch-holiday-intervention/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
   - announcements:
