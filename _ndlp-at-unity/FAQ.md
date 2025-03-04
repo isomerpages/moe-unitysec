@@ -8,6 +8,9 @@ variant: tiptap
 <p>This page contains the frequently asked questions by parents.
 <br>Do email to :&nbsp;<a href="mailto:admin_unity_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Unity ICT Admin</a>&nbsp;for any
 enquiries.</p>
+<p>For more information, you may refer to the PDLP Student Device Information
+Kit <a href="/files/Student_Device_Information_Kit_2025__updated_14Feb25_.pdf" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <p><strong>Contents</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -210,7 +213,7 @@ provider’s terms of use, which can be found here:</p>
 <li>
 <p>Microsoft Pro Plus: <a href="https://portal.office.com/commerce/mosa.aspx" rel="noopener noreferrer nofollow" target="_blank">https://portal.office.com/commerce/mosa.aspx</a>
 </p>
-<p></p>
 </li>
 </ul>
+<p></p>
 <p></p>
