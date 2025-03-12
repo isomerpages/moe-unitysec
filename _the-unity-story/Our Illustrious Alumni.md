@@ -7,6 +7,9 @@ variant: tiptap
 <h2>Our Illustrious Alumni</h2>
 <h3>Achievements and Accolades</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Unity_Secondary_School_Aqeel_Mohamed_Azeem_EEE.jpg">
+</div>
 <p></p>
 <p><strong>NGEE ANN POLYTECHNIC’S 2024 GRADUATING CLASS</strong>
 </p>
