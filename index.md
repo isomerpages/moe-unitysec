@@ -13,9 +13,6 @@ sections:
         - title: WA Schedules
           description: WA1 & WA2 Dates
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
-        - title: Parents' Briefing Slides
-          description: Sec 3
-          url: https://www.unitysec.moe.edu.sg/unity-partners/parents/sec-3-parents-briefing-slides/
         - title: GCE Exam Briefing Slides
           description: ""
           url: https://www.unitysec.moe.edu.sg/gce-exam-briefing-slides/
