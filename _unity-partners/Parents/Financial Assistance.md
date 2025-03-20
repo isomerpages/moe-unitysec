@@ -108,7 +108,7 @@ Income (PCI) between S$750 &amp; $1,100
 <li>
 <p>Alternatively, you may also download and complete the application form
 below:
-<br><a href="/files/COVER_PAGE__FAS_2025_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
+<br><a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
 <br>
 </p>
 </li>
@@ -120,7 +120,7 @@ charge :&nbsp;
 </li>
 <li>
 <p>Refer to checklist for documents required below:
-<br><a href="/files/Checklist%20FAS%20Application%20Documents%20to%20be%20submitted%20-%20to%20be%20attach.pdf" rel="noopener noreferrer nofollow" target="_blank">Checklist</a>
+<br><a href="/files/checklist__FAS_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Checklist</a>
 </p>
 </li>
 <li>
