@@ -424,6 +424,21 @@ variant: tiptap
 <p>National</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jeremy Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nominee for the 2024 Public Sector Transformation (PST) Exemplary Service
+Excellence Award (ESEA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
