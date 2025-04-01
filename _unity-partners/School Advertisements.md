@@ -26,7 +26,7 @@ description: ""
 <p>Japanese &amp; Korean Food Fushion (Halal / Non Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 March 2025</p>
+<p>2 April 2025</p>
 </td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ description: ""
 <p>Chinese Cooked Food (Rice &amp; Noodles)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 March 2025</p>
+<p>2 April 2025</p>
 </td>
 </tr>
 </tbody>
