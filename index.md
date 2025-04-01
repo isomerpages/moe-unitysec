@@ -27,8 +27,8 @@ sections:
       announcement_items:
         - title: School Canteen Advertisement
           date: 24 February 2025
-          announcement: Interested applicants, please click on the link below. Closing
-            date is on 14th March 2025.
+          announcement: Interested applicants, please click on the link below. Deadline
+            extended to 2nd April, 5pm.
           link_text: Click here to view
           link_url: https://www.unitysec.moe.edu.sg/unity-partners/sch-adverts/
   - infopic:
