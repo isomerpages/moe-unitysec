@@ -11,7 +11,7 @@ sections:
       background: /images/website_montage_2025.jpg
       key_highlights:
         - title: WA Schedules
-          description: WA1 & WA2 Dates
+          description: WA2 Dates (updated 8/4)
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
         - title: GCE Exam Briefing Slides
           description: ""

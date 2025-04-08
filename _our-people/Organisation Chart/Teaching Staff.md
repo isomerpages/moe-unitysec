@@ -148,15 +148,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chng Kim Tee Evangeline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chng_kim_tee_evangeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_kim_tee_evangeline@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Darren Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -384,6 +375,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheng_yee_ting@schools.gov.sg" rel="noopener nofollow" target="_blank">cheng_yee_ting@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Fiona Khor Li Fon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khor_li_fon_fiona@schools.gov.sg" rel="noopener nofollow" target="_blank">khor_li_fon_fiona@schools.gov.sg</a>
 </p>
 </td>
 </tr>
