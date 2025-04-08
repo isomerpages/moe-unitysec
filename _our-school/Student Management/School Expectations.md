@@ -914,7 +914,7 @@ CCA sessions and school events punctually.</p>
 <td rowspan="1" colspan="1">
 <p>A student is considered to be late for school when he/she fails to be
 with his/her class at the point of assembly (parade square/hall/classrooms)
-at 7.25am.</p>
+at <strong><u>7.30am</u></strong>.</p>
 </td>
 </tr>
 <tr>
