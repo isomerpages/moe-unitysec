@@ -357,7 +357,6 @@ floor himself.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>2LEAD 2</strong>
 </p>
 <table style="minWidth: 50px">
@@ -391,7 +390,6 @@ highly engaged during lessons.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>2SERVE 3</strong>
 </p>
 <table style="minWidth: 50px">
@@ -420,7 +418,6 @@ highly engaged during lessons.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>2SERVE 4</strong>
 </p>
@@ -451,7 +448,6 @@ highly engaged during lessons.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>2ACTUALISE 5</strong>
 </p>
 <table style="minWidth: 50px">
@@ -480,7 +476,6 @@ highly engaged during lessons.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>2ACTUALISE 6</strong>
 </p>
@@ -515,21 +510,6 @@ contribute more to the class.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>2INSPIRE 7</strong>
 </p>
@@ -590,9 +570,498 @@ role model to her peers.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<h3>&nbsp;&nbsp;<u>SEC 3</u></h3>
+<p><strong>3LEAD1</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NUR SUFFIANNAH BTE SULAIMAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>She volunteerly clean the classroom before the morning assembly
+<br>shown commitment in coming early on Friday mornings to open the cca venues
+and to bring up the necessary props ..</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MARCUS NEO SHI TAO</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The classroom was tidied by the other classes, he volunteers his service
+to sweep the floor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>YAR YONG ZHI LUTHIAS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>He volunteerly offer his service to help his teachers to collect some
+forms for the class</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>3LEAD 2</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>JIVINESWARI PREETI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preeti is dedicated to her co-curricular activities and shows a good level
+of responsibility when working in a team. She can be relied upon to contribute
+to the group's efforts and consistently follows through on her tasks</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SHEIK NIQ NYDAL BIN SHEIK FADHIR</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Niq has been making contributions when working as a team. Consistently
+showing respect and commitment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CHOW CHENG YOU</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheng models the way by taking the initiative to come up with creative
+classroom decoration ideas. He also has a positive influence on his peers,
+encouraging them to be active contributors and fostering a collaborative
+environment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>KOH RONG SEN (XU RONGSEN)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>He volunteered to initiate and conduct class bonding games.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>JERIN CHOO JIE LING</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>She willingly take up CSL and put in effort in presenting VIA plans to
+the class.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DAROLD GAN JING XUAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>He took up PSL role despite being a more reserved student. Able to take
+up challenges that are against his personality.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>3SERVE 3</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TAN XIN LEI MEGAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Integrity : She had found Mdm Syazwan's hanphone and kept it safely.
+<br>Informed the teacher and pass it to her.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LAU ZHI WEI, KENZIE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inspire &amp; Lead : Lead in decorating the class notice board. Worked
+with the team to set up the board.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>EVANDER NG SHAO XUAN (HUANG SHAOXUAN)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inspire &amp; Lead : Lead in decorating the class notice board. Worked
+with the team to set up the board.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>YAP ZUO LE DONNIE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inspire &amp; Lead : Lead in decorating the class notice board. Worked
+with the team to set up the board.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ADRY IZZAT BIN ABDULHALIM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inspire &amp; Lead : Lead in decorating the class notice board. Worked
+with the team to set up the board.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ADLU ZEQE BIN HAIRULHISHAM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inspire &amp; Lead : Lead in decorating the class notice board. Worked
+with the team to set up the board.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>3SERVE 4</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MINN MYAT THIT ZAW</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minn Myat models the way by leading class greetings, ensuring class' punctuality
+for hall assembly, and proposing ideas to strengthen class bonding. His
+actions reflect responsibility, respect, and a commitment to fostering
+unity in class.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MUHAMMAD RAZWAN RAFIQY BIN AZMAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Razwan models the way by demonstrating responsibility and care. He actively
+shares ideas in class discussions, offers help to peers, and checks in
+on others’ needs, fostering a supportive learning environment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SARAH ASHIQA ACHMAD</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sarah takes the initiative and models the way by leading the creation
+of the CNY class video. She encourages the heart through her proactive
+efforts, demonstrating care and concern for her peers while fostering class
+spirit.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CHUA JING JIA KIZEL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kizel takes the initiative by proactively coordinating about the class's
+Values in Action project for the year. She models the way with her care
+and concern, consistently offering support to her classmates and ensuring
+their well-being.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NUR HUNAIFA MURSYIDA BINTI ABDULLAH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hunaifa takes the initiative and models the way by leading the filming
+of the CNY class video.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TAY YU THONG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yu Thong takes the initiative by proactively coordinating about the class's
+Values in Action project for the year.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>3ACTUALISE 5</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ESSABELLE TOH YI HAN</strong>
+</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>Challenge the Process – They took the initiative to enhance the classroom
+environment, introducing fresh and creative ideas for the notice boards
+rather than following the usual approach.</p>
+<p>&nbsp;</p>
+<p>Inspire a Shared Vision – They motivated their classmates by incorporating
+elements that reflected the class identity, such as mottos and Spotify
+recommendations, monthly birthday, fostering a sense of belonging.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>KOH HUI CHENG</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ARIFAH BINTE AMRAN</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ALYA ADRIANA BINTE ABDULLAH</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>3ACTUALISE 6</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>BARRITE DENISE OLEXA DONGEL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student displayed value of compassion by assisting her classmate, Danial,
+in Math and reminding him about homework regularly.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NICHOLAS SOO JING YI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student displayed value of compassion by assisting his classmate, Junbin,
+in schoolwork especially Math.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>JOSEPH CHUA ZHI JUN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student displayed good leadership skills by guiding and motivating their
+teammates during recent Scouts Camp at Pulau Ubin, ensuring that everyone
+participated actively and worked together towards common goal.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>BALKAR SINGH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Balkar shown his leadership and empathy by consistently checking in on
+teammates, ensuring their well-being, and offering support throughout the
+recent Scouts Camp at Pulau Ubin.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>G K SRI HARIHAR</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Although he is not the subject rep, Harihar has been very helpful in class
+and is very participative during lessons. He displays the value of respect
+to his teacher by always offering to help her with tasks.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>3INSPIRE 7</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DHANASEKARAN JEEVAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jeevan models the way by setting a good example as a subject rep. He shows
+initiative and is helpful, he also pays attention in class and is always
+on task.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HANS FITRI BIN HERDY</strong>
+</p>
+</td>
+<td rowspan="5" colspan="1">
+<p>During the Total Defence Day Commemoration, five of our Table Tennis students
+took the lead in facilitating a Basic First-Aid Training Activity for our
+Secondary 1 students. Their efforts in sharing essential first-aid skills
+truly exemplify the spirit of Enabling Others to Act, empowering their
+juniors with essential skills. Let’s appreciate their contribution!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>JAAISHWIN MOHANRAJ</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>JAYDEN YAP EE HEE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LIN ZHIHENG LOUIS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NEO YU HENG</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>3INSPIRE 8</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NG KANG JUN LUCAS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Helped crafted video montage for PTM.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ALOYSIUS LEE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead the class in the planning of the upcoming VIA.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>VIBANDOR CAELAN ELYSIA GUDIAGA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead the class in the planning of the upcoming VIA.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>GAJJELA HARSHANI REDDY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead the class in the planning of the upcoming VIA.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>T SHREE DEVI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Demonstrated responsibility in following through tasks assigned by CCA
+teacher.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>break</p>
+<p>&nbsp;</p>
+<p></p>
 <p></p>
