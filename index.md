@@ -13,9 +13,9 @@ sections:
         - title: WA Schedules
           description: WA2 Dates (updated 8/4)
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
-        - title: GCE Exam Briefing Slides
-          description: ""
-          url: https://www.unitysec.moe.edu.sg/gce-exam-briefing-slides/
+        - title: Sec 4&5 Prelim
+          description: Updated on 14/4
+          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
         - title: Hol Intervention
           description: Mar & June
           url: https://www.unitysec.moe.edu.sg/sch-holiday-intervention/
