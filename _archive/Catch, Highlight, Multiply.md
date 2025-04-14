@@ -1059,7 +1059,299 @@ teacher.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<h3>&nbsp;<u>SEC 4</u></h3>
+<p><strong>4LEAD1</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CHIA WEI JING KENDRICK</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>He demonstrated the values of responsibility, compassion and empathy in
+helping a fellow classmate who due to his injury, has missed school for
+a long period. He has been tasked to set up the live streaming sessions
+for his friend and he has diligently been doing that.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MUHAMMAD RAYN ANAQI BIN ABDUL HELMI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>He demonstrated the values of responsibility, compassion and empathy in
+helping a fellow classmate who due to his injury, has missed school for
+a long period. He has been tasked to set up the live streaming sessions
+for his friend and he has diligently been doing that.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MAHALIK KRISHNA ALAMA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>He demonstrated the values of responsibility, compassion and empathy in
+helping a fellow classmate who due to his injury, has missed school for
+a long period. He has been tasked to set up the live streaming sessions
+for his friend and he has diligently been doing that.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NUR NATHIRAH BINTE KAMALDIN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>She demonstrated the values of responsibility and discipline in managing
+the Sec One student during CCA. Every Friday, she can be relied upon to
+teach the sec ones the basics theatrical skills and she has shown much
+initiative in coming up with ideas on how to engage the Sec Ones. She has
+faced the problems and challenges with much positivity and always thinks
+of ways to do things better during the Sec 1 sessions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>RAFFEE MOHAMED RAHEESH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>He demonstrated the values of responsibility in assisting Nathirah in
+managing and teaching the Sec One students. He is always willing to lend
+a helping hand with the props, sets and arrangement of furniture during
+CCA training sessions.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>4LEAD 2</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CHUA YI XIN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yi Xin's <strong>Enables Others to Act </strong>by creating a supportive
+environment where the sec 1s feel comfortable talking to her.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>UMAIRAH BINTE MOHAMMAD FAUZI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Umairah <strong>Encourages the Heart </strong>by always patiently guiding
+the sec 1 students, especially to those who are being grouped with her.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>AHMAD ALFYAN BIN ZURAIMI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ahmad shows committment in his academic studies this year by attending
+all his interventions faithfully and in addition, he would always clarifies
+his doubt with the teacher without much hesitation. Demonstrates very positive
+attitude this year.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>4SERVE 3</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NG YI TING, LAUREEN</strong>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Both Laureen and Beibei showed commitment by dedicating their efforts,
+time and patience to training the Sec 1s in the basic choreography for
+Dance. They also model the way by setting an example on how they should
+lead and guide their juniors.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ZHAO BEIBEI</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MUHAMMAD AQILL ROFAN BIN ZAKI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aqill showed perseverance and resilience when he was injured, yet he did
+not use it as an excuse to stop training and worked hard to get better.
+He continues to stay positive and never gave up hope.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>4SERVE 4</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SARAVANA KUMAR SIDDHARTH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siddarh, although being appointed as a PSL for the first time, tries his
+best to engage the class.
+<br>He models the way by initiating class bonding games too so that the peers
+can follow through well.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>AMIRTHINI PARAMASIVAM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Amirthini showed commitment by dedicating their efforts as a PSL . She
+model the way by leading the class in brainstorming bonding games and activities
+so that others enjoy the fun and build bonds with one another.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>RAMESH YAZHINI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yazhini help and support her PSL team. She plays a role in facilitating
+class bonding games.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>4ACTUALISE 5</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>PEH WEI XUAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>She demonstrated responsibility, compassion and empathy. She welcomed,
+befriended and helped her classmate to adapt to school life againl.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MAGPANTAY MIGUEL ANTONIO SOLIMAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>He started a Math Study Group twice weekly to study with and help his
+classmates who are very weak at Math.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SITI NUR BALQIS BINTI RAZAK</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>She demonstrated responsibility, compassion and empathy. She welcomed
+and befriended and helped her classmate to adapt to school life again.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>4INSPIRE 7</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>YAP WOOGAN ZHENG RONG, COLIN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>She showed compassion during NSG competition. When someone felt low after
+her match, Avril would console her with soothing words. She also demonstrates
+perseverance as she keeps training hard and taking out time to attend additional
+training sessions even when she is busy.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>4INSPIRE 8</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SO JAYDEN RILEY UY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jayden shows responsibility as a subject rep, and is resilient in showing
+his commitment to his role. He has improved and gained confidence through
+his role as a Geog Subject Rep. Keep it up Jayden!</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
