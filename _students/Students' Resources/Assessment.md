@@ -6,6 +6,15 @@ third_nav_title: Students' Resources
 variant: tiptap
 ---
 <h2>Assessment</h2>
+<p>Dear Sec 4 and 5 students, please refer to your Prelim schedule below:</p>
+<p><a href="/files/2025_Term_2_prelim_exam_schedule_finalised.pdf" rel="noopener nofollow" target="_blank">Term 2 Prelim Exam Schedule for Sec 4/5</a>
+</p>
+<p>Please also refer to the Semester 2 Assessment Plan Overview (For Sec
+4 &amp; 5 only) which also includes MT Prelim in Term 2:</p>
+<p><a href="/files/2025_Sem_2_Assessment_Plan_Overview__Sec_4_5_.pdf" rel="noopener nofollow" target="_blank">Sem 2 Assessment Plan Overview for Sec 4/5</a>
+</p>
+<p></p>
+<p></p>
 <p>Dear Students, please click on the respective Assessment Plan Overviews
 (Semester 1) below:</p>
 <p><a href="/files/2025_Assessment_Plan_Overview_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Assessment Plan Overview</a>
