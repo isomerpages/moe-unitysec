@@ -12,6 +12,7 @@ variant: tiptap
 <p>Please also refer to the Semester 2 Assessment Plan Overview (For Sec
 4 &amp; 5 only) which also includes MT Prelim in Term 2:</p>
 <p><a href="/files/2025_Sem_2_Assessment_Plan_Overview__Sec_4_5__v1.pdf" rel="noopener nofollow" target="_blank">Sem 2 Assessment Plan Overview for Sec 4/5</a>
+<a href="/files/2025_Sem_2_Assessment_Plan_Overview__Sec_4_5__new.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 <p></p>
 <p></p>
