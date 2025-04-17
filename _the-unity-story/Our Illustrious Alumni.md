@@ -4,7 +4,7 @@ permalink: /the-unity-story/alumni/
 description: ""
 variant: tiptap
 ---
-<h2>Our Illustrious Alumni</h2>
+<h2>Outstanding Alumni</h2>
 <h3>Achievements and Accolades</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -83,7 +83,7 @@ variant: tiptap
 <p><a href="https://www.straitstimes.com/singapore/education/streaming-has-both-pitfalls-and-benefits-ong-ye-kung" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/education/streaming-has-both-pitfalls-and-benefits-ong-ye-kung</a>
 </p>
 <p></p>
-<h3><strong>OUTSTANDING UNITIANS</strong></h3>
+<h3><strong>Our Illustrious Alumni</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Alumni.jpg">
 </div>
