@@ -2,7 +2,6 @@ collections:
   the-unity-story:
     output: true
     order:
-      - Outstanding Alumni.md
       - The Unity Story.md
       - Achievements/.keep
       - Achievements/National Exam Results.md
@@ -10,3 +9,4 @@ collections:
       - Achievements/CCA Achievements.md
       - Achievements/Catch, Highlight, Multiply.md
       - Illustrious Alumni.md
+      - Outstanding Alumni.md
