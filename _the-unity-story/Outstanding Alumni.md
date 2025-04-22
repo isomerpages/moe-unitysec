@@ -4,7 +4,7 @@ permalink: /the-unity-story/outstanding-alumni/
 variant: tiptap
 description: ""
 ---
-<h2>Outstanding Alumni</h2>
+<h2><strong>Our Outstanding Alumni</strong></h2>
 <h3>Achievements and Accolades</h3>
 <p></p>
 <div class="isomer-image-wrapper">
