@@ -1,10 +1,10 @@
 ---
-title: Our Illustrious Alumni
-permalink: /the-unity-story/alumni/
-description: ""
+title: Outstanding Alumni
+permalink: /the-unity-story/outstanding-alumni/
 variant: tiptap
+description: ""
 ---
-<h2>Our Illustrious Alumni</h2>
+<h2><strong>Our Outstanding Alumni</strong></h2>
 <h3>Achievements and Accolades</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -83,36 +83,5 @@ variant: tiptap
 <p><a href="https://www.straitstimes.com/singapore/education/streaming-has-both-pitfalls-and-benefits-ong-ye-kung" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/education/streaming-has-both-pitfalls-and-benefits-ong-ye-kung</a>
 </p>
 <p></p>
-<h3><strong>OUTSTANDING UNITIANS</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Alumni.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/02_Alumni.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/03_Alumni.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04_Alumni.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/05_Alumni.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/06_Alumni.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/07_Alumni.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/08_Alumni.jpg">
-</div>
+<h3></h3>
 <p></p>
