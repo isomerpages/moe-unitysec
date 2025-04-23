@@ -32,7 +32,7 @@ variant: tiptap
 </p>
 <p><a href="/files/Sec_3_WA2_caa_21042025.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
-<p><a href="/files/Sec_45_WA2_caa_21042025.pdf" rel="noopener nofollow" target="_blank">Sec 4/5 (Updated on 8th April)</a>
+<p><a href="/files/Sec_45_WA2_caa_21042025.pdf" rel="noopener nofollow" target="_blank">Sec 4/5</a>
 </p>
 <h3></h3>
 <p></p>
