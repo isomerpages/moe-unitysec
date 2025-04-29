@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Our Outstanding Alumni</strong></h2>
 <h3>Achievements and Accolades</h3>
 <p></p>
-<h3><strong><u>2025 </u></strong></h3>
+<h3><strong><u>2025</u></strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
