@@ -7,6 +7,63 @@ description: ""
 <h2><strong>Our Outstanding Alumni</strong></h2>
 <h3>Achievements and Accolades</h3>
 <p></p>
+<h3><strong><u>2025</u></strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>Name</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Award(s)</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Year</em></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>NUR IZZATI BINTE MUHAMMAD ANSAR</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Diploma in Applied Chemistry with Merit <br>MYO Restobar Scholarship <br>SCSS Silver Medal Award</em>
+</p>
+<p>*<em> Diploma Silver Medal Awards recognise the second-best graduating students for excellence in their respective diplomas</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>2025</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>TAN YAN HON TIMOTHY</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Diploma in Aerospace Engineering with Merit</em>
+</p>
+<p>*<em> The Diploma with Merit is awarded to students who are in the top 10% of their course</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mujeebur_rahman.jpg">
 </div>
