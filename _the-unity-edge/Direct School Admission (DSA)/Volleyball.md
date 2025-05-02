@@ -5,10 +5,9 @@ description: ""
 third_nav_title: Direct School Admission (DSA)
 variant: tiptap
 ---
-<h1>Direct School Admission (DSA) 2025</h1>
-<h2></h2>
-<h3>Actualising Sportsmanship Through Basketball Programme</h3>
-<h3>Background</h3>
+<h1>Volleyball</h1>
+<h3>Direct School Admission (DSA)<br>Actualising Sportsmanship Through Volleyball Programme</h3>
+<h3><strong>Background</strong></h3>
 <p>The DSA-Sec Exercise was first introduced in 2004 as part of MOE’s move
 towards a more flexible and broad-based education system. Under the DSA-Sec
 Exercise, participating secondary schools will be able to select a percentage
@@ -19,12 +18,12 @@ and non-academic achievements and talents.</p>
 offer up to 20% of the Secondary One places to students, Unity Secondary
 School, with the years of experience, is well-equipped with the expertise
 to maximise the potential of this larger pool of talent.</p>
-<h3>School Vision</h3>
+<h3><strong>School Vision</strong></h3>
 <p>Our vision is to nurture students to Lifelong Learners, Inspiring Leaders.
 We believe that sports provide a platform to equip our students with the
 values of Respect, Compassion, Commitment, Integrity and Perseverance to
 develop the child's leadership qualities.</p>
-<h3>Achievements</h3>
+<h3><strong>Achievements</strong></h3>
 <p>The table below summarises our basketball achievements which affirms the
 effective structures and processes that we have put in place within the
 programme despite our school’s short history.</p>
