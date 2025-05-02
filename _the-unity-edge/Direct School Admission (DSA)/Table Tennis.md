@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Direct School Admission (DSA)
 variant: tiptap
 ---
-<h2>Table Tennis</h2>
-<h5>Direct School Admission (DSA)<br>Actualising Sportsmanship Through Table Tennis Programme</h5>
-<h4>Background</h4>
+<h1>Table Tennis</h1>
+<h3>Direct School Admission (DSA)<br>Actualising Sportsmanship Through Table Tennis Programme</h3>
+<h4><strong>Background</strong></h4>
 <p>The DSA-Sec Exercise was first introduced in 2004 as part of MOE's move
 towards a more flexible and broad-based education system. Under the DSA-Sec
 Exercise, participating secondary schools will be able to select a percentage
@@ -17,12 +17,12 @@ academic and non-academic achievements and talents.</p>
 <p>Unity Secondary School will be offering up to 20% of the Secondary One
 places to students with talent in table tennis, to build on our niche area
 in table tennis.</p>
-<h4>School Vision&nbsp;</h4>
+<h4><strong>School Vision</strong>&nbsp;</h4>
 <p>Our vision is to nurture students to Lifelong Learners, Inspiring Leaders.
 We believe that sports provide a platform to equip our students with the
 values of Respect, Compassion, Commitment, Integrity and Perseverance to
 develop the child leadership qualities.</p>
-<h4>Achievements</h4>
+<h4><strong>Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Consistent improvement in performance for B Division Girls in National
@@ -33,11 +33,143 @@ School Games (NSG)</p>
 for our players to develop character and to achieve excellence.</p>
 </li>
 </ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_TT_06.jpg">
-</div>
-<h4>Programme&nbsp;</h4>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="5">
+<p><strong>Table Tennis</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>C Div <br>(under 14)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>B Div <br>(under 17)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>&nbsp;</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Year</em>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Zonal</em>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><em>Zonal</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Top 4 (Girls)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Top 3(Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Top 4(Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Both our C boys and C girls achieved Top 4 in NSG tier 2 (Pool stage)</p>
+<p>Promoted to tier 1 (League stage) and emerged as one of the Top 16 teams
+in the NSG Finals.</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Top 4(Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Both our C boys and C girls achieved Top 4 in NSG tier 2 (Pool stage)</p>
+<p>Promoted to tier 1 (League stage) and emerged as one of the Top 12 teams
+in the NSG Finals.</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Top 3(Girls)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Programme</strong>&nbsp;</h4>
 <p>Unity Secondary School provides ample opportunities and a comprehensive
 development programme to groom our table tennis players into outstanding
 players. Besides building the essential skills and knowledge, the programme
@@ -66,23 +198,13 @@ sessions.</p>
 <p>We have a team of passionate, committed and experienced teachers and coaches
 who oversee the physical, social and emotional well-being as well as the <strong>academic progress</strong> of
 the players.</p>
-<p><strong>For more information on our school and DSA programmes, do visit our DSA website at</strong> 
-<a href="https://tinyurl.com/unitydsa" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/unitydsa</a>
-</p>
-<h4>Selection Criteria</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Table Tennis Skills Assessment</p>
-</li>
-</ol>
+<p></p>
+<h4><strong>Selection Criteria</strong></h4>
+<h4>Table Tennis Skills Assessment</h4>
 <p>Applicants will undergo a table tennis skills assessment which includes
 evaluation of fore-hand, back-hand, hand-eye coordination (reflexes) and
 footwork.</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Interview</p>
-</li>
-</ol>
+<h4>Interview</h4>
 <p>Applicants will go through an interview on the selection day.</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
@@ -94,7 +216,7 @@ records.</p>
 </p>
 <p><strong>Students who are successfully admitted to the school through DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for years 1 - 4.</strong>
 </p>
-<h4>Application Procedure</h4>
+<h4><strong>Application Procedure</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsa_appl_TT.jpg">
@@ -111,17 +233,14 @@ is free-of-charge and will be open in May.</p>
 <p>2. If you are unable to apply online, approach your child's primary school
 for assistance. <strong>Closing date</strong> for DSA application:&nbsp; <strong><em>End May yearly</em></strong>.</p>
 <p>All applicants will be notified of the outcome of their application via
-post by <strong><em>Mid Sep yearly</em></strong>.</p>
+post by <strong>25 Aug - 4 Sep 2025</strong>..</p>
 <p><strong>Note: <br></strong> Other applicants not studying in MOE mainstream
 primary schools. They need to apply for a Registration Number (RGxxxxxxx)
 to access the DSA-Sec Portal. Schools may refer them to MOE website at:
 <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsa_dates.jpg">
-</div>
-<h5>Contacts</h5>
+<h4>Contacts</h4>
 <p><strong>Mr Low Yee Fun</strong> 
 <br><em>HOD PE/CCA</em> 
 <br>Tel: 67671070 ext 363
@@ -138,7 +257,7 @@ to access the DSA-Sec Portal. Schools may refer them to MOE website at:
 <br>67671070
 <br>Email: <a href="unity_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">unity_ss@moe.edu.sg</a>
 </p>
-<h5>FREQUENTLY ASKED QUESTIONS</h5>
+<h4>FREQUENTLY ASKED QUESTIONS</h4>
 <p><strong><u>Actualising Sportsmanship Through Table Tennis Programme</u></strong>
 </p>
 <ol data-tight="true" class="tight">
