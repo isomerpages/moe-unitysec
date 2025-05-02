@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Direct School Admission (DSA)
 variant: tiptap
 ---
-<h2>Basketball</h2>
-<h5>Direct School Admission (DSA)<br>Actualising Sportsmanship Through Basketball Programme</h5>
-<h4>Background</h4>
+<h1>Basketball</h1>
+<h2>Direct School Admission (DSA)<br>Actualising Sportsmanship Through Basketball Programme</h2>
+<h4><strong>Background</strong></h4>
 <p>The DSA-Sec Exercise was first introduced in 2004 as part of MOE's move
 towards a more flexible and broad-based education system. Under the DSA-Sec
 Exercise, participating secondary schools will be able to select a percentage
@@ -18,12 +18,12 @@ and non-academic achievements and talents.</p>
 offer up to 20% of the Secondary One places to students, Unity Secondary
 School, with the years of experience, is well-equipped with the expertise
 to maximise the potential of this larger pool of talent.</p>
-<h4>School Vision&nbsp;</h4>
+<h4><strong>School Vision&nbsp;</strong></h4>
 <p>Our vision is to nurture students to Lifelong Learners, Inspiring Leaders.
 We believe that sports provide a platform to equip our students with the
 values of Respect, Compassion, Commitment, Integrity and Perseverance to
 develop the child leadership qualities.</p>
-<h4>Achievements</h4>
+<h4><strong>Achievements</strong></h4>
 <p>The tables below summarises our basketball achievements which affirms
 the effective structures and processes that we have put in place within
 the programme despite our school’s short history.</p>
@@ -260,7 +260,8 @@ the programme despite our school’s short history.</p>
 </tr>
 </tbody>
 </table>
-<p>* in selected years</p>
+<p><em>* in selected years</em>
+</p>
 <p>Based on the new NSG format:</p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -342,13 +343,14 @@ the programme despite our school’s short history.</p>
 </tr>
 </tbody>
 </table>
-<p>* in selected years</p>
+<p><em>* in selected years</em>
+</p>
 <p></p>
 <p>Over the past few years, Unity has produced many outstanding players who
 went on to represent Singapore Schools as well as Singapore at youth, national
 and professional levels. Unity&nbsp;Secondary School provides a&nbsp;<strong>conducive environment for our players to develop character and to achieve excellence.</strong>
 </p>
-<h4>Programme&nbsp;</h4>
+<h4><strong>Programme&nbsp;</strong></h4>
 <p>Unity Secondary School has a comprehensive development programme to groom
 our basketballers into outstanding players.&nbsp; Besides building the
 essential skills and knowledge, the programme is structured to provide
@@ -374,7 +376,7 @@ game. These include</p>
 <p>We have a team of passionate, committed and experienced teachers and coaches
 who oversee the physical, social and emotional well-being&nbsp;as well
 as the&nbsp;<strong>academic progress</strong>&nbsp;of the players.</p>
-<h4>Wall of Fame in Unity</h4>
+<h4><strong>Wall of Fame in Unity</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/walloffame_03.jpg">
@@ -482,7 +484,7 @@ expected to <strong>honour their commitment </strong>and participate in
 the activities related to the talent that they have selected for the number
 of years in the school.</p>
 <p></p>
-<h4>Application Procedure</h4>
+<h4><strong>Application Procedure</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_application_timeline.jpg">
@@ -503,7 +505,7 @@ to access the DSA-Sec Portal. Schools may refer them to MOE website at:
 </p>
 <h4></h4>
 <p></p>
-<h4>Contacts</h4>
+<h4><strong>Contacts</strong></h4>
 <p><strong>Mr Low Yee Fun</strong> 
 <br><em>HOD PE/CCA</em> 
 <br>Tel: 67671070 ext 363
