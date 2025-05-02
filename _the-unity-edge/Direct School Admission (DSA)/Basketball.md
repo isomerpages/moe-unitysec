@@ -27,10 +27,322 @@ develop the child leadership qualities.</p>
 <p>The tables below summarises our basketball achievements which affirms
 the effective structures and processes that we have put in place within
 the programme despite our school’s short history.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prev_nsg_format.jpg">
-</div>
+<p>Based on the previous NSG format:</p>
+<table style="minWidth: 225px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p><strong>Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="4">
+<p><strong>Girls</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>C Division Boys (Under 14)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>B Division Boys (Under 17)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>C Division Girls (Under 14)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>B Division Girls (Under 17)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Zonal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Zonal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Zonal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Zonal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>National</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2001 - 2009</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> - 1<sup>st</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> - 1<sup>st</sup>*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> - 1<sup>st</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> - 2<sup>nd</sup>*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> - 1<sup>st</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> - 1<sup>st</sup>*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> - 1<sup>st</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> - 2<sup>nd</sup>*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2010 - 2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> - 1<sup>st</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8 - 1<sup>st</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8 - 1<sup>st</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> - 1<sup>st</sup>*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> - 1<sup>st</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8 - 3<sup>rd</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> - 1<sup>st</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8 - 2<sup>nd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018 - 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> - 2<sup>nd</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8 - 1<sup>st</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> - 3<sup>rd</sup>*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup> - 2<sup>nd</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8 - 3<sup>rd</sup>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Top 8 - 3<sup>rd</sup>
+</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>4<sup>th</sup>*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Not applicable</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Not applicable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Not applicable</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Not applicable</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 16</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>* in selected years</p>
+<p>Based on the new NSG format:</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Girls</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>C Division Boys (Under 14)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>B Division Boys (Under 17)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>C Division Girls (Under 14)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>B Division Girls (Under 17)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 2 Ongoing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 1 Ongoing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>* in selected years</p>
 <p></p>
 <p>Over the past few years, Unity has produced many outstanding players who
 went on to represent Singapore Schools as well as Singapore at youth, national
@@ -173,27 +485,24 @@ of years in the school.</p>
 <h4>Application Procedure</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/application_timeline.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_application_timeline.jpg">
 </div>
 <p>1) Parents can log in to the DSA-Sec portal with SingPass to apply. Application
 for DSA-Sec can be submitted through the online DSA-Sec Portal. The application
 is free-of-charge and will be open in May.</p>
 <p>For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p>2) If you are unable to apply online, approach your child's primary school
-for assistance. <strong>Closing date</strong> for DSA application:&nbsp;
-End May yearly.</p>
+for assistance. <strong>Closing date</strong> for DSA application:&nbsp; <strong>3rd June 2025</strong>
+</p>
 <p>All applicants will be notified of the outcome of their application via
-post by <strong>Mid Sep yearly</strong>.</p>
+post by <strong>25 Aug - 4 Sep 2025</strong>.</p>
 <p><strong>Note:<br></strong> Other applicants not studying in MOE mainstream
 primary schools. They need to apply for a Registration Number (RGxxxxxxx)
 to access the DSA-Sec Portal. Schools may refer them to MOE website at:
 <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
-<h4><strong>Application Procedure</strong></h4>
+<h4></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_bball.jpg">
-</div>
 <h4>Contacts</h4>
 <p><strong>Mr Low Yee Fun</strong> 
 <br><em>HOD PE/CCA</em> 
