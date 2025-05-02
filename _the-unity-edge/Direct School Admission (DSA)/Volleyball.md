@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Direct School Admission (DSA)
 variant: tiptap
 ---
-<h1>Direct School Admission (DSA) 2025</h1>
-<h2></h2>
-<h3>Actualising Sportsmanship Through Volleyball Programme</h3>
+<h1>Volleyball</h1>
+<h3>Direct School Admission (DSA)<br>Actualising Sportsmanship Through Volleyball Programme</h3>
 <h3>Background</h3>
 <p>The DSA-Sec Exercise was first introduced in 2004 as part of MOE’s move
 towards a more flexible and broad-based education system. Under the DSA-Sec
