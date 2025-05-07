@@ -2,10 +2,11 @@ collections:
   unity-partners:
     output: true
     order:
+      - Parents/.keep
+      - Parents/Sec 1 Parents' Briefing Slides.md
+      - Parents/Sec 2 Parents' Briefing Slides.md
       - Parents/Sec 3 Parents' Briefing Slides.md
       - Parents/Sec 4 Parents' Briefing Slides.md
-      - Parents/Sec 1 Parents' Briefing Slides.md
-      - Parents/.keep
       - Parents/Parent’s Newsletter.md
       - Parents/Parents Gateway.md
       - Parents/Useful contacts.md
