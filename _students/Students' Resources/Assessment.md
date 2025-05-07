@@ -19,7 +19,7 @@ variant: tiptap
 (Semester 1) below:</p>
 <p><a href="/files/2025_Assessment_Plan_Overview_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Assessment Plan Overview</a>
 </p>
-<p><a href="/files/Assessment_Plan_Overview_Sec_2_caa070525.pdf" rel="noopener nofollow" target="_blank">Sec 2 Assessment Plan Overview</a>
+<p><a href="/files/Assessment_Plan_Overview_Sec_2_caa070525.pdf" rel="noopener nofollow" target="_blank">Sec 2 Assessment Plan Overview (updated on 7th May)</a>
 </p>
 <p><a href="/files/2025_Assessment_Plan_Overview_Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3 Assessment Plan Overview</a>
 </p>
