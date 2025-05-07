@@ -21,15 +21,6 @@ sections:
           url: https://www.unitysec.moe.edu.sg/sch-holiday-intervention/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
-  - infopic:
-      subtitle: Unity Secondary
-      id: infopic
-      button: Click to view
-      url: https://www.unitysec.moe.edu.sg/the-unity-story/unity-story/
-      image: /images/celebrating_25_yrs_01.jpg
-      alt: Image alt text
-      description: Check out the highlights of our Silver Jubilee celebration here.
-      title: Celebrating 25 Years of OpportUNITY.
   - announcements:
       title: Announcements
       id: announcements
@@ -41,4 +32,13 @@ sections:
             code in link below.
           link_text: Click for more information
           link_url: https://www.unitysec.moe.edu.sg/the-unity-edge/direct-school-admission-dsa/dsa-open-house-2025/
+  - infopic:
+      subtitle: Unity Secondary
+      id: infopic
+      button: Click to view
+      url: https://www.unitysec.moe.edu.sg/the-unity-story/unity-story/
+      image: /images/celebrating_25_yrs_01.jpg
+      alt: Image alt text
+      description: Check out the highlights of our Silver Jubilee celebration here.
+      title: Celebrating 25 Years of OpportUNITY.
 ---
