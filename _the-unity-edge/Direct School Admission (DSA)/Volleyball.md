@@ -139,7 +139,7 @@ of years in the school.
 <h3>Application Procedure</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsa_vb_application_timeline.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_application_timeline.jpg">
 </div>
 <p>1. Parents can log in to the DSA-Sec portal with SingPass to apply. Application
 for DSA-Sec can be submitted through the online DSA-Sec Portal. The application

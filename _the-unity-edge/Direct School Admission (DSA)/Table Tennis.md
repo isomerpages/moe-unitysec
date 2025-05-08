@@ -219,7 +219,7 @@ records.</p>
 <h4><strong>Application Procedure</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsa_appl_TT.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_application_timeline.jpg">
 </div>
 <p></p>
 <ol data-tight="true" class="tight">
