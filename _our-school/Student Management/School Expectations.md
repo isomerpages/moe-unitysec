@@ -940,7 +940,7 @@ if their absence is accompanied by a Medical Certificate(MC).</p>
 <p>5.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students who are absent maybe marked or "Absent with Valid Reason" on
+<p>Students who are absent maybe marked as "Absent with Valid Reason" on
 a case-by-case basis if their absence is accompanied by a letter of excuse
 from parents/guardians.
 <br>
