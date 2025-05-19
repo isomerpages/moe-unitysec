@@ -10,8 +10,8 @@ sections:
       title: UNITY SECONDARY SCHOOL
       background: /images/website_montage_2025.jpg
       key_highlights:
-        - title: WA 2 Schedule
-          description: Updated on 21/4
+        - title: Assessment Plan
+          description: Semester 2
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
         - title: Sec 4&5 Prelim
           description: Updated on 14/4
