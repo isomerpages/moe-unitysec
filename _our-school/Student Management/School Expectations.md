@@ -912,9 +912,8 @@ CCA sessions and school events punctually.</p>
 <p>5.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A student is considered to be late for school when he/she fails to be
-with his/her class at the point of assembly (parade square/hall/classrooms)
-at <strong><u>7.30am</u></strong>.</p>
+<p>A student is considered to be late for school when he/she fails to enter
+the school gate by <strong><u>7.30am</u></strong>.</p>
 </td>
 </tr>
 <tr>
@@ -941,7 +940,7 @@ if their absence is accompanied by a Medical Certificate(MC).</p>
 <p>5.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students who are absent maybe marked or "Absent with Valid Reason" on
+<p>Students who are absent maybe marked as "Absent with Valid Reason" on
 a case-by-case basis if their absence is accompanied by a letter of excuse
 from parents/guardians.
 <br>
@@ -982,7 +981,7 @@ slip for his/her attendance to be taken before returning to class.
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who arrive more than 30 minutes late for school without valid
-reason will be subjected to disciplinary actions.</p>
+reason may be subjected to disciplinary actions.</p>
 </td>
 </tr>
 <tr>
@@ -990,8 +989,8 @@ reason will be subjected to disciplinary actions.</p>
 <p>5.9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Late-comers will have to see Level Mentors or Student Managers for further
-remediation after school.</p>
+<p>Late-comers with different number of counts, will be requested to see
+discipline teachers after school for support programmes.</p>
 </td>
 </tr>
 <tr>
