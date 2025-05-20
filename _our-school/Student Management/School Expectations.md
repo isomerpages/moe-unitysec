@@ -989,8 +989,8 @@ reason may be subjected to disciplinary actions.</p>
 <p>5.9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Late-comers with different number of counts, will be requested to see
-discipline teachers after school for support programmes.</p>
+<p>Students with three or more instances of latecoming will be requested
+to see discipline teachers after school for support programmes.</p>
 </td>
 </tr>
 <tr>
