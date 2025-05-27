@@ -120,7 +120,7 @@ points.</p>
 </tr>
 </tbody>
 </table>
-<p>Please refer to examples in&nbsp;<a href="http://www.unitysec.moe.edu.sg/CCA.html#AnnexB" rel="noopener noreferrer nofollow" target="_blank">Annex B</a> 
+<p>Please refer to examples in&nbsp;<a href="http://www.unitysec.moe.edu.sg/CCA.html#AnnexB" rel="noopener noreferrer nofollow" target="_blank">Annex B</a>
 </p>
 <p><strong>Routines and Procedures for CCA Participation</strong>
 </p>
