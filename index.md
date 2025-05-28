@@ -19,6 +19,9 @@ sections:
         - title: Hol Intervention
           description: Mar & June
           url: https://www.unitysec.moe.edu.sg/sch-holiday-intervention/
+        - title: Prelim timetables
+          description: O & N Level
+          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
   - infopic:
