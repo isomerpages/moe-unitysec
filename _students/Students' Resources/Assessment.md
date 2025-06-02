@@ -20,8 +20,5 @@ variant: tiptap
 <h2>Prelim Timetables</h2>
 <p><a href="/files/2025_O_Level_Prelim_Timetable_final.pdf" rel="noopener nofollow" target="_blank">2025 O Level Prelim Timetable</a>
 </p>
-<p><a href="/files/2025_N_Level_Prelim_Timetable_final.pdf" rel="noopener nofollow" target="_blank">2025 N Level Prelim Timetable</a>
+<p><a href="/files/2025_N_Level_Prelim_Timetable_as_02062025.pdf" rel="noopener nofollow" target="_blank">2025 N Level Prelim Timetable (updated 02062025)</a>
 </p>
-<h3></h3>
-<p></p>
-<p></p>
