@@ -139,15 +139,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lilian Foo Chen Chen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lilian_foo_chen_chen_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lilian_Foo_Chen_Chen_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Darren Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
