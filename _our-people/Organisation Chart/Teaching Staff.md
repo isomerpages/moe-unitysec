@@ -192,15 +192,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Leong Mun Fatt</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:daniel_leong_mun_fatt@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_leong_mun_fatt@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Lim Yew Meng Derek</p>
 </td>
 <td rowspan="1" colspan="1">
