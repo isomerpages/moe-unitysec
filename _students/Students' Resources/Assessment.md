@@ -17,7 +17,7 @@ variant: tiptap
 <p><a href="/files/2025_Sem_2_Assessment_Plan_Overview__Sec_4_5__new.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Assessment Plan Overview</a>
 </p>
 <p></p>
-<h2>Term 3 Weighted Assessment </h2>
+<h2>Term 3 Weighted Assessment</h2>
 <p><a href="/files/Sec_1_WA3_final.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA Schedule</a>
 </p>
 <p><a href="/files/Sec_2_WA3_final.pdf" rel="noopener nofollow" target="_blank">Sec 2 WA Schedule</a>
