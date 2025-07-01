@@ -13,14 +13,11 @@ sections:
         - title: Assessment Plan
           description: Semester 2
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
-        - title: CCA Holiday Schedule
-          description: June
-          url: https://www.unitysec.moe.edu.sg/june-holidays-cca-training/
-        - title: Hol Intervention
-          description: Mar & June
-          url: https://www.unitysec.moe.edu.sg/sch-holiday-intervention/
         - title: Prelim timetables
           description: O & N Level
+          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
+        - title: T3 WA
+          description: Sec 1-3 Schedules
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
