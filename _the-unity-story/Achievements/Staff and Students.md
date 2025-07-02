@@ -33,7 +33,7 @@ variant: tiptap
 <p>Chan Shi En Abby</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ECS and SAAS Award</p>
+<p>ECS and SAAS Award (Singapore Science &amp; Engineering Fair)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National</p>
@@ -47,6 +47,29 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SPF-NPCC Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sujeeth KB</p>
+<p>Ashok Pranesh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Cadet Award (NCC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jovan Cahya Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unity Sec Young Writers Festival (UWF) Flash Fiction Competition - 3rd</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National</p>
