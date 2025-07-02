@@ -6,6 +6,132 @@ variant: tiptap
 third_nav_title: Achievements
 ---
 <h2>CCA Achievements</h2>
+<h4>YEAR 2025 - CCA ACHIEVEMENTS</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Sports and Games (Nationals)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Sports and Games</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball ‘B’ Div Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> (West Zone)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Table Tennis ‘B’ Div Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> (West Zone)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Uniformed Groups</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annual PDS Competition 2025 (Champion in Air district)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girls' Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Performing Arts</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UniqVoices (Choir)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UP:ON stage (Drama)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Symphonic Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unique Dance Fusion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>YEAR 2024 - CCA ACHIEVEMENTS</h4>
 <p></p>
 <table style="minWidth: 50px">
