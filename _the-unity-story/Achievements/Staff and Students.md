@@ -42,21 +42,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Yip Mo En</p>
-<p>Sankaran Shva Aditya</p>
-<p>Ong Jing Kai Rynold</p>
-<p>Ahmad Alfyan Bin Zuraimi</p>
-<p>Lucas Lim Wei Hong</p>
-<p>Ang Jia Yi</p>
-<p>Denzil Kok Zi Yang</p>
-<p>Adam Shah Bin Iswadi</p>
-<p>Yap Xun Kai</p>
-<p>Khoo Yi Kai Irven</p>
-<p>Shereen Zafira Binte Zaidi</p>
-<p>Muhammad Razeq Bin Mohd Rashed</p>
-<p>Shafiaq Shaahid</p>
+<p>Sankaran Shiva Aditya</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Inter-Unit Drill Competition - Gold Award</p>
+<p>SPF-NPCC Badge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National</p>
@@ -100,10 +90,21 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Yip Mo En</p>
-<p>Sankaran Shva Aditya</p>
+<p>Sankaran Shiva Aditya</p>
+<p>Ong Jing Kai Rynold</p>
+<p>Ahmad Alfyan Bin Zuraimi</p>
+<p>Lucas Lim Wei Hong</p>
+<p>Ang Jia Yi</p>
+<p>Denzil Kok Zi Yang</p>
+<p>Adam Shah Bin Iswadi</p>
+<p>Yap Xun Kai</p>
+<p>Khoo Yi Kai Irven</p>
+<p>Shereen Zafira Binte Zaidi</p>
+<p>Muhammad Razeq Bin Mohd Rashed</p>
+<p>Shafiaq Shaahid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SPF-NPCC Badge</p>
+<p>Inter-Unit Drill Competition - Gold Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National</p>
