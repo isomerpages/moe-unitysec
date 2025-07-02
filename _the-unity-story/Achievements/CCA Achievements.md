@@ -15,12 +15,6 @@ third_nav_title: Achievements
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Sports and Games (Nationals)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p><strong>Sports and Games</strong>
 </p>
 </td>
