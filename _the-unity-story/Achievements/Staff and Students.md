@@ -6,6 +6,64 @@ third_nav_title: Achievements
 variant: tiptap
 ---
 <h2>Achievements</h2>
+<h4>YEAR 2025 - STUDENTS' ACHIEVEMENTS</h4>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Level (Cluster, Zonal, National, International)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Calyn Sim</p>
+<p>Caitlyne Ong Moon</p>
+<p>Chan Shi En Abby</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ECS and SAAS Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yip Mo En</p>
+<p>Sankaran Shva Aditya</p>
+<p>Ong Jing Kai Rynold</p>
+<p>Ahmad Alfyan Bin Zuraimi</p>
+<p>Lucas Lim Wei Hong</p>
+<p>Ang Jia Yi</p>
+<p>Denzil Kok Zi Yang</p>
+<p>Adam Shah Bin Iswadi</p>
+<p>Yap Xun Kai</p>
+<p>Khoo Yi Kai Irven</p>
+<p>Shereen Zafira Binte Zaidi</p>
+<p>Muhammad Razeq Bin Mohd Rashed</p>
+<p>Shafiaq Shaahid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inter-Unit Drill Competition - Gold Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>YEAR 2024 - STUDENTS' ACHIEVEMENTS</h4>
 <h4></h4>
 <table style="minWidth: 75px">
@@ -43,20 +101,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Yip Mo En</p>
 <p>Sankaran Shva Aditya</p>
-<p>Ong Jing Kai Rynold</p>
-<p>Ahmad Alfyan Bin Zuraimi</p>
-<p>Lucas Lim Wei Hong</p>
-<p>Ang Jia Yi</p>
-<p>Denzil Kok Zi Yang</p>
-<p>Adam Shah Bin Iswadi</p>
-<p>Yap Xun Kai</p>
-<p>Khoo Yi Kai Irven</p>
-<p>Shereen Zafira Binte Zaidi</p>
-<p>Muhammad Razeq Bin Mohd Rashed</p>
-<p>Shafiaq Shaahid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Inter-Unit Drill Competition - Gold Award</p>
+<p>SPF-NPCC Badge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National</p>
