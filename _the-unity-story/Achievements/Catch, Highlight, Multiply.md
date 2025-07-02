@@ -1632,69 +1632,95 @@ among classmates, contributing to meaningful and impactful service projects.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CHIA WEI JING KENDRICK</strong>
+<p><strong>LYNN CHAN XIAO HAN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>He demonstrated the values of responsibility, compassion and empathy in
-helping a fellow classmate who due to his injury, has missed school for
-a long period. He has been tasked to set up the live streaming sessions
-for his friend and he has diligently been doing that.</p>
+<p>Lynn exemplifies the values of Commitment, Responsibility, and Resilience
+through her dedicated role as lead actress during the SYF journey. She
+models the way by maintaining focus and determination despite health challenges.
+As a passionate learner, Lynn enables others to act by inspiring perseverance
+and dedication. Her strong character and unwavering commitment contributed
+significantly to the success of the performance.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MUHAMMAD RAYN ANAQI BIN ABDUL HELMI</strong>
+<p><strong>NADIA AKBAR</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>He demonstrated the values of responsibility, compassion and empathy in
-helping a fellow classmate who due to his injury, has missed school for
-a long period. He has been tasked to set up the live streaming sessions
-for his friend and he has diligently been doing that.</p>
+<p>Nadia exemplifies the values of Leadership and Commitment through her
+role as Stage Manager during the SYF journey. She models the way by coordinating
+production details reliably despite a demanding academic schedule. As a
+supportive team member, Nadia enables others to act through her approachable
+nature and dependable leadership. Her positive influence was vital to the
+smooth running of the production.</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MAHALIK KRISHNA ALAMA</strong>
+<p><strong>RAELYNN LIEW JIA YI</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>He demonstrated the values of responsibility, compassion and empathy in
-helping a fellow classmate who due to his injury, has missed school for
-a long period. He has been tasked to set up the live streaming sessions
-for his friend and he has diligently been doing that.</p>
+<p>Raelynn exemplifies the values of Leadership and Responsibility through
+her role as Assistant Stage Manager in the SYF journey. She models the
+way by ensuring backstage operations run smoothly, showing calmness under
+pressure. As a dependable learner, Raelynn enables others to act by supporting
+the team effectively. Her initiative and steady presence contributed to
+the production’s success.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NUR NATHIRAH BINTE KAMALDIN</strong>
+<p><strong>LAM ZI KEI</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>She demonstrated the values of responsibility and discipline in managing
-the Sec One student during CCA. Every Friday, she can be relied upon to
-teach the sec ones the basics theatrical skills and she has shown much
-initiative in coming up with ideas on how to engage the Sec Ones. She has
-faced the problems and challenges with much positivity and always thinks
-of ways to do things better during the Sec 1 sessions.</p>
+<p>Zi Kei exemplifies the values of Commitment, Responsibility, and Resilience
+through her role as Sound IC during the SYF performance. She models the
+way by executing all sound cues precisely despite health challenges. As
+a reliable learner, Zi Kei enables others to act by supporting the overall
+production seamlessly. Her dedication was key to the show’s success.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>RAFFEE MOHAMED RAHEESH</strong>
+<p><strong>PHANSAH NICOLE LIM E-SHERN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>He demonstrated the values of responsibility in assisting Nathirah in
-managing and teaching the Sec One students. He is always willing to lend
-a helping hand with the props, sets and arrangement of furniture during
-CCA training sessions.</p>
+<p>Nicole exemplifies the values of Leadership and Commitment as Basketball
+Captain. She models the way by motivating and supporting teammates on and
+off the court. As a confident leader, Nicole enables others to act by fostering
+teamwork and perseverance. Her positive attitude sets a strong example
+for the team.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ISKANDAR ZULQARNAIN MOHAMAD ZULKIFLI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Iskandar exemplifies the values of Responsibility, Respect, and Leadership
+as Captain of the Boys’ Basketball Team. He models the way by encouraging
+team spirit and motivating peers with a calm, collaborative approach. As
+a respected leader, Iskandar enables others to act by setting a positive
+example on and off the court. His steady leadership strengthens the team’s
+cohesion.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p><strong>4LEAD 2</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1705,43 +1731,59 @@ CCA training sessions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CHUA YI XIN</strong>
+<p><strong>JAVEN LIM NIAN FENG</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yi Xin's <strong>Enables Others to Act </strong>by creating a supportive
-environment where the sec 1s feel comfortable talking to her.</p>
+<p>Javen exemplifies the values of Responsibility and Initiative through
+his commendable actions during the GDX lockdown drill. He models the way
+by stepping forward to help when assistance was needed, demonstrating moral
+courage when others hesitated. As a confident person, Javen enables others
+to act by setting a positive example of civic-mindedness and service. His
+willingness to take initiative in challenging situations reflects promising
+leadership potential.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>UMAIRAH BINTE MOHAMMAD FAUZI</strong>
+<p><strong>TAN PIN YUAN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Umairah <strong>Encourages the Heart </strong>by always patiently guiding
-the sec 1 students, especially to those who are being grouped with her.</p>
+<p>Pin Yuan exemplifies the values of Resilience and Grit in preparing for
+his NAPFA test this term. He models the way by persevering through challenges
+and maintaining a healthy lifestyle despite low odds of passing. Pin Yuan
+trained diligently outside school hours and motivated his friends to do
+the same. Though he did not pass, his determination and spirit are a personal
+victory worthy of recognition.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AHMAD ALFYAN BIN ZURAIMI</strong>
+<p><strong>LIM LE EN LYANNE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ahmad shows committment in his academic studies this year by attending
-all his interventions faithfully and in addition, he would always clarifies
-his doubt with the teacher without much hesitation. Demonstrates very positive
-attitude this year.</p>
+<p>Lyanne exemplifies the school values of Conscientiousness and Care through
+her consistent effort in studies and kindness toward others. She models
+the way by showing politeness to peers and teachers alike, setting a positive
+example. Lyanne’s genuine concern for her teachers, including checking
+on their well-being, creates a warm and supportive learning environment.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>4SERVE 3</strong>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>4SERVE 3</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1750,80 +1792,185 @@ attitude this year.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NG YI TING, LAUREEN</strong>
+<p><strong>AATIF SHAH BIN ABUBAKAR SHAH</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Both Laureen and Beibei showed commitment by dedicating their efforts,
-time and patience to training the Sec 1s in the basic choreography for
-Dance. They also model the way by setting an example on how they should
-lead and guide their juniors.</p>
+<td rowspan="1" colspan="1">
+<p>Aatif exemplifies the values of Responsibility and Commitment through
+his dedicated class citizenship. He models the way by maintaining attentiveness
+during lessons and taking initiative in classroom cleanliness. As a conscientious
+learner, Aatif enables others to act by demonstrating care for the learning
+environment through his voluntary cleaning efforts. His reliable and proactive
+attitude contributes to a positive classroom atmosphere.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ZHAO BEIBEI</strong>
+<p><strong>MUHAMMAD KAMIL BIN MOHD KIPLEE</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kamil exemplifies the values of Responsibility and Commitment through
+his dedicated class citizenship. He models the way by staying attentive
+in lessons and actively contributing to maintaining classroom cleanliness.
+As a conscientious learner, Kamil enables others to act by showing care
+for shared spaces through his voluntary efforts. His dependable and proactive
+nature helps foster a positive classroom environment.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MUHAMMAD AQILL ROFAN BIN ZAKI</strong>
+<p><strong>MUHAMMAD RAYHAN BIN JEFFREY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aqill showed perseverance and resilience when he was injured, yet he did
-not use it as an excuse to stop training and worked hard to get better.
-He continues to stay positive and never gave up hope.</p>
+<p>Rayhan exemplifies the school values of Compassion and Responsibility
+through his initiative in planning the class Values-in-Action program.
+He models the way by inspiring peers to serve the community and enabling
+others to act. As a concerned and caring citizen, Rayhan shows awareness
+of community needs and takes proactive steps to make a positive impact.
+In class, he participates actively and contributes meaningfully to discussions.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>WONG RUI YUAN, KERZANNE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kerzanne exemplifies the school values of Commitment and Leadership by
+modeling responsibility in her CCA. She demonstrates initiative through
+her dedicated efforts to maintain the AVA room for dance training. As a
+conscientious learner, Kerzanne understands the importance of creating
+a conducive environment for learning and practice. In class, she consistently
+shows dedication and contributes positively to group activities.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>4SERVE 4</strong>
 </p>
-<table style="minWidth: 50px">
+<p><strong>&nbsp;</strong>
+</p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SARAVANA KUMAR SIDDHARTH</strong>
+<p><strong>CHLOE TAN KEE WEN</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Siddarh, although being appointed as a PSL for the first time, tries his
-best to engage the class.
-<br>He models the way by initiating class bonding games too so that the peers
-can follow through well.</p>
+<td rowspan="1" colspan="2">
+<p>Chloe Tan Kee Wen exemplifies the school values of Responsibility and
+Commitment through her voluntary leadership in class activities. Though
+not a formal Peer Support Leader, she models initiative by organizing classroom
+events and fostering a positive class environment. As a conscientious learner,
+Chloe participates actively and contributes constructively to group activities.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AMIRTHINI PARAMASIVAM</strong>
+<p><strong>ANG GUANG QUAN</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Amirthini showed commitment by dedicating their efforts as a PSL . She
-model the way by leading the class in brainstorming bonding games and activities
-so that others enjoy the fun and build bonds with one another.</p>
+<td rowspan="1" colspan="2">
+<p>Guang Quan exemplifies the school values of Responsibility and Commitment
+through his proactive support during GDX lessons and CCA competitions.
+He enables others to act by assisting peers and shows initiative in contributing
+to class activities. As a conscientious learner, Guang Quan manages tasks
+effectively and participates actively in group work.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>RAMESH YAZHINI</strong>
+<p><strong><br>MOH JING TONG, JEZEL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Jezel exemplifies the school values of Leadership and Commitment by modeling
+the way for fellow cadets and managing CCA publicity. She demonstrates
+dedication in recognizing excos’ contributions and inspires others through
+her positive relationships. In class, Jezel shows the same commitment and
+contributes constructively to discussions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SUJEETH K B</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Sujeeth exemplifies the school values of Leadership and Commitment through
+his exemplary roles in CCA and classroom settings. He models the way by
+taking initiative to assist peers and carries out duties responsibly. As
+a confident person, Sujeeth leads by example and participates meaningfully
+in group activities.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TNG WEN XUAN</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yazhini help and support her PSL team. She plays a role in facilitating
-class bonding games.</p>
+<p>Wen Xuan exemplifies the school values of Initiative and Responsibility
+by playing a key role in organizing the Sports Fiesta. She models the way
+through proactive planning, clear communication, and hands-on involvement,
+setting a dependable and inspiring example for her peers.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>REYES SEPHYRA GLADRIEL ROXAS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gladriel exemplifies the school values of Initiative and Leadership through
+her strong commitment to supporting the planning and execution of the Sports
+Fiesta. She models the way by taking ownership of tasks, staying organized,
+and motivating others, inspiring those around her with her reliability.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SHANNON TAN JIA HUI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shannon exemplifies the school values of Initiative and Leadership by
+contributing actively to the Sports Fiesta organization. She models the
+way through her dependable work ethic, clear communication, and readiness
+to step up, setting a positive example of dedication and integrity.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>4ACTUALISE 5</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1834,37 +1981,97 @@ class bonding games.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PEH WEI XUAN</strong>
+<p><strong>ANGELINE CHEN YU FEI</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>She demonstrated responsibility, compassion and empathy. She welcomed,
-befriended and helped her classmate to adapt to school life againl.</p>
+<p>Angeline exemplifies the values of Responsibility and Integrity through
+her mature approach to managing attendance matters. She models the way
+by promptly submitting medical certificates without needing reminders,
+demonstrating reliability and self-discipline. As a conscientious learner,
+Angeline shows strong self-management and sets a positive example for her
+peers through her consistent and responsible behavior.</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MAGPANTAY MIGUEL ANTONIO SOLIMAN</strong>
+<p><strong>MUHAMMAD HAYDEN EZEKIEL S/O MUHAMMAD DANI ABDULLAH KIT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>He started a Math Study Group twice weekly to study with and help his
-classmates who are very weak at Math.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SITI NUR BALQIS BINTI RAZAK</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>She demonstrated responsibility, compassion and empathy. She welcomed
-and befriended and helped her classmate to adapt to school life again.</p>
+<p>Hayden exemplifies the values of responsibility and integrity through
+his mature handling of attendance matters. As a conscientious learner,
+he enables others to act by setting a positive example of self-management
+and accountability. His proactive approach to responsibilities shows commendable
+maturity. Hayden is encouraged to further develop his leadership potential
+by guiding peers in developing similar organizational habits.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>4ACTUALISE 6</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>TOK JUN QUAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jun Quan exemplifies the values of Responsibility and Commitment by modeling
+the way in classroom maintenance. He takes initiative to keep the learning
+environment clean and tidy, setting a positive example for his peers. As
+a conscientious learner, Jun Quan shows awareness of communal responsibilities
+and actively contributes to maintaining class cleanliness. In class, he
+participates actively and contributes constructively to group activities.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>AZYRYNN ZURYANNA BINTE ABDUL AZIZ</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Azyrynn exemplifies the values of Responsibility and Integrity through
+her dependable nature, especially in managing class attendance during peers’
+absence. She models the way by stepping up to ensure important tasks are
+completed reliably. As a conscientious learner, Azyrynn shows awareness
+of class needs and supports daily routines proactively. In class, she participates
+actively and contributes meaningfully to an organized environment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NEO RONG XUAN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rong Xuan exemplifies the school values of Compassion and Integrity through
+her selfless willingness to help others without seeking recognition. She
+models the way by taking initiative to assist peers and teachers voluntarily,
+demonstrating quiet yet impactful leadership. As a concerned and caring
+citizen, Rong Xuan shows empathy and thoughtfulness in her interactions.
+In class, she participates actively and contributes positively to a supportive
+learning environment.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <p><strong>4INSPIRE 7</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1875,19 +2082,79 @@ and befriended and helped her classmate to adapt to school life again.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YAP WOOGAN ZHENG RONG, COLIN</strong>
+<p><strong>CADEN SOO YI KAI (SU YIKAI)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>She showed compassion during NSG competition. When someone felt low after
-her match, Avril would console her with soothing words. She also demonstrates
-perseverance as she keeps training hard and taking out time to attend additional
-training sessions even when she is busy.</p>
+<p>Caden exemplifies the values of Respect and Responsibility through his
+proactive service attitude. He models the way by independently restoring
+classroom order after oral examinations, showing thoughtfulness and initiative.
+As a conscientious learner, Caden enables others to act by caring for shared
+spaces and setting a positive example through his voluntary efforts.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LIM YEE HSIEN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yee Hsein exemplifies the school values of Respect and Commitment through
+his consistent and proactive service in both class and CCA settings. He
+models the way by restoring classroom order after oral examinations and
+reliably supporting CCA administrative tasks. As a conscientious learner,
+Yee Hsein demonstrates responsibility and dedication in managing shared
+responsibilities.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SENTHILKUMAR PREETHIKA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preethika exemplifies the values of Compassion and Resilience through
+her composed and mature response to challenges. She models the way by showing
+self-control and emotional intelligence when faced with unkind remarks.
+As a confident person, Preethika enables others to act by demonstrating
+how to navigate difficult situations with dignity and strength.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CHEN SHENGJUN ABRAM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Abram exemplifies the values of Compassion and Responsibility through
+his dedicated mentorship of junior Boys’ Brigade members. He models the
+way by patiently guiding Secondary 1 students in Boys’ Brigade decorum,
+showing care and attentiveness. As a concerned and caring citizen, Abram
+enables others to act by helping juniors understand and uphold expectations,
+fostering a supportive learning environment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SURESH DIKSHITA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dikshita exemplifies the school values of Commitment and Perseverance
+through her consistent effort to improve her health and attendance. She
+models the way by taking ownership of her well-being and showing determination
+in overcoming challenges. As a conscientious learner, Dikshita enables
+others to act by demonstrating how personal growth is possible through
+resilience and responsibility.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
 <p><strong>4INSPIRE 8</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1898,18 +2165,20 @@ training sessions even when she is busy.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SO JAYDEN RILEY UY</strong>
+<p><strong>NUR FALISHA BINTE ABDUL MANAF</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jayden shows responsibility as a subject rep, and is resilient in showing
-his commitment to his role. He has improved and gained confidence through
-his role as a Geog Subject Rep. Keep it up Jayden!</p>
+<p>Falisha exemplifies the school values of Commitment and Perseverance through
+her dedicated efforts to improve her health and attendance. She models
+the way by taking ownership of her well-being and demonstrating determination
+in overcoming challenges. As a conscientious learner, Falisha enables others
+to act by showing how consistent effort leads to progress. Her improved
+attendance reflects maturity and a strong sense of responsibility.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
