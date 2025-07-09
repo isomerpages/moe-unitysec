@@ -19,4 +19,5 @@ nominate deserving students via this link: <strong><a rel="noopener noreferrer n
 <p>Please refer to the information below for the details of the eligibility
 criteria as well as other important information regarding the award. Thank
 you.</p>
-<p></p>
+<p><a href="/files/ECHA_2025_website.pdf" rel="noopener nofollow" target="_blank">ECHA Information Deck</a>
+</p>
