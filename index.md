@@ -21,6 +21,16 @@ sections:
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: ECHA Award
+          date: 09 July 2025
+          announcement: Nomination for the MOE Edusave Character Award 2025(ECHA) is now
+            opened. Please click below for more details.
+          link_text: Click here
+          link_url: https://www.unitysec.moe.edu.sg/unity-partners/parents/echa/
   - infopic:
       subtitle: Unity Secondary
       id: infopic
