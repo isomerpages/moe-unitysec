@@ -1,6 +1,6 @@
 ---
 title: Edusave Character Award
-permalink: /unity-partners/Parents/eca/
+permalink: /unity-partners/parents/echa/
 description: ""
 third_nav_title: Parents
 variant: tiptap
@@ -11,7 +11,7 @@ qualities through their daily behaviour. Values education play an important
 role in shaping a child's character and ECHA gives an opportunity for students
 to be recognised for their commendable achievements in non-academic areas.</p>
 <p>The nomination for the MOE Edusave Character Award 2025 is now open. Please
-nominate deserving students via this link: <strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/unityecha2025</a></strong>
+nominate deserving students via this link: <a href="https://go.gov.sg/unityecha2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/unityecha2025</a>
 </p>
 <p>The nomination period is from:</p>
 <p><strong>21 July 2025 (Monday) to 18 August 2025 (Monday)</strong>
