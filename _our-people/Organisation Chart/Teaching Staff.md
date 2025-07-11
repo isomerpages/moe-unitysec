@@ -329,7 +329,7 @@ variant: tiptap
 <p>Mr Norman Phua Buan Hock</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:phua_buan_hock_norman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phua_buan_hock_norman@schools.gov.sg</a>
+<p><a href="mailto:norman_phua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norman_phua@schools.gov.sg</a>
 </p>
 </td>
 </tr>
