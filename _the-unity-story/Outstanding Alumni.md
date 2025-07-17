@@ -8,6 +8,12 @@ description: ""
 <h3>Achievements and Accolades</h3>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LEE_JUN_WEI_conv_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annex___Unity_Secondary_School_conv_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding_A_lvls.png">
 </div>
 <h3><strong><u>2025</u></strong></h3>
