@@ -340,14 +340,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST/ Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Liew Kok Keong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ST/Music</p>
 </td>
 <td rowspan="1" colspan="1">
