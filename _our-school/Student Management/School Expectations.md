@@ -43,9 +43,8 @@ and pledge-taking ceremony.</p>
 <p>1.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students who are Singapore citizens must sing the National Anthem and
+<p>Students who are Singapore citizens must sing the national Anthem and
 take the Pledge. Students will take the Pledge with the right fist over
-the heart. Students will take the pledge with the right fist placed over
 the heart. Non-citizens must stand at attention during the entire ceremony.</p>
 </td>
 </tr>
@@ -683,7 +682,8 @@ They are not meant to create fancy designs.</p>
 <p>i.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Male students must be clean-shaven and neat in appearance.</p>
+<p>Male students must be neat in appearance, clean-shaven and no facial hair
+is allowed.</p>
 </td>
 </tr>
 <tr>
