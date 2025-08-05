@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - June Holidays CCA Training.md
       - Promotion Criteria.md
       - S2 Subject Offering Exercise.md
       - Application to Transfer Waitlist.md
