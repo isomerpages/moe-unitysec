@@ -34,10 +34,10 @@ sections:
   - infopic:
       subtitle: Unity Secondary
       id: infopic
-      button: Click to view
-      url: https://www.unitysec.moe.edu.sg/the-unity-story/unity-story/
-      image: /images/celebrating_25_yrs_01.jpg
+      image: /images/teachers_day_2025.jpg
       alt: Image alt text
-      description: Check out the highlights of our Silver Jubilee celebration here.
-      title: Celebrating 25 Years of OpportUNITY.
+      description: "Alumni: Please notify staff before visiting. Visits only during
+        8.30–9.30am or 10–10.30am in proper attire. The school may deny entry if
+        criteria are not met."
+      title: Teachers' Day Celebration
 ---
