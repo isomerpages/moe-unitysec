@@ -3,7 +3,6 @@ title: June Holidays CCA Training
 permalink: /june-holidays-cca-training/
 variant: tiptap
 description: ""
-third_nav_title: CCA
 ---
 <p>Dear students, you may refer to the links below for the upcoming June
 Holidays CCA Training programme:</p>
