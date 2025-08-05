@@ -10,9 +10,9 @@ sections:
       title: UNITY SECONDARY SCHOOL
       background: /images/website_montage_2025.jpg
       key_highlights:
-        - title: Assessment Plan
-          description: Semester 2
-          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
+        - title: Sch holiday intervention
+          description: September
+          url: https://www.unitysec.moe.edu.sg/sch-holiday-intervention/
         - title: Prelim timetables
           description: O & N Level
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
