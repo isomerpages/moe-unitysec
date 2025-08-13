@@ -44,8 +44,8 @@ sections:
       title: People’s Association Spirit Awards 2025 Merit Award
       id: infopic
       description: Unity Secondary School is proud to give back to Yew Tee through
-        community events, honored to receive this Award for our shared spirit of
-        care.
+        community events and is honoured to receive this Award for our shared
+        spirit of care.
       button: Read more here
       url: https://www.unitysec.moe.edu.sg/the-unity-story/school-awards/
       image: /images/PA_Community_Spirit_Award_2025.jpg
