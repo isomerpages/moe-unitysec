@@ -47,7 +47,7 @@ sections:
         community events and is honoured to receive this Award for our shared
         spirit of care.
       button: Read more here
-      url: https://www.unitysec.moe.edu.sg/the-unity-story/school-awards/
+      url: https://www.unitysec.moe.edu.sg/school-awards/
       image: /images/PA_Community_Spirit_Award_2025.jpg
       alt: Image alt text
 ---
