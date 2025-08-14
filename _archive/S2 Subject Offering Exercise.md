@@ -4,37 +4,44 @@ permalink: /s2-subject-offering-exercise/
 variant: tiptap
 description: ""
 ---
-<h4>Release of Appeal outcome</h4>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vV5L76</a>
-</p>
-<p></p>
-<p></p>
-<p><strong>Dear Students, please click on the link below to find out your results. You will need to login with your MIMS account to view:</strong>
-</p>
-<p><a href="https://forms.moe.edu.sg/forms/vryrL1" rel="noopener nofollow" target="_blank">Result of S2 subject offering Exercise</a>
-</p>
-<p></p>
-<p></p>
 <h4>Dear all, please refer to the briefing slides below for the Subject Offering Exercise:</h4>
-<p><strong><a href="/files/10_Oct__Sec_2__Express__Subject_Option_Exercise_2024_Update.pdf" rel="noopener nofollow" target="_blank"><u>[10 Oct] Sec 2 (Express) Subject Option Exercise 2024 Update</u></a></strong>
-</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_subj_offering_dates.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subject_Combi_2025_G1_1.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_subj_offering_guidelines.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subject_Combi_2025_G2.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subject_Combi_2025_G3.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <h4>Submission Links</h4>
-<p>Express: <a href="https://forms.moe.edu.sg/forms/vj6B7W" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/vj6B7W</a>
-</p>
-<p>NA: <a href="https://forms.moe.edu.sg/forms/v3ONyX" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/v3ONyX</a>
-</p>
-<p>NT: <a href="https://forms.moe.edu.sg/forms/JqpxEZ" rel="noopener nofollow" target="_blank">https://forms.moe.edu.sg/forms/JqpxEZ</a>
-</p>
+<p>G1: To be updated</p>
+<p>G2: To be updated</p>
+<p>G3: To be updated</p>
 <p></p>
 <h4>Appeal Link</h4>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/s2appeal</a>
-</p>
+<p>To be updated</p>
+<p></p>
