@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - The Unity Story.md
+      - Achievements/School Awards.md
       - Achievements/.keep
       - Achievements/National Exam Results.md
       - Achievements/Staff and Students.md

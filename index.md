@@ -40,4 +40,14 @@ sections:
         8.30–9.30am or 10–10.30am in proper attire. The school may deny entry if
         criteria are not met."
       title: Teachers' Day Celebration
+  - infopic:
+      title: People’s Association Spirit Awards 2025 Merit Award
+      id: infopic
+      description: Unity Secondary School is proud to give back to Yew Tee through
+        community events and is honoured to receive this Award for our shared
+        spirit of care.
+      button: Read more here
+      url: https://www.unitysec.moe.edu.sg/the-unity-story/school-awards/
+      image: /images/PA_Community_Spirit_Award_2025.jpg
+      alt: Image alt text
 ---
