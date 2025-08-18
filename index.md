@@ -19,6 +19,9 @@ sections:
         - title: T3 WA
           description: Sec 1-3 Schedules
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
+        - title: End of Yr Exams
+          description: 24/9 to 8/10
+          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
   - announcements:

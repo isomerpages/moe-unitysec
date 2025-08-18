@@ -27,5 +27,10 @@ variant: tiptap
 <h2>Prelim Timetables</h2>
 <p><a href="/files/2025_O_Level_Prelim_Timetable_final.pdf" rel="noopener nofollow" target="_blank">2025 O Level Prelim Timetable</a>
 </p>
-<p><a href="/files/2025_N_Level_Prelim_Timetable_as_11072025.pdf" rel="noopener nofollow" target="_blank">2025 N Level Prelim Timetable (updated 11072025)</a>
+<p></p>
+<h2>End of Year Examination (EYE) Timetables</h2>
+<p><a href="/files/Sec_1_2_EYE_Schedule_2025__caa_15_Aug_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 and 2 Timetable</a>
 </p>
+<p><a href="/files/Sec_3_EYE_Schedule_2025__caa__13_Aug_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 Timetable</a>
+</p>
+<p></p>
