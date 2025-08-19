@@ -30,10 +30,13 @@ third_nav_title: Students' Resources
 <p></p>
 <p></p>
 <h4>Submission Links</h4>
-<p>G1: To be updated</p>
-<p>G2: To be updated</p>
-<p>G3: To be updated</p>
+<p><a href="https://forms.moe.edu.sg/forms/J6bgAk" rel="noopener nofollow" target="_blank">G1 Submission Link [Indicative]</a>
+</p>
+<p><a href="https://forms.moe.edu.sg/forms/egqVnQ" rel="noopener nofollow" target="_blank">G2 Submission Link [Indicative]</a>
+</p>
+<p><a href="https://forms.moe.edu.sg/forms/oxY0AX" rel="noopener nofollow" target="_blank">G3 Submission Link [Indicative]</a>
+</p>
 <p></p>
 <h4>Appeal Link</h4>
-<p>To be updated</p>
+<p>[Currently Unavailable]</p>
 <p></p>
