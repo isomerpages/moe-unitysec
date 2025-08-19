@@ -38,6 +38,5 @@ third_nav_title: Students' Resources
 </p>
 <p></p>
 <h4>Appeal Link</h4>
-<p><a href="https://go.gov.sg/s2appeal" rel="noopener nofollow" target="_blank">https://go.gov.sg/s2appeal </a>[Currently
-unavailable]</p>
+<p>[Currently Unavailable]</p>
 <p></p>
