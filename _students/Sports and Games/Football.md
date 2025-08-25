@@ -91,7 +91,7 @@ variant: tiptap
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3pm to 5pm</p>
+<p>4pm to 6pm</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ variant: tiptap
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3pm to 5pm</p>
+<p>4pm to 6pm</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ variant: tiptap
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8am to 10am</p>
+<p>8.30am to 10.30am</p>
 </td>
 </tr>
 </tbody>
@@ -139,12 +139,12 @@ who embody Unity’s core values both on and off the field.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>At Unity Secondary, we see football as a powerful platform for holistic
-growth. Our program instills values like resilience, teamwork, and respect,
-preparing students to succeed not only in sports but in every aspect of
-their lives. Every training session and match provides opportunities for
-our players to practice discipline, perseverance, and sportsmanship, creating
-a foundation for success beyond the pitch.</p>
+<p>At Unity Secondary School, we see football as a powerful platform for
+holistic growth. Our program instills values like resilience, teamwork,
+and respect, preparing students to succeed not only in sports but in every
+aspect of their lives. Every training session and match provides opportunities
+for our players to practice discipline, perseverance, and sportsmanship,
+creating a foundation for success beyond the pitch.</p>
 </td>
 </tr>
 <tr>
@@ -159,6 +159,7 @@ and progress, achieving several notable milestones in a short time:</p>
 <p><strong>2022: </strong>Quarter-Finals, West Zone, C Division</p>
 <p><strong>2023:</strong> 2nd Place, League 5, B Division</p>
 <p><strong>2024:</strong> 3rd Place, League 4, C Division</p>
+<p><strong>2025 :</strong> 2nd Place, League 2, C Division</p>
 <p>These accomplishments reflect the commitment and passion of our players,
 coaches, and school community. With each season, we strive to reach new
 heights while maintaining our commitment to the holistic development of
@@ -211,8 +212,8 @@ for those interested in exploring long-term opportunities in sports.</p>
 <p>Unity Secondary’s Football CCA is more than just a sports program—it’s
 a vibrant community of students, parents, and teachers committed to growth,
 teamwork, and sportsmanship. We invite students who are ready to challenge
-themselves, create lifelong memories, and contribute to Unity Secondary’s
-proud football legacy.</p>
+themselves, create lifelong memories, and contribute to Unity Secondary
+School's proud football legacy.</p>
 <p>Together, let’s inspire the champions of tomorrow, both on the field and
 beyond.</p>
 </td>
