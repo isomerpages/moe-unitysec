@@ -2,7 +2,6 @@
 title: Edusave Character Award
 permalink: /unity-partners/parents/echa/
 description: ""
-third_nav_title: Parents
 variant: tiptap
 ---
 <p>The Edusave Character Award (ECHA) was introduced in 2012 to recognise
