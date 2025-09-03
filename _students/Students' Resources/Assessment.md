@@ -31,6 +31,6 @@ variant: tiptap
 <h2>End of Year Examination (EYE) Timetables</h2>
 <p><a href="/files/Sec_1_2_EYE_Schedule_2025__caa_15_Aug_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 and 2 Timetable</a>
 </p>
-<p><a href="/files/Sec_3_EYE_Schedule_2025__caa__13_Aug_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 Timetable</a>
+<p><a href="/files/Sec_3_EYE_Schedule_2025__caa__03_Sep_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 Timetable (updated 3rd September 2025)</a>
 </p>
 <p></p>
