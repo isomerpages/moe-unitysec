@@ -15,9 +15,15 @@ sections:
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
-  - announcements:
-      title: Announcements
-      id: announcements
+  - infopic:
+      subtitle: Unity Secondary
+      id: infopic
+      image: /images/teachers_day_2025.jpg
+      alt: Image alt text
+      description: "Alumni: Please notify staff before visiting. Visits only during
+        8.30–9.30am or 10–10.30am in proper attire. The school may deny entry if
+        criteria are not met."
+      title: Teachers' Day Celebration
   - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
       id: infopic
@@ -28,13 +34,4 @@ sections:
       url: https://www.unitysec.moe.edu.sg/school-awards/
       image: /images/PA_Community_Spirit_Award_2025.jpg
       alt: Image alt text
-  - infopic:
-      subtitle: Unity Secondary
-      id: infopic
-      image: /images/teachers_day_2025.jpg
-      alt: Image alt text
-      description: "Alumni: Please notify staff before visiting. Visits only during
-        8.30–9.30am or 10–10.30am in proper attire. The school may deny entry if
-        criteria are not met."
-      title: Teachers' Day Celebration
 ---
