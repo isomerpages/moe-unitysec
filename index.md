@@ -10,9 +10,6 @@ sections:
       title: UNITY SECONDARY SCHOOL
       background: /images/website_montage_2025.jpg
       key_highlights:
-        - title: Sch holiday intervention
-          description: September
-          url: https://www.unitysec.moe.edu.sg/sch-holiday-intervention/
         - title: End of Yr Exams
           description: 24/9 to 8/10
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
