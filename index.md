@@ -13,9 +13,6 @@ sections:
         - title: Sch holiday intervention
           description: September
           url: https://www.unitysec.moe.edu.sg/sch-holiday-intervention/
-        - title: Prelim timetables
-          description: O & N Level
-          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
         - title: T3 WA
           description: Sec 1-3 Schedules
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
