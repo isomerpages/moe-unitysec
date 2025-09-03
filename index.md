@@ -13,9 +13,6 @@ sections:
         - title: Sch holiday intervention
           description: September
           url: https://www.unitysec.moe.edu.sg/sch-holiday-intervention/
-        - title: T3 WA
-          description: Sec 1-3 Schedules
-          url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
         - title: End of Yr Exams
           description: 24/9 to 8/10
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
@@ -24,13 +21,6 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      announcement_items:
-        - title: ECHA Award
-          date: 09 July 2025
-          announcement: Nomination for the MOE Edusave Character Award 2025(ECHA) is now
-            opened. Please click below for more details.
-          link_text: Click here
-          link_url: https://www.unitysec.moe.edu.sg/unity-partners/parents/echa/
   - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
       id: infopic
