@@ -104,7 +104,7 @@ variant: tiptap
 <p>Ms Chua Bee Kuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Manager</p>
+<p>Administration Manager</p>
 </td>
 </tr>
 <tr>
@@ -282,7 +282,7 @@ variant: tiptap
 <p>Mr Jeremy Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p>Administration Manager (ICT)</p>
 </td>
 </tr>
 <tr>
