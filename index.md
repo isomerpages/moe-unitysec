@@ -16,15 +16,6 @@ sections:
       subtitle: "#School_Of_OpportUNITY"
       variant: image
   - infopic:
-      subtitle: Unity Secondary
-      id: infopic
-      image: /images/teachers_day_2025.jpg
-      alt: Image alt text
-      description: "Alumni: Please notify staff before visiting. Visits only during
-        8.30–9.30am or 10–10.30am in proper attire. The school may deny entry if
-        criteria are not met."
-      title: Teachers' Day Celebration
-  - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
       id: infopic
       description: Unity Secondary School is proud to give back to Yew Tee through
