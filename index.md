@@ -13,6 +13,9 @@ sections:
         - title: End of Yr Exams
           description: 24/9 to 8/10
           url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
+        - title: S4&5 Consultation Sessions
+          description: T4W3 - T4W5
+          url: https://www.unitysec.moe.edu.sg/students/students-resources/classtimetable/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
   - infopic:
