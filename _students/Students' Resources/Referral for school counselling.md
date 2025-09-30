@@ -47,7 +47,7 @@ need counselling support to School Counsellors.</p>
 <p>Ms Michelle Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ext 325</p>
+<p>Ext 318</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ need counselling support to School Counsellors.</p>
 <p>Ms Sumarni Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ext 325</p>
+<p>Ext 316</p>
 </td>
 </tr>
 </tbody>
@@ -94,7 +94,7 @@ for a discussion of concerns:</p>
 <p>Offers support for students having queries regarding educational courses
 &amp; career options by helping them identify their personal work values,
 career interests and preferences to increase motivation for studies.</p>
-<p>Call ECG Counsellor : Ext. 268 (Mr Peter Phoa)
+<p>Call ECG Counsellor : <strong>Ext. 317</strong> (Mr Peter Phoa)
 <br>Email:&nbsp;<a href="mailto:teng_swee_hoe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phoa_ang_hiok@schools.gov.sg</a>
 <br>Walk in: Student Service Hub at Block D, Level 3 (Beside Learning Space
 2)
