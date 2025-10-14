@@ -240,7 +240,7 @@ variant: tiptap
 <p>Ms Goh Gek Noi Joanne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gek_noi_joanne_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gek_noi_joanne_goh@moe.edu.sg</a>
+<p><a href="mailto:gek_noi_joanne_goh@schools.gov.sg" rel="noopener nofollow" target="_blank">gek_noi_joanne_goh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -259,15 +259,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kuang_siew_lang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kuang_siew_lang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Kok Hwee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_kok_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kok_hwee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
