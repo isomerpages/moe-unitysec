@@ -61,8 +61,8 @@ variant: tiptap
 <p>B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science Hub
-<br>Biology Lab</p>
+<p>Biology Lab 1
+<br>Biology Lab 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Classrooms</p>
