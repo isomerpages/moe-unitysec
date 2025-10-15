@@ -49,15 +49,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Liaw Peiru (Sch Counsellor)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: liaw_peiru@schools.gov.sg" rel="noopener nofollow" target="_blank">liaw_peiru@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Peter Phoa (Snr Edn &amp; Career Guidance Counsellor)</p>
 </td>
 <td rowspan="1" colspan="1">
