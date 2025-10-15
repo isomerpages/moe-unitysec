@@ -16,9 +16,5 @@ variant: tiptap
 </p>
 <p><a href="/files/2025_Sem_2_Assessment_Plan_Overview__Sec_4_5__new.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Assessment Plan Overview</a>
 </p>
-<h2>End of Year Examination (EYE) Timetables</h2>
-<p><a href="/files/Sec_1_2_EYE_Schedule_2025__caa_15_Aug_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1 and 2 Timetable</a>
-</p>
-<p><a href="/files/Sec_3_EYE_Schedule_2025__caa__03_Sep_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 Timetable (updated 3rd September 2025)</a>
-</p>
+<h2></h2>
 <p></p>
