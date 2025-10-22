@@ -13,6 +13,9 @@ sections:
         - title: S4&5 Consultation Sessions
           description: T4W3 - T4W5
           url: https://www.unitysec.moe.edu.sg/students/students-resources/classtimetable/
+        - title: S2 Subject offering exercise
+          description: Submissions and Appeal
+          url: https://www.unitysec.moe.edu.sg/s2-subject-offering-exercise/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
   - infopic:
