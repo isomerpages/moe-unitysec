@@ -32,11 +32,12 @@ third_nav_title: Students' Resources
 <h4>Submission Links</h4>
 <p><a href="https://forms.moe.edu.sg/forms/J70gOA" rel="noopener nofollow" target="_blank">G1 Submission Link [Actual]</a>
 </p>
-<p><a href="https://forms.moe.edu.sg/forms/egqVnQ" rel="noopener nofollow" target="_blank">G2 Submission Link [Actual]</a>
+<p><a href="https://forms.moe.edu.sg/forms/vXjnxx" rel="noopener nofollow" target="_blank">G2 Submission Link [Actual]</a>
 </p>
 <p><a href="https://forms.moe.edu.sg/forms/J2069K" rel="noopener nofollow" target="_blank">G3 Submission Link [Actual]</a>
 </p>
 <p></p>
 <h4>Appeal Link</h4>
-<p>[Currently Unavailable]</p>
+<p><a href="https://go.gov.sg/s2appeal" rel="noopener nofollow" target="_blank">https://go.gov.sg/s2appeal</a>
+</p>
 <p></p>
