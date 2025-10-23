@@ -22,7 +22,8 @@ sections:
       title: Unity Open House
       id: infopic
       description: Unity Secondary School will be holding our Open House on 14th
-        November 2025, from 4.30pm to 8.30pm.
+        November 2025, from 4.30pm to 8.30pm. Join us for an evening of
+        discovery.
       image: /images/2025_Open_House__Details_Jpeg.jpg
       alt: Image alt text
   - infopic:
