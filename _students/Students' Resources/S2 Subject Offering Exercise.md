@@ -19,10 +19,10 @@ third_nav_title: Students' Resources
 <p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/98d7476087.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subject_Combi_2025_G1_1.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/bc7110a948.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subject_Combi_2025_G2.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/658192d72c.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subject_Combi_2025_G2.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/f725577ef6.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subject_Combi_2025_G3.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/99ffb97a15.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subject_Combi_2025_G3.jpg"></a>
 </th>
 </tr>
 </tbody>
