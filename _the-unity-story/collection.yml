@@ -2,7 +2,6 @@ collections:
   the-unity-story:
     output: true
     order:
-      - The Unity Story.md
       - Achievements/School Awards.md
       - Achievements/.keep
       - Achievements/National Exam Results.md
