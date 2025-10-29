@@ -79,13 +79,13 @@ and protect the environment. At the Upper Secondary level, the NT students
 continue the Social Studies curriculum by exploring issues such as globalisation,
 management of financial resources as well as building a caring nation and
 inclusive society.</p>
-<p>Additionally, for the Secondary 1 G1 Humanities students, students are
-also exposed to three Humanities Exposure Modules (HEMs) in Geography,
-History and Literature in English. Some of the topics covered in HEMs include
-relationship with the national environment (Geography) and the diverse
-learning experiences in colonial Singapore (History). The HEMs provide
-students with an all rounded experience in the humanities that will allow
-them to understand people's relationship with self, society and the environment.</p>
+<p>Additionally, for Secondary 1-2 G1 Humanities, students are exposed to
+three Humanities Exposure Modules (HEMs) in Geography, History and Literature
+in English. Some of the topics covered in HEMs include relationship with
+the national environment (Geography) and the diverse learning experiences
+in colonial Singapore (History). The HEMs provide students with an all
+rounded experience in the humanities that will allow them to understand
+people's relationship with self, society and the environment.</p>
 <p><strong>Pedagogies &amp; Modes of Teaching</strong>
 </p>
 <p>Inquiry-Based Learning infused in Project Work</p>
