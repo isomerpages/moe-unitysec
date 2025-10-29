@@ -3,13 +3,88 @@ title: Learning & Communication Platforms
 permalink: /ndlp-at-unity/Parents-Tool-Kit/lcp/
 description: ""
 third_nav_title: Parents Tool Kit
+variant: tiptap
 ---
-## Learning & Communication Platforms
-
-| App Name | Link |
-|:---:|---|
-| **Student Learning Space (SLS)** | <a href="https://vle.learning.moe.edu.sg/login"><img style="width:40%" src="/images/SLS.jpg"></a><br> |
-| **Google Classroom** | <a href="https://classroom.google.com/u/0/"><img style="width:40%" src="/images/google-classroom.jpg"></a><br> |
-| **Zoom** | <a href="https://zoom.us/"><img style="width:40%" src="/images/zoom.jpg"></a><br> |
-| **Parents Gateway** | <a href="https://www.ezhishi.net/CKPSebook2022/"><img style="width:40%" src="/images/parentgateway.jpg"></a><br> |
-|  |  |
+<h2>Learning &amp; Communication Platforms</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>App Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Link</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Learning Space (SLS)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:40%" height="auto" width="100%" src="/images/SLS.jpg">
+</div>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Google Classroom</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:40%" height="auto" width="100%" src="/images/google-classroom.jpg">
+</div>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MS Teams</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ms_teams.jpg">
+</div>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Parents Gateway</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:40%" height="auto" width="100%" src="/images/parentgateway.jpg">
+</div>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
