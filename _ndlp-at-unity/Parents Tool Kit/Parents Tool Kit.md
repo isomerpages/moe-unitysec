@@ -18,8 +18,6 @@ in their learning.&nbsp;
 </li>
 <li>
 <p>What is the Acceptable User Policy (AUP) in Unity?</p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
