@@ -27,7 +27,7 @@ in their learning.&nbsp;
 <p>Blended Learning Timetable</p>
 </li>
 <li>
-<p>HBL Routine</p>
+<p>BL Routine</p>
 </li>
 <li>
 <p>Class Learning Routine</p>
