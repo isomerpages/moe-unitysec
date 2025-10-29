@@ -8,6 +8,10 @@ variant: tiptap
 <h2>Achievements</h2>
 <h4>YEAR 2025 - STUDENTS' ACHIEVEMENTS</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/clss_newspaper.jpg">
+</div>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
