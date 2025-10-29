@@ -19,25 +19,15 @@ in their learning.&nbsp;
 <li>
 <p>What is the Acceptable User Policy (AUP) in Unity?</p>
 </li>
-</ul>
-<p><strong><a href="/ndlp-at-unity/Parents-Tool-Kit/ls/" rel="noopener noreferrer nofollow" target="_blank">Learning Structures</a></strong>
-</p>
-<ul data-tight="true" class="tight">
 <li>
-<p>Blended Learning Timetable</p>
-</li>
-<li>
-<p>BL Routine</p>
-</li>
-<li>
-<p>Class Learning Routine</p>
+<p></p>
 </li>
 </ul>
 <p><strong><a href="/ndlp-at-unity/Parents-Tool-Kit/lcp/" rel="noopener noreferrer nofollow" target="_blank">Learning and Communciation Platforms</a></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Student Learning Space (SLS),&nbsp; Google Classroom, Zoom</p>
+<p>Student Learning Space (SLS),&nbsp; Google Classroom, MS Teams</p>
 </li>
 <li>
 <p>Parent Gateway (PG)</p>
