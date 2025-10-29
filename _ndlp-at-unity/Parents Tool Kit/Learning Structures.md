@@ -7,4 +7,5 @@ variant: tiptap
 ---
 <h2>Learning Structures</h2>
 <h4>Blended Learning Timetable, HBL and Class Learning Routines</h4>
-<p></p>
+<p><a href="/files/3%20HBL%20Timetable%20%20Learning%20Routine.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to view</a>
+</p>
