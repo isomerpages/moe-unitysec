@@ -11,6 +11,10 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/uc2025_01.jpg">
 </div>
 <h3>15<sup>th</sup> UNITY COUNCIL</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/uc2025_6.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
