@@ -10,6 +10,30 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/uc2025_01.jpg">
 </div>
+<h3>UNITY COUNCIL PRIDE</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p><em>Inspirational Leadership. To serve the student body through the embodiment of the Council’s core values: Lead, Serve, and Inspire.</em>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/uc2025_08.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>15<sup>th</sup> UNITY COUNCIL</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -93,4 +117,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<h3></h3>
+<p></p>
 <p></p>
