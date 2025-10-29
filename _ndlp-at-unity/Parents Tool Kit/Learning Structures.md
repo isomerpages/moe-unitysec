@@ -6,5 +6,5 @@ third_nav_title: Parents Tool Kit
 variant: tiptap
 ---
 <h2>Learning Structures</h2>
-<h4>Blended Learning Timetable, BL and Class Learning Routines</h4>
+<h4>Blended Learning Timetable,  Class Learning Routines</h4>
 <p></p>
