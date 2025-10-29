@@ -32,12 +32,12 @@ activities and programmes</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/cca_groups.jpg">
 </div>
-<h3>2024-2025 CCA Leaders</h3>
+<h3>2025-2026 CCA Leaders</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca_leaders_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ccal_01.jpg">
 </div>
-<h3>CCA LEADERS PLEDGE</h3>
+<h3>CCA LEADERS PRIDE</h3>
 <p>We, the <strong>CCA Leaders</strong> of Unity Secondary School
 <br>Promise to <strong>LEAD</strong>, <strong>SERVE</strong> and <strong>INSPIRE</strong> our
 members
@@ -47,7 +47,8 @@ members
 <br>By our members to excel in our CCAs
 <br>We will persevere to achieve our desired goals
 <br>And bring glory to our CCAs
-<br>In Unity, WE EXCEL!</p>
+<br>In Unity, <strong>WE EXCEL!</strong>
+</p>
 <h3>CCA LEADERS DEVELOPMENT PROGRAMME</h3>
 <p></p>
 <div class="isomer-image-wrapper">
