@@ -47,7 +47,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>15th UNITY COUNCIL</p>
+<p></p>
 </th>
 </tr>
 <tr>
