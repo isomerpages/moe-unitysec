@@ -2,7 +2,6 @@ collections:
   unity-partners:
     output: true
     order:
-      - Parents Tool Kit.md
       - Parents/.keep
       - Parents/Parent’s Newsletter.md
       - Parents/Parents Gateway.md
