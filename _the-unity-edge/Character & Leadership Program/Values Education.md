@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Character & Leadership Program
 ---
-<h3>VALUES IN EDUCATION 2024</h3>
+<h3>VALUES IN EDUCATION </h3>
 <p>Values education is important for our secondary school students because
 it helps them develop good character, make ethical decisions, build positive
 relationships, understand their roles in society, stay resilient, and prepare
