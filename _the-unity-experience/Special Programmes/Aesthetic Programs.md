@@ -34,3 +34,7 @@ Arterior)</p>
 <p>Through this framework, Unity seeks to nurture confident, creative, and
 resilient learners who find joy and meaning in the arts.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aesthetic01.jpg">
+</div>
+<p></p>
