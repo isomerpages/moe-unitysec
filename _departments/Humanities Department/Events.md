@@ -25,3 +25,15 @@ sent for the National Library Board (NLB)'s Historical Scene Investigation
 (H.S.I.) Challenge had achieved the Gold and Bronze award respectively.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hum02.jpg">
+</div>
+<p>Our Sec 4 students at Jurong Pioneer Junior College for the Model United
+Nations (MUN).</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hum01.jpg">
+</div>
+<p>Our Sec 2 and 3 students listening to the student guides about Singapore's
+citizenship journey at Nanyang Girls' High School.</p>
