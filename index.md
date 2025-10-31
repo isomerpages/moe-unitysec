@@ -18,7 +18,6 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
   - infopic:
       title: Unity Open House
       id: infopic
