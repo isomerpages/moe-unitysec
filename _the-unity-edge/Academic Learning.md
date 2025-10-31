@@ -16,19 +16,25 @@ at different subject levels as they progress through secondary school.</p>
 <p><strong>Lower Secondary (Secondary One)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_one_g1g2g3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1postinggrp.jpg">
 </div>
 <p><strong>Lower Secondary (Secondary Two)</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec_two_exnant.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S2postinggrp.jpg">
 </div>
 <p><strong>Upper Secondary (Secondary Three to Five)&nbsp;</strong>
 </p>
 <p>At the end of Secondary Two, all students will take part in the Subject
 Option Exercise to decide the subject combinations they will offer at the
 upper secondary levels.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
