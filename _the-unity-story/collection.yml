@@ -2,8 +2,8 @@ collections:
   the-unity-story:
     output: true
     order:
-      - The Unity Story/Unity Open House.md
-      - The Unity Story/.keep
+      - The Unity Journey/Unity Open House.md
+      - The Unity Journey/.keep
       - Achievements/School Awards.md
       - Achievements/.keep
       - Achievements/National Exam Results.md
