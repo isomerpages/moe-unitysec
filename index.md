@@ -10,14 +10,15 @@ sections:
       title: UNITY SECONDARY SCHOOL
       background: /images/website_montage_2025.jpg
       key_highlights:
-        - title: S4&5 Consultation Sessions
-          description: T4W3 - T4W5
-          url: https://www.unitysec.moe.edu.sg/students/students-resources/classtimetable/
         - title: S2 Subject offering exercise
           description: Submissions and Appeal
           url: https://www.unitysec.moe.edu.sg/s2-subject-offering-exercise/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
   - infopic:
       title: Unity Open House
       id: infopic
