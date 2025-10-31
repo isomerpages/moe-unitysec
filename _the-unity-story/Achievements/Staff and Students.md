@@ -79,6 +79,19 @@ variant: tiptap
 <p>National</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lilia Lubecka</p>
+<p>Haiqa Alia Binte Rifqi</p>
+<p>Thng Kai Qing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>“NLB Prove It! Contest 2025” 1st Place (Gold Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>YEAR 2024 - STUDENTS' ACHIEVEMENTS</h4>
