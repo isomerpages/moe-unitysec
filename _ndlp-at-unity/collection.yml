@@ -2,7 +2,6 @@ collections:
   ndlp-at-unity:
     output: true
     order:
-      - NDLP@Unity.md
       - Parents Handbook.md
       - Parents Tool Kit/.keep
       - Parents Tool Kit/Parents Tool Kit.md
