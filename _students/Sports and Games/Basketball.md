@@ -166,4 +166,11 @@ basketball scene winning multiple championships with various teams</p>
 multiple teams across all competitions</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With more than 20 years of experience</p>
 <p></p>
+<h3>Our CCA Training</h3>
+<p>Our intent is to provide a structured and supportive environment where
+every student-athlete can grow in confidence, character, and competence.
+Through consistent effort and reflection, our players learn to lead themselves
+and others, embodying the values of <em>Lead, Serve, Actualise, and Inspire</em> in
+all they do.</p>
+<p></p>
 <p></p>
