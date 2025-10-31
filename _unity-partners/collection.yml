@@ -2,6 +2,7 @@ collections:
   unity-partners:
     output: true
     order:
+      - Parents Tool Kit/Managing Child's Use of Device.md
       - Parents Tool Kit/Learning & Communication Platforms.md
       - Parents Tool Kit/Learning Device.md
       - Parents Tool Kit/Parents Tool Kit.md
