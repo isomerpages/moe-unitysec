@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Parents Handbook.md
-      - Parents Tool Kit/.keep
       - FAQ.md
