@@ -104,10 +104,6 @@ others by sharing his performance experiences with juniors.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>1LEAD 2</strong>
 </p>
 <table style="minWidth: 50px">
@@ -252,7 +248,6 @@ to mentor junior athletes in developing similar qualities.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>1ACTUALISE 5</strong>
 </p>
 <table style="minWidth: 50px">
@@ -293,7 +288,6 @@ his peers.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>1ACTUALISE 6</strong>
 </p>
@@ -376,7 +370,6 @@ mentoring skills further.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>1INSPIRE 8</strong>
 </p>
@@ -545,7 +538,6 @@ and positive change.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>2SERVE 3</strong>
 </p>
 <table style="minWidth: 50px">
@@ -610,7 +602,6 @@ is encouraged to apply these leadership skills in other school activities.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>2ACTUALISE 5</strong>
 </p>
@@ -678,7 +669,6 @@ leader in the future.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>2ACTUALISE 6</strong>
 </p>
 <table style="minWidth: 50px">
@@ -714,7 +704,6 @@ and responsibility, helping participants and ensuring a smooth parade execution.
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>2INSPIRE 7</strong>
 </p>
@@ -783,11 +772,6 @@ to discussions.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>2INSPIRE 8</strong>
 </p>
 <table style="minWidth: 50px">
@@ -857,7 +841,6 @@ his peers.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>3LEAD 2</strong>
 </p>
 <table style="minWidth: 50px">
@@ -926,7 +909,6 @@ face of adversity.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>3SERVE 3</strong>
 </p>
 <table style="minWidth: 50px">
@@ -980,8 +962,6 @@ to take on more formal leadership roles in school activities.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>3SERVE 4</strong>
 </p>
@@ -1082,7 +1062,6 @@ help, she also embodies perseverance and a strong sense of humility.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>3ACTUALISE 5</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1165,22 +1144,7 @@ capabilities by organizing peer study groups.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>3ACTUALISE 6</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1248,13 +1212,6 @@ Pin Chao is encouraged to develop his peer mentoring skills further.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>3INSPIRE 7</strong>
 </p>
@@ -1436,8 +1393,6 @@ is encouraged to develop her peer mentoring skills further.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <h3>&nbsp;<u>SEC 4</u></h3>
 <p><strong>4LEAD1</strong>
 </p>
@@ -1506,7 +1461,6 @@ challenges.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>4LEAD 2</strong>
 </p>
@@ -1590,13 +1544,7 @@ to apply his helpful nature to supporting peers in collaborative learning.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>4SERVE 3</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1666,8 +1614,6 @@ challenges.</p>
 <p>&nbsp;</p>
 <p><strong>4SERVE 4</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1719,8 +1665,6 @@ better strategies to manage her academic responsibilities.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>4ACTUALISE 5</strong>
@@ -1776,7 +1720,6 @@ mentor peers in developing effective work habits.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>4ACTUALISE 6</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1830,12 +1773,6 @@ study strategies with peers to develop leadership qualities.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>4INSPIRE 7</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1931,7 +1868,6 @@ conduct.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>4INSPIRE 8</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1986,8 +1922,6 @@ capabilities.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
