@@ -115,4 +115,55 @@ grit, and grace exemplify the true spirit of the game.</p>
 </div>
 <p></p>
 <h3>Our CCA Character Coaches</h3>
+<p>At Unity Basketball, our teachers serve not only as coaches but as <em>Character Coaches</em>—mentors
+who nurture the hearts and minds of our student-athletes. Beyond honing
+skills and strategies, they emphasise values such as resilience, teamwork,
+discipline, and integrity. Through guidance and authentic relationships,
+our teachers support students in their holistic development—helping them
+grow in confidence, lead with empathy, and serve with purpose both on and
+off the court.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Basketball Boys IC: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mrs Lorraine Toh</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Basketball Girls IC: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Sherry Goh</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>CCA Character Coach: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Hong Wan Mei</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>CCA Character Coach: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Redzuan</strong>
+</p>
+<p></p>
+<p></p>
+<h3>Our CCA Coaches</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb11.jpg">
+</div>
+<p>Our basketball coaches are dedicated mentors who inspire excellence both
+in sport and in character. They go beyond teaching game tactics and technical
+skills—instilling in every player the values of perseverance, humility,
+and teamwork. With a focus on holistic development, our coaches guide students
+to grow as confident leaders who embody Unity’s spirit of <em>Lead, Serve, Actualise, and Inspire</em>,
+empowering them to thrive both on the court and in life.</p>
+<p></p>
+<p><strong>Basketball Boys:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coach Foo Kwang Hock</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ex-national team player</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With more than 20 years of experience</p>
+<p><strong>Basketball Boys: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coach Steve Goh</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FIBA international Referee - Elite
+Standard</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Propelled numerous schools to Zonal
+&amp; National Top 4 standings, including Champion</p>
+<p></p>
+<p><strong>Basketball Girls: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coach Ng Choon Hong</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ex-national team head coach</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Highly respected figure in the local
+basketball scene winning multiple championships with various teams</p>
+<p><strong>Basketball Girls: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coach Ang Kwang Ngee</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Championships winning coach with
+multiple teams across all competitions</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With more than 20 years of experience</p>
+<p></p>
 <p></p>
