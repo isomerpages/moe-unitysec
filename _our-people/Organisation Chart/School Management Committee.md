@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Organisation Chart
 variant: tiptap
 ---
-<h2>Organisation Chart</h2>
 <h3>School Leaders</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -58,7 +57,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>School Management Committee&nbsp;</h4>
+<h3>School Management Committee&nbsp;</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
