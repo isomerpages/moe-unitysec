@@ -11,8 +11,6 @@ links:
         url: /departments/dept/
       - title: Students
         url: /students/students-resources/
-  - title: NDLP@Unity
-    collection: ndlp-at-unity
   - title: The Unity Edge
     url: /the-unity-edge/key-programmes/
     sublinks:
