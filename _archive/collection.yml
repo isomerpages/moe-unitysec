@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Sec 1 Parents' Briefing Slides.md
       - Talent Development Program.md
       - The Unity Story.md
       - Edusave Character Award.md
