@@ -1,5 +1,5 @@
 collections:
-  the-unity-story:
+  the-unity-journey:
     output: true
     order:
       - The Unity Journey/Unity Open House.md
