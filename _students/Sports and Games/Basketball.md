@@ -108,4 +108,11 @@ grit, and grace exemplify the true spirit of the game.</p>
 </tr>
 </tbody>
 </table>
+<h2><em>“We are what we repeatedly do. Excellence, then, is not an act but a habit.”</em> — <strong>Aristotle</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb09.jpg">
+</div>
+<p></p>
+<h3>Our CCA Character Coaches</h3>
 <p></p>
