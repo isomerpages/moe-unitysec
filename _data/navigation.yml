@@ -10,7 +10,7 @@ links:
       - title: Departments
         url: /departments/dept/
       - title: Students
-        url: /students/students-resources/
+        url: https://unitysec.moe.edu.sg/students/students-resources/std-handbk/
   - title: The Unity Edge
     url: /the-unity-edge/key-programmes/
     sublinks:
