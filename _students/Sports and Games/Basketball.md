@@ -173,4 +173,52 @@ Through consistent effort and reflection, our players learn to lead themselves
 and others, embodying the values of <em>Lead, Serve, Actualise, and Inspire</em> in
 all they do.</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Study programme 2.45 pm - 3.45 pm</p>
+</li>
+<li>
+<p>CCA training 4 pm - 6 pm</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA training 8.30 am - 11 am</p>
+</li>
+<li>
+<p>CCA training (for NSG team) 2.30 pm - 4.30 pm</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3>2025 CCA Achievements</h3>
 <p></p>
