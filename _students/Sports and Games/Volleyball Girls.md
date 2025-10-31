@@ -82,36 +82,40 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vbgirls_2.jpg">
+</div>
+<p>Players from 2022 to 2025</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>CCA Description</strong>
-</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Unity Volleyball Girls CCA was established in 2001. It has about 54 members.
-<br>
-<br>Unity Volleyball Girls CCA has been participating in West Zone B &amp;
-C Divisions Volleyball Girls Championships . The Volleyball Girls players
-regularly engage in post-training reflective practices, so that they can
-set individual training goals, make conscious efforts to improve in their
-areas for improvement and also monitor their progress.
-<br>
-<br>They had a training trip to Taiwan 2018 &amp; 2019 to train with many
-other talented Taiwanese volleyball players so as to be able to learn from
-them and get more experiences. They also had some friendly matches with
-other various schools during the holidays.</p>
+<p><strong>Volleyball CCA Description</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Step into a world of passion, teamwork, and excellence with Unity Volleyball
+CCA! Dedicated to developing skilled, confident players ready for competitive
+play, we offer an environment where determination meets opportunity.</p>
+<p>Our members train for major tournaments such as the National School Games
+(NSG), ActiveSG Competitions, and Volleyball Association of Singapore (VAS)
+events. You’ll gain access to developmental experiences like overseas training
+camps and friendly matches, broadening your skills and perspective.</p>
+<p>In our club, every athlete is encouraged to lead by example—on and off
+the court. We value respect, responsibility, and a relentless drive to
+grow stronger and shine in the sport. Members take ownership of their development
+and work tirelessly to become the best they can be.</p>
+<p>If you aspire to excel, embrace challenge, and forge lasting friendships
+through the love of volleyball, this is the place for you. Join us to unlock
+your potential, represent your school with pride, and be part of a winning
+legacy!</p>
 </td>
 </tr>
 </tbody>
