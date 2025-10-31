@@ -17,12 +17,14 @@ from overseas schools offer opportunities for cultural exchange as they
 learn about each other's cultures, traditions, customs, and ways of life.</p>
 <p><strong>Through the International Immersion Programme, Unitians will:&nbsp;</strong>
 </p>
-<p>1) Understand the importance of cultural diversity</p>
-<p>2) Understand at least 2 global issues affecting the world</p>
-<p>3) Be motivated to share their new knowledge with others</p>
+<p>1） Develop 21st Century Competencies of Global Awareness and Cross-Cultural
+skills and sensitivities</p>
+<p>2）Develop Communication and Collaboration skills as well as Critical Thinking
+in understanding the development of visiting countries and Singapore</p>
+<p>3）Strengthen their Commitment and Rootedness to Singapore</p>
 <p>
-<br>Visit <strong><a href="https://sites.google.com/view/unitysec-olj/home" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
-the previous overseas learning journeys( 2018-2019)</p>
+<br>Visit <strong><a href="https://go.gov.sg/uss-chongqing2025" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+the previous overseas learning journeys.</p>
 <p></p>
 <p><strong><u>Overseas Learning Journey ( 2018-2019)</u></strong>
 </p>
