@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents/.keep
-      - Parents/Sec 4 Parents' Briefing Slides.md
       - Parents/Parent’s Newsletter.md
       - Parents/Parents Gateway.md
       - Parents/Useful contacts.md
