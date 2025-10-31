@@ -6,53 +6,32 @@ third_nav_title: Sports and Games
 variant: tiptap
 ---
 <h2>Volleyball Girls</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/vball_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vbgirls_1.jpg">
 </div>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Roles</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Names of Teachers-in-Charge</strong>
+<p><strong>Teachers-in-Charge</strong>
 </p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Sec 1 Teacher IC</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chen Bi Qing</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Palanisamy Sulochana Devi</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Cheong Kiet Yeng Jeslyn</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4 Teacher IC</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Justin Tan Gim Yong (IC)</p>
 </td>
@@ -79,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:30pm - 5:30pm</p>
@@ -90,7 +69,7 @@ variant: tiptap
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7"30am – 10:30am / 1:30pm - 4:30pm</p>
+<p>10:30am - 2:30pm</p>
 </td>
 </tr>
 <tr>
