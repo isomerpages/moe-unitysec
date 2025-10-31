@@ -68,7 +68,7 @@ the skills required through practice and engagement in geographical inquiry.</p>
 <p>Collaborative &amp;&nbsp;Self Directed&nbsp;Learning</p>
 </li>
 </ul>
-<h4>Social Studies (NT)</h4>
+<h4>Social Studies (NT) / G1 Humanities</h4>
 <p>The Social Studies curriculum at the NT level/ G1 level seek to prepare
 students to be effective citizens by helping them understand the interconnectedness
 of Singapore and the world they live in, and to appreciate the complexities
