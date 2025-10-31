@@ -134,6 +134,10 @@ and effective communication — preparing them to lead with purpose and contribu
 to a healthier, sustainable future.
 <br>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/nfs.jpg">
+</div>
 <h4><strong>Music</strong></h4>
 <p>Students will have the opportunities to explore their environment through
 sounds and develop a connection with music through experiences that are
