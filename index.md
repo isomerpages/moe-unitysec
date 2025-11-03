@@ -13,7 +13,7 @@ sections:
         - title: Unity YouTube channel
           description: ""
           url: https://www.youtube.com/channel/UC3vEUhz8nFQ9tbTW7uINOVQ
-        - title: Unity Instagram
+        - title: Instagram
           description: ""
           url: https://www.instagram.com/unitysec/
       subtitle: "#School_Of_OpportUNITY"
