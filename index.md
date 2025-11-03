@@ -10,9 +10,9 @@ sections:
       title: UNITY SECONDARY SCHOOL
       background: /images/website_montage_2025.jpg
       key_highlights:
-        - title: S2 Subject offering exercise
-          description: Submissions and Appeal
-          url: https://www.unitysec.moe.edu.sg/s2-subject-offering-exercise/
+        - title: Unity YouTube channel
+          description: ""
+          url: https://www.youtube.com/channel/UC3vEUhz8nFQ9tbTW7uINOVQ
         - title: Unity Instagram
           description: ""
           url: https://www.instagram.com/unitysec/
