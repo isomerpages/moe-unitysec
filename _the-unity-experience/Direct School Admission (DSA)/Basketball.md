@@ -313,12 +313,13 @@ the programme despite our school’s short history.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>League 2</p>
+<p>Top 16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not applicable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 1</p>
+<p>League 1 Top 16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not applicable</p>
@@ -329,13 +330,13 @@ the programme despite our school’s short history.</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 2 Ongoing</p>
+<p>League 2 Top 16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not applicable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 1 Ongoing</p>
+<p>League 1 Top 8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not applicable</p>
