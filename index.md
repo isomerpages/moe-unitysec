@@ -39,7 +39,6 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: S2 Subject Offering Exercise
           date: 22 October 2025
