@@ -34,10 +34,17 @@ and aesthetics.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dnt01.jpg">
 </div>
-<p><em>Learning Journey to Bukit Batok Fire Station to learn about mechanisms and structures.</em>
-</p>
+<p>Students working on their prototype with their peers</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dnt02.jpg">
+</div>
+<p>D&amp;T Student presenting idea at Bulky Waste to Wonder Competition 2025
+– Pitch Presentation</p>
+<p></p>
 <h4>Nutrition and Food Science (NFS)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -63,3 +70,9 @@ and aesthetics.</p>
 </div>
 <p><em>Learning music with technology</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/music01.jpg">
+</div>
+<p>Battle of the iBands - Students performing in a band infusing music and
+digital instruments</p>

@@ -1,0 +1,13 @@
+collections:
+  the-unity-journey:
+    output: true
+    order:
+      - Unity Open House.md
+      - Achievements/School Awards.md
+      - Achievements/.keep
+      - Achievements/National Exam Results.md
+      - Achievements/Staff and Students.md
+      - Achievements/CCA Achievements.md
+      - Achievements/Catch, Highlight, Multiply.md
+      - Illustrious Alumni.md
+      - Outstanding Alumni.md

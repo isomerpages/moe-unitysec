@@ -229,7 +229,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Amirah Binti Amir</p>
+<p>Ms Loh Kah boon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Instructor (Laboratory)</p>

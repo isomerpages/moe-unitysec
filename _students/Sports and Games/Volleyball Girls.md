@@ -6,53 +6,32 @@ third_nav_title: Sports and Games
 variant: tiptap
 ---
 <h2>Volleyball Girls</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/vball_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vbgirls_1.jpg">
 </div>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Roles</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Names of Teachers-in-Charge</strong>
+<p><strong>Teachers-in-Charge</strong>
 </p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Sec 1 Teacher IC</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chen Bi Qing</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Palanisamy Sulochana Devi</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Cheong Kiet Yeng Jeslyn</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4 Teacher IC</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mr Justin Tan Gim Yong (IC)</p>
 </td>
@@ -79,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2:30pm - 5:30pm</p>
@@ -90,7 +69,7 @@ variant: tiptap
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7"30am – 10:30am / 1:30pm - 4:30pm</p>
+<p>10:30am - 2:30pm</p>
 </td>
 </tr>
 <tr>
@@ -103,37 +82,63 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vbgirls_2.jpg">
+</div>
+<p>Players from 2022 to 2025</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>CCA Description</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Volleyball CCA Description</strong>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Unity Volleyball Girls CCA was established in 2001. It has about 54 members.
-<br>
-<br>Unity Volleyball Girls CCA has been participating in West Zone B &amp;
-C Divisions Volleyball Girls Championships . The Volleyball Girls players
-regularly engage in post-training reflective practices, so that they can
-set individual training goals, make conscious efforts to improve in their
-areas for improvement and also monitor their progress.
-<br>
-<br>They had a training trip to Taiwan 2018 &amp; 2019 to train with many
-other talented Taiwanese volleyball players so as to be able to learn from
-them and get more experiences. They also had some friendly matches with
-other various schools during the holidays.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Step into a world of passion, teamwork, and excellence with Unity Volleyball
+CCA! Dedicated to developing skilled, confident players ready for competitive
+play, we offer an environment where determination meets opportunity.</p>
+<p>Our members train for major tournaments such as the National School Games
+(NSG), ActiveSG Competitions, and Volleyball Association of Singapore (VAS)
+events. You’ll gain access to developmental experiences like overseas training
+camps and friendly matches, broadening your skills and perspective.</p>
+<p>In our club, every athlete is encouraged to lead by example—on and off
+the court. We value respect, responsibility, and a relentless drive to
+grow stronger and shine in the sport. Members take ownership of their development
+and work tirelessly to become the best they can be.</p>
+<p>If you aspire to excel, embrace challenge, and forge lasting friendships
+through the love of volleyball, this is the place for you. Join us to unlock
+your potential, represent your school with pride, and be part of a winning
+legacy!</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vbgirls_3.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vbgirls_4.jpg">
+</div>
+</th>
 </tr>
 </tbody>
 </table>

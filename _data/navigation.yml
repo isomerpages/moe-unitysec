@@ -3,22 +3,20 @@ links:
   - title: Our School
     collection: our-school
   - title: Our People
-    url: /our-people/Organisation-Chart/oc/
+    url: /our-people/sch-mgt-comm/oc/
     sublinks:
       - title: Organisation Chart
-        url: /our-people/Organisation-Chart/oc/
+        url: /our-people/sch-mgt-comm/oc/
       - title: Departments
         url: /departments/dept/
       - title: Students
-        url: /students/students-resources/
-  - title: NDLP@Unity
-    collection: ndlp-at-unity
-  - title: The Unity Edge
+        url: /students/students-resources/std-handbk/
+  - title: The Unity Experience
     url: /the-unity-edge/key-programmes/
     sublinks:
       - title: Key Programmes
         url: /the-unity-edge/key-programmes/
-  - title: The Unity Story
-    collection: the-unity-story
+  - title: The Unity Journey
+    collection: the-unity-journey
   - title: Unity Partners
     collection: unity-partners

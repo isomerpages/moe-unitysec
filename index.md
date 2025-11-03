@@ -10,14 +10,24 @@ sections:
       title: UNITY SECONDARY SCHOOL
       background: /images/website_montage_2025.jpg
       key_highlights:
-        - title: S4&5 Consultation Sessions
-          description: T4W3 - T4W5
-          url: https://www.unitysec.moe.edu.sg/students/students-resources/classtimetable/
-        - title: S2 Subject offering exercise
-          description: Submissions and Appeal
-          url: https://www.unitysec.moe.edu.sg/s2-subject-offering-exercise/
+        - title: YouTube
+          description: ""
+          url: https://www.youtube.com/channel/UC3vEUhz8nFQ9tbTW7uINOVQ
+        - title: Instagram
+          description: ""
+          url: https://www.instagram.com/unitysec/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: S2 Subject Offering Exercise
+          date: 22 October 2025
+          announcement: Please refer to the Sec 2 Subject Combination Guides and submit
+            your choices in the link below.
+          link_text: Click here
+          link_url: https://www.unitysec.moe.edu.sg/s2-subject-offering-exercise/
   - infopic:
       title: Unity Open House
       id: infopic

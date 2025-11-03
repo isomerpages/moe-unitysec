@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<h2>Basketball</h2>
+<h2>Basketball Team</h2>
 <p>The Unity Basketball team comprises both boys and girls teams. We are
 one of the premiere basketball CCAs in Singapore. Carrying a legacy of
 success and excellence, we have cultivated this winning mentality and drive,
@@ -13,40 +13,71 @@ with close adherence and belief to the school’s values of Lead, Serve,
 Actualise and Inspire. The team has immersed and fully identified with
 this Ethos.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/bball_01.jpg">
-</div>
+<h3>Our Basketballers</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/bball_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb01.jpg">
 </div>
-<p>&nbsp;The team have achieved honours in their respective Basketball NSG
-competitions over the years and are put through a rigorous and intensive
-training programme, which encompasses frequent school training as well
-overseas training opportunities to countries such as Malaysia, Taiwan and
-China. Our students have also achieved regional acclaim, with frequent
-selections into the Jr NBA Singapore team to compete with other youth athletes
-in the region.</p>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/bball_03.jpg">
+<img style="width: 77%;" height="auto" width="100%" alt="" src="/images/bb05.jpg">
 </div>
-<p>&nbsp;With the values and belief in a child’s potential, the basketball
-team is an ideal platform for a child to come in and learn, a safe place
-to make mistakes, and grow to a decent person, ready and assured in taking
-on the challenges in their future.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/bball_04.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/bb02.jpg">
 </div>
-<p>With the values and belief in a child’s potential, the basketball team
-is an ideal platform for a child to come in and learn, a safe place to
-make mistakes, and grow to a decent person, ready and assured in taking
-on the challenges in their future.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<h4>CCA Teachers</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 67%;" height="auto" width="100%" alt="" src="/images/bb06.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb03.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 67%;" height="auto" width="100%" alt="" src="/images/bb07.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb04.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 66%;" height="auto" width="100%" alt="" src="/images/bb08.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -55,59 +86,146 @@ on the challenges in their future.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Overall IC</strong>
-</p>
-<p>Sec 1 Character Coach</p>
+<h4>Basketball Boys</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sherry Goh / Mdm Hong Wan Mei</p>
+<h4>Basketball Girls</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Energetic and passionate, our Unity Basketball boys give their all both
+in training and competition. Their commitment and drive reflect their deep
+love for the game—they play with heart, purpose, and the relentless pursuit
+of excellence that defines our team spirit.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our Unity Basketball girls embody teamwork and collaboration at their
+best. They support one another on and off the court, combining discipline
+with determination as they strive for basketball excellence. Their unity,
+grit, and grace exemplify the true spirit of the game.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2><em>“We are what we repeatedly do. Excellence, then, is not an act but a habit.”</em> — <strong>Aristotle</strong></h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb09.jpg">
+</div>
+<p></p>
+<h3>Our CCA Character Coaches</h3>
+<p>At Unity Basketball, our teachers serve not only as coaches but as <em>Character Coaches</em>—mentors
+who nurture the hearts and minds of our student-athletes. Beyond honing
+skills and strategies, they emphasise values such as resilience, teamwork,
+discipline, and integrity. Through guidance and authentic relationships,
+our teachers support students in their holistic development—helping them
+grow in confidence, lead with empathy, and serve with purpose both on and
+off the court.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Basketball Boys IC: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mrs Lorraine Toh</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Basketball Girls IC: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Sherry Goh</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>CCA Character Coach: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Hong Wan Mei</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>CCA Character Coach: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Redzuan</strong>
+</p>
+<p></p>
+<p></p>
+<h3>Our CCA Coaches</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb11.jpg">
+</div>
+<p>Our basketball coaches are dedicated mentors who inspire excellence both
+in sport and in character. They go beyond teaching game tactics and technical
+skills—instilling in every player the values of perseverance, humility,
+and teamwork. With a focus on holistic development, our coaches guide students
+to grow as confident leaders who embody Unity’s spirit of <em>Lead, Serve, Actualise, and Inspire</em>,
+empowering them to thrive both on the court and in life.</p>
+<p></p>
+<p><strong>Basketball Boys:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coach Foo Kwang Hock</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ex-national team player</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With more than 20 years of experience</p>
+<p><strong>Basketball Boys: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coach Steve Goh</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FIBA international Referee - Elite
+Standard</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Propelled numerous schools to Zonal
+&amp; National Top 4 standings, including Champion</p>
+<p></p>
+<p><strong>Basketball Girls: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coach Ng Choon Hong</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ex-national team head coach</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Highly respected figure in the local
+basketball scene winning multiple championships with various teams</p>
+<p><strong>Basketball Girls: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coach Ang Kwang Ngee</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Championships winning coach with
+multiple teams across all competitions</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; With more than 20 years of experience</p>
+<p></p>
+<h3>Our CCA Training</h3>
+<p>Our intent is to provide a structured and supportive environment where
+every student-athlete can grow in confidence, character, and competence.
+Through consistent effort and reflection, our players learn to lead themselves
+and others, embodying the values of <em>Lead, Serve, Actualise, and Inspire</em> in
+all they do.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Study programme 2.45 pm - 3.45 pm</p>
+</li>
+<li>
+<p>CCA training 4 pm - 6 pm</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher IC</strong>
-</p>
-<p>Sec 2 Character Coach</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Liew Kok Keong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Teacher IC</strong>
-</p>
-<p>Sec 3 Character Coach</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Daniel Leong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Teacher IC</strong>
-</p>
-<p>Sec 4 Character Coach</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lorraine Pek</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA training 8.30 am - 11 am</p>
+</li>
+<li>
+<p>CCA training (for NSG team) 2.30 pm - 4.30 pm</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<h4>CCA Coaches</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_07.jpg">
-</div>
-<p></p>
-<h4>CCA Facilities</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_08.jpg">
-</div>
-<p></p>
-<p></p>
-<p></p>
+<h3>2025 CCA Achievements</h3>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B Division Boys:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+West Zone Top 12</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C Division Boys:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Tier 2 Top 16</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B Division Girls:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+West Zone 3rd position</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C Division Girls:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Tier 1 Top 8</p>

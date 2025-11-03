@@ -255,15 +255,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Kuang Siew Lang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kuang_siew_lang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kuang_siew_lang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -849,15 +840,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: aidashikin_solikin@schools.gov.sg" rel="noopener nofollow" target="_blank">aidashikin_solikin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Shen Jian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shen_jian@schools.gov.sg" rel="noopener nofollow" target="_blank">shen_jian@schools.gov.sg</a>
 </p>
 </td>
 </tr>

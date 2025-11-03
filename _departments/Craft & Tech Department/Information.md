@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Craft & Tech Department
 variant: tiptap
 ---
-<h3>Information</h3>
+<h3><strong>Information</strong></h3>
 <p>The Craft &amp; Technology department comprises four units:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -23,7 +23,7 @@ variant: tiptap
 <p></p>
 </li>
 </ul>
-<h4>Art</h4>
+<h4><strong>Art</strong></h4>
 <p>The syllabus aims to develop students as active artists and informed audience
 with:</p>
 <p>• Curious minds that are open to exploring and experimenting in art.</p>
@@ -62,7 +62,7 @@ to learn collaboratively.</p>
 <p>Upper Secondary Art Learning Journey to Museums and Art Exhibitions</p>
 </li>
 </ul>
-<h4>Design &amp; Technology</h4>
+<h4><strong>Design &amp; Technology</strong></h4>
 <p>The aim of Design &amp; Technology (D&amp;T) is to enable pupils to harness
 their innate curiosity and ability to create through design-and-make activities.
 It enables students to develop their dispositions for enterprise, creativity
@@ -107,67 +107,38 @@ in doodling and sketching for ideas exploration.</p>
 <p>Digital sketching/ideation using Sketchbook app</p>
 </li>
 </ul>
-<h4>Food and Consumer Education, Food and Nutrition (F&amp;N)</h4>
-<p>At lower secondary level, all students are required to take Food and Consumer
-Education as a subject. The aim of the syllabus is to empower students
-to take responsibility in making choices and decisions about health and
-daily needs through demonstration of:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>an understanding of relationship between health and nutrition</p>
-</li>
-<li>
-<p>an understanding of the importance of making informed decisions about
-food, consumer products and services</p>
-</li>
-<li>
-<p>the ability to apply the basic principles of nutrition and food management
-for healthy living</p>
-</li>
-<li>
-<p>the ability to apply the basic principles of consumer education to make
-informed choices as a consumer</p>
-</li>
-</ul>
-<p>At upper secondary level, Food &amp; Nutrition (F&amp;N) is offered as
-an elective subject. The aim of the subject is to develop students’ understanding
-of the concepts of nutrition and meal planning, develop students’ understanding
-of the relationship between diet and health, develop students’ understanding
-of the principles of food science equip students with the knowledge and
-skills to make informed decisions concerning food and nutrition.</p>
-<p><strong>Pedagogies &amp; Modes of Teaching</strong>
+<p></p>
+<h4><strong>Nutrition and Food Science (NFS) Curriculum</strong></h4>
+<p></p>
+<p>The NFS Curriculum Framework provides a holistic approach to developing
+students as Health Ambassadors, Discerning Consumers, and Food Innovators.
+Grounded in the key strands of nutrition and health, consumer literacy,
+and food science, it connects classroom learning to real-life applications
+through hands-on, reflective, and student-centred experiences.</p>
+<p></p>
+<p>At Lower Secondary, the Food &amp; Consumer Education (FCE) programme
+empowers students to make informed food and lifestyle choices. They explore
+nutrition, food safety, resource management, and sustainable living while
+applying basic culinary science to prepare healthy meals. Through practical
+learning, students build essential life skills such as critical thinking,
+creativity, and communication, and develop positive attitudes like confidence,
+curiosity, empathy, and responsibility.</p>
+<p></p>
+<p>At Upper Secondary, Nutrition and Food Science (NFS) deepens students’
+understanding of the relationship between nutrition, health, and sustainability.
+Through Active Learning Plus, students explore scientific principles behind
+food preparation and innovation, applying them creatively to design healthier
+and more sustainable food products. In the process, they strengthen 21st
+Century Competencies (E21CC) such as inventive thinking, responsible decision-making,
+and effective communication — preparing them to lead with purpose and contribute
+to a healthier, sustainable future.
+<br>
 </p>
-<p>Coursework is a core component of the curriculum for this subject, transcending
-all levels from Secondary 1 to 5. Through the execution of coursework and
-practical activities, students demonstrate their understanding of the concepts
-of nutrition and meal planning for dietary needs of different groups of
-consumers.</p>
-<p>A thematic approach is used for Secondary 3 coursework, which revolves
-around the concept of planning and making a balanced diet for different
-age groups of consumers. This requires students to conduct research on
-the dietary requirements of specific target groups before embarking on
-creating dishes suitable for the targeted group, so as to promote healthy
-eating habits.</p>
-<p><strong>Key Programmes &amp; Activities</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Sec 1 - Creating healthier snacks for school canteen</p>
-</li>
-<li>
-<p>Sec 2 - Creating healthier local hawker dishes</p>
-</li>
-<li>
-<p>Culinary Competitions</p>
-</li>
-<li>
-<p>Food Sustainability Awareness with Science Department</p>
-</li>
-<li>
-<p>Healthy Lifestyle Week Challenge with PE Department</p>
-</li>
-</ul>
-<h4>Music</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/nfs.jpg">
+</div>
+<h4><strong>Music</strong></h4>
 <p>Students will have the opportunities to explore their environment through
 sounds and develop a connection with music through experiences that are
 meaningful and valuable. These include the ability to listen, sing, play,

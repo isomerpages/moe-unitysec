@@ -2,9 +2,15 @@ collections:
   archive:
     output: true
     order:
+      - Sch Holiday Intervention.md
+      - Sec 4 Parents' Briefing Slides.md
+      - Sec 3 Parents' Briefing Slides.md
+      - Sec 2 Parents' Briefing Slides.md
+      - Sec 1 Parents' Briefing Slides.md
+      - Talent Development Program.md
+      - The Unity Story.md
       - Edusave Character Award.md
       - June Holidays CCA Training.md
-      - Promotion Criteria.md
       - Application to Transfer Waitlist.md
       - Indian Orchestra.md
       - 2023 National Exam Celebrations.md
