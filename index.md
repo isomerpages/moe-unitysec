@@ -18,9 +18,6 @@ sections:
           url: https://www.instagram.com/unitysec/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
-  - announcements:
-      title: Announcements
-      id: announcements
   - infopic:
       title: Unity Open House
       id: infopic
@@ -39,4 +36,15 @@ sections:
       url: https://www.unitysec.moe.edu.sg/school-awards/
       image: /images/PA_Community_Spirit_Award_2025.jpg
       alt: Image alt text
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: S2 Subject Offering Exercise
+          date: 22 October 2025
+          announcement: Please refer to the Sec 2 Subject Combination Guides and submit
+            your choices in the link below.
+          link_text: Click here
+          link_url: https://www.unitysec.moe.edu.sg/s2-subject-offering-exercise/
 ---
