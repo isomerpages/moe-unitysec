@@ -13,6 +13,9 @@ sections:
         - title: S2 Subject offering exercise
           description: Submissions and Appeal
           url: https://www.unitysec.moe.edu.sg/s2-subject-offering-exercise/
+        - title: Unity Instagram
+          description: ""
+          url: https://www.instagram.com/unitysec/
       subtitle: "#School_Of_OpportUNITY"
       variant: image
   - announcements:
