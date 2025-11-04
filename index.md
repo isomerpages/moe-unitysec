@@ -10,12 +10,12 @@ sections:
       title: UNITY SECONDARY SCHOOL
       background: /images/website_montage_2025.jpg
       key_highlights:
-        - title: YouTube
-          description: ""
-          url: https://www.youtube.com/channel/UC3vEUhz8nFQ9tbTW7uINOVQ
         - title: Instagram
           description: ""
           url: https://www.instagram.com/unitysec/
+        - title: YouTube
+          description: ""
+          url: https://www.youtube.com/channel/UC3vEUhz8nFQ9tbTW7uINOVQ
       subtitle: "#School_Of_OpportUNITY"
       variant: image
   - announcements:
