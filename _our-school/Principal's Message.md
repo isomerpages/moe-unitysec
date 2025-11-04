@@ -79,5 +79,3 @@ we build a nurturing environment where every Unitian grows to become a <strong>L
 </div>
 <p>Mdm Adel Ong
 <br>Principal</p>
-<p>&nbsp;
-<br>Principal</p>
