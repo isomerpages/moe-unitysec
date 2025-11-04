@@ -10,18 +10,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/band_grp_2024.jpg">
 </div>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<p><strong>Roles</strong>
-</p>
-</th>
 <th rowspan="1" colspan="1">
 <p><strong>Names of Teachers-in-Charge</strong>
 </p>
@@ -29,32 +23,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Hidayah</p>
+<p>Ms Nur Hidayah (Main I/C)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Sec Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Siow Wee Koon</p>
+<p>Mrs Chua Wai Yi (2<sup>nd </sup>I/C)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Sec Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chen Yi (IC)</p>
+<p>Ms Chen Yi</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -81,26 +63,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday (Main Band Combined)</p>
+<p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30 pm - 5:30 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday (Sectionals ALL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:30 pm - 5:30 pm</p>
+<p>2.45-5.45pm*</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday (Main Band Combined/ Junior Band Sectionals)</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8am - 10:30am / 1.30pm - 3.30pm (seasonal)</p>
+<p>2.45-5.45pm*</p>
+<p>&nbsp;</p>
+<p><em>*First hour is meant for sectionals for available students.</em>
+</p>
+<p><em>*Sec1 members will be progressively included in both afternoon sessions.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10-12.30pm</p>
 </td>
 </tr>
 <tr>
@@ -126,26 +113,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Under the baton of experienced conductors, Mr Takehiro Oura and Mr Wilson
-Ong, Unity Secondary Symphonic Band aims to provide our Band members the
-opportunity to learn more about music and their instruments and develop
-them to be a performer to work together with other members to create beautiful
-music. In the process, we hope to develop them into respectful, responsible
-and disciplined individuals who are adaptable and aims for high standards
-in everything they do.
-<br>
-<br>Through the programs planned for every year, Band members have the opportunity
-to hone their skills through school and public performances, for example
-the yearly Chinese New Year community performance at Yew Tee Square as
-part of their VIA, the school’s Awards Night and National Day Celebration,
-as well as the biannual Singapore Youth Festival (SYF) Arts Presentation,
-where our students achieved Certificate of Accomplishment in 2017 and 2019.
-<br>
-<br>Our band members also have the opportunity to interact with band members
-from other schools through Adventure Band Camp (for Sec 1) and WBAS Band
-Festival (Sec 2 and 3). Our Sec 3 student leaders also have the opportunity
-to interact and learn from veteran band instructors and band leaders from
-other schools through the WBAS Youth Band Leaders Conference.</p>
+<p>Under the baton of our experienced conductor, Mr Wilson Ong, the Unity
+Secondary Symphonic Band aims to nurture our members’ passion for music
+and their instruments. Guided by our motto, “One Heart, One Sound, One
+Band,” we believe in the power of unity and teamwork in creating meaningful
+music together. Through a comprehensive band programme, students develop
+musical skills, teamwork, and performance confidence while learning to
+create music harmoniously. Beyond musicianship, we strive to mould our
+members into respectful, responsible, and disciplined individuals who are
+adaptable and committed to excellence in all that they do.</p>
+<p></p>
+<p>Each year, our band members hone their performance skills through a variety
+of school and public performances, such as the annual Chinese New Year
+performance by Yew Tee CC, the school’s Awards Night, and National Day
+Celebrations. The band also participates in the Singapore Youth Festival
+(SYF) Arts Presentation biennially, achieving the Certificate of Distinction
+in both 2023 and 2025.</p>
+<p></p>
+<p>Our students also benefit from opportunities to collaborate and learn
+with peers from other schools through platforms such as the Wind Bands
+Association of Singapore (WBAS) Band Festival for Secondary 2 and 3 members
+and various school band exchanges. In addition, our Secondary 3 student
+leaders attend the WBAS Youth Band Leaders Conference, where they learn
+from veteran instructors and student leaders across Singapore. Through
+these enriching experiences, the Unity Secondary Symphonic Band continues
+to inspire a lifelong love for music while instilling values that extend
+far beyond the band room.</p>
 </td>
 </tr>
 <tr>
