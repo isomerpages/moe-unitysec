@@ -36,6 +36,8 @@ sections:
         discovery.
       image: /images/2025_Open_House__Details_Jpeg.jpg
       alt: Image alt text
+      url: https://www.unitysec.moe.edu.sg/unity-open-house/
+      button: read more here
   - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
       id: infopic
