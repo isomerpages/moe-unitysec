@@ -81,8 +81,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Lilia Lubecka</p>
+</li>
+<li>
 <p>Haiqa Alia Binte Rifqi</p>
+</li>
+</ul>
 <p>Thng Kai Qing</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,6 +96,31 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Cheryl Ling Leong Shuen</p>
+</li>
+<li>
+<p>Chiam Ruay Fang, Kaitlyn (Zhan Ruifang)</p>
+</li>
+<li>
+<p>Tan Huizhi Jessyln (Chen Huizhi)</p>
+</li>
+<li>
+<p>Marissa Binte Hezri</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner's Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+<p></p>
 </td>
 </tr>
 </tbody>
