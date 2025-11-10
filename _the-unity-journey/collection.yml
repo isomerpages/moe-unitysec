@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Open House FAQs/.keep
-      - Unity Open House.md
       - Achievements/School Awards.md
       - Achievements/.keep
       - Achievements/National Exam Results.md
