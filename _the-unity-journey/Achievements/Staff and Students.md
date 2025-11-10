@@ -124,6 +124,32 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
+<p>Zaraspe Joules Matthew Untalan</p>
+</li>
+<li>
+<p>Djarron Hanato</p>
+</li>
+<li>
+<p>Nicole Wong Qi Hui</p>
+</li>
+<li>
+<p>Joe Amario Moral</p>
+</li>
+</ul>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore &amp; Asian School Math Olympiad (SASMO) - Honorable Mention
+Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Lilia Lubecka</p>
 </li>
 <li>
