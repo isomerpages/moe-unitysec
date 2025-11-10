@@ -526,6 +526,81 @@ Award</p>
 <p>National</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lin Wen Jie, Wendy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Snr SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE Service Excellence Award (MSEA) - Platinum &amp; Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fathiah Borhan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ Craft and Technology</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>MOE Service Excellence Award (MSEA) - Gold</p>
+</td>
+<td rowspan="6" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Meow Peng Sherry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ Student Leadership</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Xu Bixian Janet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ English Language &amp; Lit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Sabrina Binte Jumandi</p>
+</li>
+<li>
+<p>Mr Tsia Gwo Hong</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Bee Kuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Siew Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Snr Sch Counsellor</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
