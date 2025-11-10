@@ -57,7 +57,10 @@ practical work.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Applied Learning Programme on STEM and Food Sustainability</p>
+<p>GreenovAtors In Action (GAIA): STEM Applied Learning Programme on Sustainability</p>
+</li>
+<li>
+<p>Young Scientists Programme</p>
 </li>
 <li>
 <p>Singapore Science and Engineering Fair</p>
@@ -69,23 +72,7 @@ practical work.</p>
 <p>Youth STEM Empowerment Programme (YSEP)</p>
 </li>
 <li>
-<p>Horizon Hydrogen Grand Prix (H2GP)</p>
-</li>
-<li>
 <p>International Elementz Fair</p>
-</li>
-<li>
-<p>Young Sustainability Champion Programme</p>
-</li>
-<li>
-<p>Young Engineers Competition</p>
-</li>
-<li>
-<p>Young Scientists Programme</p>
-</li>
-<li>
-<p>Unity Scientific Innovation Challenge in collaboration with Singapore
-Polytechnic and ERI@N (USPE)</p>
 </li>
 </ul>
 <p></p>
