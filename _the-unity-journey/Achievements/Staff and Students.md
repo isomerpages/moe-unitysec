@@ -300,6 +300,56 @@ Award</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Tan Wei Qi</p>
+</li>
+<li>
+<p>Iris Chua Yu En</p>
+</li>
+<li>
+<p>Ong Kuan Xiang</p>
+</li>
+</ul>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>THE 8TH NATIONAL TEXT RECITAL COMPETITION - 2nd Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dan Meng Xuan</p>
+<p>Thang Me Chen</p>
+<p>Ng Shi En Charlene</p>
+<p>Thng Kai Qing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NLB Historical Scene Investigation (H.S.I.) 2025 - Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yap Chin Teng</p>
+<p>Bezawada Akshara Ojaswini</p>
+<p>Tan Wan Yi, Tiffani</p>
+<p>Tan Wan Qi, Trina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NLB Historical Scene Investigation (H.S.I.) 2025 - Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ul>
 <li>
 <p>Cheryl Ling Leong Shuen</p>
