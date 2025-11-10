@@ -465,6 +465,17 @@ Award</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chang Bi Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner's Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Yip Mo En</p>
 <p>Sankaran Shiva Aditya</p>
 <p>Ong Jing Kai Rynold</p>
