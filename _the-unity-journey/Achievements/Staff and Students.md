@@ -136,7 +136,6 @@ variant: tiptap
 <p>Joe Amario Moral</p>
 </li>
 </ul>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore &amp; Asian School Math Olympiad (SASMO) - Honorable Mention
