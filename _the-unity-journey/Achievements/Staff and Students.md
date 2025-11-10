@@ -445,6 +445,90 @@ Award</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4>YEAR 2025 - STAFFS' ACHIEVEMENTS</h4>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Staff</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Appointment</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Level (Cluster, Zonal, National, International</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fathiah Borhan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ Craft and Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Commendation Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Christina Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Long Service Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tsia Gwo Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Long Service Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kumarasamy Shankar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Laboratory)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Long Service Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>YEAR 2024 - STUDENTS' ACHIEVEMENTS</h4>
 <h4></h4>
 <div class="isomer-image-wrapper">
