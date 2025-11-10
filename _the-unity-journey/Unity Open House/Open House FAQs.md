@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Unity Open House
 ---
-<h2><strong>Unity Secondary School Open House 2025 FAQs</strong></h2>
+<h2>Unity Secondary School Open House 2025 FAQs</h2>
 <h3>Admission &amp; Eligibility</h3>
 <p>
-<br><strong>What is Unity Secondary School’s indicative PSLE cut-off points for G3, G2, and G1?</strong>
+<br><strong>What is Unity Secondary School’s indicative PSLCE cut-off points for G3, G2, and G1?</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -83,42 +83,38 @@ third_nav_title: Unity Open House
 <p>
 <br><strong>Can my child qualify for Unity Secondary if his/her score is below the cut off score by 1 or 2 marks?</strong>
 </p>
-<p>It is advisable for students to put their school of choice as the first
-or second place. For the rest of the choices, it must be within their Achievement
-Levels.</p>
-<p>Cut off scores may fluctuate +/-&nbsp; 1 or 2 points every year, hence
-there is no guarantee of placement as students are emplaced based on merit
-first and then choice.</p>
+<p>Admission is based on both merit and choice. While your child may still
+indicate Unity Secondary as their first or second choice, it is important
+to note that placement is not guaranteed if their score falls below the
+previous year's Cut-Off Point (COP). The COP can vary slightly each year
+(usually by about 1–2 points) depending on the cohort’s performance and
+overall demand.</p>
+<p>We encourage students to use the previous year’s COP as a guide, and to
+ensure that the rest of their school choices are within their Achievement
+Level range to maximise their chances of successful placement.</p>
 <p><strong>Does putting the school as first choice give me higher priority?</strong>
 </p>
 <p>Yes, it does, provided your child’s score is within our cut-off range
 and vacancies have not been filled by students having higher scores than
 your child who have put Unity as their first choice.</p>
-<p></p>
-<p></p>
 <h3>School Structures</h3>
-<p></p>
-<p><strong>1. How many Sec 1 classes do we have in 2024?</strong>
+<p><strong>1. How many Sec 1 classes do we have in 2025?</strong>
 </p>
 <p>We have 8 classes of Sec 1 students.</p>
 <p><strong>2. How is the form class structure in Unity Sec?</strong>
 </p>
 <p>We have a CCA mixed form class where we have 2 CCAs forming a form class.
 Students will learn the common curriculum subjects in their CCA mixed form
-class. Common Curriculum subjects include PE, DT, FCE, Art and Music. The
-Character Coaches (Form Teachers) of your child will follow them throughout
-the 4–5 years of their education in Unity.</p>
+class. Common Curriculum subjects include PE, DT, FCE, Art and Music.</p>
+<p></p>
 <p><strong>3. How did the school perform in National Examinations?</strong>
 </p>
-<p>Generally, the school does well in national exams. Annually, at least
-95% of our 4 Express students qualify for Polytechnic admission, and at
-least 70% qualify for JCs. For our NA students, at least 80% qualify for
-Sec 5NA.</p>
-<p><strong>4. What is the percentage of students that qualify for Junior Colleges and Polytechnics?</strong>
-</p>
-<p>Polytechnics: more than 95%
-<br>Junior Colleges: more than 70%</p>
-<h3>Academic<br></h3>
+<p>The school has maintained a strong performance in the national examinations.
+Each year, more than 95% of our Express stream students qualify for admission
+to Polytechnics, and at least 70% qualify for Junior Colleges. Among our
+Normal (Academic) students, at least 80% are eligible to progress to Secondary
+5 to pursue the GCE O-Level examinations.</p>
+<h3>Academic</h3>
 <p><strong>1. Does the school offer a ‘Triple Science’ Combination?</strong>
 </p>
 <p>The school does not offer a Triple Science Combination. The offer of subjects
@@ -129,17 +125,19 @@ courses in JCs and Polytechnics.</p>
 <p>No, the school does not offer such subject combinations. To ensure that
 our students qualify for post-secondary admissions to JCs or Polytechnics,
 the school ensures that students have the necessary Science, Mathematics,
-Humanities, and Elective combinations. POA is not a key requirement even
-for Business and Finance courses at Polytechnics.</p>
-<p><strong>3. What is the criteria for taking A-Math’ in Secondary 3?</strong>
+Humanities, and Elective combinations. POA is not a key requirement for
+Business and Finance courses at Polytechnics.</p>
+<p><strong>3. What is the criteria for taking Additional Mathematics in Secondary 3?</strong>
 </p>
-<p>To do Additional Mathematics at Upper Secondary level, a strong foundation
-in Mathematics at Lower Secondary is necessary. Students who are keen to
-take G3 Additional Mathematics should achieve an overall percentage of
-60% and above in G3 Mathematics. Those who do not meet the above suggested
-criteria can consider taking G2 Additional Mathematics. Do note that for
-entry to Junior College, 5 G3 subjects are required.</p>
-<h3>CCA<br></h3>
+<p>A strong foundation in Lower Secondary Mathematics is important for taking
+Additional Mathematics at Upper Secondary. Students who are interested
+in Additional Mathematics but are still strengthening their foundation
+may consider G2 Additional Mathematics, which is less demanding. For students
+aiming for Junior College admission, please note that a minimum of five
+G3 subjects is required. For more information on post-secondary pathways,
+please refer to the chart below.</p>
+<p></p>
+<h3>CCA</h3>
 <p><strong>1. What are the CCAs that the school offers?</strong>
 </p>
 <p>• Clubs &amp; Societies
@@ -148,26 +146,26 @@ entry to Junior College, 5 G3 subjects are required.</p>
 <br>• Uniformed Groups</p>
 <p><strong>CCA @ UNITY</strong>
 </p>
-<p>Clubs &amp; Societies:
+<p><strong>Clubs &amp; Societies:</strong>
 <br>- Art Club
 <br>- Audio Visual Aid
 <br>- Eco-Explorers
-<br>- Media Production
-<br>
-<br>Performing Arts:
+<br>- Media Production</p>
+<p>
+<br><strong>Performing Arts:</strong>
 <br>- Concert Band
 <br>- Choir
 <br>- Modern Dance
 <br>- Speech &amp; Drama
 <br>
-<br>Sports:
+<br><strong>Sports:</strong>
 <br>- Basketball (Boys &amp; Girls)
 <br>- Football (Boys)
 <br>- Table Tennis (Boys &amp; Girls)
 <br>- Track &amp; Field (Boys &amp; Girls)
 <br>- Volleyball (Girls)
 <br>
-<br>Uniformed Groups:
+<br><strong>Uniformed Groups:</strong>
 <br>- Boys’ Brigade
 <br>- Girls’ Brigade
 <br>- National Cadet Corps (Air)
@@ -175,9 +173,12 @@ entry to Junior College, 5 G3 subjects are required.</p>
 <br>- Scouts</p>
 <p><strong>2. Will there be a trial for certain CCAs such as Performing Arts or Sports?</strong>
 </p>
-<p>Dance: Yes, there will be a trial during the CCA Open House to test the
-students on their suitability for the Dance CCA.
-<br>Volleyball: Selection exercise for application through DSA.
+<p><em>Dance:</em> Yes, there will be a trial during the CCA Open House to
+test the students on their suitability for the Dance CCA.
+<br><em>Football:</em> Selection trials will be conducted during CCA Open House
+to assess their skills and suitability for Football CCA.
+<br><em>Volleyball:</em> Selection exercise for application through DSA.</p>
+<p>
 <br>Even though we have DSA volleyball students, most of the volleyball team
 are selected through the volleyball trial during the CCA Open House and
 CCA experience.</p>
@@ -185,7 +186,8 @@ CCA experience.</p>
 </p>
 <p>All students will be given priority to go into UG CCA if they put it as
 their first choice. Therefore, it is highly likely that they will get into
-the UG CCA of their choice if they put it as their 1st choice.</p>
+the UG CCA of their choice if they put it as their first choice.</p>
 <p>Further Questions?
 <br>Please feel free to contact us at <a href="mailto:unity_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">unity_ss@moe.edu.sg</a>
 </p>
+<p></p>
