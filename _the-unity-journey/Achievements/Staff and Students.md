@@ -257,6 +257,28 @@ Award</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Muthukumar Mahisha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oratorical Competition - 1st Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muthukumar Mahisha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Speech Competition - 1st Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Lilia Lubecka</p>
