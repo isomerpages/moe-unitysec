@@ -8,9 +8,6 @@ variant: tiptap
 <h2>Achievements</h2>
 <h4>YEAR 2025 - STUDENTS' ACHIEVEMENTS</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/clss_newspaper.jpg">
-</div>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -32,9 +29,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Calyn Sim</p>
+</li>
+<li>
 <p>Caitlyne Ong Moon</p>
+</li>
+<li>
 <p>Chan Shi En Abby</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>ECS and SAAS Award (Singapore Science &amp; Engineering Fair)</p>
@@ -45,8 +50,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Yip Mo En</p>
+</li>
+<li>
 <p>Sankaran Shiva Aditya</p>
+</li>
+</ul>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,8 +69,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Sujeeth KB</p>
+</li>
+<li>
 <p>Ashok Pranesh</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outstanding Cadet Award (NCC)</p>
@@ -74,6 +91,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Unity Sec Young Writers Festival (UWF) Flash Fiction Competition - 3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>See Hong Zhe, Alvyn</p>
+</li>
+<li>
+<p>Olivia Soo Hui Yi</p>
+</li>
+<li>
+<p>Wee Zi Shuo</p>
+</li>
+<li>
+<p>Caden Soo Yi Kai</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>International Mathematical Modelling Challenge - Certificate of Merit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National</p>
@@ -127,6 +168,9 @@ variant: tiptap
 </table>
 <h4>YEAR 2024 - STUDENTS' ACHIEVEMENTS</h4>
 <h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/clss_newspaper.jpg">
+</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
