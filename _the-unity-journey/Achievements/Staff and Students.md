@@ -217,6 +217,46 @@ Award</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mathiarasan Aradhana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oratorical Competition - Merit Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Lathadevika Ramasamy Palani</p>
+</li>
+<li>
+<p>Vijeyakumar Akshata</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reels Challenge Competition - 3rd Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kanthakumar Jayashri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nalavenba Poem Writing Competition - 1st Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Lilia Lubecka</p>
