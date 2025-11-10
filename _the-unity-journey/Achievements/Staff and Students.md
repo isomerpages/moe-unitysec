@@ -425,6 +425,24 @@ Award</p>
 <p>National</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Pang Weidong</p>
+</li>
+<li>
+<p>Yap Zhi Ting</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>NYTC Media Challenge - 1st Prize</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>YEAR 2024 - STUDENTS' ACHIEVEMENTS</h4>
