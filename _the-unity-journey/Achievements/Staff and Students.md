@@ -166,6 +166,57 @@ Award</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Seo Lin Sheng, Lance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore &amp; Asian School Math Olympiad (SASMO) - Silver Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Nicole Wong Qi Hui Ng</p>
+</li>
+<li>
+<p>Chen Rui Gervin</p>
+</li>
+</ul>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Math Kangaroo Contest (SMKC) - Honorable Mention Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Seo Lin Sheng, Lance</p>
+</li>
+<li>
+<p>Olivia Soo Hui Yi</p>
+</li>
+<li>
+<p>Ng Pin Chao</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Math Kangaroo Contest (SMKC) - Silver Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Lilia Lubecka</p>
