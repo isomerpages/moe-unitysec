@@ -149,13 +149,34 @@ Award</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
+<p>Lau En Tong</p>
+</li>
+<li>
+<p>Ng Chen Rui Gervin&nbsp;</p>
+</li>
+</ul>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore &amp; Asian School Math Olympiad (SASMO) - Bronze Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Lilia Lubecka</p>
 </li>
 <li>
 <p>Haiqa Alia Binte Rifqi</p>
 </li>
-</ul>
+<li>
 <p>Thng Kai Qing</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>“NLB Prove It! Contest 2025” 1st Place (Gold Category)</p>
