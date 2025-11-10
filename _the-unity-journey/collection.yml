@@ -2,6 +2,7 @@ collections:
   the-unity-journey:
     output: true
     order:
+      - Open House/Open House FAQs.md
       - Open House/Unity Open House.md
       - Open House/.keep
       - Achievements/.keep
