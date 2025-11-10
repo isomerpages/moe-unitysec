@@ -425,31 +425,6 @@ Award</p>
 <p>National</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Cheryl Ling Leong Shuen</p>
-</li>
-<li>
-<p>Chiam Ruay Fang, Kaitlyn (Zhan Ruifang)</p>
-</li>
-<li>
-<p>Tan Huizhi Jessyln (Chen Huizhi)</p>
-</li>
-<li>
-<p>Marissa Binte Hezri</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chief Commissioner's Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National</p>
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>YEAR 2024 - STUDENTS' ACHIEVEMENTS</h4>
