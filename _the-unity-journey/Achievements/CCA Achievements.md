@@ -1,6 +1,6 @@
 ---
 title: CCA Achievements
-permalink: /the-unity-story/cca-achievements/
+permalink: /the-unity-journey/cca-achievements/
 description: ""
 variant: tiptap
 third_nav_title: Achievements

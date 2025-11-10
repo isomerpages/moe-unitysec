@@ -1,6 +1,6 @@
 ---
 title: Illustrious Alumni
-permalink: /the-unity-story/illustrious-alumni/
+permalink: /the-unity-journey/illustrious-alumni/
 description: ""
 variant: tiptap
 ---

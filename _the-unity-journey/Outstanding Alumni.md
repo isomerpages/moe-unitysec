@@ -1,6 +1,6 @@
 ---
 title: Outstanding Alumni
-permalink: /the-unity-story/outstanding-alumni/
+permalink: /the-unity-journey/outstanding-alumni/
 variant: tiptap
 description: ""
 ---

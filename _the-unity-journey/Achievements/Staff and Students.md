@@ -1,6 +1,6 @@
 ---
 title: Staff and Students
-permalink: /the-unity-story/achievements/
+permalink: /the-unity-journey/achievements/
 description: ""
 third_nav_title: Achievements
 variant: tiptap
