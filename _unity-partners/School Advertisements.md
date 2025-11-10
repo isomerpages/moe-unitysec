@@ -23,18 +23,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Japanese &amp; Korean Food Fushion (Halal / Non Halal)</p>
+<p>International Cuisine ( Halal )</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Closed</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Cooked Food (Rice &amp; Noodles)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Closed</p>
+<p>30 November 2025</p>
 </td>
 </tr>
 </tbody>
