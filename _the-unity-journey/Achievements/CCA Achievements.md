@@ -39,10 +39,34 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Basketball ‘C’ Div Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 1 Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Table Tennis ‘B’ Div Girls</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3<sup>rd</sup> (West Zone)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Volleyball ‘C’ Div Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd in Tier 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Football 'C' Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd in Tier 2</p>
 </td>
 </tr>
 <tr>
@@ -121,6 +145,36 @@ third_nav_title: Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Clubs and Societies</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eco-Explorers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keep Singapore Clean: A Video Competition on Public Hygiene : Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sustainability Seeker’s Activity Booklet Challenge: Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unique Productions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NYTC Media Challenge: 1st Prize</p>
 </td>
 </tr>
 </tbody>
