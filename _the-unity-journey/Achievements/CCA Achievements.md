@@ -163,6 +163,14 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sustainability Seeker’s Activity Booklet Challenge: Merit Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Unique Productions</p>
 </td>
 <td rowspan="1" colspan="1">
