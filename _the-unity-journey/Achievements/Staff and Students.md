@@ -87,6 +87,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Cheryl Ling Leong Shuen</p>
+</li>
+<li>
+<p>Chiam Ruay Fang, Kaitlyn (Zhan Ruifang)</p>
+</li>
+<li>
+<p>Tan Huizhi Jessyln (Chen Huizhi)</p>
+</li>
+<li>
+<p>Marissa Binte Hezri</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner's Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Jovan Cahya Yap</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -322,10 +346,20 @@ Award</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Dan Meng Xuan</p>
+</li>
+<li>
 <p>Thang Me Chen</p>
+</li>
+<li>
 <p>Ng Shi En Charlene</p>
+</li>
+<li>
 <p>Thng Kai Qing</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>NLB Historical Scene Investigation (H.S.I.) 2025 - Gold</p>
@@ -336,13 +370,56 @@ Award</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Yap Chin Teng</p>
+</li>
+<li>
 <p>Bezawada Akshara Ojaswini</p>
+</li>
+<li>
 <p>Tan Wan Yi, Tiffani</p>
+</li>
+<li>
 <p>Tan Wan Qi, Trina</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>NLB Historical Scene Investigation (H.S.I.) 2025 - Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Lim Choon Kiak</p>
+</li>
+<li>
+<p>Lin Shujuan</p>
+</li>
+<li>
+<p>Marcus Neo</p>
+</li>
+<li>
+<p>Lee Jun Qi</p>
+</li>
+<li>
+<p>Bryan Chen</p>
+</li>
+<li>
+<p>Kayden Tay</p>
+</li>
+<li>
+<p>Ryan Toh</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Campus Legends Tournament - Third Runner Up</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National</p>
