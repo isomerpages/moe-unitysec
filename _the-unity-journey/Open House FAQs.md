@@ -186,5 +186,5 @@ CCA experience.</p>
 their first choice. Therefore, it is highly likely that they will get into
 the UG CCA of their choice if they put it as their 1st choice.</p>
 <p>Further Questions?
-<br>Please feel free to contact us at <a rel="noopener noreferrer nofollow" target="_blank">unity_ss@moe.edu.sg</a>
+<br>Please feel free to contact us at <a href="mailto:unity_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">unity_ss@moe.edu.sg</a>
 </p>
