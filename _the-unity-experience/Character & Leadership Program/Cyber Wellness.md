@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness
-permalink: /the-unity-edge/Character-and-Leadership-Program/cw/
+permalink: /the-unity-experience/character-and-leadership-program/cw/
 description: ""
 third_nav_title: Character & Leadership Program
 variant: tiptap

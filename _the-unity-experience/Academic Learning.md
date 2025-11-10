@@ -1,6 +1,6 @@
 ---
 title: Academic Learning
-permalink: /the-unity-edge/academic-learning/
+permalink: /the-unity-experience/academic-learning/
 description: ""
 variant: tiptap
 ---

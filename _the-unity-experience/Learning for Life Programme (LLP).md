@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programme (LLP)
-permalink: /the-unity-edge/llp/
+permalink: /the-unity-experience/llp/
 description: ""
 variant: markdown
 ---

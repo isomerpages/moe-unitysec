@@ -1,7 +1,8 @@
 ---
 title: Pastoral Care & Discipline
-permalink: /the-unity-edge/pcd/
+permalink: /the-unity-experience/pcd/
 description: ""
+variant: tiptap
 ---
 ## Career Guidance
 

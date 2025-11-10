@@ -1,6 +1,6 @@
 ---
 title: Aesthetic Enrichment Modules
-permalink: /the-unity-edge/Special-Programmes/aem/
+permalink: /the-unity-experience/special-programmes/aem/
 description: ""
 third_nav_title: Special Programmes
 variant: tiptap

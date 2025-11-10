@@ -1,6 +1,6 @@
 ---
 title: Applied Learning Programme (ALP)
-permalink: /the-unity-edge/alp/
+permalink: /the-unity-experience/alp/
 description: ""
 variant: tiptap
 ---

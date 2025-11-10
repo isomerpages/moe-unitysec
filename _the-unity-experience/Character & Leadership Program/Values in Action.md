@@ -1,6 +1,6 @@
 ---
 title: Values in Action
-permalink: /the-unity-edge/Character-and-Leadership-Program/via/
+permalink: /the-unity-experience/character-and-leadership-program/via/
 description: ""
 third_nav_title: Character & Leadership Program
 variant: tiptap

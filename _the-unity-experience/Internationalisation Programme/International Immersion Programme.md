@@ -1,6 +1,6 @@
 ---
 title: International Immersion Programme
-permalink: /the-unity-edge/Internationalisation-Programme/imp/
+permalink: /the-unity-experience/internationalisation-programme/imp/
 description: ""
 third_nav_title: Internationalisation Programme
 variant: tiptap

@@ -1,6 +1,6 @@
 ---
 title: National Education
-permalink: /the-unity-edge/Character-and-Leadership-Program/ne/
+permalink: /the-unity-experience/character-and-leadership-program/ne/
 description: ""
 third_nav_title: Character & Leadership Program
 variant: tiptap

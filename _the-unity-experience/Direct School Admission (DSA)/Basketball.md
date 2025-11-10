@@ -1,6 +1,6 @@
 ---
 title: Basketball
-permalink: /the-unity-edge/Direct-School-Admission-DSA/bball/
+permalink: /the-unity-experience/direct-school-admission-dsa/bball/
 description: ""
 third_nav_title: Direct School Admission (DSA)
 variant: tiptap

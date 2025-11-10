@@ -1,6 +1,6 @@
 ---
 title: Aesthetic Programs
-permalink: /the-unity-edge/Special-Programmes/ap/
+permalink: /the-unity-experience/special-programmes/ap/
 description: ""
 third_nav_title: Special Programmes
 variant: tiptap

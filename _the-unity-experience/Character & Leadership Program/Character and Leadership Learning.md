@@ -1,6 +1,6 @@
 ---
 title: Character and Leadership Learning
-permalink: /the-unity-edge/Character-and-Leadership-Program/cll/
+permalink: /the-unity-experience/character-and-leadership-program/cll/
 description: ""
 third_nav_title: Character & Leadership Program
 variant: tiptap
