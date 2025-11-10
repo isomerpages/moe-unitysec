@@ -1,8 +1,9 @@
 ---
-title: Unity Open House
+title: Open House
 permalink: /unity-open-house/
 variant: tiptap
 description: ""
+third_nav_title: Unity Open House
 ---
 <p></p>
 <div class="isomer-image-wrapper">

@@ -2,9 +2,11 @@ collections:
   the-unity-journey:
     output: true
     order:
-      - Unity Open House.md
-      - Achievements/School Awards.md
+      - Unity Open House/.keep
+      - Unity Open House/Open House.md
+      - Unity Open House/Open House FAQs.md
       - Achievements/.keep
+      - Achievements/School Awards.md
       - Achievements/National Exam Results.md
       - Achievements/Staff and Students.md
       - Achievements/CCA Achievements.md
