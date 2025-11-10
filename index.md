@@ -28,6 +28,12 @@ sections:
             your choices in the link below.
           link_text: Click here
           link_url: https://www.unitysec.moe.edu.sg/s2-subject-offering-exercise/
+        - title: School Canteen Advertisement
+          date: 10 November 2025
+          announcement: Unity Secondary School has a canteen stall vacancy. Details of the
+            advertisement can be viewed in the link below.
+          link_text: Click here
+          link_url: https://www.unitysec.moe.edu.sg/unity-partners/sch-adverts/
   - infopic:
       title: Unity Open House
       id: infopic
