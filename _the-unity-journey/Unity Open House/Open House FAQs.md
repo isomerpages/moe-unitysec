@@ -137,6 +137,9 @@ aiming for Junior College admission, please note that a minimum of five
 G3 subjects is required. For more information on post-secondary pathways,
 please refer to the chart below.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pathways.jpg">
+</div>
 <h3>CCA</h3>
 <p><strong>1. What are the CCAs that the school offers?</strong>
 </p>
