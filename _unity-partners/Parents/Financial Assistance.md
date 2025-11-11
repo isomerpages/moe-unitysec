@@ -6,95 +6,112 @@ third_nav_title: Parents
 variant: tiptap
 ---
 <h2>Financial Assistance</h2>
+<p><strong><u>Financial Assistance</u></strong>
+</p>
 <p>Students who require financial assistance in schooling may apply for the
 following financial assistance.</p>
-<table style="minWidth: 75px">
+<p>Application can be made at any time of the school year but is renewable
+on a yearly basis at the end of the school year.</p>
+<p>&nbsp;</p>
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Type of Assistance</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>For Whom</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Benefits</strong>
 </p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>How to Apply</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>When to Apply</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>MOE Financial Assistance Scheme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Singapore &nbsp;Citizen
-<br>
-<br>- Gross Household Income (GHI) not exceeding&nbsp;S$3000.00&nbsp;or Per
-Capita Income (PCI) not exceeding&nbsp;S$750.00</p>
+<p>·&nbsp;&nbsp; Singapore Citizen</p>
+<p>·&nbsp;&nbsp; Gross Household Income (GHI) not exceeding S$4,000 per month
+or</p>
+<p>·&nbsp;&nbsp; Per Capita Income (PCI) not exceeding S$1,000 per month</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Waiver of School Fees
-<br>
-<br>- Waiver of Standard Miscellaneous Fees
-<br>
-<br>- Free Textbook
-<br>
-<br>- Free School Attire
-<br>
-<br>- School Meal Allowance
-<br>
-<br>- Transport Allowance</p>
+<p>·&nbsp; Waiver of School Fees</p>
+<p>·&nbsp; Waiver of Standard Miscellaneous Fees</p>
+<p>·&nbsp; Free Textbook</p>
+<p>·&nbsp; Free School Attire</p>
+<p>·&nbsp; Transport Subsidy</p>
+<p>·&nbsp; Meal Allowance</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>·&nbsp;&nbsp; Parents are</p>
+<p>encouraged to submit an online application using this link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If hardcopy is needed, please request
+assistance from General Office.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>·&nbsp; As and when required, but it is renewable on a yearly basis at
+the end of the school year.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">School Based Financial Assistance Scheme</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp; Singapore Citizen</p>
+<p>·&nbsp;&nbsp; Gross Household Income (GHI) not exceeding $4,001 and $5,500</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fee Subsidy as base aid</p>
+<p>·&nbsp; Waiver of School Fees</p>
+<p>·&nbsp; Waiver of Standard Miscellaneous Fees</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School–based&nbsp;Financial Assistance Scheme</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Per Capita Income</p>
+<p>&nbsp;&nbsp;&nbsp;(PCI) between</p>
+<p>S$1,001- S$1,375</p>
+<p>&nbsp;</p>
+<p>Priority will be given to families who have lower PCI.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Singapore Citizen
-<br>
-<br>- Gross Household Income (GHI) between S$3,001 and $4,400 or Per Capita
-Income (PCI) between S$750 &amp; $1,100
-<br>
-<br>Additional Subsidy will be considered for student with - Per Capita Income
-(PCI) not exceeding S$899
-<br>
-<br>Priority will be given to families who have lower PCI.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>- Waiver of School Fees
-<br>
-<br>- - Waiver of Standard Miscellaneous Fees
-<br>
-<br>Free Textbook
-<br>
-<br>Free School Attire
-<br>
-<br>School Meal Allowance
-<br>
-<br>Transport Allowance</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>·&nbsp; Free Textbook</p>
+<p>·&nbsp; Free School Attire</p>
+<p>·&nbsp; Transport Subsidy</p>
+<p>·&nbsp; Meal Allowance</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>How to Apply</strong>
 <br>
 </p>
