@@ -118,14 +118,14 @@ Per Capita Income</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>&nbsp;If you meet the application criteria, please fill up the form below:</p>
-<p><a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">MOE Financial Assistance Application Form (eFAS) for 2025</a>
+<p><a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">MOE Financial Assistance Application Form (eFAS) for 2025</a>
 </p>
 <p></p>
 </li>
 <li>
 <p>Alternatively, you may also download and complete the application form
 below:
-<br><a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
+<br><a href="/files/MOE_FAS_Application_Form_2026_final__002_.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
 <br>
 </p>
 </li>
