@@ -123,3 +123,122 @@ the year.
 only the most committed and reliable students continue serving as PSLs.</p>
 <p>This structure ensures continuity, consistency, and excellence in leadership
 across all classes.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/psl03.jpg">
+</div>
+<h3><strong>PSL EXCO Team</strong></h3>
+<p>Our PSL Executive Committee (EXCO) comprises eight senior PSLs who have
+demonstrated strong alignment with the PSL Vision, Mission, and Values,
+as well as conviction and commitment to the cause of peer support and relations.</p>
+<p>Working in tandem with PSL teachers, the EXCO team:</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upholds and strengthens PSL culture and
+norms</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mentors and supports new PSLs</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leads in reviewing data to refine and
+improve PSL programmes</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plans meetings and coordinates major school-wide
+initiatives</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grooms future EXCO and senior PSLs to
+ensure leadership continuity</p>
+<p>Through their stewardship, the EXCO ensures that the PSL movement remains
+student-driven, purposeful, and sustainable.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GAJJELA HARSHANI REDDY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3I8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN YI TING REIKO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2S4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Internal Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LAI SI YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2I8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Internal Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SOFYA QYSTINA BINTE HIRUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2L1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>External Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LUBECKA LILIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2L2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>External&nbsp; Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RIZQA AULIA BINTE HAFIZUL FARHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH MING XUAN, JAEDEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3I7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG KANG JUN LUCAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3I8</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
