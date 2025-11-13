@@ -176,7 +176,7 @@ of Technical Education)</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg9.jpg">
+<img style="width: 83%;" height="auto" width="100%" alt="" src="/images/ecg6.jpg">
 </div>
 </td>
 </tr>
@@ -185,9 +185,47 @@ of Technical Education)</p>
 <p><strong><em>Post Secondary Institution Booths at ECG Fair</em></strong>
 </p>
 <p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg9.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg10.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong><em>Engaging talks by our special guests at the ‘Exploring opportUNITY Through Careers’ Day</em></strong>
 </p>
 <p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong><em>Applied Learning Modules</em></strong>
 </p>
 <p><strong>Education and Career Guidance (ECG) Counsellor</strong>
