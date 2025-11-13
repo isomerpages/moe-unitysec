@@ -242,3 +242,62 @@ student-driven, purposeful, and sustainable.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/psl04.jpg">
+</div>
+<h3><strong>Key Highlight: PSL Spotlight</strong></h3>
+<p>The PSL Spotlight initiative shines a light on students who go above and
+beyond to make a positive impact on their peers and create a supportive
+school community.</p>
+<p>Every term, PSLs nominate peers who exemplify Unity’s values in action.
+The PSL EXCO shortlists and recommends awardees for recognition.</p>
+<h4>2025 Term 2 Spotlight</h4>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SHAREEQ ZAIDANI BIN ZAIDI, 1LEAD2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DHIYA SAKINAH BINTE ISWADI, 1SERVE4</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; V S VISHAL, 1ACTUALISE6</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CRUZ ATOM RAMIREZ, 1INSPIRE7</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PUTERI ALEESYA MAISARAH BINTE MOHAMED
+FAIZAL, 2LEAD2</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AAKIFAH NAIRA BINTE ANIS, 2SERVE4</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WONG YI QING PHOEBE, 2ACTUALISE6</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SO MYAT NOE, 2INSPIRE8</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CAPUNO PHOEBE YSHBELLE JAVIER, 3LEAD2</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LIN HONGXI, 3SERVE4</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CHAN YAN YOU, ZAVIER, 3ACTUALISE5</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TNG LE EN, MIRANDA, 3INSPIRE8</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ADAM SHAH BIUN ISWADI, 4LEAD2</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AADEN SOH RUI HENG, 4SERVE3</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CHERYL LING LEONG SHUEN, 4ACTUALISE6</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; KALUM ARTHUR COMES, 4INSPIRE8</p>
+<h4>2025 Term 3 Spotlight</h4>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EUNICE ONG XI EN, 1LEAD1</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ANDREANA MIKAYLA BINTE ANDY, 1SERVE3</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LIM EN XI GISELLE, 1ACTUALISE6</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SEET EN XI AMELIA, 1INSPIRE8</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MUHAMMAD HFIY RAYYAN BIN SAIMI, 2LEAD2</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; KONGSON PICHANES (JAYDA), 2SERVE4</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HAIQA ALIA BINTE RIFQI, 2ACTUALISE6</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; YANG QIUCI , 2INSPIRE8</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; YE JING HONG, 3LEAD1</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DADI RUTHWIK BABU, 3SERVE4</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NG PIN CHAO, 3ACTUALISE6</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LAI YING XI, 3INSPIRE8</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/psl05.jpg">
+</div>
+<h3><strong>Event Highlight: Wellness Carnival</strong></h3>
+<p>The Wellness Carnival is a signature PSL-led event that empowers students
+to take charge of their own well-being.</p>
+<p>Key Outcomes:</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Identify the different areas of wellness</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take ownership of personal well-being</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Apply practical strategies to build mental
+wellness and resilience</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop self-regulation and social-emotional
+skills to manage emotions effectively</p>
+<p>Through interactive booths, activities, and peer sharing, the carnival
+fosters holistic wellness while strengthening school connectedness.</p>
