@@ -219,9 +219,15 @@ of Technical Education)</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg11.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg12.jpg">
+</div>
 </th>
 </tr>
 </tbody>
@@ -248,28 +254,28 @@ of priority</p>
 </ul>
 <p>Students may make appointments to meet up with the ECG Counsellor in school
 through their Character Coaches or make an appointment by emailing the
-ECG Counsellor at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">phoa_ang_hiok@schools.gov.sg</a>.</p>
+ECG Counsellor at&nbsp;<a href="mailto:phoa_ang_hiok@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phoa_ang_hiok@schools.gov.sg</a>.</p>
 <p><strong>ECG Resources</strong>
 </p>
-<p><strong>Link:</strong>  <strong><a rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/ussecgboard</a></strong>
+<p><strong>Link:</strong>  <strong><a href="https://tinyurl.com/ussecgboard" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/ussecgboard</a></strong>
 </p>
 <p>ECG Overview:
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>
+<br><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview</a>
 </p>
 <p>ECG Tips for Parents:
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tips-for-parents</a>
+<br><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tips-for-parents</a>
 </p>
 <p>Post-secondary Options:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary</a>
+<p><a href="https://www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary</a>
 </p>
 <p>Post-Secondary Education Institutions:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/overview/</a>
+<p><a href="www.moe.gov.sg/post-secondary/overview/" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/overview/</a>
 </p>
 <p>Early Admissions Exercise (Polytechnics):</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/poly-eae</a>
+<p><a href="www.moe.gov.sg/post-secondary/admissions/poly-eae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/poly-eae</a>
 </p>
 <p>Polytechnic Foundation Programme:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>
+<p><a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>
 </p>
 <p>Joint Admissions Exercise :</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/post-secondary/admissions/jae</a>
