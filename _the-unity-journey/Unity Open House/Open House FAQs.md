@@ -8,7 +8,7 @@ third_nav_title: Unity Open House
 <h2>Unity Secondary School Open House 2025 FAQs</h2>
 <h3>Admission &amp; Eligibility</h3>
 <p>
-<br><strong>What is Unity Secondary School’s indicative PSLCE cut-off points for G3, G2, and G1?</strong>
+<br><strong>What is Unity Secondary School’s indicative PSLE cut-off points for G3, G2, and G1?</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
