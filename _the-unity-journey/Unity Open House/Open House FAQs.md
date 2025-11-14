@@ -164,9 +164,8 @@ please refer to the chart below.</p>
 </p>
 <p><strong>Clubs &amp; Societies:</strong>
 <br>- Art Club
-<br>- Audio Visual Aid
 <br>- Eco-Explorers
-<br>- Media Production</p>
+<br>- Uniq Productions</p>
 <p>
 <br><strong>Performing Arts:</strong>
 <br>- Concert Band
