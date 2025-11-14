@@ -10,8 +10,9 @@ third_nav_title: Unity Open House
 <p>
 <br><strong>What is Unity Secondary School’s indicative PSLCE cut-off points for G3, G2, and G1?</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -21,6 +22,10 @@ third_nav_title: Unity Open House
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Achievement Levels</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,6 +45,9 @@ third_nav_title: Unity Open House
 <p>Posting Group 3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>13-18</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>12-20</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,6 +62,9 @@ third_nav_title: Unity Open House
 <p>Posting Group 2</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>21-24</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>22-24</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,6 +77,9 @@ third_nav_title: Unity Open House
 <tr>
 <td rowspan="1" colspan="1">
 <p>Posting Group 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25-28</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>25-28</p>
