@@ -2,7 +2,7 @@
 title: Sexuality Education
 permalink: /the-unity-experience/character-and-leadership-program/sex-ed/
 description: ""
-third_nav_title: Character & Leadership Program
+third_nav_title: Character & Citizenship Edn
 variant: tiptap
 ---
 <h2>Sexuality Education</h2>

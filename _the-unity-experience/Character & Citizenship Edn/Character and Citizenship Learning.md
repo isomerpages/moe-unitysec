@@ -1,8 +1,8 @@
 ---
-title: Character and Leadership Learning
+title: Character and Citizenship Learning
 permalink: /the-unity-experience/character-and-leadership-program/cll/
 description: ""
-third_nav_title: Character & Leadership Program
+third_nav_title: Character & Citizenship Edn
 variant: tiptap
 ---
 <h2>Character and Leadership Learning</h2>

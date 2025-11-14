@@ -2,7 +2,7 @@
 title: Values in Action
 permalink: /the-unity-experience/character-and-leadership-program/via/
 description: ""
-third_nav_title: Character & Leadership Program
+third_nav_title: Character & Citizenship Edn
 variant: tiptap
 ---
 <h2>Values in Action</h2>

@@ -3,7 +3,7 @@ title: Values Education
 permalink: /values-education/
 variant: tiptap
 description: ""
-third_nav_title: Character & Leadership Program
+third_nav_title: Character & Citizenship Edn
 ---
 <h3>VALUES IN EDUCATION </h3>
 <p>Values education is important for our secondary school students because
