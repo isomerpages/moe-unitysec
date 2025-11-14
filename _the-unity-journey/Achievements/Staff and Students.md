@@ -601,6 +601,261 @@ Award</p>
 <p>Snr Sch Counsellor</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chew Thiam Teck Scott</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Student Management and Guidance</p>
+</td>
+<td rowspan="12" colspan="1">
+<p>MOE Service Excellence Award (MSEA) - Silver</p>
+</td>
+<td rowspan="12" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yee Kee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Jasmin&nbsp; Mariya d/o Madasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ Geography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rohaila bte Sanusi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher/ Learning Needs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Kah Lin Alvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Christine Tang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Snr Teacher/ Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Teng Han Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Snr Teacher/ PE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Chan Chin Choon</p>
+</li>
+<li>
+<p>Mdm Chen Bi Qing</p>
+</li>
+<li>
+<p>Mdm Hamidatulamaliah Md Jamil</p>
+</li>
+<li>
+<p>Mdm Norhayati Supari</p>
+</li>
+<li>
+<p>Mdm Nur Hidayah Bohari</p>
+</li>
+<li>
+<p>Mdm Nur Shaikhah Bte Rajab</p>
+</li>
+<li>
+<p>Mdm Pek Geok Kim</p>
+</li>
+<li>
+<p>Mdm Yenty Bte Ramli</p>
+</li>
+<li>
+<p>Ms Soh Jing Wen</p>
+</li>
+<li>
+<p>Ms Goh Gek Noi Joanne</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Hazwani Kowangi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wan Sin Wah Steve</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Laboratory)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kumarasamy Shankar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor (Workshop)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chia Theng Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jacqueline Tan Lin Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher/ Biology</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>AST Award for PD - Facilitator of Workshops</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rohaila bte Sanusi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher/ Learning Needs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Gek Noi Joanne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST Award for PD - Innovator (Technology for Learning)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Adel Ong Liang Fung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="10" colspan="1">
+<p>Innergy Award- Bronze</p>
+</td>
+<td rowspan="10" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yuen Chai Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jacqueline Tan Lin Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher/ Biology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rohaila bte Sanusi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher/ Learning Needs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chong Shur Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ Curriculum, Instruction and Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Pei Ee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ag School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Christine Tang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Snr Teacher/ Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Teng Han Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Snr Teacher/ PE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Andrew Lim You Shun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Snr Teacher/ English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jaya Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Snr Teacher/ Tamil</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
