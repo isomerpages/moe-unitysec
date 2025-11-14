@@ -750,8 +750,7 @@ Award</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>Mdm Rohaila bte Sanusi</p>
+<p>Mdm Rohaila bte Sanusi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher/ Learning Needs</p>
@@ -769,6 +768,92 @@ Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Adel Ong Liang Fung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="10" colspan="1">
+<p>Innergy Award- Bronze</p>
+</td>
+<td rowspan="10" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yuen Chai Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jacqueline Tan Lin Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher/ Biology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rohaila bte Sanusi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher/ Learning Needs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chong Shur Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ Curriculum, Instruction and Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Pei Ee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ag School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Christine Tang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Snr Teacher/ Music</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Teng Han Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Snr Teacher/ PE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Andrew Lim You Shun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Snr Teacher/ English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jaya Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Snr Teacher/ Tamil</p>
 </td>
 </tr>
 </tbody>
