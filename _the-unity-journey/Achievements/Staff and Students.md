@@ -636,7 +636,7 @@ Award</p>
 <p>Mdm Rohaila bte Sanusi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LT/ Learning Needs</p>
+<p>Lead Teacher/ Learning Needs</p>
 </td>
 </tr>
 <tr>
@@ -691,10 +691,10 @@ Award</p>
 <p>Mdm Yenty Bte Ramli</p>
 </li>
 <li>
-<p>Miss Soh Jing Wen</p>
+<p>Ms Soh Jing Wen</p>
 </li>
 <li>
-<p>Miss Goh Gek Noi Joanne</p>
+<p>Ms Goh Gek Noi Joanne</p>
 </li>
 </ul>
 </td>
@@ -732,6 +732,43 @@ Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jacqueline Tan Lin Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher/ Biology</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>AST Award for PD - Facilitator of Workshops</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>Mdm Rohaila bte Sanusi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher/ Learning Needs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Gek Noi Joanne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST Award for PD - Innovator (Technology for Learning)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
 </td>
 </tr>
 </tbody>
