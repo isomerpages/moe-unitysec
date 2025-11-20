@@ -35,16 +35,6 @@ sections:
           link_text: Click here
           link_url: https://www.unitysec.moe.edu.sg/unity-partners/sch-adverts/
   - infopic:
-      title: Unity Open House
-      id: infopic
-      description: Unity Secondary School will be holding our Open House on 14th
-        November 2025, from 4.30pm to 8.30pm. Join us for an evening of
-        discovery.
-      image: /images/2025_Open_House__Details_Jpeg.jpg
-      alt: Image alt text
-      url: https://www.unitysec.moe.edu.sg/unity-open-house/
-      button: read more here
-  - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
       id: infopic
       description: Unity Secondary School is proud to give back to Yew Tee through
