@@ -549,19 +549,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Lin Yin Jacqueline</p>
+<p>Ms Liang Yen Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lin_yin_jacqueline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lin_yin_jacqueline@schools.gov.sg</a>
+<p><a href="mailto:liang_yen_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_yen_shan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Liang Yen Shan</p>
+<p>Mdm Tan Lin Yin Jacqueline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liang_yen_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_yen_shan@schools.gov.sg</a>
+<p><a href="mailto:tan_lin_yin_jacqueline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lin_yin_jacqueline@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -589,15 +589,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_kian_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kian_tong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Mok Lee Huang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mok_lee_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mok_lee_huang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
