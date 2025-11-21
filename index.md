@@ -22,12 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: S2 Subject Offering Exercise
-          date: 22 October 2025
-          announcement: Please refer to the Sec 2 Subject Combination Guides and submit
-            your choices in the link below.
-          link_text: Click here
-          link_url: https://www.unitysec.moe.edu.sg/s2-subject-offering-exercise/
         - title: School Canteen Advertisement
           date: 10 November 2025
           announcement: Unity Secondary School has a canteen stall vacancy. Details of the
