@@ -122,14 +122,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Bee Kuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Year Head (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -343,6 +335,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teng Han Yong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Bee Kuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeremy Yong</p>
 </td>
 </tr>
 </tbody>
