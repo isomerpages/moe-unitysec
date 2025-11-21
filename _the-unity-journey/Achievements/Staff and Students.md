@@ -443,6 +443,30 @@ Award</p>
 <p>National</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Alirah Lidia Hardiady</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Queen's&nbsp;Commonwealth&nbsp;Essay Competition 2025 (Senior Category)
+- Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Roselin Manoj</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Queen's&nbsp;Commonwealth&nbsp;Essay Competition 2025 (Junior Category)
+- Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
