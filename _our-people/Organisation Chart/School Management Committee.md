@@ -122,14 +122,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Bee Kuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Year Head (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -163,7 +155,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ag HOD/ CCE</p>
+<p>HOD/ CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Cheong Kiet Yeng Jeslyn</p>
@@ -219,7 +211,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ag HOD/ Science</p>
+<p>HOD/ Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Liang Yen Shan</p>
@@ -283,14 +275,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/ Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Liang Yen Shan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LH/ Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -318,7 +302,7 @@ variant: tiptap
 <p>LH/ Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Pei Ee</p>
+<p>Ms Chen Yi</p>
 </td>
 </tr>
 <tr>
@@ -351,6 +335,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teng Han Yong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Bee Kuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeremy Yong</p>
 </td>
 </tr>
 </tbody>
