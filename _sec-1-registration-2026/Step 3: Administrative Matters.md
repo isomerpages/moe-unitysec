@@ -99,6 +99,6 @@ to be ready,&nbsp;they can continue to use their Primary level SSCs for
 concessionary travel till end Apr 2026. Students can still purchase the
 Bus Concession Pass (BCP) using their Primary level SSCs, but they would
 need to purchase the BCP for Secondary School students.</p>
-<h4><br><br><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step4/" rel="noopener nofollow" target="_blank">Go to Step 4: Preparing for School</a></h4>
+<h3><br><br><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step4/" rel="noopener nofollow" target="_blank">Go to Step 4: Preparing for School</a></h3>
 <p></p>
 <p></p>
