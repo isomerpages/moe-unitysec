@@ -35,5 +35,5 @@ lessons will start in week 1 (8 Jan 2026).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/orientation_programme.jpg">
 </div>
-<h4><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step6/" rel="noopener nofollow" target="_blank">Go to Step 6: Subject at a More Demanding Level/ Higher Mother Tongue language (HMTL)/ 3rd Language (Only for students who are eligible)</a></h4>
+<h3><strong>Step 6: Home School Partnership</strong></h3>
 <p></p>
