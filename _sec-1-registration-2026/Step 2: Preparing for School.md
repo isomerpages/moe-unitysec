@@ -4,21 +4,85 @@ permalink: /sec-1-registration-2026/step2/
 description: ""
 variant: tiptap
 ---
-<h3>Step 2: Online Registration</h3>
-<p>Please ensure that you can access Parents Gateway to complete the Sec
-1 online registration.&nbsp;</p>
-<p>1 .&nbsp;&nbsp;&nbsp;&nbsp;Login to Parents Gateway. If you have not downloaded
-Parents Gateway, please click&nbsp;<strong><a href="https://www.unitysec.moe.edu.sg/unity-partners/Parents/gateway/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;and
-follow the instructions provided.</p>
-<p>2 .&nbsp;&nbsp;&nbsp;&nbsp;You should receive notifications on the Parents
-Gateway app to complete the online registration by&nbsp;<strong>21 December 2024</strong>.
-Please&nbsp;<strong>complete the&nbsp;<em>FormSG</em></strong>&nbsp;&nbsp;found
-in the notification.</p>
-<p><em>If you are not eligible to apply for Singpass, do not worry. Our school administrative staff will get in touch with you soon to facilitate your registration.</em>
+<h3>Step 2: Preparing for School</h3>
+<ol>
+<li>
+<p><strong>School Expectations</strong>
 </p>
-<p><a href="https://form.gov.sg/675b9c9a62bc25935047bfba" rel="noopener nofollow" target="_blank">2025 Sec One Registration Form</a>
+</li>
+</ol>
+<p>School expectations are set and clearly articulated to inculcate in our
+students the Unity school values. Please click <a href="https://www.unitysec.moe.edu.sg/our-school/Student-Management/expectations/" rel="noopener nofollow" target="_blank">here</a> for
+more information.</p>
+<p></p>
+<p><strong>Note</strong>: We are in the midst of updating some information.
+Please check back by the end of next week for the latest updates.</p>
+<p>
 <br>
 </p>
-<h4><br><strong><u>&nbsp;</u></strong><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step3/" rel="noopener nofollow" target="_blank">Go to Step 3: Sec 1 Orientation</a></h4>
+<ol start="2">
+<li>
+<p><strong>Book Purchase</strong>
+</p>
+</li>
+</ol>
+<p>We strongly encourage all students to purchase their books online.</p>
+<p>You may download the booklist <em><a href="/files/Sec_1_Unity_2026_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</em>
+</p>
+<p>Please click <em><a href="https://languagetrading.com.sg/" rel="noopener nofollow" target="_blank">here</a></em> to
+process your online purchase.</p>
+<p>
+<br>
+</p>
+<p><strong>(c) Uniform Purchase</strong>
+</p>
+<p>We strongly encourage all students to purchase their school uniform online.</p>
+<p>Please click <a href="http://hongkongtatkee.com/" rel="noopener nofollow" target="_blank">here</a> to
+process your online purchase.</p>
+<p>If you would like to come down physically to complete your purchases,
+do expect <strong>waiting time.</strong>
+</p>
+<p>
+<br>
+</p>
+<p><strong>(d) Personal Learning Device (PLD)</strong>
+</p>
+<p>Students will be using the chromebook as their PLD.&nbsp;</p>
+<p>The device bundle will include the following:</p>
+<ul>
+<li>
+<p>Acer Chromebook R857TN*</p>
+</li>
+<li>
+<p>Cable Lock</p>
+</li>
+<li>
+<p>USB Type C Earpiece</p>
+</li>
+<li>
+<p>Insurance and Warranty</p>
+</li>
+<li>
+<p>4-year warranty and 4-year insurance</p>
+</li>
+<li>
+<p>2 repairs or 1 replacement claim</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
+<p>The PDLP Procurement Letter will be sent via Parents Gateway on 2 January
+2026.</p>
+<p>For more information, please visit <a href="https://www.unitysec.moe.edu.sg/our-school/Student-Management/expectations/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.unitysec.moe.edu.sg/ndlp-at-unity/ndlp/</u></a>.</p>
+<p>
+<br>
+</p>
+<p><strong>Note: For students who are already on a Financial Assistance Scheme (FAS) or intend to apply for FAS, please <u>do not</u> purchase your books and uniform yet. Refer to Step 3.</strong>
+</p>
+<p>
+<br>
+<br><strong><u>&nbsp;</u></strong><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step3/" rel="noopener nofollow" target="_blank">Go to Step 3: Sec 1 Orientation</a>
+</p>
 <p></p>
 <p></p>
