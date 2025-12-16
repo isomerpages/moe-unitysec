@@ -15,6 +15,6 @@ in the notification.</p>
 <p>If you do not have Parents Gateway, do not worry. Our school administrative
 staff will get in touch with you soon to facilitate your registration.</p>
 <p></p>
-<h4><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step2/" rel="noopener nofollow" target="_blank">Go to Step 2: Preparing for School</a><br><br><br></h4>
+<h4><a href="https://unitysec.moe.edu.sg/sec-1-registration-2026/step2/" rel="noopener nofollow" target="_blank">Go to Step 2: Preparing for School</a><br><br><br></h4>
 <p></p>
 <p></p>
