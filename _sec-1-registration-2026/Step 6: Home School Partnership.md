@@ -12,9 +12,7 @@ variant: tiptap
 This will be followed by an<strong> Initiation Night</strong> to officially
 welcome your child into our Unity Secondary family.</p>
 <p>Please refer to the notification on Parents Gateway for more information.</p>
-<p>
-<br>
-</p>
+<p></p>
 <h4><strong>Parents Support Group (PSG)</strong></h4>
 <p>The Unity PSG consists of a group of dedicated parents who partner the
 school to support fellow parents in nurturing their children. It is the
@@ -24,9 +22,4 @@ this parenting journey.</p>
 more information on Unity PSG.</p>
 <p>
 <br>
-<br>
-<br>
-<br>
 </p>
-<h4><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step7/" rel="noopener nofollow" target="_blank">Go to Step 7: Home School Partnership</a></h4>
-<p></p>
