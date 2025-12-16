@@ -68,7 +68,7 @@ more information on our school counselling service.</p>
 <h4><strong>Special Educational Needs</strong></h4>
 <p>For parents who require any advice or additional support for your child
 with Special Educational Needs, you may call our General Office at 6767
-1070 to request a call back or email our SEN Officer, Ms Soffiah (<a href="mailto:ong_siew_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_soffiah_yusoff@schools.gov.sg</u></a>).</p>
+1070 to request a call back or email our SEN Officer, Ms Soffiah (<a href="mailto:nurul_soffiah_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_soffiah_yusoff@schools.gov.sg</u></a>).</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
