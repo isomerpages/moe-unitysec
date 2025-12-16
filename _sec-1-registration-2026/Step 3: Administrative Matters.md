@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Step 3: Administrative Matters (FAS, Learning Support, Appeal for Transfer)</h3>
 <p></p>
 <p></p>
-<h4>MOE Financial Assistance Scheme (FAS) Application</h4>
+<h4><strong>MOE Financial Assistance Scheme (FAS) Application</strong></h4>
 <p>Two types of FAS application are available:</p>
 <ul>
 <li>
@@ -48,15 +48,8 @@ as you will not be reimbursed for any amount spent.</p>
 </li>
 </ul>
 <p>For more information on FAS, please click <a href="https://www.unitysec.moe.edu.sg/unity-partners/Parents/fas/" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p>
-<br>
-</p>
-<ol start="2">
-<li>
-<p><strong>School Counselling Information</strong>
-</p>
-</li>
-</ol>
+<p></p>
+<h4><strong>School Counselling Information</strong></h4>
 <p>Counselling provides our students an opportunity to talk about things
 that are of concern to them with a qualified and experienced school counsellor.
 Our school counsellors are trained to listen without judging and help students
@@ -69,30 +62,31 @@ they feel so overwhelmed by.&nbsp;</p>
 <p>For parents who require any advice or additional support for your child,
 you may call our General Office at 6767 1070 to request a call back or
 email our School Counsellor, Ms Michelle Ong (<a href="mailto:ong_siew_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_siew_hong@moe.edu.sg</u></a>)</p>
-<p>Please click<strong><em> <a href="https://www.unitysec.moe.edu.sg/students/Students-Resources/counselling/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></em></strong> for
+<p>Please click<strong><em> </em></strong><em><a href="https://www.unitysec.moe.edu.sg/students/Students-Resources/counselling/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></em> for
 more information on our school counselling service.</p>
-<p>
-<br>
-</p>
-<p><strong>(c) Special Educational Needs</strong>
-</p>
+<p></p>
+<h4><strong>Special Educational Needs</strong></h4>
 <p>For parents who require any advice or additional support for your child
 with Special Educational Needs, you may call our General Office at 6767
 1070 to request a call back or email our SEN Officer, Ms Soffiah (<a href="mailto:ong_siew_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_soffiah_yusoff@schools.gov.sg</u></a>).</p>
-<p>
-<br>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Appeal for Transfer (For serious medical conditions)</strong>
 </p>
-<p><strong>(d) Appeal for Transfer (For serious medical conditions)</strong>
-</p>
+</li>
+</ol>
 <p>Students who would like to request for a school transfer due to medical
 reasons will need to submit their appeal through the posted secondary school
 in person latest by <strong>19 December 2025, 12pm</strong>.&nbsp;</p>
-<p>
-<br>
-</p>
-<p><strong>(e) Appeal for Transfer (Non-Medical Cases)</strong>&nbsp;</p>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Appeal for Transfer (Non-Medical Cases)</strong>&nbsp;</p>
+</li>
+</ol>
 <p>For students who would like to transfer to Unity Secondary School, please
-click <strong><em>here</em></strong>.</p>
+click <a href="https://form.gov.sg/693390f50b364c8c6ac54f8d" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p>The deadline for the submission of appeal (non-medical cases) is on&nbsp;<strong>26 December 2025, 12pm.</strong> Late
 submissions will not be entertained.</p>
