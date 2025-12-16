@@ -26,7 +26,7 @@ order for you to collect your books and uniforms.</p>
 <ul>
 <li>
 <p>You may obtain a copy of the application form from the General Office
-on <u>22 December 2025, or download from our school website</u>.</p>
+on <u>22 December 2025</u>, or download from our school website.</p>
 </li>
 <li>
 <p>Upon completion, please submit the application form and the required supporting
