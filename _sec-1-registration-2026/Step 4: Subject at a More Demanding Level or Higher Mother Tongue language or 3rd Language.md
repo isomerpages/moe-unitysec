@@ -39,6 +39,6 @@ to the notification in the Parents Gateway.</p>
 <br>
 </p>
 <p></p>
-<h4><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step5/" rel="noopener nofollow" target="_blank">Go to Step 5: Administrative Matters</a><br></h4>
+<h3><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step5/" rel="noopener nofollow" target="_blank">Go to Step 5: </a>Sec 1 Orientation (2, 5, 6, 7 Jan 2026)<br></h3>
 <p></p>
 <p></p>
