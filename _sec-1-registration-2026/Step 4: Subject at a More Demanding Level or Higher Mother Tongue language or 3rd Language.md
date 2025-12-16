@@ -5,58 +5,39 @@ permalink: /sec-1-registration-2026/step4/
 description: ""
 variant: tiptap
 ---
-<h3>Step 4: Preparing for School</h3>
-<h4>School Expectations</h4>
-<p>School expectations are set and clearly articulated to inculcate in our
-students the Unity school values.&nbsp;
-<br>Please click&nbsp;<strong><a href="https://www.unitysec.moe.edu.sg/our-school/Student-Management/expectations/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for
-more information.</p>
-<h4>FAS&nbsp;</h4>
-<p>For students who are already on Financial Assistance Scheme (FAS) or intent
-to apply for FAS, please&nbsp;<strong>do not</strong>&nbsp;purchase your
-books and uniform yet. Please proceed to&nbsp;<strong><a href="/sec-1-registration-2022/step5/" rel="noopener noreferrer nofollow" target="_blank">Step 5: Administrative Matters</a></strong>
+<h3><strong>Step 4: Subject at a More Demanding Level/ Higher Mother Tongue language (HMTL)/ 3<sup>rd</sup> Language (Only for students who are eligible)</strong></h3>
+<h4><br><strong>Subject at a More Demanding Level</strong></h4>
+<p>For students who are eligible to take up subjects (English, Mother Tongue,
+Science, Math) at a more demanding level, parents/guardians will receive
+notifications via Parents Gateway or phone call.</p>
+<p>Students can choose to accept or decline this offer (refer to notifications
+on Parents Gateway). Upon accepting the offer, students can proceed to
+purchase books for the subject at a more demanding level.</p>
+<p>
+<br>
 </p>
-<h4>Book Purchase</h4>
-<p>We strongly encourage all students to purchase their books online.&nbsp;</p>
-<p>You may download the booklist&nbsp;<a href="https://www.unitysec.moe.edu.sg/students/students-resources/2025-booklist/" rel="noopener nofollow" target="_blank">here</a><strong>.</strong>
+<h4><strong>Higher Mother Tongue Language (HMTL)</strong></h4>
+<p>HMTL offers students the opportunity to study Chinese, Malay or Tamil
+at an advanced level. It is a four-year course leading to the SEC examination
+for HMTL in Sec 4.&nbsp;</p>
+<p>Based on MOE criteria, to be eligible for HMTL, students must meet the
+following requirements: <strong>AL 1/ AL 2 in MTL, or Distinction/ Merit in HMTL.</strong>
 </p>
-<p>Please click&nbsp;<a href="https://languagetrading.com.sg/" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
-process your online purchase.</p>
-<h4>Uniform Purchase</h4>
-<p>We strongly encourage all students to purchase their school uniform online.&nbsp;</p>
-<p>Please click&nbsp;<a href="http://hongkongtatkee.com/" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
-process your online purchase.</p>
-<p>If you still need to come down physically to complete your purchases,
-do expect a <strong>longer waiting time.</strong>
+<p>Internally, the school provided the option of HMTL to students who demonstrate
+potential and a strong interest in the subject. These students must meet
+the following PSLE requirement:<strong> AL 3 in MTL and a pass in HMTL.</strong>
 </p>
-<h4>Personalized Learning Device (PLD)</h4>
-<p>Students will be using the chromebook as their PLD.&nbsp;</p>
-<p>The device bundle will include the following:</p>
-<ul>
-<li>
-<p>Acer Chromebook R857TN*</p>
-</li>
-<li>
-<p>Cable Lock</p>
-</li>
-<li>
-<p>USB Type C Earpiece</p>
-</li>
-<li>
-<p>Insurance and Warranty</p>
-</li>
-<li>
-<p>3-year warranty and 3-year insurance</p>
-</li>
-<li>
-<p>2 repairs or 1 replacement claim</p>
-</li>
-</ul>
-<p>The PDLP Procurement Letter will be sent via Parents Gateway on 2 January
-2025.</p>
-<p>For more information, please visit <a href="https://www.unitysec.moe.edu.sg/ndlp-at-unity/ndlp/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.unitysec.moe.edu.sg/ndlp-at-unity/ndlp</u></a>
+<p>Notifications will be sent via Parents Gateway if your child is eligible
+for HMTL. Please refer to the notifications and complete by <strong><u>26 December 2025</u></strong>.</p>
+<p>
+<br>
 </p>
-<p></p>
+<h4><strong>3<sup>rd</sup> Language Application Results</strong></h4>
+<p>For the outcome of the 3<sup>rd</sup> language application, please refer
+to the notification in the Parents Gateway.</p>
+<p>
+<br>
+</p>
 <p></p>
 <h4><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step5/" rel="noopener nofollow" target="_blank">Go to Step 5: Administrative Matters</a><br></h4>
 <p></p>
