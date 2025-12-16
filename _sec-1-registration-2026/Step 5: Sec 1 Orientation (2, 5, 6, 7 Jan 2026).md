@@ -18,17 +18,15 @@ students to the reporting venue.</p>
 <p>Students are allowed to report in their primary school uniform if the
 new uniform is not ready.</p>
 <p>If students are unable to report to school on 2 January 2026 due to valid
-reasons, please contact our<em> </em><strong><em>General Office</em></strong><em> (</em><strong><em>No: 6767 1070</em></strong><em>)</em> directly.</p>
-<p>
+reasons, please contact our<em> </em><strong><em>General Office</em></strong><em> (</em><strong><em>No: 6767 1070</em></strong><em>)</em> directly.
 <br>
 </p>
-<p><strong>CCA Open House</strong>
-</p>
+<h4><strong>CCA Open House</strong></h4>
 <p>To provide an opportunity for your child to explore the CCAs offered by
 the school, we would be conducting the CCA Open House on 2 Jan 2026, 10am
 - 12nn, followed by a briefing by our HOD/ CCA on choosing CCA and LEAPS
 2.0.</p>
-<p>You may find out more information about our CCAs <strong>here</strong>.&nbsp;</p>
+<p>You may find out more information about our CCAs <a href="https://www.unitysec.moe.edu.sg/students/CCA/cca/" rel="noopener nofollow" target="_blank">here</a>.&nbsp;</p>
 <p>
 <br>
 </p>
