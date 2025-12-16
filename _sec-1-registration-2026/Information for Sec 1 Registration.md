@@ -41,5 +41,5 @@ eligible)&nbsp;</p>
 </ul>
 <h4></h4>
 <p></p>
-<h4><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step1/" rel="noopener nofollow" target="_blank">Go to Step 1: Online Registration</a></h4>
+<h4><a href="https://unitysec.moe.edu.sg/sec-1-registration-2026/step1/" rel="noopener nofollow" target="_blank">Go to Step 1: Online Registration</a></h4>
 <p></p>
