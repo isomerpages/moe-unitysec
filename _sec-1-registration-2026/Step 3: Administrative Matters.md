@@ -78,7 +78,7 @@ with Special Educational Needs, you may call our General Office at 6767
 </ol>
 <p>Students who would like to request for a school transfer due to medical
 reasons will need to submit their appeal through the posted secondary school
-in person latest by <strong>19 December 2025, 12pm</strong>.&nbsp;</p>
+in person latest by <strong>22 December 2025, 12pm</strong>.&nbsp;</p>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
