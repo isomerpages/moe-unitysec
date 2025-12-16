@@ -35,5 +35,5 @@ lessons will start in week 1 (8 Jan 2026).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/orientation_programme.jpg">
 </div>
-<h3><strong>Step 6: Home School Partnership</strong></h3>
+<h3><a href="https://unitysec.moe.edu.sg/sec-1-registration-2026/step6/" rel="noopener nofollow" target="_blank">Step 6: Home School Partnership</a></h3>
 <p></p>
