@@ -4,47 +4,26 @@ permalink: /sec-1-registration-2026/step6/
 description: ""
 variant: tiptap
 ---
-<h3>Step 6: Subject at a Higher Level (SBB)/ Higher Mother Tongue language (HMTL)/ 3rd Language (Only for students who are eligible)</h3>
-<h4>Subject at a Higher Level (SBB)</h4>
-<p>For students who are eligible to take up subjects (English, Mother Tongue,
-Science, Math) at a more demanding level, parents/guardians will receive
-notifications via Parents Gateway or phone call.</p>
-<p>Students can choose to accept or decline this offer (refer to notifications
-on Parents Gateway). Upon accepting the offer, students can proceed to
-purchase books for the subject at a more demanding level.</p>
+<h3><strong>Step 6: Home School Partnership</strong></h3>
+<p>We believe in working closely together with you.</p>
+<p></p>
+<h4><strong>Sec 1 Parents’ Briefing (9 January 2026)</strong></h4>
+<p>There will be a Parents’ Briefing for all Sec One parents on <strong>9 January 2026, 6pm</strong>.
+This will be followed by an<strong> Initiation Night</strong> to officially
+welcome your child into our Unity Secondary family.</p>
+<p>Please refer to the notification on Parents Gateway for more information.</p>
 <p>
-<br><strong>Higher Mother Tongue Language (HMTL)</strong>
+<br>
 </p>
-<p>HMTL offers students the opportunity to study Chinese, Malay or Tamil
-at an advanced level.&nbsp;</p>
-<p>Based on MOE criteria, to eligible for HMTL, students must meet one of
-the following requirements::</p>
-<ul>
-<li>
-<p>An overall PSLE Score of 8 or better</p>
-</li>
-<li>
-<p>An overall PSLE Score of 9 to 14 and get AL 1/ AL 2 in MTL, or Distinction/
-Merit in HMTL</p>
-</li>
-</ul>
-<p>Internally, the school provided the option of HMTL to students who demonstrate
-potential and a strong interest in the subject. These students must meet
-the following PSLE requirements:</p>
-<ul>
-<li>
-<p>AL 1 / AL 2 in MTL&nbsp;</p>
-</li>
-<li>
-<p>AL 3 in MTL <strong><u>and</u></strong> at least a pass in HMTL</p>
+<h4><strong>Parents Support Group (PSG)</strong></h4>
+<p>The Unity PSG consists of a group of dedicated parents who partner the
+school to support fellow parents in nurturing their children. It is the
+platform for parents to network, share, learn and support each other in
+this parenting journey.</p>
+<p>Please click <a href="https://www.unitysec.moe.edu.sg/unity-partners/psg/" rel="noopener nofollow" target="_blank">here</a> for
+more information on Unity PSG.</p>
 <p>
-<br>Notifications will be sent via Parents Gateway if your child is eligible
-for HMTL. Please refer to the notifications and complete by <strong>26 December 2024</strong>.</p>
-</li>
-</ul>
-<h4>3rd Language Application Results</h4>
-<p>For the outcome of the 3rd&nbsp;language application, please refer to
-the notification in the Parents Gateway.
+<br>
 <br>
 <br>
 <br>
