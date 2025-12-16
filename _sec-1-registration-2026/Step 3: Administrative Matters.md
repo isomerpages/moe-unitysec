@@ -93,16 +93,12 @@ submissions will not be entertained.</p>
 <p>
 <br>
 </p>
-<p><strong>(f) Secondary One Students using Primary School Smart Card SSC</strong>
-</p>
+<h4><strong>Secondary One Students using Primary School Smart Card SSC</strong></h4>
 <p>While Secondary One Students are waiting for their Secondary level SSCs
 to be ready,&nbsp;they can continue to use their Primary level SSCs for
 concessionary travel till end Apr 2026. Students can still purchase the
 Bus Concession Pass (BCP) using their Primary level SSCs, but they would
 need to purchase the BCP for Secondary School students.</p>
-<p>
-<br>
-<br><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step4/" rel="noopener nofollow" target="_blank">Go to Step 4: Preparing for School</a>
-</p>
+<h4><br><br><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step4/" rel="noopener nofollow" target="_blank">Go to Step 4: Preparing for School</a></h4>
 <p></p>
 <p></p>
