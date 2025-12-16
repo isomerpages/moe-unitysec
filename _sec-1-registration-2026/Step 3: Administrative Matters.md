@@ -4,7 +4,7 @@ permalink: /sec-1-registration-2026/step3/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Step 3: Sec 1 Orientation (2 – 6 January 2025 and 10 January 2025)</strong></h3>
+<h3>Step 3: Administrative Matters (FAS, Learning Support, Appeal for Transfer)</h3>
 <p>
 <br>
 </p>
