@@ -5,82 +5,110 @@ description: ""
 variant: tiptap
 ---
 <h3>Step 3: Administrative Matters (FAS, Learning Support, Appeal for Transfer)</h3>
+<p></p>
+<p></p>
+<h4>MOE Financial Assistance Scheme (FAS) Application</h4>
+<p>Two types of FAS application are available:</p>
+<ul>
+<li>
+<p><strong>Already Approved MOE FAS for 2025 with Approval Letter from Primary School</strong>
+</p>
+<ul>
+<li>
+<p>Please bring and exchange your approval letter at the General Office on <u>22 December 2025</u> in
+order for you to collect your books and uniforms.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>New FAS application&nbsp;</strong>
+</p>
+<ul>
+<li>
+<p>You may obtain a copy of the application form from the General Office
+on <u>22 December 2025, or download from our school website</u>.</p>
+</li>
+<li>
+<p>Upon completion, please submit the application form and the required supporting
+documents to the General Office.&nbsp;</p>
+</li>
+<li>
+<p>Once approved, you will be notified to collect the School Approval Letter
+from the General Office.&nbsp;</p>
+</li>
+<li>
+<p>Please ensure that you obtain the School Approval Letter before collecting
+your books and uniforms.</p>
+</li>
+<li>
+<p>Please do not purchase the books and uniforms before receiving approval
+as you will not be reimbursed for any amount spent.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>For more information on FAS, please click <a href="https://www.unitysec.moe.edu.sg/unity-partners/Parents/fas/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>
 <br>
 </p>
-<h4>Orientation Programme</h4>
-<p>To help our students better adjust to secondary school life, we have specially
-designed a week of orientation programme for all our Sec 1 student. Academic
-lessons will start in week 1 (7 Jan 2025).</p>
-<p>For Week 0, 1 &amp; 2, our sec 1 students will be <strong>organised by orientation group</strong> and
-there will be 2 teachers assigned to look after the student well-being
-for each class until the students are assigned their CCA form class by
-end of Week 1.</p>
-<p>Please refer to the following schedule for the Orientation activities,
-timing, attire and things to bring.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_Orientation_2025_v1.jpg">
-</div>
+<ol start="2">
+<li>
+<p><strong>School Counselling Information</strong>
+</p>
+</li>
+</ol>
+<p>Counselling provides our students an opportunity to talk about things
+that are of concern to them with a qualified and experienced school counsellor.
+Our school counsellors are trained to listen without judging and help students
+with the thoughts or feelings that are affecting them.&nbsp;</p>
+<p>Our school-based counselling service provides support for the students
+in a place that is familiar, safe and secure. Talking to a school counsellor
+can allow the students to explore and understand their problems, and to
+find the courage and strength to face and change the circumstance that
+they feel so overwhelmed by.&nbsp;</p>
+<p>For parents who require any advice or additional support for your child,
+you may call our General Office at 6767 1070 to request a call back or
+email our School Counsellor, Ms Michelle Ong (<a href="mailto:ong_siew_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ong_siew_hong@moe.edu.sg</u></a>)</p>
+<p>Please click<strong><em> <a href="https://www.unitysec.moe.edu.sg/students/Students-Resources/counselling/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></em></strong> for
+more information on our school counselling service.</p>
 <p>
-<br>You may also download the Sec 1 orientation programme <a href="/files/Sec_1_Orientation_2025_v1.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
-<h4>First day of School (2 January 2025, Thursday)</h4>
-<p>All Sec 1 students are to report to the <strong><u>Sheltered Basketball Court by 0720</u></strong><u> on </u><strong><u>2 January 2025</u></strong>.
-Our Unity Councillors will be at the school’s foyer to direct the Sec 1
-students to the reporting venue.</p>
-<p>Students are allowed to report in their primary school uniform if the
-new uniform is not ready.</p>
-<p>If students are unable to report to school on 2 January 2025 due to valid
-reasons, please contact our <strong>General Office</strong> (No: <strong>6767 1070</strong>)
-directly.</p>
-<p></p>
-<h4>CCA Experience</h4>
-<p>Our school offers a broad-based and ability-driven CCA programme that
-will help to develop and maximise the potential and talents of our students
-beyond the academic aspect.&nbsp;</p>
-<p>There will be a CCA briefing on 2 January 2025. All Sec One students will
-have an opportunity to find out more and experience the various CCAs that
-are offered in Unity Secondary School. Selected CCAs will be conducting
-trials on the afternoon of 8 Jan (Sports CCA) &amp; 9 Jan (Non-sports CCAs).
-On 10 January, students can have the opportunity to experience all CCA
-during the CCA open house. They will need to submit their CCA options by
-the end of the Orientation Week. (Refer to orientation programme above)
-.</p>
-<p></p>
-<p>Please click&nbsp;<strong><a href="/students/CCA/cca/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;to
-learn more about our CCAs in Unity Secondary School.</p>
-<p><strong><u>Sports</u></strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="337" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iOdIoL1997A"></iframe>
-</div>
-<p></p>
-<p><strong><u>Uniformed Group</u></strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yNSz-CAcYso"></iframe>
-</div>
-<p><strong><u>Performing Arts</u></strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OxNzjwxH2kU"></iframe>
-</div>
-<p><strong><u>Clubs &amp; Societies</u></strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="340" width="605" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4nRLjMUiCL0"></iframe>
-</div>
-<p><em>*Indian Orchestra is no longer offered to Secondary 1 students from 2024 onwards</em>
-</p>
-<p></p>
-<p><strong>CCA Policy – LEAPS 2.0</strong>
-</p>
-<p>LEAPS 2.0 is a framework to recognise secondary school students’ holistic
-development.
-<br>Please click&nbsp;<a href="https://www.unitysec.moe.edu.sg/students/CCA/leaps/" rel="noopener nofollow" target="_blank">here</a>&nbsp;to
-learn more about LEAPS 2.0.
-<br>
 <br>
 </p>
-<h4><br><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step4/" rel="noopener nofollow" target="_blank">Go to Step 4: Preparing for School</a></h4>
+<p><strong>(c) Special Educational Needs</strong>
+</p>
+<p>For parents who require any advice or additional support for your child
+with Special Educational Needs, you may call our General Office at 6767
+1070 to request a call back or email our SEN Officer, Ms Soffiah (<a href="mailto:ong_siew_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_soffiah_yusoff@schools.gov.sg</u></a>).</p>
+<p>
+<br>
+</p>
+<p><strong>(d) Appeal for Transfer (For serious medical conditions)</strong>
+</p>
+<p>Students who would like to request for a school transfer due to medical
+reasons will need to submit their appeal through the posted secondary school
+in person latest by <strong>19 December 2025, 12pm</strong>.&nbsp;</p>
+<p>
+<br>
+</p>
+<p><strong>(e) Appeal for Transfer (Non-Medical Cases)</strong>&nbsp;</p>
+<p>For students who would like to transfer to Unity Secondary School, please
+click <strong><em>here</em></strong>.</p>
+<p></p>
+<p>The deadline for the submission of appeal (non-medical cases) is on&nbsp;<strong>26 December 2025, 12pm.</strong> Late
+submissions will not be entertained.</p>
+<p>
+<br>
+</p>
+<p><strong>(f) Secondary One Students using Primary School Smart Card SSC</strong>
+</p>
+<p>While Secondary One Students are waiting for their Secondary level SSCs
+to be ready,&nbsp;they can continue to use their Primary level SSCs for
+concessionary travel till end Apr 2026. Students can still purchase the
+Bus Concession Pass (BCP) using their Primary level SSCs, but they would
+need to purchase the BCP for Secondary School students.</p>
+<p>
+<br>
+<br><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step4/" rel="noopener nofollow" target="_blank">Go to Step 4: Preparing for School</a>
+</p>
 <p></p>
 <p></p>
