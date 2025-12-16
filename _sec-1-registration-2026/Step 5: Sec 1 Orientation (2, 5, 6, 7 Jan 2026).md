@@ -27,9 +27,13 @@ the school, we would be conducting the CCA Open House on 2 Jan 2026, 10am
 - 12nn, followed by a briefing by our HOD/ CCA on choosing CCA and LEAPS
 2.0.</p>
 <p>You may find out more information about our CCAs <a href="https://www.unitysec.moe.edu.sg/students/CCA/cca/" rel="noopener nofollow" target="_blank">here</a>.&nbsp;</p>
-<p>
-<br>
-</p>
+<h4><strong>Orientation Programme (5, 6, 7 Jan 2026)</strong></h4>
+<p>To help our students better adjust to secondary school life, we have specially
+designed a week of orientation programme for all our Sec 1 students. Academic
+lessons will start in week 1 (8 Jan 2026).</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/orientation_programme.jpg">
+</div>
 <h4><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step6/" rel="noopener nofollow" target="_blank">Go to Step 6: Subject at a More Demanding Level/ Higher Mother Tongue language (HMTL)/ 3rd Language (Only for students who are eligible)</a></h4>
 <p></p>
