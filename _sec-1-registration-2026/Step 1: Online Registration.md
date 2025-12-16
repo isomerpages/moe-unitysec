@@ -4,7 +4,7 @@ permalink: /sec-1-registration-2026/step1/
 description: ""
 variant: tiptap
 ---
-<h3>Step 1: Our School&nbsp;</h3>
+<h3>Step 1: Online Registration</h3>
 <h4><a href="/files/Principal_s_Letter_to_Welcome_Our_Secondary_One_Students_and_Parents__2026_.pdf" rel="noopener nofollow" target="_blank">Principal’s Welcome Address</a></h4>
 <p>Please ensure that you can access Parents Gateway to complete the Sec
 1 online registration.&nbsp;</p>
