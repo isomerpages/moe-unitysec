@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Step 2: Preparing for School</h3>
+<p></p>
 <ol>
 <li>
 <p><strong>School Expectations</strong>
