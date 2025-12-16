@@ -80,7 +80,7 @@ do expect <strong>waiting time.</strong>
 </p>
 <p><strong>Note: For students who are already on a Financial Assistance Scheme (FAS) or intend to apply for FAS, please <u>do not</u> purchase your books and uniform yet. Refer to Step 3.</strong>
 </p>
-<h3><br><br><strong><u>&nbsp;</u></strong><a href="https://www.unitysec.moe.edu.sg/sec-1-registration-2022/step3/" rel="noopener nofollow" target="_blank">Go to Step 3: </a><strong>Administrative Matters (FAS, Learning Support, Appeal for Transfer)</strong></h3>
+<h3><br><br><a href="https://unitysec.moe.edu.sg/sec-1-registration-2026/step3/" rel="noopener nofollow" target="_blank">Step 3: Administrative Matters (FAS, Learning Support, Appeal for Transfer)</a></h3>
 <p>
 <br>
 </p>
