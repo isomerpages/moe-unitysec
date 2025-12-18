@@ -1,0 +1,12 @@
+collections:
+  sec-1-registration-2026:
+    output: true
+    order:
+      - Information for Sec 1 Registration.md
+      - "Step 1: Online Registration.md"
+      - "Step 2: Preparing for School.md"
+      - "Step 3: Administrative Matters.md"
+      - "Step 4: Subject at a More Demanding Level or Higher Mother Tongue
+        language or 3rd Language.md"
+      - "Step 5: Sec 1 Orientation (2, 5, 6, 7 Jan 2026).md"
+      - "Step 6: Home School Partnership.md"
