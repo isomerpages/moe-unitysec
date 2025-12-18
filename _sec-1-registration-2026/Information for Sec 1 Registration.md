@@ -1,6 +1,6 @@
 ---
 title: Information for Sec 1 Registration
-permalink: /sec-1-registration-2022/information/
+permalink: /sec-1-registration-2026/information/
 description: ""
 variant: tiptap
 ---
