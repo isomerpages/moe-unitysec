@@ -8,25 +8,14 @@ variant: tiptap
 <p></p>
 <p></p>
 <h4><strong>MOE Financial Assistance Scheme (FAS) Application</strong></h4>
-<p>Two types of FAS application are available:</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>Already Approved MOE FAS for 2025 with Approval Letter from Primary School</strong>
-</p>
-<ul>
-<li>
-<p>Please bring and exchange your approval letter at the General Office on <u>22 December 2025</u> in
-order for you to collect your books and uniforms.</p>
-</li>
-</ul>
+<p>Parents are encouraged to submit an online application using this link:&nbsp;
+<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>. If hardcopy is needed, please request
+assistance from General Office.</p>
 </li>
 <li>
-<p><strong>New FAS application&nbsp;</strong>
-</p>
-<ul>
-<li>
-<p>You may obtain a copy of the application form from the General Office
-on <u>22 December 2025</u>, or download from our school website.</p>
+<p>For more information on FAS, please click&nbsp;<a href="https://www.unitysec.moe.edu.sg/unity-partners/Parents/fas/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
 <p>Upon completion, please submit the application form and the required supporting
@@ -45,9 +34,6 @@ your books and uniforms.</p>
 as you will not be reimbursed for any amount spent.</p>
 </li>
 </ul>
-</li>
-</ul>
-<p>For more information on FAS, please click <a href="https://www.unitysec.moe.edu.sg/unity-partners/Parents/fas/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h4><strong>School Counselling Information</strong></h4>
 <p>Counselling provides our students an opportunity to talk about things
