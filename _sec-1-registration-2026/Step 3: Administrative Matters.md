@@ -11,7 +11,7 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>Parents are encouraged to submit an online application using this link:&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>. If hardcopy is needed, please request
+<a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>. If hardcopy is needed, please request
 assistance from General Office.</p>
 </li>
 <li>
