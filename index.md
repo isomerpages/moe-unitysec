@@ -22,12 +22,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: School Canteen Advertisement
-          date: 10 November 2025
-          announcement: Unity Secondary School has a canteen stall vacancy. Details of the
-            advertisement can be viewed in the link below.
+        - title: Sec 1 Registration
+          date: 18 December 2025
+          announcement: "Dear Parents, you may refer to the Information for Sec 1
+            Registration below:"
           link_text: Click here
-          link_url: https://www.unitysec.moe.edu.sg/unity-partners/sch-adverts/
+          link_url: https://www.unitysec.moe.edu.sg/sec-1-registration-2026/information/
   - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
       id: infopic
