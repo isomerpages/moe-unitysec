@@ -17,7 +17,7 @@ were channelled to fund the needy students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Exco_2025.jpg">
 </div>
-<p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNbAhLV8pjiDd9_B4aA-n_YSGDkkXQ3SIPBYGQES6YORWZ8A/viewform?c=0&amp;w=1" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="https://forms.gle/tSM4QZVTHLpgQcUA8" rel="noopener nofollow" target="_blank">here</a> to
 join the PSG today.</p>
 <h4>PSG Events</h4>
 <p>For more information on the PSG events, click&nbsp;<a href="https://www.facebook.com/groups/unitypsg/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
