@@ -33,7 +33,7 @@ sections:
           announcement: Dear Sec 4N Graduates, you may refer to the briefing slides
             presented on 18th December 2025
           link_text: Click here
-          link_url: https://www.unitysec.moe.edu.sg/4n-post-results-briefing-2026/
+          link_url: https://www.unitysec.moe.edu.sg/4n-post-results-briefing-2025/
   - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
       id: infopic
