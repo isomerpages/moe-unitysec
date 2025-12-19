@@ -293,7 +293,7 @@ variant: tiptap
 <p>Mr Wong Jing Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_jing_jie@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_jing_jie@schools.gov.sg</a>
+<p><a href="mailto: jing_jie_wong@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_jing_jie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
