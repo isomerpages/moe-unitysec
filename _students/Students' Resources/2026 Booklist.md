@@ -7,7 +7,8 @@ third_nav_title: Students' Resources
 ---
 <p>Dear students, you may refer and download your respective booklists for
 2026 below:</p>
-<p>Sec 1 Booklist [To be confirmed]</p>
+<p><a href="/files/Sec_1_Unity_2026_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Booklist</a>
+</p>
 <p><a href="/files/Sec_2_Unity_2026_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Booklist</a>
 </p>
 <p><a href="/files/Sec_3_Unity_2026_booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Booklist</a>
