@@ -1,6 +1,6 @@
 ---
-title: 4N Post Results Briefing 2026
-permalink: /4n-post-results-briefing-2026/
+title: 4N Post Results Briefing 2025
+permalink: /4n-post-results-briefing-2025/
 variant: tiptap
 description: ""
 third_nav_title: Students' Resources
