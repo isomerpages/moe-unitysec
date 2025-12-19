@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Students' Resources/4N Post Results Briefing 2026.md
       - Students' Resources/.keep
       - Students' Resources/Student Handbook.md
       - Students' Resources/S2 Subject Offering Exercise.md
