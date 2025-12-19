@@ -293,7 +293,7 @@ variant: tiptap
 <p>Mr Wong Jing Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: jing_jie_wong@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_jing_jie@schools.gov.sg</a>
+<p><a href="mailto: jing_jie_wong@moe.edu.sg" rel="noopener nofollow" target="_blank">jing_jie_wong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -406,6 +406,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Chen Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_yi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lee Kah Lin Alvin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -473,15 +482,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_boon_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_boon_liang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chen Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chen_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
