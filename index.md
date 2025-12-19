@@ -22,18 +22,18 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Sec 1 Registration
-          date: 18 December 2025
-          announcement: "Dear Parents, you may refer to the Information for Sec 1
-            Registration below:"
-          link_text: Click here
-          link_url: https://www.unitysec.moe.edu.sg/sec-1-registration-2026/information/
         - title: 4N Post Results Briefing
           date: 19 December 2025
           announcement: Dear Sec 4N Graduates, you may refer to the briefing slides
             presented on 18th December 2025
           link_text: Click here
           link_url: https://www.unitysec.moe.edu.sg/4n-post-results-briefing-2025/
+        - title: Sec 1 Registration
+          date: 18 December 2025
+          announcement: "Dear Parents, you may refer to the Information for Sec 1
+            Registration below:"
+          link_text: Click here
+          link_url: https://www.unitysec.moe.edu.sg/sec-1-registration-2026/information/
   - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
       id: infopic
