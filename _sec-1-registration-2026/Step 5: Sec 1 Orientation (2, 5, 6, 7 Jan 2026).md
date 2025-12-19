@@ -11,6 +11,8 @@ would be temporarily organised by Orientation Groups (1A, 1B, 1C, etc).&nbsp;</p
 <p>There will be 2 teachers assigned to each orientation group to look after
 the students’ well-being until the students are assigned their CCA form
 class by the end of Week 3.</p>
+<h4><strong>Note: School will end at 12:30 pm on 2 Jan, and 2 pm on 5-7 Jan.</strong></h4>
+<p></p>
 <h4><br><strong>First day of School (2 Jan 2026, Friday)</strong></h4>
 <p>All Sec 1 students are to report to the <strong><em>Sheltered Basketball Court by 7.20am </em></strong><em>on </em><strong><em>2 January 2026 (Friday)</em></strong>.
 Our Unity Councillors will be at the school’s foyer to direct the Sec 1
