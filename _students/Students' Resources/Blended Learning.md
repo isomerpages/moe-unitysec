@@ -7,10 +7,7 @@ variant: tiptap
 ---
 <h1>Blended Learning</h1>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blended_Learning_Dates_2025__1_.jpg">
-</div>
-<p></p>
+<h4>Please check back later for updated information.</h4>
 <p></p>
 <h3></h3>
 <h2></h2>
