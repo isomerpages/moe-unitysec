@@ -234,7 +234,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/ Std Management</p>
+<p>SH/ Student Management and Guidance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hor I Wei Ivy</p>
