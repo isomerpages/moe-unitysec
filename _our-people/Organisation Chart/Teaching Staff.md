@@ -675,15 +675,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Sock Sian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_sock_sian@schools.gov.sg" rel="noopener nofollow" target="_blank">chua_sock_sian@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Andrew Shen Yanru</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -714,15 +705,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tie_hieng_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tie_hieng_han@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chong Shur Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chong_shur_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_shur_chin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
