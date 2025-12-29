@@ -58,10 +58,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Wenjie Wendy (Snr SEN Officer)</p>
+<p>Ms Nurul Soffiah Binte Yusoff (Snr SEN Officer)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_wenjie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_wenjie@schools.gov.sg</a>
+<p><a href="mailto:nurul_soffiah_yusoff@schools.gov.sg" rel="noopener nofollow" target="_blank">nurul_soffiah_yusoff@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -188,6 +188,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Kelly Loh Peck Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Office Support Staff</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Chang Joo Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -229,7 +237,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Loh Kah boon Kelly</p>
+<p>Ms Loh Kah Boon Kelly</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Instructor (Laboratory)</p>
@@ -274,6 +282,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager (ICT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shanthy d/o Raja Nayagam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
 </td>
 </tr>
 <tr>

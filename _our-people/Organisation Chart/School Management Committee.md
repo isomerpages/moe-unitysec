@@ -130,15 +130,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 4/5 Year Head (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chong Shur Chin</p>
-<p>Mr Tan Yee Kee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD/Student Management and Guidance</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,7 +141,7 @@ variant: tiptap
 <p>HOD/ Curriculum, Instruction and Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chong Shur Chin</p>
+<p>Dr Mohamed Faizal bin Badron</p>
 </td>
 </tr>
 <tr>
@@ -230,7 +221,23 @@ variant: tiptap
 <p>Asst Year Head (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Han Xiong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head (Sec 4&amp;5)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Lee Kah Lin Alvin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH/ Student Management and Guidance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hor I Wei Ivy</p>
 </td>
 </tr>
 <tr>
