@@ -150,7 +150,7 @@ variant: tiptap
 <p>HOD/ Curriculum, Instruction and Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chong Shur Chin</p>
+<p>Dr Mohamed Faizal bin Badron</p>
 </td>
 </tr>
 <tr>
