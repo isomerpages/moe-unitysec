@@ -112,15 +112,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tang Lai Sim, Christine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tang_lai_sim_christine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_lai_sim_christine@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nur Hidayah Bte Bohari</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -205,6 +196,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chew_thiam_teck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_thiam_teck@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tang Lai Sim, Christine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tang_lai_sim_christine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_lai_sim_christine@schools.gov.sg</a>
 </p>
 </td>
 </tr>
