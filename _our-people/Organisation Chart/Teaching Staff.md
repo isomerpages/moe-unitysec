@@ -836,6 +836,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Chen Suzhen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_suzhen@schools.gov.sg" rel="noopener nofollow" target="_blank">chen_suzhen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
