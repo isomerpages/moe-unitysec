@@ -308,6 +308,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Han Xiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Han_Xiong@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_han_xiong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Nur Shaikhah Binte Rajab</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -514,6 +523,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Muhammad Arshad Bin Jumah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_arshad_jumah@schools.gov.sg" rel="noopener nofollow" target="_blank">muhammad_arshad_jumah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Victor Tan Yian Liang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -562,6 +580,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liang_yen_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_yen_shan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Mohamed Faizal bin Badron</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamed_faizal_badron@schools.gov.sg" rel="noopener nofollow" target="_blank">mohamed_faizal_badron@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -634,15 +661,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:palanisamy_sulochana_devi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">palanisamy_sulochana_devi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sabrina Binte Jumadi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sabrina_bte_jumadi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sabrina_bte_jumadi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
