@@ -38,7 +38,7 @@ variant: tiptap
 <p>Sec 2 Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhou Yong Ping</p>
+<p>Mr Tsia Gwo Hong (IC)</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ variant: tiptap
 <p>Sec 3 Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liang Yen Shan</p>
+<p>Mdm Zhou Yong Ping</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ variant: tiptap
 <p>Sec 4 Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tsia Gwo Hong (IC)</p>
+<p>Mr Muhammad Arshad bin Jumah</p>
 </td>
 </tr>
 </tbody>
