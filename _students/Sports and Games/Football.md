@@ -31,7 +31,7 @@ variant: tiptap
 <p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fadilah Bte Mohamed</p>
+<p>Mr Siva Balan s/o Ayavoo (2IC)</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ variant: tiptap
 <p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Fairus Bin Mohd Farok</p>
+<p>Mdm Fadilah Bte Mohamed</p>
 </td>
 </tr>
 <tr>
@@ -55,15 +55,15 @@ variant: tiptap
 <p>Sec 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Siva Balan s/o Ayavoo (2IC)</p>
+<p>Mr Mohammed Fairus Bin Mohd Farok</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Coach</p>
+<p>Head Coach</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shahril Ishak</p>
+<p>Mr Zayden Goh</p>
 </td>
 </tr>
 </tbody>
