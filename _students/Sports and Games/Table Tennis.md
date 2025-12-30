@@ -32,7 +32,7 @@ variant: tiptap
 <p>Sec 1 Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Boon Liang</p>
+<p>Mr Ang Swee Aun</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ variant: tiptap
 <p>Sec 2 Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Phang Siew Foong Elene</p>
+<p>Mr Lim Boon Liang</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@ variant: tiptap
 <p>Sec 3 Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sony Rajan</p>
+<p>Mdm Chen Suzhen</p>
 </td>
 </tr>
 <tr>
