@@ -83,8 +83,9 @@ bag, earpiece)</p>
 of the device in class and out of class)</p>
 </li>
 <li>
-<p>Insurance and Warranty (3-year warranty and 3-year insurance,&nbsp;2 repairs
-or 1 replacement claim)</p>
+<p>Insurance and Warranty (*4-year warranty and *4-year insurance,&nbsp;2
+repairs or 1 replacement claim)</p>
+<p>*2026 onwards.</p>
 </li>
 </ul>
 <p><strong>7 .&nbsp;&nbsp;What is the expected weight of the device? Are there concerns that it may be too heavy for students to carry to and from their home on a daily basis?</strong>
@@ -106,7 +107,7 @@ Monday to Friday</p>
 <li>
 <p>For repair of devices ( hardware issues) - the device will be collected
 from the school to be sent for repairs. Depending on the issue and the
-availability of parts, there will be an average of 2-3 weeks turnaround
+availability of parts, there will be an average of 4-6 weeks turnaround
 time.</p>
 </li>
 <li>
@@ -118,7 +119,7 @@ to students while waiting for their devices to be repaired.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/insurance_coverage.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/insurance_coverage_2026.jpg">
 </div>
 <p><em>*The insurance coverage is only applicable to situations of damages and loss where the student has exercised duty of care and taken precautions to safeguard the device. Acer will make the necessary assessment for claim eligibility.</em>
 </p>
@@ -145,19 +146,20 @@ is balanced in relation to other activities and modes of learning.</p>
 after setting aside provision for payment of second-tier miscellaneous
 fees.</p>
 <p>To ensure the affordability of devices, MOE has provided Edusave top-ups
-of $200 in 2020 to 2022, and $300 in 2023, to all eligible Singaporean
-students in primary and secondary schools.</p>
+from 2020 to 2023 to all eligible Singaporean students&nbsp;in primary
+and secondary schools. In 2025, MOE has provided a $500 Edusave top-up
+for students aged 13-16 years old.</p>
 <p>This is on top of the annual $290 credited into the Edusave account for
 Secondary School students and $230 for Primary School students.</p>
 <p><strong>For students on MOE-FAS, subsidies are available even if there is insufficient Edusave balance. The cash out-of-pocket will be $0.</strong>&nbsp;
 <br>Subsidies will be provided for SC who need support, particularly those
-whose Gross Household Income (GHI) is equal or below $3,000 or Per Capita
-Income (PCI)# is equal or below $750.&nbsp;</p>
+whose Gross Household Income (GHI) is equal or below $4,000 or Per Capita
+Income (PCI)# is equal or below $1000.&nbsp;</p>
 <p>For more details on financial assistance, please approach the school.&nbsp;</p>
 <p><strong>Funding Support for Non-Singapore Citizen Students</strong> 
 <br>Permanent residents (PR) and international students (IS) who need support
 could apply for subsidies, particularly those whose Gross Household Income
-(GHI) is below $4000 or Per Capita Income (PCI)# is below $1000.&nbsp;</p>
+(GHI) is below $5500 or Per Capita Income (PCI)# is below $1375.&nbsp;</p>
 <p>For more details, please approach the school.</p>
 <p><strong>12 . My child is a Singaporean Citizen. How much do we have to pay for the device?</strong>
 </p>
