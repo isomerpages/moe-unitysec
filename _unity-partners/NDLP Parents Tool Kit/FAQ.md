@@ -9,9 +9,7 @@ third_nav_title: NDLP Parents Tool Kit
 <p>This page contains the frequently asked questions by parents.
 <br>Do email to :&nbsp;<a href="mailto:admin_unity_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Unity ICT Admin</a>&nbsp;for any
 enquiries.</p>
-<p>For more information, you may refer to the PDLP Student Device Information
-Kit <a href="/files/Student_Device_Information_Kit_2025__updated_14Feb25_.pdf" rel="noopener nofollow" target="_blank">here.</a>
-</p>
+<p></p>
 <p><strong>Contents</strong>
 </p>
 <ul data-tight="true" class="tight">
