@@ -16,5 +16,4 @@ variant: tiptap
 <p><a href="/files/12%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to view</a>
 </p>
 <h4></h4>
-<p><a href="https://drive.google.com/file/d/15Qv3EfGzCyMgaXoRPOjIYgoxcwckl2Vx/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">4) DMA Parent Guide - Option A</a>
-</p>
+<p></p>
