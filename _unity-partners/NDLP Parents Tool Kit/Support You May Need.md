@@ -15,5 +15,9 @@ variant: tiptap
 </p>
 <p><a href="/files/12%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to view</a>
 </p>
-<h4></h4>
+<h4>DMA Parent Options</h4>
+<p><a href="/files/ChromeOS_DMA_Parent_Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide for Default Option</a>
+</p>
+<p><a href="/files/ChromeOS_DMA_Parent_Option_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide for Option A</a>
+</p>
 <p></p>
