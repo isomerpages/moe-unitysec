@@ -49,15 +49,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Andrew Mathias Lim You Shun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:andrew_lim_you_shun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">andrew_lim_you_shun@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Christina Choo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,15 +107,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_hidayah_bohari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_bohari@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Syazwani Binte Nordin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_syazwani_nordin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_syazwani_nordin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
