@@ -9,6 +9,8 @@ variant: tiptap
 <p>Dear parents, here are some useful resources for you to support your child
 in their learning.&nbsp;
 <br>You may click on the links below to access the resources.</p>
+<p></p>
+<h4><a href="/files/Parent_Engagement_Deck_2026_School_Website.pdf" rel="noopener nofollow" target="_blank">Parent Engagement Deck 2026</a></h4>
 <h4>Cyber Wellness@Home &amp; Learning with a Personal Learning Device</h4>
 <p><strong><a href="/ndlp-at-unity/Parents-Tool-Kit/ld/" rel="noopener noreferrer nofollow" target="_blank">Learning Device</a></strong>
 </p>
@@ -52,3 +54,4 @@ habits at home?</p>
 </p>
 <p>How should I access resources to support my child in this digital learning
 journey?</p>
+<p></p>
