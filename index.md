@@ -22,12 +22,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 4N Post Results Briefing
+        - title: Assessment Plan Overviews
           date: 19 December 2025
-          announcement: Dear Sec 4N Graduates, you may refer to the briefing slides
-            presented on 18th December 2025
+          announcement: "Dear Students, you may access the Assessment Plan Overviews for
+            Semester 1 below:"
           link_text: Click here
-          link_url: https://www.unitysec.moe.edu.sg/4n-post-results-briefing-2025/
+          link_url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
         - title: Sec 1 Registration
           date: 18 December 2025
           announcement: "Dear Parents, you may refer to the Information for Sec 1
