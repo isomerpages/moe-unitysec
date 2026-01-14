@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - S2 Subject Offering Exercise.md
       - Sec 4 Parents' Briefing Slides.md
       - Sec 3 Parents' Briefing Slides.md
       - Sec 2 Parents' Briefing Slides.md
