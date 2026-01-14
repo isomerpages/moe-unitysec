@@ -505,7 +505,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muhammad Arshad Bin Jumah</p>
+<p>Mr Muhammad Arshad Bin Jumah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_arshad_jumah@schools.gov.sg" rel="noopener nofollow" target="_blank">muhammad_arshad_jumah@schools.gov.sg</a>
