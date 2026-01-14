@@ -612,6 +612,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Hor I Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hor_i_wei@schools.gov.sg" rel="noopener nofollow" target="_blank">hor_i_wei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Chan Chin Choon, Vincent</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -845,6 +854,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Yu Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yu_peng@schools.gov.sg" rel="noopener nofollow" target="_blank">yu_peng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -902,6 +920,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hon_tin_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hon_tin_hong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Diana Timotijevic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:diana_timotijevic@schools.gov.sg" rel="noopener nofollow" target="_blank">diana_timotijevic@schools.gov.sg</a>
 </p>
 </td>
 </tr>
