@@ -43,8 +43,10 @@ variant: tiptap
 <p>NCC (Air)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday: 4-6pm (Upper Sec) Friday: 7.30am - 12.30pm</p>
-<p>Friday: 2.30 -5.30pm (PDS)</p>
+<p>Wednesday: 4-6pm (Upper Sec)
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)
+<br>Friday: 2.30 -5.45pm (PDS)</p>
 </td>
 </tr>
 <tr>
@@ -55,8 +57,9 @@ variant: tiptap
 <p>NPCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday: 4-6pm
-<br>Friday: 7.30am - 12.30pm</p>
+<p>Wednesday: 4-6pm (ad hoc)
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)</p>
 </td>
 </tr>
 <tr>
@@ -67,8 +70,9 @@ variant: tiptap
 <p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday: 7.30am - 12.30pm
-<br>Friday: 2.00pm - 5.30pm</p>
+<p>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)
+<br>Friday: 1.30pm - 5.30pm</p>
 </td>
 </tr>
 <tr>
@@ -79,8 +83,9 @@ variant: tiptap
 <p>Boys' and Girls' Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday: 7.30am - 12.30pm
-<br>Friday: 2:30pm- 5:30pm</p>
+<p>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)
+<br>Friday: 2:30pm-5:30pm</p>
 </td>
 </tr>
 <tr>
@@ -101,10 +106,11 @@ variant: tiptap
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday: 4- 6pm
-<br>Wednesday: 4- 6pm
-<br>Friday: 7.30am - 12.30pm
-<br>Friday: 2.30- 430pm</p>
+<p>Monday: 4-6pm
+<br>Wednesday: 4-6pm
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)
+<br>Friday: 2.30-430pm</p>
 </td>
 </tr>
 <tr>
@@ -115,8 +121,9 @@ variant: tiptap
 <p>Track &amp; Field</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday: 4- 6pm
-<br>Friday: 7.30am- 12.30pm</p>
+<p>Monday : 4pm -6pm
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)</p>
 </td>
 </tr>
 <tr>
@@ -127,10 +134,11 @@ variant: tiptap
 <p>Table Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday: 4- 6pm
-<br>(For school team to prepare for competition)
-<br>Friday: 7.30am- 12.30pm
-<br>1.30pm- 5.30pm</p>
+<p>Monday: 3.30-5.30pm (For NSG players during NSG season only)
+<br>Wednesday: 4-6pm (For all CCA members)
+<br>Friday : 7.30am - 12.30pm (For all CCA members)
+<br>(Inclusive of recess and CCE lesson)
+<br>Friday: 2.30-430pm (For NSG players during NSG season only)</p>
 </td>
 </tr>
 <tr>
@@ -141,9 +149,9 @@ variant: tiptap
 <p>Volleyball (Girls only)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday: 3.30pm- 5.30pm
-<br>Friday: 7.30am- 12.30pm
-<br>Friday: 1pm- 3.30pm</p>
+<p>Monday: 2.30pm - 5.30pm
+<br>Friday : 7.30am - 2.30pm
+<br>(Inclusive of recess and CCE lesson)</p>
 </td>
 </tr>
 <tr>
@@ -154,9 +162,9 @@ variant: tiptap
 <p>Football (Boys only)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday: 3- 5pm</p>
-<p>Wednesday: 3- 5pm
-<br>Friday: 7.30am- 12.30pm</p>
+<p>Monday: 4pm - 6pm Wednesday: 4pm-6pm
+<br>Friday : 7.30am - 12.30pm
+<br>(Inclusive of recess and CCE lesson)</p>
 </td>
 </tr>
 <tr>
