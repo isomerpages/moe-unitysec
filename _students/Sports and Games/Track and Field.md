@@ -30,7 +30,7 @@ variant: tiptap
 <p>Sec 1 Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen Cui Xia</p>
+<p>Mdm Suhaila Binte Mohamed Noor</p>
 </td>
 </tr>
 <tr>
