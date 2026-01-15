@@ -3,7 +3,6 @@ title: 4N Post Results Briefing 2025
 permalink: /4n-post-results-briefing-2025/
 variant: tiptap
 description: ""
-third_nav_title: Students' Resources
 ---
 <p>Dear Sec 4N students, please refer to the links below for the briefing
 conducted on 18th December 2025:</p>
