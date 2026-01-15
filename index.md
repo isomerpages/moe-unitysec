@@ -28,12 +28,12 @@ sections:
             Semester 1 below:"
           link_text: Click here
           link_url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
-        - title: Sec 1 Registration
-          date: 18 December 2025
-          announcement: "Dear Parents, you may refer to the Information for Sec 1
-            Registration below:"
+        - title: Post GCE O Lvl Briefing
+          date: 15 January 2026
+          announcement: "Dear Graduates, you may refer to the Post GCE-O Level Briefing
+            Slides that was presented on 14th January below:"
           link_text: Click here
-          link_url: https://www.unitysec.moe.edu.sg/sec-1-registration-2026/information/
+          link_url: https://www.unitysec.moe.edu.sg/4e5n-post-exam-briefing/
   - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
       id: infopic
