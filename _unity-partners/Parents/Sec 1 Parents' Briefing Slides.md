@@ -14,7 +14,7 @@ on <strong>9th January 2026</strong> below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/2__USS__Principal_s_Address_for_Sec_1_Parent_Briefing.pdf" rel="noopener nofollow" target="_blank">Principal's Address </a>
+<p><a href="/files/2__USS__Principal_s_Address_for_Sec_1_Parent_Briefing__Website_updated_2.pdf" rel="noopener nofollow" target="_blank">Principal's Address</a>
 </p>
 </li>
 <li>
