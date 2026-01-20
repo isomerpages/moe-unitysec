@@ -742,4 +742,89 @@ negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family, and the importance of responsible
 decision-making and seeking help. Abstinence and upholding family values
 are the key messages.</p>
-<p></p>
+<h4><strong>At UNITY SECONDARY SCHOOL, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Topics/Lessons</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme Learning Objectives</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+<p><strong>(e.g. Term 3 Week 9)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mass Talk delivered through a pre-recorded video</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide
+knowledge on:</p>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact</p>
+<p>&nbsp;</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p>&nbsp;</p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Term 3 Week 1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Classroom-based Lesson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way
+out of a risky situation by applying skills of assertiveness and responsible
+decision-making</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Term 3 Week 1</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Information for Parents</strong></h4>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the
+Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
+education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
+of the <strong>Sexuality Education lessons</strong> need to complete an opt-out
+form. This form will be communicated to parents at the start of the year
+through Parents’ Gateway and is also available <u>here</u> (please upload
+parents opt-out form found in <strong>Annex</strong>  <strong>A</strong> and
+insert a hyperlink for parents to access the form). The completed form
+is to be submitted to your child’s Character Coach by <strong>30/03/2026</strong>.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out
+of the <strong><em>eTeens</em> programme</strong> need to complete an opt-out
+form. This form will be communicated to parents at the start of the year
+through Parents’ Gateway and is also available <u>here</u> (please upload
+parents opt-out form found in <strong>Annex</strong>  <strong>B</strong> and
+insert a hyperlink for parents to access the form). &nbsp;The completed
+form is to be submitted to your child’s Character Coach by <strong>30/03/2026</strong>.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 67671070
+for discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
