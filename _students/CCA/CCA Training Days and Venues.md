@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>2024 CCA Training Days and Venues Summary</strong>
+<p><strong>2026 CCA Training Days and Venues Summary</strong>
 </p>
 </td>
 </tr>
