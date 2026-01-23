@@ -66,7 +66,7 @@ members
 <p>Art Club President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ALOYSIUS LEE</p>
+<p>CHUA YAN YOU, ZAVIER</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ members
 <p>Eco-Explorers President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHUA YAN YOU, ZAVIER</p>
+<p>ALOYSIUS LEE</p>
 </td>
 </tr>
 <tr>
