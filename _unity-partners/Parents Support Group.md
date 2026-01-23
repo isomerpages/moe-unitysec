@@ -15,7 +15,7 @@ were channelled to fund the needy students.</p>
 <h4><strong>Committee Members of the Parents Support Group (PSG)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Exco_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG2026.jpg">
 </div>
 <p>Click <a href="https://forms.gle/tSM4QZVTHLpgQcUA8" rel="noopener nofollow" target="_blank">here</a> to
 join the PSG today.</p>
