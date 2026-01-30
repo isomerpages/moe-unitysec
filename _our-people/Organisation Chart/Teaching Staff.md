@@ -130,15 +130,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Mei En Charmaine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_mei_en_charmaine@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_mei_en_charmaine@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Tian Shu-En Victoria</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -496,7 +487,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Phang Siew Foong Elene</p>
+<p>Ms Phang Siew Foong Elene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: elene_phang_siew_foong@schools.gov.sg" rel="noopener nofollow" target="_blank">elene_phang_siew_foong@schools.gov.sg</a>
