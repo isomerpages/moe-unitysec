@@ -3,29 +3,119 @@ title: Speech and Drama
 permalink: /students/Performing-Arts/sd/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
-## Speech and Drama
-
-<img src="/images/uponstage.jpg" style="width:85%">
-
-| **Roles** | **Names of Teachers-in-Charge** |
-|:---:|---|
-| Lower Sec Teacher IC | Mrs Chua Wai Yi |
-| Lower Sec Teacher IC | Ms Ng Pin Leng |
-| Upper Sec Teacher IC |  Mdm Norhayati Supari (IC)|
-| Upper Sec Teacher IC |  Mr Jaya Kumar|
-|  |  |
-
-**Weekly Schedule**
-
-| **CCA Day(s)** | **Time** |
-|:---:|---|
-| Monday | 2.30pm – 5.15pm |
-| Friday | 8am- 10.30am |
-|  |  |
-
-| **CCA Description** |
-|:---:|
-| The&nbsp;_USS Up:OnStage_&nbsp;is a vibrant and tightly-knit club that aims to inculcate the love for the dramatic arts in its members through creative and impactful stage productions. Our members work together towards a common goal of attaining excellence and in the process, stronger bonds are forged as they strive to overcome various challenges as a family.  <br><br>We teach our students a variety of acting, direction and stage management skills as well as practical techniques such as voice projection and body movements that will help them evolve into confident speakers in future.  <br><br>Every year, our members put up performances for school events such as Awards Day, Teachers Day celebrations and USS Open House and serve the community through meaningful Values-In-Action activities. |
-|  |
+<h2>Speech and Drama</h2>
+<div class="isomer-image-wrapper">
+<img style="width:85%" height="auto" width="100%" src="/images/uponstage.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Overall CCA Teacher in Charge</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Norhayati Supari</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Teachers in Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yenty Ramly</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jayakumar</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Weekly Schedule</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>CCA Day(s)</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.45 -6pm (Sec 1 and Sec 4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.30-11am (All levels)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>CCA Description</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Drama CCA</strong> is a vibrant and tightly-knit community that
+seeks to inculcate a deep appreciation for the dramatic arts through creative
+and impactful stage productions. United by a shared pursuit of excellence,
+our members collaborate closely, forging strong bonds as they overcome
+challenges together and grow as one supportive family.</p>
+<p></p>
+<p>Through structured training, students are equipped with a wide range of
+skills in <strong>acting, directing, and stage management</strong>, alongside
+essential performance techniques such as <strong>voice projection, articulation, movement, and stage presence</strong>.
+These experiences nurture confidence, resilience, and effective communication
+skills that extend beyond the stage and into their everyday lives.</p>
+<p></p>
+<p>Our commitment to artistic excellence is affirmed through our performance
+at the <strong>Singapore Youth Festival (SYF)</strong>, where the Drama
+CCA attained Accomplishment, reflecting the dedication, discipline, and
+creative growth of our students.</p>
+<p>Beyond SYF, Drama CCA members actively contribute to school life by staging
+performances for key events such as <strong>Awards Day, National Day Celebrations, and Open House</strong>,
+while also giving back to the community through meaningful <strong>Values-In-Action (VIA)</strong> initiatives.
+Through these varied experiences, students develop not only as performers,
+but also as empathetic individuals and responsible leaders.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
