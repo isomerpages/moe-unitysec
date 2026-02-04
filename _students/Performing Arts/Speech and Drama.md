@@ -6,9 +6,28 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h2>Speech and Drama</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/uponstage.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DRS048_UNITY_SECONDARY_SCHOOL_03.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DRS048_UNITY_SECONDARY_SCHOOL_26.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
