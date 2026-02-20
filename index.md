@@ -27,18 +27,12 @@ sections:
           announcement: "Dear Students, you may refer to the WA1 Dates below:"
           link_text: Click here
           link_url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
-        - title: Sec 1 Briefing Slides
-          date: 19 January 2026
-          announcement: "Dear Parents of Sec One students, you may refer to the briefing
-            slides that was shared on 9th January below:"
+        - title: Sec 4 Briefing Slides
+          date: 23 January 2026
+          announcement: "Dear Parents of Sec Four students, you may refer to the briefing
+            slides that was shared on 23rd January below:"
           link_text: Click here
-          link_url: https://www.unitysec.moe.edu.sg/unity-partners/parents/sec-1-parents-briefing-slides/
-        - title: Post GCE O Lvl Briefing
-          date: 15 January 2026
-          announcement: "Dear Graduates, you may refer to the Post GCE-O Level Briefing
-            Slides that was presented on 14th January below:"
-          link_text: Click here
-          link_url: https://www.unitysec.moe.edu.sg/4e5n-post-exam-briefing/
+          link_url: https://www.unitysec.moe.edu.sg/unity-partners/parents/sec-4-parents-briefing-slides/
   - infopic:
       title: School Canteen Advertisement
       id: infopic
@@ -46,7 +40,7 @@ sections:
         application details:"
       button: Click here
       url: https://www.unitysec.moe.edu.sg/unity-partners/sch-adverts/
-      image: /images/canteen_advert.jpg
+      image: /images/canteen_advert_1503.jpg
       alt: Image alt text
   - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
