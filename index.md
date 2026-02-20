@@ -22,17 +22,17 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Sec 4 Briefing Slides
+          date: 20 February 2026
+          announcement: "Dear Parents of Sec Four students, you may refer to the briefing
+            slides that was shared on 23rd January below:"
+          link_text: Click here
+          link_url: https://www.unitysec.moe.edu.sg/unity-partners/parents/sec-4-parents-briefing-slides/
         - title: WA1
           date: 27 January 2026
           announcement: "Dear Students, you may refer to the WA1 Dates below:"
           link_text: Click here
           link_url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
-        - title: Sec 1 Briefing Slides
-          date: 19 January 2026
-          announcement: "Dear Parents of Sec One students, you may refer to the briefing
-            slides that was shared on 9th January below:"
-          link_text: Click here
-          link_url: https://www.unitysec.moe.edu.sg/unity-partners/parents/sec-1-parents-briefing-slides/
         - title: Post GCE O Lvl Briefing
           date: 15 January 2026
           announcement: "Dear Graduates, you may refer to the Post GCE-O Level Briefing
