@@ -46,7 +46,7 @@ sections:
         application details:"
       button: Click here
       url: https://www.unitysec.moe.edu.sg/unity-partners/sch-adverts/
-      image: /images/canteen_advert.jpg
+      image: /images/canteen_advert_1503.jpg
       alt: Image alt text
   - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
