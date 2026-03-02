@@ -14,8 +14,9 @@ third_nav_title: Students' Resources
 </p>
 <h3>March Holidays Intervention Programme</h3>
 <h4>Target Audience: Sec 4 &amp; 5</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Sec_4_and_5_March_Holidays_Intervention_Programme_conv_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mar_hols_intervention_schedule_updated.png">
 </div>
-<p><a href="/files/2026_Sec_4_and_5_March_Holidays_Intervention_Programme.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 March Hols Intervention Programme</a>
+<p><a href="/files/2026_Sec_4_and_5_School_Holiday_Intervention_Programme___March_Holidays_Updated_2_March_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 March Holidays Intervention Programme</a>
 </p>
