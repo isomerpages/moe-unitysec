@@ -81,7 +81,7 @@ variant: tiptap
 <p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.45 -6pm (Sec 1 and Sec 4)</p>
+<p>3.45 -6pm (For Sec 1, Sec 4/5 and non NDP participants)</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ variant: tiptap
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.30-11am (All levels)</p>
+<p>8.30 -11am (Sec 1- Sec 5)</p>
 </td>
 </tr>
 </tbody>

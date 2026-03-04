@@ -12,21 +12,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:49%" height="auto" width="100%" src="/images/19thGB-03.jpg">
 </div>
-<p>
-<br>
-<br>
-</p>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Roles</strong>
-</p>
-</th>
 <th rowspan="1" colspan="1">
 <p><strong>Names of Teachers-in-Charge</strong>
 </p>
@@ -34,26 +26,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Mok Lee Huang</p>
+<p>Mdm Yue Qun (IC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Sec Teacher IC (Sem 1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yue Qun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Upper Sec Teacher IC (Sem 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Qu Ruokun</p>
+<p>Mrs Mangaiyarkarasi Ganesh Kumar</p>
 </td>
 </tr>
 </tbody>

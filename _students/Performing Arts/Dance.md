@@ -30,12 +30,20 @@ variant: tiptap
 <p>Lower Sec Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nur Syazwani Binte Nordin</p>
+<p>Ms Phang Siew Foong Elene</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Lower Sec Teacher IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Shaikhah Binte Rajab</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jasmin Mariya d/o Madasamy</p>
@@ -46,7 +54,7 @@ variant: tiptap
 <p>Upper Sec Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Foo Wee Leng</p>
+<p>Mrs Chang-Foo Wee Leng</p>
 </td>
 </tr>
 </tbody>
