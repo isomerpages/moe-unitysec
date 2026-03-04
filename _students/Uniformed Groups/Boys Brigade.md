@@ -14,19 +14,13 @@ variant: tiptap
 </div>
 <p>
 <br>
-<br>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Roles</strong>
-</p>
-</th>
 <th rowspan="1" colspan="1">
 <p><strong>Names of Teachers-in-Charge</strong>
 </p>
@@ -34,26 +28,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Lim Yew Meng Derek (IC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Upper Sec Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Andrew Mathias Lim You Shun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Li Xu</p>
 </td>
 </tr>
 </tbody>
