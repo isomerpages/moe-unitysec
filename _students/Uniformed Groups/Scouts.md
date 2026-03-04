@@ -9,17 +9,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/Unity Scouts_2020.jpg">
 </div>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Roles</strong>
-</p>
-</th>
 <th rowspan="1" colspan="1">
 <p><strong>Names of Teachers-in-Charge</strong>
 </p>
@@ -27,34 +22,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Arab Hussain</p>
+<p>Ms Fatin Farahlyana (IC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sumitha d/o Poonia Murthy</p>
+<p>Mr Arab Hussain Jagur Hussain</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Teacher IC</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Aidashikin Bte Solikin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 4 Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Fatin Farahlyana (IC)</p>
+<p>Ms Zhang Yi Fang</p>
 </td>
 </tr>
 </tbody>
