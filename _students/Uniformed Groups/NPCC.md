@@ -16,17 +16,12 @@ variant: tiptap
 <br>
 <br>
 </p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Roles</strong>
-</p>
-</th>
 <th rowspan="1" colspan="1">
 <p><strong>Names of Teachers-in-Charge</strong>
 </p>
@@ -34,40 +29,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Teacher IC</p>
+<p>Ms Soh Jing Wen (IC)</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Darren Subramaniam (2IC)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Wong Jing Jie</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Darren Subramaniam</p>
+<p>Ms Khalaiarasi A/P Tangavellu</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Soh Jing Wen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4 Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jason Khoo Kian Ann</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
