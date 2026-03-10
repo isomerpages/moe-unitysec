@@ -56,7 +56,7 @@ festivals, performances, exhibitions, conferences and symposiums where
 the student represents the school or other organisations endorsed by the
 school.</p>
 <p>The details on the levels of attainment for each of the domains are attached
-at&nbsp;<a href="http://www.unitysec.moe.edu.sg/CCA.html#AnnexA" rel="noopener noreferrer nofollow" target="_blank">Annex A</a>.</p>
+at&nbsp;<a href="/files/LEAPS_2_0_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a>.</p>
 <p><strong>Recognition of Students’ Level of Attainment</strong>
 </p>
 <p>At the end of the graduating year, students’ co-curricular attainment
@@ -120,7 +120,7 @@ points.</p>
 </tr>
 </tbody>
 </table>
-<p>Please refer to examples in&nbsp;<a href="http://www.unitysec.moe.edu.sg/CCA.html#AnnexB" rel="noopener noreferrer nofollow" target="_blank">Annex B</a>
+<p>Please refer to examples in&nbsp;<a href="/files/LEAPS_2_0__Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B</a>
 </p>
 <p><strong>Routines and Procedures for CCA Participation</strong>
 </p>
