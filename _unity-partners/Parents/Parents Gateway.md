@@ -22,7 +22,7 @@ Parents Gateway for Parents; and
 <p>Click&nbsp;<a href="https://www.youtube.com/watch?v=EKpiTM5axNA" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view a video about Parents Gateway app.</p>
 <p>For step-by-step guide to&nbsp;<strong>Travel Declaration and Update of Particulars</strong>&nbsp;on
-Parents Gateway mobile app, please click&nbsp;<a href="https://unitysec-moe-edu-sg-admin.cwp.sg/qql/slot/u514/5.%20Unity%20Partners/C.%20Parents/Parents%20Gateway/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars%20-%208%20May%2019.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+Parents Gateway mobile app, please click&nbsp;<a href="/files/Parents_Guide_for_PG_Travel_Declaration_Update_Particulars___8_May_19.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>To safeguard our students’ data, only parents who are registered in the
 official student records in the MOE database will be able to use the mobile
 app.</p>
