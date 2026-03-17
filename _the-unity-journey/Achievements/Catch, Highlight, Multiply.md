@@ -109,8 +109,6 @@ community.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>1LEAD 2</strong>
 </p>
 <table style="minWidth: 50px">
@@ -193,10 +191,6 @@ initiative, and a desire to make a positive impact in class and beyond.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>1SERVE 3</strong>
 </p>
@@ -378,7 +372,6 @@ encourages the heart through her uplifting presence.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>1ACTUALISE 6</strong>
 </p>
 <table style="minWidth: 50px">
@@ -430,7 +423,6 @@ contributor to the engaging classroom environment</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>1INSPIRE 7</strong>
 </p>
@@ -488,11 +480,6 @@ to our school community.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>1INSPIRE 8</strong>
 </p>
 <table style="minWidth: 50px">
@@ -519,6 +506,7 @@ activities.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>2LEAD1</strong>
 </p>
 <table style="minWidth: 50px">
@@ -625,9 +613,6 @@ and his positive contribution to the school environment.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>2LEAD 2</strong>
 </p>
 <table style="minWidth: 50px">
@@ -654,8 +639,7 @@ community.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>2SERVE 3</strong>
 </p>
 <table style="minWidth: 50px">
@@ -746,8 +730,7 @@ within our school community.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>2SERVE 4</strong>
 </p>
 <table style="minWidth: 50px">
@@ -899,11 +882,7 @@ and a positive role model for her peers.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>2ACTUALISE 5</strong>
 </p>
 <table style="minWidth: 50px">
@@ -985,8 +964,7 @@ school.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>2ACTUALISE 6</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1065,8 +1043,7 @@ and a positive role model for others.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>2INSPIRE 7</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1110,9 +1087,7 @@ the value of inclusion and kindness in creating a positive school community.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>2INSPIRE 8</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1326,8 +1301,7 @@ and that of her classmates.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>3LEAD 2</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1410,8 +1384,7 @@ a trustworthy and ethical school community.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>3SERVE 3</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1458,8 +1431,7 @@ others through personal example and commitment to excellence.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>3SERVE 4</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1525,8 +1497,7 @@ valued member of the class community.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>3ACTUALISE 5</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1629,8 +1600,7 @@ engaged and responsible citizen.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>3ACTUALISE 6</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1680,8 +1650,7 @@ has the opportunity to contribute and feel valued.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>3INSPIRE 7</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1771,7 +1740,7 @@ demonstrating his courage to Challenge the Process and improve.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>3INSPIRE 8</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1870,9 +1839,7 @@ on mutual support and encouragement.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>4LEAD 2</strong>
 </p>
 <table style="minWidth: 50px">
@@ -1950,10 +1917,8 @@ thrives.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>4SERVE 3</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -2022,10 +1987,8 @@ of commitment makes him a reliable and valued member of the class community.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>4SERVE 4</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -2112,14 +2075,7 @@ even when faced with challenges.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>4 ACTUALISE 5</strong>
 </p>
 <table style="minWidth: 50px">
@@ -2213,8 +2169,7 @@ genuine concern for her teammates' well-being.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>4 ACTUALISE 6</strong>
 </p>
 <table style="minWidth: 50px">
@@ -2283,7 +2238,7 @@ to the success of the entire band programme.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>4 INSPIRE 7</strong>
 </p>
 <table style="minWidth: 50px">
@@ -2446,8 +2401,7 @@ authentic connection.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>4 INSPIRE 8</strong>
 </p>
 <table style="minWidth: 50px">
