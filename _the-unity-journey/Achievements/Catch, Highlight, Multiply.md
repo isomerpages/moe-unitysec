@@ -8,9 +8,8 @@ third_nav_title: Achievements
 <h3><strong>Catch and Highlight Multiply 2026</strong></h3>
 <h3><strong>Term 1</strong></h3>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -18,13 +17,7 @@ third_nav_title: Achievements
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/t3chm01.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/t3chm02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cch_t12026.png">
 </div>
 </th>
 </tr>
