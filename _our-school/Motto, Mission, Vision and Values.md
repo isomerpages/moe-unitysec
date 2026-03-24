@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><em>R</em>espect</strong>
+<p><strong><u>R</u>espect</strong>
 </p>
 </li>
 <li>
