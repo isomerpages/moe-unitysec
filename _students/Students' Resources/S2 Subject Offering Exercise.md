@@ -3,6 +3,7 @@ title: S2 Subject Offering Exercise
 permalink: /s2-subject-offering-exercise/
 variant: tiptap
 description: ""
+third_nav_title: Students' Resources
 ---
 <h4>Dear all, please refer to the briefing slides below for the Subject Offering Exercise:</h4>
 <p></p>
