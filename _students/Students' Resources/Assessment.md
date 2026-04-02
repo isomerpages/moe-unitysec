@@ -27,14 +27,10 @@ variant: tiptap
 </p>
 <p><a href="/files/Sec_4_and_5_Assessment_Plan_Overview_Sem_1.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Assessment Plan Overview</a>
 </p>
-<h4>WA1 Dates</h4>
-<p><a href="/files/Sec_1_WA1_Task_2_Dates.pdf" rel="noopener nofollow" target="_blank">Sec 1 Task 2</a>
+<h4>2026 MTL Preliminary Exam for Secondary 4/5</h4>
+<p><a href="/files/2026_MTL_Assessment_Plan_Overview_for_parents.pdf" rel="noopener nofollow" target="_blank">Assessment Plan Overview</a>
 </p>
-<p><a href="/files/Sec_2_WA1_Task_2_Dates.pdf" rel="noopener nofollow" target="_blank">Sec 2 Task 2</a>
-</p>
-<p><a href="/files/Sec_3_WA1_Task_2_Dates.pdf" rel="noopener nofollow" target="_blank">Sec 3 Task 2</a>
-</p>
-<p><a href="/files/Sec_4_and_5_WA1_Task_2_Dates.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Task 2</a>
+<p><a href="/files/2026_Term_2_prelim_exam_schedule_for_checking.pdf" rel="noopener nofollow" target="_blank">Prelim Schedule</a>
 </p>
 <p></p>
 <p></p>
