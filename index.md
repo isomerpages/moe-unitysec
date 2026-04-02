@@ -22,9 +22,10 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: WA1
-          date: 27 January 2026
-          announcement: "Dear Students, you may refer to the WA1 Dates below:"
+        - title: Sec 4/5 MTL Preliminary Exam
+          date: 02 April 2026
+          announcement: "Dear Parents, you may refer to the Assessment Plan and Schedule
+            for the Sec 4/5 Prelim Exams below:"
           link_text: Click here
           link_url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
         - title: Sec 4 Briefing Slides
