@@ -27,6 +27,13 @@ variant: tiptap
 </p>
 <p><a href="/files/Sec_4_and_5_Assessment_Plan_Overview_Sem_1.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Assessment Plan Overview</a>
 </p>
+<p></p>
+<h4>Term 2 WA for Sec 4E and 5N</h4>
+<p><a href="/files/2026_Term_2_Updated_Assessment_Plan_Overview_Sec_4_5_USS_website.pdf" rel="noopener nofollow" target="_blank">2026 Term 2 Updated Assessment Plan Overview</a>
+</p>
+<p><a href="/files/USS_Term_2_WA_Schedule__Sec_4E_NA_NT_and_5N_PG_Letter_USS_website.pdf" rel="noopener nofollow" target="_blank">Term 2 WA Schedule Sec 4E NA NT and 5N PG Letter</a>
+</p>
+<p></p>
 <h4>2026 MTL Preliminary Exam for Secondary 4/5</h4>
 <p><a href="/files/2026_MTL_Assessment_Plan_Overview_for_parents.pdf" rel="noopener nofollow" target="_blank">Assessment Plan Overview</a>
 </p>
