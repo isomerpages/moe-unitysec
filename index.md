@@ -28,21 +28,12 @@ sections:
             for the Sec 4/5 Prelim Exams below:"
           link_text: Click here
           link_url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
-        - title: Sec 4 Briefing Slides
-          date: 23 January 2026
-          announcement: "Dear Parents of Sec Four students, you may refer to the briefing
-            slides that was shared on 23rd January below:"
+        - title: Weighted Assessment
+          date: 08 April 2026
+          announcement: "Dear all, the Term 2 Weighted Assessment (WA) and updated
+            Assessment Plans can be found in the link below:"
           link_text: Click here
-          link_url: https://www.unitysec.moe.edu.sg/unity-partners/parents/sec-4-parents-briefing-slides/
-  - infopic:
-      title: School Canteen Advertisement
-      id: infopic
-      description: "Please click on the link below for more information and
-        application details:"
-      button: Click here
-      url: https://www.unitysec.moe.edu.sg/unity-partners/sch-adverts/
-      image: /images/canteen_advert_1503.jpg
-      alt: Image alt text
+          link_url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
   - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
       id: infopic
