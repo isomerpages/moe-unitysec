@@ -36,10 +36,13 @@ variant: tiptap
 </p>
 <p><a href="/files/2026_WA2_Task_2_Dates_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">Schedule for Sec 4 and 5</a>
 </p>
+<p><a href="/files/2026_WA2_Task_2_Dates_Sec_4_and_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5 Parent Letter for WA</a>
+</p>
 <h4>2026 <strong>MTL Preliminary Exam</strong> for Secondary 4/5</h4>
 <p><a href="/files/2026_MTL_Assessment_Plan_Overview_for_parents.pdf" rel="noopener nofollow" target="_blank">Assessment Plan Overview</a>
 </p>
 <p><a href="/files/2026_Term_2_prelim_exam_schedule_for_checking.pdf" rel="noopener nofollow" target="_blank">Prelim Schedule for EL and MTL</a>
 </p>
+<p></p>
 <p></p>
 <p></p>
