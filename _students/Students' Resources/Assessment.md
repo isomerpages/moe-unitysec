@@ -19,7 +19,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/USS_Sec_1_Assessment_Policy_and_Semester_1_Assessment_Schedule__1_3__conv_3.jpg">
 </div>
 <h4>Dear Students, please click on the respective Assessment Plan Overviews (2026 Semester 1) below:</h4>
-<p><a href="/files/2026_Term_2_Updated_Assessment_Plan_Overview_Sec_1_USS_website.pdf" rel="noopener nofollow" target="_blank">Sec 1 Assessment Plan Overview</a>
+<p><a href="/files/2026_Term_2_Updated_Assessment_Plan_Overview_Sec_1_USS_website_100426.pdf" rel="noopener nofollow" target="_blank">Sec 1 Assessment Plan Overview (updated 10.4.26)</a>
 </p>
 <p><a href="/files/2026_Term_2_Updated_Assessment_Plan_Overview_Sec_2_USS_website.pdf" rel="noopener nofollow" target="_blank">Sec 2 Assessment Plan Overview</a>
 </p>
@@ -35,6 +35,13 @@ variant: tiptap
 <p><a href="/files/2026_WA2_Task_2_Dates_Sec_3.pdf" rel="noopener nofollow" target="_blank">Schedule for Sec 3</a>
 </p>
 <p><a href="/files/2026_WA2_Task_2_Dates_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">Schedule for Sec 4 and 5</a>
+</p>
+<p></p>
+<p><a href="/files/USS_Term_2_WA_Schedule__Sec_1_G3_G2_G1_PG_Letter_USS_website.pdf" rel="noopener nofollow" target="_blank">Sec 1 Parent Letter for WA</a>
+</p>
+<p><a href="/files/USS_Term_2_WA_Schedule__Sec_1_G3_G2_G1_PG_Letter_USS_website.pdf" rel="noopener nofollow" target="_blank">Sec 2 Parent Letter for WA</a>
+</p>
+<p><a href="/files/USS_Term_2_WA_Schedule__Sec_3_G3_G2_G1_PG_Letter_USS_website.pdf" rel="noopener nofollow" target="_blank">Sec 3 Parent Letter for WA</a>
 </p>
 <p><a href="/files/2026_WA2_Task_2_Dates_Sec_4_and_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5 Parent Letter for WA</a>
 </p>
