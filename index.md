@@ -34,6 +34,12 @@ sections:
             Assessment Plans can be found in the link below:"
           link_text: Click here
           link_url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
+        - title: Sec 2 Parents' Briefing Slides
+          date: 13 April 2026
+          announcement: "Dear Sec 2 Parents, you may access the briefing slides that was
+            shared on 27th March 2026 below:"
+          link_text: Click here
+          link_url: https://www.unitysec.moe.edu.sg/sec-2-parents-briefing-slides/
   - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
       id: infopic
