@@ -22,16 +22,28 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Sec 4/5 MTL Preliminary Exam
-          date: 02 April 2026
-          announcement: "Dear Parents, you may refer to the Assessment Plan and Schedule
-            for the Sec 4/5 Prelim Exams below:"
+        - title: Sec 2 Parents' Briefing Slides
+          date: 13 April 2026
+          announcement: "Dear Sec 2 Parents, you may access the briefing slides that was
+            shared on 27th March 2026 below:"
           link_text: Click here
-          link_url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
+          link_url: https://www.unitysec.moe.edu.sg/sec-2-parents-briefing-slides/
+        - title: Sec 3 Parents' Briefing Slides
+          date: 13 April 2026
+          announcement: "Dear Sec 3 Parents, you may access the briefing slides that was
+            shared on 27th March 2026 below:"
+          link_text: Click here
+          link_url: https://www.unitysec.moe.edu.sg/unity-partners/parents/sec-3-parents-briefing-slides/
         - title: Weighted Assessment
           date: 08 April 2026
           announcement: "Dear all, the Term 2 Weighted Assessment (WA) and updated
             Assessment Plans can be found in the link below:"
+          link_text: Click here
+          link_url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
+        - title: Sec 4/5 MTL Preliminary Exam
+          date: 02 April 2026
+          announcement: "Dear Parents, you may refer to the Assessment Plan and Schedule
+            for the Sec 4/5 Prelim Exams below:"
           link_text: Click here
           link_url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
   - infopic:
