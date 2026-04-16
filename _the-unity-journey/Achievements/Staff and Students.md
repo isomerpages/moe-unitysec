@@ -6,6 +6,105 @@ third_nav_title: Achievements
 variant: tiptap
 ---
 <h2>Achievements</h2>
+<h4>YEAR 2026 - STUDENTS' ACHIEVEMENTS</h4>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Student</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MIXED-CCA FORM CLASS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Competition</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Level (Cluster, Zonal, National, International)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choe Cheng You</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4L2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Khoo Yi Kai Irven</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4L2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge + Valedictorian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Razeq Bin Mohd Rashed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4L2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>YEAR 2025 - STUDENTS' ACHIEVEMENTS</h4>
 <p></p>
 <p></p>
