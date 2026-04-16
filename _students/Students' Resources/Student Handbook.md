@@ -6,6 +6,6 @@ third_nav_title: Students' Resources
 variant: tiptap
 ---
 <h2>Student Handbook</h2>
-<h4>Student Handbook for Unitians (updated on 26th Mar)</h4>
+<h4>Student Handbook for Unitians (updated on 16th April)</h4>
 <p>Dear students, please download the student handbook <a href="/files/Student_eHandbook_2026__for_edits__updated_16_Apr.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
