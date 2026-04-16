@@ -6,6 +6,120 @@ variant: tiptap
 third_nav_title: Achievements
 ---
 <h2>CCA Achievements</h2>
+<h4>YEAR 2026 - CCA ACHIEVEMENTS</h4>
+<p><strong>Nationals</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Table Tennis ‘B’ Div Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>West Zone</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball ‘B’ Div Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball ‘B’ Div Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Table Tennis ‘B’ Div Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Table Tennis ‘B’ Div Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Uniformed Group (Unit Award)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girls’ Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC (Air)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Others</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCC (Air)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annual PDS Competition 2026 (Champion in Air district)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>YEAR 2025 - CCA ACHIEVEMENTS</h4>
 <table style="minWidth: 50px">
 <colgroup>
