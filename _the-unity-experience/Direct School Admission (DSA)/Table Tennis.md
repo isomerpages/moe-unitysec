@@ -7,6 +7,7 @@ variant: tiptap
 ---
 <h1>Table Tennis</h1>
 <h3>Direct School Admission (DSA)<br>Actualising Sportsmanship Through Table Tennis Programme</h3>
+<h4></h4>
 <h4><strong>Background</strong></h4>
 <p>The DSA-Sec Exercise was first introduced in 2004 as part of MOE's move
 towards a more flexible and broad-based education system. Under the DSA-Sec
@@ -14,9 +15,10 @@ Exercise, participating secondary schools will be able to select a percentage
 of their students for admission outside of the centralised posting system,
 through their own selection criteria. These criteria can include diverse
 academic and non-academic achievements and talents.</p>
-<p>Unity Secondary School will be offering up to 20% of the Secondary One
-places to students with talent in table tennis, to build on our niche area
-in table tennis.</p>
+<p>With the tweak in the DSA-Sec-Exercise for 2018 whereby all schools can
+offer up to 20% of the Secondary One places to students, Unity Secondary
+School, with the years of experience, is well-equipped with the expertise
+to maximise the potential of this larger pool of talent.</p>
 <h4><strong>School Vision</strong>&nbsp;</h4>
 <p>Our vision is to nurture students to Lifelong Learners, Inspiring Leaders.
 We believe that sports provide a platform to equip our students with the
@@ -25,30 +27,23 @@ develop the child leadership qualities.</p>
 <h4><strong>Achievements</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Consistent improvement in performance for B Division Girls in National
-School Games (NSG)</p>
+<p>Consistent improvement in performance for B &amp; C Division Girls and
+C Division Boys in National School Games (NSG).</p>
 </li>
 <li>
 <p>Unity Secondary School’s Table Tennis CCA provides a conducive environment
 for our players to develop character and to achieve excellence.</p>
 </li>
 </ul>
-<table style="minWidth: 150px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
-<col>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="3">
 <p><strong>Table Tennis</strong>
 </p>
 </td>
@@ -58,113 +53,88 @@ for our players to develop character and to achieve excellence.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>C Div <br>(under 14)</strong>
+<p><strong>C Div<br>&nbsp;(under 14)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
-<p><strong>B Div <br>(under 17)</strong>
+<td rowspan="1" colspan="1">
+<p><strong>B Div<br>&nbsp;(under 17)</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><em>&nbsp;</em>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><em>Year</em>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><em>Zonal</em>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><em>Zonal</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Top 4 (Girls)</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Top 3(Girls)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>-</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Top 4(Girls)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Both our C boys and C girls achieved Top 4 in NSG tier 2 (Pool stage)</p>
 <p>Promoted to tier 1 (League stage) and emerged as one of the Top 16 teams
 in the NSG Finals.</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Top 4(Girls)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>2025</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Both our C boys and C girls achieved Top 4 in NSG tier 2 (Pool stage)</p>
 <p>Promoted to tier 1 (League stage) and emerged as one of the Top 12 teams
 in the NSG Finals.</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Top 3(Girls)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
+<p>Still in Progress</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Top 3 (Girls) in West Zone</p>
+<p>Top 4 (Boys) in West Zone</p>
+<p>Top 8 (Girls) in National Round</p>
 </td>
 </tr>
 </tbody>
@@ -219,7 +189,7 @@ records.</p>
 <h4><strong>Application Procedure</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_application_timeline.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vball_dsa_26.png">
 </div>
 <p></p>
 <ol data-tight="true" class="tight">
@@ -231,9 +201,9 @@ is free-of-charge and will be open in May.</p>
 </li>
 </ol>
 <p>2. If you are unable to apply online, approach your child's primary school
-for assistance. <strong>Closing date</strong> for DSA application:&nbsp; <strong><u>3rd June 2025, 3pm</u></strong>.</p>
+for assistance. <strong>Closing date</strong> for DSA application:&nbsp; <strong><u>2nd June 2026</u></strong>.</p>
 <p>All applicants will be notified of the outcome of their application via
-post by <strong>25 Aug - 4 Sep 2025</strong>..</p>
+post by <strong>17 Aug - 28 Aug 2026</strong>.</p>
 <p><strong>Note: <br></strong> Other applicants not studying in MOE mainstream
 primary schools. They need to apply for a Registration Number (RGxxxxxxx)
 to access the DSA-Sec Portal. Schools may refer them to MOE website at:
