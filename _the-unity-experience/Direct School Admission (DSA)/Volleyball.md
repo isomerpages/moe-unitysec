@@ -145,7 +145,7 @@ for DSA-Sec can be submitted through the online DSA-Sec Portal. The application
 is free-of-charge and will be open in May.</p>
 <p>For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p>2. If you are unable to apply online, approach your child's primary school
-for assistance. <strong>Closing date</strong> for DSA application:&nbsp;<strong><u> 2 June 2026</u></strong>
+for assistance. <strong>Closing date</strong> for DSA application:&nbsp;<strong><u> 2nd June 2026</u></strong>
 </p>
 <p>All applicants will be notified of the outcome of their application via
 email and post by <strong>17 Aug - 28 Aug 2026</strong>.</p>
