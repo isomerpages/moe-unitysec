@@ -47,6 +47,15 @@ sections:
           link_text: Click here
           link_url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
   - infopic:
+      title: DSA e-Open House
+      id: infopic
+      description: Dear Parents, please scan the QR Code by 15 May 2026. You may also
+        click on the link below to sign up.
+      button: Register here
+      url: https://go.gov.sg/ussdsaopenhouse
+      image: /images/dsa_open_house_2026.jpg
+      alt: Image alt text
+  - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
       id: infopic
       description: Unity Secondary School is proud to give back to Yew Tee through
