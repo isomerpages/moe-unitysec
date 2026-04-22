@@ -258,10 +258,33 @@ the programme despite our school’s short history.</p>
 <p>Top 16</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Not applicable</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Not applicable</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><em>* in selected years</em>
-</p>
+<p>* in selected years</p>
+<p>&nbsp;</p>
 <p>Based on the new NSG format:</p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -313,13 +336,12 @@ the programme despite our school’s short history.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>League 2</p>
-<p>Top 16</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not applicable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 1 Top 16</p>
+<p>League 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not applicable</p>
@@ -330,13 +352,30 @@ the programme despite our school’s short history.</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 2 Top 16</p>
+<p>League 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not applicable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>League 1 Top 8</p>
+<p>League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 1 ongoing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not applicable</p>
@@ -344,8 +383,8 @@ the programme despite our school’s short history.</p>
 </tr>
 </tbody>
 </table>
-<p><em>* in selected years</em>
-</p>
+<p>* in selected years</p>
+<p></p>
 <p></p>
 <p>Over the past few years, Unity has produced many outstanding players who
 went on to represent Singapore Schools as well as Singapore at youth, national
@@ -488,17 +527,17 @@ of years in the school.</p>
 <h4><strong>Application Procedure</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_application_timeline.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vball_dsa_26.png">
 </div>
 <p>1) Parents can log in to the DSA-Sec portal with SingPass to apply. Application
 for DSA-Sec can be submitted through the online DSA-Sec Portal. The application
 is free-of-charge and will be open in May.</p>
 <p>For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p>2) If you are unable to apply online, approach your child's primary school
-for assistance. <strong>Closing date</strong> for DSA application:&nbsp; <strong><u>3rd June 2025, 3pm</u>.</strong>
+for assistance. <strong>Closing date</strong> for DSA application:&nbsp; <strong><u>2nd June 2026</u>.</strong>
 </p>
 <p>All applicants will be notified of the outcome of their application via
-post by <strong>25 Aug - 4 Sep 2025</strong>.</p>
+post by <strong>17 Aug - 28 Aug 2026</strong>.</p>
 <p><strong>Note:<br></strong> Other applicants not studying in MOE mainstream
 primary schools. They need to apply for a Registration Number (RGxxxxxxx)
 to access the DSA-Sec Portal. Schools may refer them to MOE website at:

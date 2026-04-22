@@ -27,7 +27,6 @@ develop the child's leadership qualities.</p>
 <p>The table below summarises our basketball achievements which affirms the
 effective structures and processes that we have put in place within the
 programme despite our school’s short history.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -77,7 +76,7 @@ programme despite our school’s short history.</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be played in June/July</p>
+<p>Tier 2 League 2<sup>nd</sup> runners up</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Top 8</p>
@@ -139,16 +138,17 @@ of years in the school.
 <h3>Application Procedure</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_application_timeline.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vball_dsa_26.png">
 </div>
 <p>1. Parents can log in to the DSA-Sec portal with SingPass to apply. Application
 for DSA-Sec can be submitted through the online DSA-Sec Portal. The application
 is free-of-charge and will be open in May.</p>
 <p>For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p>2. If you are unable to apply online, approach your child's primary school
-for assistance. <strong>Closing date</strong> for DSA application:&nbsp;<strong><u> 3 June 2025, 3pm</u></strong>.</p>
+for assistance. <strong>Closing date</strong> for DSA application:&nbsp;<strong><u> 2nd June 2026</u></strong>
+</p>
 <p>All applicants will be notified of the outcome of their application via
-email and post by <strong>25 Aug - 4 Sep 2025</strong>.</p>
+email and post by <strong>17 Aug - 28 Aug 2026</strong>.</p>
 <p></p>
 <p><strong>Note:<br></strong> Other applicants not studying in MOE mainstream
 primary schools. They need to apply for a Registration Number (RGxxxxxxx)
