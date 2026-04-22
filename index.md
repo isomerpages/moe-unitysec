@@ -49,10 +49,11 @@ sections:
   - infopic:
       title: DSA e-Open House
       id: infopic
-      description: Dear Parents, please scan the QR Code by 15 May 2026. You may also
-        click on the link below to sign up.
-      button: Register here
-      url: https://go.gov.sg/ussdsaopenhouse
+      description: "Dear Parents, please scan the QR Code by 15 May 2026 to register.
+        You may also click on the link below to find out more about the various
+        CCAs:"
+      button: click here
+      url: https://www.unitysec.moe.edu.sg/the-unity-experience/direct-school-admission-dsa/dsa-open-house-2026/
       image: /images/dsa_open_house_2026.jpg
       alt: Image alt text
   - infopic:
