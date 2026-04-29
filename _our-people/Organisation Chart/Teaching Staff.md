@@ -151,7 +151,7 @@ variant: tiptap
 <p>Mr Muhammad Izzuddin Bin Mawar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_izzuddin_mawar_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_izzuddin_mawar_a@moe.edu.sg</a>
+<p><a href="mailto:muhammad_izzuddin_mawar_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_izzuddin_mawar_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -241,6 +241,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hamidatulamaliah_md_jamil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamidatulamaliah_md_jamil@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Lee Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_lee_choo_a@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_lee_choo_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Wendy Hia Lan Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wendy_hia_lan_ching_b@moe.edu.sg" rel="noopener nofollow" target="_blank">wendy_hia_lan_ching_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -938,6 +956,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hon_tin_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hon_tin_hong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Swee Aun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_swee_aun_b@moe.edu.sg" rel="noopener nofollow" target="_blank">ang_swee_aun_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
