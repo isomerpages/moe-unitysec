@@ -66,4 +66,13 @@ sections:
       url: https://www.unitysec.moe.edu.sg/school-awards/
       image: /images/PA_Community_Spirit_Award_2025.jpg
       alt: Image alt text
+  - infopic:
+      title: School Canteen Advertisement
+      id: infopic
+      description: "Do click on the link below to find out more on the application
+        procedure:"
+      button: click here
+      url: https://www.unitysec.moe.edu.sg/unity-partners/sch-adverts/
+      image: /images/canteen_advert_2904.jpg
+      alt: Image alt text
 ---
