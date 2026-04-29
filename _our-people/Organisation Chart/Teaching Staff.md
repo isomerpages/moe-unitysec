@@ -121,6 +121,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Nur Syazwani Binte Nordin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_syazwani_nordin@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_syazwani_nordin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Ho Chong Mun Frederick</p>
 </td>
 <td rowspan="1" colspan="1">
