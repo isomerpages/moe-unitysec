@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>Uniform Groups</strong></h3>
+<h3><strong>Uniformed Groups</strong></h3>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -49,21 +49,21 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Uniformed-Groups/bb/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Boys_Brigade.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Uniformed-Groups/bb/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/BB_EDITED1.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Uniformed-Groups/gb/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Girls_Brigade.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Uniformed-Groups/gb/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB_EDITED.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Uniformed-Groups/ncc/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NCC_Air.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Uniformed-Groups/ncc/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NCC_AIR_EDITED.png"></a>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Uniformed-Groups/npcc/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NPCC.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Uniformed-Groups/npcc/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NPCC_EDITED.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Uniformed-Groups/scouts/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Scouts.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.unitysec.moe.edu.sg/students/Uniformed-Groups/scouts/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SCOUTS_EDITED.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
