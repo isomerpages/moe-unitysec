@@ -8,6 +8,22 @@ variant: tiptap
 <h2>Parent’s Newsletter</h2>
 <p><strong>Click on the links below to view</strong>
 </p>
+<h5>Year 2026</h5>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><a href="https://simplebooklet.com/unitysem1newsletter2026" rel="noopener nofollow" target="_blank">Unity Sec Semester 1 Newsletter</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h5>Year 2025</h5>
 <table style="minWidth: 75px">
 <colgroup>
