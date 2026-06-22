@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Holiday Intervention Programme.md
       - 4N Post Results Briefing 2025.md
       - Talent Development Program.md
       - The Unity Story.md
