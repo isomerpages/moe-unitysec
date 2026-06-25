@@ -130,6 +130,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Year Head (Sec 4&amp;5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Kah Lin Alvin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD/Student Management and Guidance</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,7 +197,7 @@ variant: tiptap
 <p>HOD/ Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yee Kee</p>
+<p>Mdm Tan Chuen Wei Carol</p>
 </td>
 </tr>
 <tr>
@@ -222,14 +230,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Han Xiong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Asst Year Head (Sec 4&amp;5)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lee Kah Lin Alvin</p>
 </td>
 </tr>
 <tr>
