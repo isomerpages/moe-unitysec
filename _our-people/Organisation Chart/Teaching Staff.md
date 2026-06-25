@@ -836,6 +836,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Stephanie Chew Yu Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:stephanie_chew_yu_jun@moe.edu.sg" rel="noopener nofollow" target="_blank">stephanie_chew_yu_jun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Yu Peng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -902,15 +911,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hon_tin_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hon_tin_hong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ang Swee Aun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_swee_aun_b@moe.edu.sg" rel="noopener nofollow" target="_blank">ang_swee_aun_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
