@@ -58,6 +58,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tan De Wei, Harrison (SEN Officer)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_de_wei_harrison@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_de_wei_harrison@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Samatha</p>
 </td>
 <td rowspan="1" colspan="1">
