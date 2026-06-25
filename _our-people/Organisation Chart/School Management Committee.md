@@ -114,14 +114,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LT/ Learning Needs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Rohaila bte Sanusi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Year Head (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
