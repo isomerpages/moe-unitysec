@@ -40,6 +40,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Xie Huiqi Aggie (Sch Counsellor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Xie_Huiqi_Aggie_A@moe.edu.sg" rel="noopener nofollow" target="_blank">xie_huiqi_aggie_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Peter Phoa (Snr Edn &amp; Career Guidance Counsellor)</p>
 </td>
 <td rowspan="1" colspan="1">
