@@ -29,16 +29,6 @@ sections:
           link_text: Click here
           link_url: https://www.unitysec.moe.edu.sg/holiday-intervention-programme/
   - infopic:
-      title: DSA e-Open House
-      id: infopic
-      description: "Dear Parents, please scan the QR Code by 15 May 2026 to register.
-        You may also click on the link below to find out more about the various
-        CCAs:"
-      button: click here
-      url: https://www.unitysec.moe.edu.sg/the-unity-experience/direct-school-admission-dsa/dsa-open-house-2026/
-      image: /images/dsa_open_house_2026.jpg
-      alt: Image alt text
-  - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
       id: infopic
       description: Unity Secondary School is proud to give back to Yew Tee through
