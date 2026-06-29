@@ -27,29 +27,11 @@ variant: tiptap
 </p>
 <p><a href="/files/2026_Term_2_Updated_Assessment_Plan_Overview_Sec_4_5_USS_website.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Assessment Plan Overview</a>
 </p>
-<h4>Term 2 WA Task 2</h4>
-<p><a href="/files/2026_WA2_Task_2_Dates_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule for Sec 1</a>
-</p>
-<p><a href="/files/2026_WA2_Task_2_Dates_Sec_2.pdf" rel="noopener nofollow" target="_blank">Schedule for Sec 2</a>
-</p>
-<p><a href="/files/2026_WA2_Task_2_Dates_Sec_3.pdf" rel="noopener nofollow" target="_blank">Schedule for Sec 3</a>
-</p>
-<p><a href="/files/2026_WA2_Task_2_Dates_Sec_4_and_5.pdf" rel="noopener nofollow" target="_blank">Schedule for Sec 4 and 5</a>
-</p>
-<p></p>
-<p><a href="/files/USS_Term_2_WA_Schedule__Sec_1_G3_G2_G1_PG_Letter_USS_website.pdf" rel="noopener nofollow" target="_blank">Sec 1 Parent Letter for WA</a>
-</p>
-<p><a href="/files/USS_Term_2_WA_Schedule__Sec_1_G3_G2_G1_PG_Letter_USS_website.pdf" rel="noopener nofollow" target="_blank">Sec 2 Parent Letter for WA</a>
-</p>
-<p><a href="/files/USS_Term_2_WA_Schedule__Sec_3_G3_G2_G1_PG_Letter_USS_website.pdf" rel="noopener nofollow" target="_blank">Sec 3 Parent Letter for WA</a>
-</p>
-<p><a href="/files/2026_WA2_Task_2_Dates_Sec_4_and_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4/5 Parent Letter for WA</a>
-</p>
+<h4></h4>
 <h4>2026 <strong>MTL Preliminary Exam</strong> for Secondary 4/5</h4>
 <p><a href="/files/2026_MTL_Assessment_Plan_Overview_for_parents.pdf" rel="noopener nofollow" target="_blank">Assessment Plan Overview</a>
 </p>
-<p><a href="/files/2026_Term_2_prelim_exam_schedule_for_checking.pdf" rel="noopener nofollow" target="_blank">Prelim Schedule for EL and MTL</a>
-</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

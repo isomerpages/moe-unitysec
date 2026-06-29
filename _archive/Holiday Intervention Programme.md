@@ -3,7 +3,6 @@ title: Holiday Intervention Programme
 permalink: /holiday-intervention-programme/
 variant: tiptap
 description: ""
-third_nav_title: Students' Resources
 ---
 <p>Dear Sec 3 to 5 Students, you may refer to your June Holiday Intervention
 Programme here.</p>

@@ -28,31 +28,6 @@ sections:
             Intervention Programme below:"
           link_text: Click here
           link_url: https://www.unitysec.moe.edu.sg/holiday-intervention-programme/
-        - title: Sec 4/5 MTL Preliminary Exam
-          date: 02 April 2026
-          announcement: "Dear Parents, you may refer to the Assessment Plan and Schedule
-            for the Sec 4/5 Prelim Exams below:"
-          link_text: Click here
-          link_url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
-  - infopic:
-      title: DSA e-Open House
-      id: infopic
-      description: "Dear Parents, please scan the QR Code by 15 May 2026 to register.
-        You may also click on the link below to find out more about the various
-        CCAs:"
-      button: click here
-      url: https://www.unitysec.moe.edu.sg/the-unity-experience/direct-school-admission-dsa/dsa-open-house-2026/
-      image: /images/dsa_open_house_2026.jpg
-      alt: Image alt text
-  - infopic:
-      title: School Canteen Advertisement
-      id: infopic
-      description: "Do click on the link below to find out more on the application
-        procedure:"
-      button: click here
-      url: https://www.unitysec.moe.edu.sg/unity-partners/sch-adverts/
-      image: /images/canteen_advert_2904.jpg
-      alt: Image alt text
   - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
       id: infopic
