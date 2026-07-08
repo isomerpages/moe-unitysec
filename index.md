@@ -22,12 +22,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Holiday Intervention Programme
-          date: 22 May 2026
-          announcement: "Dear Sec 3 to 5 Students, you may refer to your June Holiday
-            Intervention Programme below:"
-          link_text: Click here
-          link_url: https://www.unitysec.moe.edu.sg/holiday-intervention-programme/
         - title: 4N Prelims
           date: 08 July 2026
           announcement: "Dear Sec 4N students, you may refer to your Prelim Timetable below:"
