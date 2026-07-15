@@ -22,9 +22,16 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 4N Prelims
+        - title: WA3 Dates
+          date: 15 July 2026
+          announcement: "Dear Sec 1 - 3 students, you may refer to the WA3 dates as well
+            as the Assessment Plans for Semester 2 below:"
+          link_text: Click here
+          link_url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
+        - title: 4N4E5N Prelims
           date: 08 July 2026
-          announcement: "Dear Sec 4N students, you may refer to your Prelim Timetable below:"
+          announcement: "Dear Sec 4 students, you may refer to your respective Prelim
+            Timetables below:"
           link_text: Click here
           link_url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
   - infopic:
