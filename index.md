@@ -35,6 +35,15 @@ sections:
           link_text: Click here
           link_url: https://www.unitysec.moe.edu.sg/students/Students-Resources/assessment/
   - infopic:
+      title: School Canteen
+      id: infopic
+      description: "For more information on the application process, do click on the
+        link below:"
+      button: Click here
+      url: https://www.unitysec.moe.edu.sg/unity-partners/sch-adverts/
+      image: /images/canteen_advert_2207.png
+      alt: Image alt text
+  - infopic:
       title: People’s Association Spirit Awards 2025 Merit Award
       id: infopic
       description: Unity Secondary School is proud to give back to Yew Tee through
