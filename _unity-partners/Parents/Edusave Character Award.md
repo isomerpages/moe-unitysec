@@ -19,3 +19,6 @@ nominate deserving students via this link: <a href="https://go.gov.sg/unityecha2
 <p>Please refer to the information linked below for the details of the eligibility
 criteria as well as other important information regarding the award. Thank
 you.</p>
+<p><a href="/files/ECHA_2026.pdf" rel="noopener nofollow" target="_blank">Edusave Character Award 2026</a>
+</p>
+<p></p>
