@@ -22,6 +22,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: ECHA 2026
+          date: 29 July 2026
+          announcement: "Dear Parents, Students, Coaches and Alumni, you may nominate
+            deserving Unitians for the Edusave Character Award below:"
+          link_text: Click here
+          link_url: https://unitysec.moe.edu.sg/unity-partners/parents/echa/
         - title: WA3 Dates
           date: 15 July 2026
           announcement: "Dear Sec 1 - 3 students, you may refer to the WA3 dates as well
