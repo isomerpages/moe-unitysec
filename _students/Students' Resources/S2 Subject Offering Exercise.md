@@ -16,13 +16,13 @@ third_nav_title: Students' Resources
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/6025898166.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subject_Combi_2025_G1_1.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/6025898166.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_G1.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/c0ce17edbd.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subject_Combi_2025_G2.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/d20c0ddfe8.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_G2.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/889e0df545.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Subject_Combi_2025_G3.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://heyzine.com/flip-book/1a63169444.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_G3.png"></a>
 </th>
 </tr>
 </tbody>
